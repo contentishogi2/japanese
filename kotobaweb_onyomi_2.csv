@@ -1,0 +1,719 @@
+question,answer,comment,instruction
+"線
+sample words:
+緯線
+えっくす線
+かなる線",せん,"線:line; track, route, wire
+緯線(いせん):parallel
+えっくす線(えっくすせん):X-ray
+かなる線(かなるせん):canal ray",Jouyou. JLPT : N2
+"角
+sample words:
+あじます角
+角度
+角皮",かく,"角:corner, angle; edge; angularity; harshness; horn,.
+あじます角(あじますかく):azimuth angle
+角度(かくど):angle
+角皮(かくひ):cuticle",Jouyou. JLPT : N2
+"倍
+sample words:
+げのむ倍加
+五倍
+五倍子",ばい,"倍:double, twice; times, -fold
+げのむ倍加(げのむばいか):genome doubling
+五倍(ごばい):quintuple; fivefold; five times (as much)
+五倍子(ごばいし):sumac gallnut",Jouyou. JLPT : N2
+"州
+sample words:
+亜州
+あめりか州
+華州",しゅう,"州:sandbar, shallows
+亜州(あしゅう):Asia
+あめりか州(あめりかしゅう):the Americas
+華州(かしゅう):Washington (state)",Jouyou. JLPT : N2
+"拾
+sample words:
+拾壱
+拾萬",じゅう,"拾:pick up, gather; find; set (type); go on foot
+拾壱(じゅういち):eleven; 11; jack
+拾萬(じゅうまん):hundred thousand; 100,000",Jouyou. JLPT : N2
+"秒
+sample words:
+ぜぷと秒
+ぴこ秒
+秒で",びょう,"秒:one-sixteenth of a minute (of time, latitude, deg.
+ぜぷと秒(ぜぷとびょう):zeptosecond
+ぴこ秒(ぴこびょう):picosecond
+秒で(びょうで):in an instant; right away; immediately; in a flas.",Jouyou. JLPT : N2
+"章
+sample words:
+旗章学
+権利章典
+章立て",しょう,"章:chapter; composition; poem; badge, mark, sign; de.
+旗章学(きしょうがく):vexillology
+権利章典(けんりしょうてん):Bill of Rights
+章立て(しょうだて):arrangement of chapters; dividing into chapters",Jouyou. JLPT : N2
+"筆
+sample words:
+古筆
+古筆家
+刀筆の吏",ひつ,"筆:writing brush, paintbrush; writing, drawing, pain..
+古筆(こひつ):old writing
+古筆家(こひつか):expert in old writing
+刀筆の吏(とうひつのり):minor official",Jouyou. JLPT : N2
+"農
+sample words:
+乾地農法
+農家所得
+農機具",のう,"農:agriculture; farmers
+乾地農法(かんちのうほう):dry farming
+農家所得(のうかしょとく):farm income
+農機具(のうきぐ):agricultural machinery and equipment",Jouyou. JLPT : N2
+"鉄
+sample words:
+くろむ鉄鉱
+地鉄
+鉄火打ち",てつ,"鉄:iron, steel; reddish black, iron blue
+くろむ鉄鉱(くろむてっこう):chromite
+地鉄(じてつ):ferrite
+鉄火打ち(てっかうち):gambler",Jouyou. JLPT : N2
+"階
+sample words:
+位階
+階差
+地下二階",かい,"階:stair, staircase; round; step; grade; story, floo.
+位階(いかい):court rank
+階差(かいさ):difference
+地下二階(ちかにかい):second basement level; subbasement",Jouyou. JLPT : N2
+"令
+sample words:
+威令
+家令
+司令部",れい,"令:order, command; ordinance, law, decree
+威令(いれい):authority
+家令(かれい):steward; butler
+司令部(しれいぶ):headquarters",Jouyou. JLPT : N2
+"億
+sample words:
+一億総懺悔
+一億総中流
+億しょん",おく,"億:100000000
+一億総懺悔(いちおくそうざんげ):national confession of Japanese war guilt (1945)
+一億総中流(いちおくそうちゅうりゅう):all-Japanese-are-middle-class mentality
+億しょん(おくしょん):luxury apartment; apartment worth 100 million yen.",Jouyou. JLPT : N2
+"兆
+sample words:
+卦兆
+前兆現象
+予兆",ちょう,"兆:show a signs or symptoms of. signs, omen, symptom.
+卦兆(かちょう):divination signs
+前兆現象(ぜんちょうげんしょう):premonitory phenomena; precursor; advance warning.
+予兆(よちょう):notice; sign; indication; omen",Jouyou. JLPT : N2
+"兵
+sample words:
+げりら兵
+兵器庫
+兵士",へい,"兵:soldier, private; troops, army; warfare; arms; st.
+げりら兵(げりらへい):guerrilla
+兵器庫(へいきこ):armory; armoury
+兵士(へいし):soldier",Jouyou. JLPT : N2
+"副
+sample words:
+指示副詞
+副弐
+副詞句",ふく,"副:duplicate, copy; assistant, associate
+指示副詞(しじふくし):demonstrative adverb
+副弐(ふくじ):backup; secondary (thing)
+副詞句(ふくしく):adverbial (adverb) phrase",Jouyou. JLPT : N2
+"史
+sample words:
+古史
+史家
+史学家",し,"史:history, chronicles; historian; book
+古史(こし):ancient history
+史家(しか):historian
+史学家(しがっか):historian",Jouyou. JLPT : N2
+"各
+sample words:
+各一部
+各市
+各自負担",かく,"各:each, every, either, respectively
+各一部(かくいちぶ):one copy each
+各市(かくし):every city
+各自負担(かくじふたん):each individual being responsible for the payment..",Jouyou. JLPT : N2
+"帯
+sample words:
+えねるぎ帯
+下肢帯
+価電子帯",たい,"帯:belt, sash, girdle, band; belting. wear (at the b...
+えねるぎ帯(えねるぎたい):energy band
+下肢帯(かしたい):pelvic girdle
+価電子帯(かでんしたい):valence band",Jouyou. JLPT : N2
+"札
+sample words:
+一札入れる
+貴札
+欠缺利札",さつ,"札:tag, placard; name plate; check; charm, (playing).
+一札入れる(いっさついれる):to give a signed statement or an IOU
+貴札(きさつ):your letter
+欠缺利札(けんけつりさつ):invalid coupon",Jouyou. JLPT : N2
+"案
+sample words:
+案を立てる
+図案家
+どず案",あん,"案:proposition, suggestion, plan, idea; opinion; exp.
+案を立てる(あんをたてる):to draft a proposal
+図案家(ずあんか):designer
+どず案(どずあん):Dawes Plan",Jouyou. JLPT : N2
+"極
+sample words:
+極当たり前
+極小さい
+極秘",ごく,"極:terminate; reach an extreme; be in a dilemma; inv..
+極当たり前(ごくあたりまえ):absolutely normal; perfectly commonplace; taken f.
+極小さい(ごくちいさい):very small
+極秘(ごくひ):absolute secrecy",Jouyou. JLPT : N2
+"毒
+sample words:
+お気の毒に
+毒入り
+毒消し",どく,"毒:poison; virus, venom, germ, toxin; harm, injury; .
+お気の毒に(おきのどくに):my sympathies; my condolences; that's too bad
+毒入り(どくいり):poisoned
+毒消し(どくけし):antidote",Jouyou. JLPT : N2
+"漁
+sample words:
+えび漁
+漁期
+漁師",りょう,"漁:fishing; fishery; catch, haul
+えび漁(えびりょう):shrimp fishing; shrimping
+漁期(りょうき):fishing season
+漁師(りょうし):fisherman",Jouyou. JLPT : N2
+"節
+sample words:
+節の見出し
+節を折る
+其の節",せつ,"節:joint, knuckle; knob, lump, knot; tune, melody; p.
+節の見出し(せつのみだし):section header
+節を折る(せつをおる):to betray one's principles; to compromise one's p.
+其の節(そのせつ):that time; at that time",Jouyou. JLPT : N2
+"管
+sample words:
+えこん管
+がす管
+くりっじ管",かん,"管:pipe, tube; drunken talk
+えこん管(えこんかん):acorn tube
+がす管(がすかん):gas tube; gas pipe
+くりっじ管(くりっじかん):Coolidge tube",Jouyou. JLPT : N2
+"胃
+sample words:
+胃あとに
+胃の腑
+胃部",い,"胃:stomach; paunch, crop, craw
+胃あとに(いあとに):gastric atony
+胃の腑(いのふ):stomach
+胃部(いぶ):gastric region",Jouyou. JLPT : N2
+"芸
+sample words:
+当たり芸
+がらす工芸
+芸妓",げい,"芸:art, craft; artistic accomplishment; performance,.
+当たり芸(あたりげい):successful performance
+がらす工芸(がらすこうげい):glasswork
+芸妓(げいぎ):geisha",Jouyou. JLPT : N2
+"訓
+sample words:
+異字同訓
+訓仮名
+訓詁",くん,"訓:Japanese reading (of a character); explanation of.
+異字同訓(いじどうくん):(words with) different kanji but the same Japanes.
+訓仮名(くんがな):kanji used to represent syllables, based on their.
+訓詁(くんこ):interpretation; exegesis",Jouyou. JLPT : N2
+"課
+sample words:
+課金でた
+課金れこど
+課戸",か,"課:lesson; section, department; allotment, division
+課金でた(かきんでた):billing data
+課金れこど(かきんれこど):billing record
+課戸(かこ):household with at least one member subject to tax.",Jouyou. JLPT : N2
+"象
+sample words:
+あじあ象
+小象
+象牙",ぞう,"象:image; shape; sign (of the times). elephant
+あじあ象(あじあぞう):Indian elephant; Asian elephant
+小象(こぞう):young elephant; baby elephant
+象牙(ぞうげ):ivory",Jouyou. JLPT : N2
+"象
+sample words:
+仮象
+気象れだ
+矩象",しょう,"象:image; shape; sign (of the times). elephant
+仮象(かしょう):appearance; semblance
+気象れだ(きしょうれだ):weather radar
+矩象(くしょう):quadrature",Jouyou. JLPT : N2
+"賞
+sample words:
+あかでみ賞
+えみ賞
+嘉賞",しょう,"賞:prize, reward, praise
+あかでみ賞(あかでみしょう):Academy Award
+えみ賞(えみしょう):Emmy Award
+嘉賞(かしょう):approval; praise",Jouyou. JLPT : N2
+"軍
+sample words:
+あめりか軍
+海軍基地
+軍歌",ぐん,"軍:army, force, troops
+あめりか軍(あめりかぐん):United States Armed Forces; US military
+海軍基地(かいぐんきち):naval base
+軍歌(ぐんか):war song",Jouyou. JLPT : N2
+"辺
+sample words:
+御辺
+左辺値
+四辺形格子",へん,"辺:vicinity
+御辺(ごへん):you
+左辺値(さへんち):left side value (of an equation)
+四辺形格子(しへんけいこうし):quadrilateral mesh",Jouyou. JLPT : N2
+"量
+sample words:
+器量よし
+しすてむ量
+致死量",りょう,"量:measure, gauge, weigh; fathom, sound; compute, es.
+器量よし(きりょうよし):good looks; good-looking woman; pretty woman
+しすてむ量(しすてむりょう):system capacity
+致死量(ちしりょう):lethal dose",Jouyou. JLPT : N2
+"陸
+sample words:
+あじあ大陸
+大陸ぷれと
+陸繋砂州",りく,"陸:land
+あじあ大陸(あじあたいりく):Asian Continent
+大陸ぷれと(たいりくぷれと):continental plate
+陸繋砂州(りくけいさす):tombolo",Jouyou. JLPT : N2
+"陸
+sample words:
+道陸神
+陸すっぽ
+陸でなし",ろく,"陸:land
+道陸神(どうろくじん):traveler's guardian deity (traveller)
+陸すっぽ(ろくずっぽ):(not) enough; (not) sufficiently; (not) satisfact.
+陸でなし(ろくでなし):ne'er-do-well; bum; good-for-nothing",Jouyou. JLPT : N2
+"順
+sample words:
+いろは順
+書き順
+語順",じゅん,"順:order; turn; right; docility, obedience; occasion
+いろは順(いろはじゅん):traditional ordering of the Japanese syllabary (b.
+書き順(かきじゅん):stroke order
+語順(ごじゅん):word order",Jouyou. JLPT : N2
+"個
+sample words:
+個個
+個個に
+個人でた",こ,"個:individual; article counter
+個個(ここ):separate; each; individual; one by one
+個個に(ここに):individually; separately
+個人でた(こじんでた):personal data",Jouyou. JLPT : N2
+"像
+sample words:
+絵像
+えろ画像
+画像",ぞう,"像:image, statue, figure, picture, portrait
+絵像(えぞう):portrait
+えろ画像(えろがぞう):erotic picture
+画像(がぞう):portrait; image; picture",Jouyou. JLPT : N2
+"再
+sample words:
+再嫁
+再下付
+再思",さい,"再:again, twice
+再嫁(さいか):remarriage (of a woman)
+再下付(さいかふ):reissue; renewal
+再思(さいし):reconsideration",Jouyou. JLPT : N2
+"券
+sample words:
+くぽん券
+ぐりん券
+地券",けん,"券:ticket, coupon, bond, certificate
+くぽん券(くぽんけん):coupon (ticket)
+ぐりん券(ぐりんけん):green (car) ticket
+地券(ちけん):title deed; land certificate; muniments",Jouyou. JLPT : N2
+"境
+sample words:
+えりあ境界
+苦境に立つ
+国境越え",きょう,"境:boundary, border, frontier; place
+えりあ境界(えりあきょうかい):area boundary
+苦境に立つ(くきょうにたつ):to be in difficulties; to be in a difficult situa.
+国境越え(こっきょうごえ):cross-border",Jouyou. JLPT : N2
+"布
+sample words:
+掛け布
+がんま分布
+昆布巻き",ふ,"布:cloth
+掛け布(かけふ):cloth covering
+がんま分布(がんまぶんぷ):gamma distribution
+昆布巻き(こぶまき):type of food (sliced dried herring or other fish .",Jouyou. JLPT : N2
+"技
+sample words:
+機械技師
+技神に入る
+歯科技工士",ぎ,"技:deed, act, work, art, trick, performance
+機械技師(きかいぎし):mechanician; mechanical engineer
+技神に入る(ぎしんにいる):to be divinely skilled
+歯科技工士(しかぎこうし):dental technician",Jouyou. JLPT : N2
+"損
+sample words:
+仕損じ
+し損ずる
+損気",そん,"損:harm, hurt, injure, damage, mar; lose, oppress
+仕損じ(しそんじ):failure; blunder; error; mistake
+し損ずる(しそんずる):to blunder; to make a mistake; to fail
+損気(そんき):disadvantage",Jouyou. JLPT : N2
+"旧
+sample words:
+旧かな
+旧そ連圏
+旧図",きゅう,"旧:old things; old times; old friend; old calendar; .
+旧かな(きゅうかな):historical kana orthography; old kana orthography.
+旧そ連圏(きゅうそれんけん):former Soviet bloc
+旧図(きゅうと):old plan",Jouyou. JLPT : N2
+"比
+sample words:
+阿比
+おっず比
+比価",ひ,"比:compare, balance, contrast
+阿比(あび):red-throated loon (Gavia stellata)
+おっず比(おっずひ):odds ratio
+比価(ひか):parity",Jouyou. JLPT : N2
+"液
+sample words:
+液圧ぷれす
+がす液
+りんげる液",えき,"液:liquid, fluid, juice, sap, secretion
+液圧ぷれす(えきあつぷれす):hydraulic press
+がす液(がすえき):gas liquor
+りんげる液(りんげるえき):Ringer's solution",Jouyou. JLPT : N2
+"版
+sample words:
+あるふぁ版
+がり版
+版画ろら",はん,"版:printing block or plate; printing; edition, impre.
+あるふぁ版(あるふぁばん):alpha version
+がり版(がりばん):mimeograph
+版画ろら(はんがろら):brayer",Jouyou. JLPT : N2
+"略
+sample words:
+以下略
+計略に乗る
+合略仮名",りゃく,"略:abbreviation, abridgment; omission; outline
+以下略(いかりゃく):and so on; rest omitted
+計略に乗る(けいりゃくにのる):to fall into a trap; to play into another's hands
+合略仮名(ごうりゃくがな):kana ligature",Jouyou. JLPT : N2
+"綿
+sample words:
+火綿
+がらす綿
+梳綿機",めん,"綿:cotton, cotton wool
+火綿(かめん):colloxylin
+がらす綿(がらすめん):glass wool
+梳綿機(そめんき):carding machine",Jouyou. JLPT : N2
+"総
+sample words:
+総仕上げ
+総締め
+総好かん",そう,"総:whole, all, general, gross, total, full
+総仕上げ(そうしあげ):overall finish; mop-up
+総締め(そうじめ):the total
+総好かん(そうすかん):being disliked by everyone",Jouyou. JLPT : N2
+"編
+sample words:
+韋編
+佳編
+げのむ編集",へん,"編:knit, plait, braid, net, weave, twist, crochet; c.
+韋編(いへん):leather cord
+佳編(かへん):outstanding poem
+げのむ編集(げのむへんしゅう):genome editing; genome engineering",Jouyou. JLPT : N2
+"群
+sample words:
+亜群
+下位群
+加群",ぐん,"群:crowd, flock, swarm; group, herd, bevy, school; c.
+亜群(あぐん):subgroup
+下位群(かいぐん):subgroup
+加群(かぐん):module",Jouyou. JLPT : N2
+"評
+sample words:
+厳しい批評
+世評
+ぜろ評価",ひょう,"評:criticism, comment
+厳しい批評(きびしいひひょう):severe criticism
+世評(せひょう):public opinion; reputation
+ぜろ評価(ぜろひょうか):zero rating; rating of zero",Jouyou. JLPT : N2
+"逆
+sample words:
+逆手打ち
+逆手にとる
+逆徒",ぎゃく,"逆:oppose, act contrary to; offend; reverse, inversi.
+逆手打ち(ぎゃくてうち):backhand (tennis, etc.)
+逆手にとる(ぎゃくてにとる):to use someone's (argument, attack) against them
+逆徒(ぎゃくと):traitor; rebel",Jouyou. JLPT : N2
+"銅
+sample words:
+青銅器時代
+銅貨
+銅器",どう,"銅:copper
+青銅器時代(せいどうきじだい):Bronze Age
+銅貨(どうか):copper coin
+銅器(どうき):copperware",Jouyou. JLPT : N2
+"額
+sample words:
+価額
+額入り
+課税価額",がく,"額:forehead, brow
+価額(かがく):amount; valuation
+額入り(がくいり):framed (e.g. poster, painting)
+課税価額(かぜいかがく):taxable amount",Jouyou. JLPT : N2
+"党
+sample words:
+私党
+党務
+徒党を組む",とう,"党:party, faction, clique; companions
+私党(しとう):band; faction
+党務(とうむ):party business
+徒党を組む(ととうをくむ):to form a faction; to band together",Jouyou. JLPT : N2
+"冊
+sample words:
+小冊子
+別冊付録
+簿冊",さつ,"冊:volume, book, letter; book counter
+小冊子(しょうさっし):booklet; pamphlet
+別冊付録(べっさつふろく):separate-volume supplement (to)
+簿冊(ぼさつ):notebook; (bound) book",Jouyou. JLPT : N2
+"劇
+sample words:
+歌劇
+歌舞伎劇
+喜歌劇",げき,"劇:drama, play
+歌劇(かげき):opera
+歌舞伎劇(かぶきげき):kabuki drama; kabuki play
+喜歌劇(きかげき):comic opera",Jouyou. JLPT : N2
+"善
+sample words:
+偽善
+慈善家
+善悪不二",ぜん,"善:good, good-natured; pleasing; precious; noble; lo....
+偽善(ぎぜん):hypocrisy
+慈善家(じぜんか):philanthropist; charitable person
+善悪不二(ぜんあくふに):good and evil are but two faces of the same coin",Jouyou. JLPT : N2
+"将
+sample words:
+お山の大将
+次将
+持将棋",しょう,"将:commander, general, admiral
+お山の大将(おやまのたいしょう):king of the castle; king of the mountain; king of.
+次将(じしょう):second in command
+持将棋(じしょうぎ):drawn game; impasse",Jouyou. JLPT : N2
+"庁
+sample words:
+閻魔の庁
+検非違使庁
+市庁舎",ちょう,"庁:government office
+閻魔の庁(えんまのちょう):judgment seat of Yama (judgement)
+検非違使庁(けびいしちょう):office in Heian Kyoto responsible for police and .
+市庁舎(しちょうしゃ):town hall; city hall",Jouyou. JLPT : N2
+"操
+sample words:
+子操作
+志操
+操作こど",そう,"操:manipulate, operate, steer; pull strings. chastit.
+子操作(こそうさ):child-operation
+志操(しそう):principle
+操作こど(そうさこど):operation code",Jouyou. JLPT : N2
+"枚
+sample words:
+三枚がるた
+二枚
+二枚折り",まい,"枚:counter for thin flat things, page, leaf (of a bo.
+三枚がるた(さんまいがるた):three-card betting game (e.g. oicho-kabu)
+二枚(にまい):two sheets (of paper or other flat objects)
+二枚折り(にまいおり):folio",Jouyou. JLPT : N2
+"棒
+sample words:
+木棒
+打棒
+つっかい棒",ぼう,"棒:stick, cane, rod, pole, stake, pile, club, bar; l.
+木棒(きぼう):wooden stick; wooden pole
+打棒(だぼう):batting
+つっかい棒(つっかいぼう):prop; support",Jouyou. JLPT : N2
+"紅
+sample words:
+紅土
+紅輪花
+五星紅旗",こう,"紅:red, crimson; rouge, lipstick. deep red, crimson
+紅土(こうど):laterite
+紅輪花(こうりんか):Senecio flammeus
+五星紅旗(ごせいこうき):flag of China; five-starred Red Flag",Jouyou. JLPT : N2
+"純
+sample words:
+高純度
+純乎
+純資産価値",じゅん,"純:purity, innocence; net (profit)
+高純度(こうじゅんど):high purity
+純乎(じゅんこ):pure; sheer
+純資産価値(じゅんしさんかち):net asset value",Jouyou. JLPT : N2
+"脳
+sample words:
+脳外科
+脳外科医
+脳どっく",のう,"脳:brain, memory
+脳外科(のうげか):brain surgery
+脳外科医(のうげかい):brain surgeon
+脳どっく(のうどっく):brain checkup",Jouyou. JLPT : N2
+"著
+sample words:
+遺著
+原著者
+孤児著作物",ちょ,"著:write, publish. remarkable, phenomenal
+遺著(いちょ):posthumous work
+原著者(げんちょしゃ):author
+孤児著作物(こじちょさくぶつ):orphan works",Jouyou. JLPT : N2
+"誌
+sample words:
+科学誌
+歌誌
+機内誌",し,"誌:records; document; magazine
+科学誌(かがくし):scientific journal
+歌誌(かし):tanka magazine
+機内誌(きないし):in-flight magazine",Jouyou. JLPT : N2
+"諸
+sample words:
+諸掛かり
+諸器械
+諸経費",しょ,"諸:many, several, various, all
+諸掛かり(しょがかり):expenses
+諸器械(しょきかい):various appliances
+諸経費(しょけいひ):sundry expenses",Jouyou. JLPT : N2
+"了
+sample words:
+過去完了
+過去完了形
+完了こど",りょう,"了:finish, complete; understand
+過去完了(かこかんりょう):past perfect tense
+過去完了形(かこかんりょうけい):past perfect form; past perfect tense
+完了こど(かんりょうこど):completion code",Jouyou. JLPT : N2
+"介
+sample words:
+意に介する
+介意
+介護さびす",かい,"介:shell, shellfish
+意に介する(いにかいする):to worry; to care; to mind
+介意(かいい):worrying about; caring about
+介護さびす(かいごさびす):nursing-care service",Jouyou. JLPT : N2
+"双
+sample words:
+絵双紙
+絵双紙屋
+自己双対",そう,"双:a pair; a set; comparison; counter for pairs
+絵双紙(えぞうし):ezoshi (Edo-period illustrated story book)
+絵双紙屋(えぞうしや):Edo-period shop selling picture books, wood print.
+自己双対(じこそうつい):self dual",Jouyou. JLPT : N2
+"塔
+sample words:
+蟻の塔
+てれび塔
+塔婆",とう,"塔:tower, pagoda, steeple, obelisk, monument
+蟻の塔(ありのとう):anthill
+てれび塔(てれびとう):TV tower
+塔婆(とうば):stupa; wooden grave tablet; pagoda",Jouyou. JLPT : N2
+"壁
+sample words:
+火口壁
+磁壁
+洞窟壁画",へき,"壁:wall
+火口壁(かこうへき):crater wall
+磁壁(じへき):magnetic domain
+洞窟壁画(どうくつへきが):cave painting",Jouyou. JLPT : N2
+"姓
+sample words:
+四種姓
+氏姓制度
+姓が変わる",せい,"姓:surname, family name
+四種姓(ししゅせい):varna (each of India's four castes)
+氏姓制度(しせいせいど):system of clans and hereditary titles (of the Yam.
+姓が変わる(せいがかわる):to assume a new surname",Jouyou. JLPT : N2
+"姓
+sample words:
+氏素姓
+お百姓さん
+下姓",しょう,"姓:surname, family name
+氏素姓(うじすじょう):lineage; (a person's) family background
+お百姓さん(おひゃくしょうさん):farmer
+下姓(げしょう):person of humble birth",Jouyou. JLPT : N2
+"封
+sample words:
+二封
+封止
+封じ込む",ふう,"封:seal; sealing; closing. fief
+二封(にふう):forced out on second
+封止(ふうし):sealing; seal
+封じ込む(ふうじこむ):to entrap",Jouyou. JLPT : N2
+"湾
+sample words:
+江戸湾
+かんべい湾
+台湾",わん,"湾:gulf, bay, inlet
+江戸湾(えどわん):Edo Bay
+かんべい湾(かんべいわん):Gulf of Cambay
+台湾(たいわん):Taiwan",Jouyou. JLPT : N2
+"珍
+sample words:
+山海の珍味
+珍渦虫科
+珍すぽっと",ちん,"珍:new, novel, rare, strange, curious, unusual; nice.
+山海の珍味(さんかいのちんみ):all sorts of delicacies; various unusual foods; s.
+珍渦虫科(ちんうずむしか):Xenoturbellidae (family of worm-like basal deuter.
+珍すぽっと(ちんすぽっと):weird (but interesting) spot; odd (tourist) attra.",Jouyou. JLPT : N2
+"畳
+sample words:
+山岳重畳
+畳句
+畳語",じょう,"畳:fold, fold up, furl, shut up, shut; wind up (affa..
+山岳重畳(さんがくちょうじょう):mountains rising one above another
+畳句(じょうく):repetition; accumulative clause; burden; refrain
+畳語(じょうご):syllable repetition (indicating plurals)",Jouyou. JLPT : N2
+"粒
+sample words:
+亜原子粒子
+粗粒
+粗粒玄武岩",りゅう,"粒:grain, drop; counter for tiny particles
+亜原子粒子(あげんしりゅうし):subatomic particle
+粗粒(そりゅう):coarse-grained
+粗粒玄武岩(そりゅうげんぶがん):dolerite; diabase",Jouyou. JLPT : N2
+"超
+sample words:
+揚げ超
+超音波もた
+超過",ちょう,"超:cross; go beyond; exceed; clear (an obstacle); ov.
+揚げ超(あげちょう):excess of withdrawals over deposits
+超音波もた(ちょうおんぱもた):ultrasonic motor
+超過(ちょうか):being more than; excess",Jouyou. JLPT : N2
+"鈍
+sample words:
+鈍角三角形
+鈍器
+鈍臭い",どん,"鈍:dull, slow; blunt (tool); dim (light); thick (voi.
+鈍角三角形(どんかくさんかくけい):obtuse triangle
+鈍器(どんき):blunt weapon
+鈍臭い(どんくさい):irritating; clumsy; stupid; slow",Jouyou. JLPT : N2
+"零
+sample words:
+午後零時
+非零
+零距離射撃",れい,"零:zero, nothing, cipher; fall
+午後零時(ごごれいじ):noon; 12pm
+非零(ひれい):non-zero
+零距離射撃(れいきょりしゃげき):close-range shot; point-blank shot",Jouyou. JLPT : N2

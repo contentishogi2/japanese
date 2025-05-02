@@ -1,0 +1,601 @@
+question,answer,comment,instruction
+"力
+sample words:
+手力
+力合わせ
+力無い",ちから,"力:strength, energy, force, might, power; agency; au....
+手力(たぢから):arm strength
+力合わせ(ちからあわせ):test of strength
+力無い(ちからない):feeble",Jouyou. JLPT : N4
+"口
+sample words:
+口づけ
+口づける
+口に掛ける",くち,"口:mouth, lips; speech, words; one's taste, stopper,....
+口づけ(くちづけ):kiss
+口づける(くちづける):to kiss
+口に掛ける(くちにかける):to say (something)",Jouyou. JLPT : N4
+"夕
+sample words:
+夕餉
+夕座
+夕映え",ゆう,"夕:evening
+夕餉(ゆうげ):supper; evening meal; dinner
+夕座(ゆうざ):evening service
+夕映え(ゆうばえ):sunset glow",Jouyou. JLPT : N4
+"字
+sample words:
+大字
+大字片山
+小字",あざ,"字:section of a village
+大字(おおあざ):larger section (of village)
+大字片山(おおあざかたやま):name of a town section
+小字(こあざ):small administrative unit (of a village)",Jouyou. JLPT : N4
+"手
+sample words:
+手こぎぼと
+手手
+手羽",て,"手:hand, arm; help; handwriting; handle, means; tric...
+手こぎぼと(てこぎぼと):rowboat
+手手(てて):hand; hands
+手羽(てば):chicken wing",Jouyou. JLPT : N4
+"文
+sample words:
+日文
+文読む月日
+真名文",ふみ,"文:letter, note
+日文(ひふみ):Hifumi (script)
+文読む月日(ふみよむつきひ):A Calendar of Wisdom (book by Tolstoi)
+真名文(まなぶみ):writing entirely in kanji",Jouyou. JLPT : N4
+"早
+sample words:
+けんか早い
+早起き
+早く言えば",はや,"早:quick, fast, speedy; brisk, prompt; early; premat..
+けんか早い(けんかばやい):quarrelsome; easy to anger
+早起き(はやおき):early rising
+早く言えば(はやくいえば):to put it briefly; in a word; to make a long stor.",Jouyou. JLPT : N4
+"犬
+sample words:
+犬派
+子犬
+抱き犬",いぬ,"犬:dog, spy
+犬派(いぬは):dog person
+子犬(こいぬ):puppy; small dog
+抱き犬(だきいぬ):lapdog",Jouyou. JLPT : N4
+"田
+sample words:
+田鶴
+田鶴
+田を打つ",た,"田:rice field, paddy field
+田鶴(たず):crane (bird)
+田鶴(たづ):crane (bird)
+田を打つ(たをうつ):to till a rice paddy; to plough a rice paddy (plo.",Jouyou. JLPT : N4
+"町
+sample words:
+古町
+眠らない町
+町駕篭",まち,"町:town; quarters; street
+古町(こまち):old town
+眠らない町(ねむらないまち):city that never sleeps
+町駕篭(まちかご):palanquin",Jouyou. JLPT : N4
+"目
+sample words:
+お目目
+目がける
+目が見える",め,"目:eye; look, gaze; notice, attention; viewpoint; di....
+お目目(おめめ):eyes
+目がける(めがける):to aim at
+目が見える(めがみえる):to be able to see",Jouyou. JLPT : N4
+"空
+sample words:
+空で言う
+空解け
+空飛ぶ",そら,"空:become empty, be less crowded; empty; sky, heaven.
+空で言う(そらでいう):to speak from memory
+空解け(そらどけ):coming untied
+空飛ぶ(そらとぶ):to fly in the sky",Jouyou. JLPT : N4
+"空
+sample words:
+空売り
+空荷
+空ふかし",から,"空:become empty, be less crowded; empty; sky, heaven.
+空売り(からうり):short selling
+空荷(からに):in ballast; lacking cargo
+空ふかし(からふかし):idling (of an engine)",Jouyou. JLPT : N4
+"耳
+sample words:
+ぱんの耳
+ぴざの耳
+耳たぶ",みみ,"耳:ear; edge, border; loop; selvage; bread crusts
+ぱんの耳(ぱんのみみ):bread crust
+ぴざの耳(ぴざのみみ):pizza crust
+耳たぶ(みみたぶ):earlobe",Jouyou. JLPT : N4
+"花
+sample words:
+花あななす
+花きゃべつ
+花咲く",はな,"花:flower, blossom; cherry blossoms; essence, spirit..
+花あななす(はなあななす):pink quill (Tillandsia cyanea)
+花きゃべつ(はなきゃべつ):cauliflower
+花咲く(はなさく):to bloom",Jouyou. JLPT : N4
+"赤
+sample words:
+赤きゃべつ
+赤啄木鳥
+赤子",あか,"赤:red, crimson, scarlet, Communist, Red. become red.
+赤きゃべつ(あかきゃべつ):red cabbage
+赤啄木鳥(あかげら):great spotted woodpecker (Dendrocopos major)
+赤子(あかご):baby",Jouyou. JLPT : N4
+"足
+sample words:
+足こき
+足を止める
+小足",あし,"足:foot; leg; paw; flipper, tentacles, arms; walk, s......
+足こき(あしこき):footjob
+足を止める(あしをとめる):to stop walking; to pause
+小足(こあし):mincing steps",Jouyou. JLPT : N4
+"青
+sample words:
+青ざめる
+青図
+青菜",あお,"青:blue, green; green light, pale; unripe, green
+青ざめる(あおざめる):to turn pale; to become pale
+青図(あおず):blueprint
+青菜(あおな):greens",Jouyou. JLPT : N4
+"音
+sample words:
+遠音
+音いろ
+音締",ね,"音:sound, noise, roar; fame; tone, note, voice, chir.
+遠音(とおね):distant sound
+音いろ(ねいろ):timbre; tone quality; tone color; tone colour
+音締(ねじめ):tune",Jouyou. JLPT : N4
+"音
+sample words:
+音げ
+音なし
+音を出す",おと,"音:sound, noise, roar; fame; tone, note, voice, chir.
+音げ(おとげ):rhythm game; music game
+音なし(おとなし):without sound; silence
+音を出す(おとをだす):to produce a sound",Jouyou. JLPT : N4
+"京
+sample words:
+長岡京",みやこ,"京:ten quadrillion; captital, metropolis; Kyoto
+長岡京(ながおかのみやこ):Nagaoka-kyo (capital of Japan 784-794); Nagaokaky.",Jouyou. JLPT : N4
+"体
+sample words:
+お体
+体が空く
+体つき",からだ,"体:body, health
+お体(おからだ):body
+体が空く(からだがあく):to get time off; to become free
+体つき(からだつき):body build; figure",Jouyou. JLPT : N4
+"元
+sample words:
+元が掛かる
+元値
+元は",もと,"元:beginning, origin; foundation, basis, source; cau..
+元が掛かる(もとがかかる):to be expensive; to cost much
+元値(もとね):cost
+元は(もとは):originally",Jouyou. JLPT : N4
+"兄
+sample words:
+兄貴
+兄後
+兄弟子",あに,"兄:elder brother
+兄貴(あにき):elder brother; man older than oneself; one's seni.
+兄後(あにご):elder brother
+兄弟子(あにでし):senior disciple; senior member; senior pupil (of .",Jouyou. JLPT : N4
+"冬
+sample words:
+冬着
+冬のそなた
+冬の大三角",ふゆ,"冬:winter
+冬着(ふゆぎ):winter clothing
+冬のそなた(ふゆのそなた):Winter Sonata (Korean television drama)
+冬の大三角(ふゆのだいさんかく):Winter Triangle (asterism)",Jouyou. JLPT : N4
+"切
+sample words:
+追い切り
+切り分かつ
+区切り子",きり,"切:cut, chop, hash; carve; saw; clip, shear; slice, .......
+追い切り(おいきり):trial
+切り分かつ(きりわかつ):to cut up
+区切り子(くぎりし):delimiter",Jouyou. JLPT : N4
+"場
+sample words:
+がれ場
+木場
+すから場",ば,"場:place, site; space, seat; scene; occasion, situat.
+がれ場(がれば):scree slope
+木場(きば):lumberyard
+すから場(すからば):scalar field",Jouyou. JLPT : N4
+"夏
+sample words:
+夏季
+夏野
+夏の夜の夢",なつ,"夏:summer
+夏季(なつき):summer season
+夏野(なつの):summer fields
+夏の夜の夢(なつのよのゆめ):A Midsummer Night's Dream (comedy by William Shak.",Jouyou. JLPT : N4
+"夜
+sample words:
+小夜
+夜上がり
+夜があける",よ,"夜:evening, night, nighttime; at night
+小夜(さよ):evening
+夜上がり(よあがり):weather clearing at night
+夜があける(よがあける):dawn breaks; day dawns",Jouyou. JLPT : N4
+"夜
+sample words:
+御夜
+夜御飯
+夜昼",よる,"夜:evening, night, nighttime; at night
+御夜(およる):sleep; rest
+夜御飯(よるごはん):evening meal; dinner
+夜昼(よるひる):day and night",Jouyou. JLPT : N4
+"妹
+sample words:
+妹御
+妹さん
+妹夫婦",いもうと,"妹:younger sister
+妹御(いもうとご):(another person's) younger sister
+妹さん(いもうとさん):younger sister
+妹夫婦(いもうとふうふ):one's younger sister and her husband",Jouyou. JLPT : N4
+"姉
+sample words:
+姉川の戦い
+姉貴
+姉御",あね,"姉:elder sister
+姉川の戦い(あねがわのたたかい):Battle of Anegawa (1570)
+姉貴(あねき):older female friend; elder sister
+姉御(あねご):elder sister",Jouyou. JLPT : N4
+"家
+sample words:
+家居
+家路
+家の向き",いえ,"家:house, home, residence; housing; family, househol..
+家居(いえい):staying at home
+家路(いえじ):the road home
+家の向き(いえのむき):aspect of a house",Jouyou. JLPT : N4
+"家
+sample words:
+家飲み
+家を空ける
+お家",うち,"家:house, home, residence; housing; family, househol..
+家飲み(うちのみ):drinking at home (as opposed to going out)
+家を空ける(うちをあける):to be away from home; to be out of the house
+お家(おうち):(my) home; your home; their home; your family; th.",Jouyou. JLPT : N4
+"店
+sample words:
+おもちゃ店
+出し店
+店の上がり",みせ,"店:shop, store, booth
+おもちゃ店(おもちゃみせ):toy shop; toy store
+出し店(だしみせ):booth; stall
+店の上がり(みせのあがり):income from a shop",Jouyou. JLPT : N4
+"弟
+sample words:
+弟御
+弟さん
+弟弟子",おとうと,"弟:younger brother
+弟御(おとうとご):your younger brother
+弟さん(おとうとさん):younger brother
+弟弟子(おとうとでし):junior member; younger pupil (of the same master).",Jouyou. JLPT : N4
+"心
+sample words:
+気心
+心がとける
+負けじ心",こころ,"心:mind, spirit; mentality; idea, thought; heart, fe...
+気心(きごころ):disposition; temper
+心がとける(こころがとける):one's heart melts
+負けじ心(まけじごころ):indomitable spirit",Jouyou. JLPT : N4
+"方
+sample words:
+あなた方
+撃ち方止め
+来し方",かた,"方:direction; settlement; person
+あなた方(あなたがた):you (plural)
+撃ち方止め(うちかたやめ):cease fire!
+来し方(きしかた):the past",Jouyou. JLPT : N4
+"春
+sample words:
+春荒れ
+春うらら
+春惜しむ",はる,"春:spring, springtime
+春荒れ(はるあれ):spring storm
+春うらら(はるうらら):beautiful spring; fine spring day
+春惜しむ(はるおしむ):to lament the end of spring",Jouyou. JLPT : N4
+"昼
+sample words:
+小昼
+盗人の昼寝
+昼めし",ひる,"昼:daytime, midday, noon
+小昼(こひる):just before noon; late-morning snack
+盗人の昼寝(ぬすびとのひるね):a burglar's midday nap (is taken so that he can r..
+昼めし(ひるめし):lunch; midday meal",Jouyou. JLPT : N4
+"朝
+sample words:
+朝餉
+朝餉
+朝めし",あさ,"朝:morning, forenoon
+朝餉(あさけ):breakfast
+朝餉(あさげ):breakfast
+朝めし(あさめし):breakfast",Jouyou. JLPT : N4
+"歌
+sample words:
+伊呂波歌
+歌い手
+歌詠み",うた,"歌:sing, recite, chant, carol; poem, tanka, ballad, .
+伊呂波歌(いろはうた):iroha poem
+歌い手(うたいて):singer
+歌詠み(うたよみ):tanka composer",Jouyou. JLPT : N4
+"海
+sample words:
+海蜘蛛
+海路
+海手",うみ,"海:sea, ocean
+海蜘蛛(うみぐも):sea spider
+海路(うみじ):sea route
+海手(うみて):place by the sea",Jouyou. JLPT : N4
+"牛
+sample words:
+牛飼い
+牛小屋
+牛の刻参り",うし,"牛:cattle, cow, bull, ox
+牛飼い(うしかい):cattleman; raising cattle
+牛小屋(うしごや):cow shed; cattle barn
+牛の刻参り(うしのこくまいり):cursing ritual where one visits a shrine at 2am a..",Jouyou. JLPT : N4
+"秋
+sample words:
+危急存亡の秋",とき,"秋:autumn
+危急存亡の秋(ききゅうそんぼうのとき):critical time; crisis; critical moment",Jouyou. JLPT : N4
+"秋
+sample words:
+秋田
+秋津
+秋の暮れ",あき,"秋:autumn
+秋田(あきた):Akita (city, prefecture)
+秋津(あきつ):dragonfly
+秋の暮れ(あきのくれ):the end of autumn; autumn dusk",Jouyou. JLPT : N4
+"答
+sample words:
+答え合わせ
+答えを出す
+答え難い質問",こたえ,"答:answer; respond; solve. solution
+答え合わせ(こたえあわせ):checking answers (e.g. to homework problems); ver.
+答えを出す(こたえをだす):to work out a solution; to give an answer; to fin.
+答え難い質問(こたえにくいしつもん):awkward (difficult) question",Jouyou. JLPT : N4
+"紙
+sample words:
+紙子
+紙こっぷ
+紙づまり",かみ,"紙:paper
+紙子(かみこ):paper garment
+紙こっぷ(かみこっぷ):paper cup
+紙づまり(かみづまり):paper jam",Jouyou. JLPT : N4
+"色
+sample words:
+色染め
+色んな
+落ち葉色",いろ,"色:color, tint, tinge; complexion; countenance, look..
+色染め(いろぞめ):dyeing
+色んな(いろんな):various
+落ち葉色(おちばいろ):russet",Jouyou. JLPT : N4
+"親
+sample words:
+親えんとり
+親御さん
+親無し子",おや,"親:parent; dealer (in card games); banker (in gambli..
+親えんとり(おやえんとり):parent-entry
+親御さん(おやごさん):(another's) parents
+親無し子(おやなしご):orphan; parentless child",Jouyou. JLPT : N4
+"言
+sample words:
+江戸言葉
+買い言葉
+言葉を吐く",こと,"言:say, tell, talk, speak, declare; call, term, name.
+江戸言葉(えどことば):Edo dialect
+買い言葉(かいことば):tit for tat
+言葉を吐く(ことばをはく):to talk; to speak",Jouyou. JLPT : N4
+"道
+sample words:
+生きる道
+血道
+道ならぬ",みち,"道:road, path, lane, way, street, highway, route; jo...
+生きる道(いきるみち):way of life
+血道(ちみち):blood vessels
+道ならぬ(みちならぬ):immoral",Jouyou. JLPT : N4
+"野
+sample words:
+野口啄木鳥
+野太刀
+野辺",の,"野:field, plain
+野口啄木鳥(のぐちげら):Okinawa woodpecker (Sapheopipo noguchii)
+野太刀(のだち):extra-long sword
+野辺(のべ):field",Jouyou. JLPT : N4
+"風
+sample words:
+風邪気
+風邪引く
+はやり風邪",かぜ,"風:wind, storm, breeze, draft, current of air; a col.
+風邪気(かぜけ):slight cold
+風邪引く(かぜひく):to catch a cold
+はやり風邪(はやりかぜ):influenza",Jouyou. JLPT : N4
+"魚
+sample words:
+小魚
+魚ふらい
+魚を捕る",さかな,"魚:fish
+小魚(こざかな):small fish; fry
+魚ふらい(さかなふらい):fried fish
+魚を捕る(さかなをとる):to catch fish",Jouyou. JLPT : N4
+"魚
+sample words:
+魚しょうゆ
+魚の餌科
+飛び魚の子",うお,"魚:fish
+魚しょうゆ(うおしょうゆ):fish sauce (made from fermented salted fish)
+魚の餌科(うおのえか):Cymothoidae (family of isopods)
+飛び魚の子(とびうおのこ):flying fish roe",Jouyou. JLPT : N4
+"鳥
+sample words:
+蚊食い鳥
+千鳥
+飛べない鳥",とり,"鳥:bird, chicken, fowl
+蚊食い鳥(かくいどり):bat
+千鳥(ちどり):plover
+飛べない鳥(とべないとり):flightless bird",Jouyou. JLPT : N4
+"黒
+sample words:
+か黒い
+黒くする
+黒後家蜘蛛",くろ,"黒:black; dark, swarthy, browned; dirty
+か黒い(かぐろい):deep black
+黒くする(くろくする):to blacken
+黒後家蜘蛛(くろごけぐも):black widow spider (Latrodectus mactans)",Jouyou. JLPT : N4
+"世
+sample words:
+千世
+御世替わり
+世にいう",よ,"世:world, society, public; life, existence, career, .
+千世(ちよ):forever; very long period; thousand years
+御世替わり(みよがわり):(Japanese) imperial succession
+世にいう(よにいう):what is called; so-called; what they call",Jouyou. JLPT : N4
+"主
+sample words:
+主菓子
+主だった
+主なる",おも,"主:owner; master, husband; lover; a god; you. main
+主菓子(おもがし):Japanese sweet eaten with koicha
+主だった(おもだった):important; chief; principal; leading; main; promi.
+主なる(おもなる):important; main; principal",Jouyou. JLPT : N4
+"主
+sample words:
+家主
+一家の主
+坊の主",あるじ,"主:owner; master, husband; lover; a god; you. main
+家主(いえあるじ):landlady; head of the household; landlord; house .
+一家の主(いっかのあるじ):master of the household
+坊の主(ぼうのあるじ):master of the priests quarters",Jouyou. JLPT : N4
+"主
+sample words:
+寄生地主制
+不在地主
+物言う株主",ぬし,"主:owner; master, husband; lover; a god; you. main
+寄生地主制(きせいじぬしせい):parasitic landowner system; absentee landlord sys.
+不在地主(ふざいじぬし):absentee landlord
+物言う株主(ものいうかぶぬし):activist shareholder; outspoken shareholder",Jouyou. JLPT : N4
+"事
+sample words:
+御事
+事あれかし
+事欠く",こと,"事:thing, matter, fact, circumstances, business, rea.
+御事(おこと):you
+事あれかし(ことあれかし):any time now
+事欠く(ことかく):to lack",Jouyou. JLPT : N4
+"代
+sample words:
+幾千代
+千代
+聖の御代",よ,"代:world, society, public; life, existence, career, ...
+幾千代(いくちよ):many years; ages
+千代(ちよ):thousand years; very long period; forever
+聖の御代(ひじりのみよ):highly-esteemed emperor's reign",Jouyou. JLPT : N4
+"味
+sample words:
+味気有る
+味海苔
+味見",あじ,"味:taste; appreciate, experience. flavor, aroma; zes.
+味気有る(あじきある):interesting; meaningful
+味海苔(あじのり):seasoned nori (laver)
+味見(あじみ):sampling; tasting",Jouyou. JLPT : N4
+"品
+sample words:
+思い出の品
+品ぷり
+品目",しな,"品:article, goods, thing; quality; brand; kind, type.
+思い出の品(おもいでのしな):memento; keepsake; memorabilia
+品ぷり(しなぷり):Shinagawa Prince Hotel
+品目(しなめ):item; commodity; list of articles",Jouyou. JLPT : N4
+"問
+sample words:
+問い掛け
+問切り
+問いつめる",とい,"問:ask, question, inquire; accuse. Inquiry
+問い掛け(といかけ):inquiry; interrogation; enquiry; question; query
+問切り(といきり):last death anniversary for which there is a memor.
+問いつめる(といつめる):to press a question; to cross-examine",Jouyou. JLPT : N4
+"度
+sample words:
+此度
+その度
+度重なる",たび,"度:time, occasion; repetition
+此度(こたび):this occasion; now; at this time
+その度(そのたび):each time
+度重なる(たびかさなる):to be frequent; to repeat",Jouyou. JLPT : N4
+"旅
+sample words:
+あてなき旅
+永遠の旅人
+旅子",たび,"旅:journey
+あてなき旅(あてなきたび):journey without a destination
+永遠の旅人(えいえんのたびびと):perpetual traveller (traveler); permanent tourist.
+旅子(たびこ):travelling male homosexual prostitute",Jouyou. JLPT : N4
+"物
+sample words:
+下り物しと
+地物
+しりず物",もの,"物:thing, object, matter; somebody, something, succe.
+下り物しと(おりものしと):panty liner
+地物(じもの):local produce
+しりず物(しりずもの):serial",Jouyou. JLPT : N4
+"病
+sample words:
+死の病
+はやり病
+病気",やまい,"病:get sick, be sick, suffer from. illness; bad habi.
+死の病(しのやまい):final illness; fatal disease; deadly disease
+はやり病(はやりやまい):epidemic
+病気(やまいけ):feeling ill; sensation of illness; signs of illne.",Jouyou. JLPT : N4
+"者
+sample words:
+小者
+筋者
+知恵者",もの,"者:person, somebody
+小者(こもの):errand boy in a samurai family; servant; person o.
+筋者(すじもの):yakuza
+知恵者(ちえもの):wise man",Jouyou. JLPT : N4
+"重
+sample words:
+重きを置く
+重さ
+重しをする",おも,"重:pile up, heap up, add, repeat. be piled; lie on o..
+重きを置く(おもきをおく):to attach importance to; to emphasize
+重さ(おもさ):weight
+重しをする(おもしをする):to place a weight upon (e.g. when making pickles).",Jouyou. JLPT : N4
+"飯
+sample words:
+あさ飯
+菜飯
+打っ掛け飯",めし,"飯:cooked rice; meal; food, livelihood
+あさ飯(あさめし):breakfast
+菜飯(なめし):rice boiled with greens
+打っ掛け飯(ぶっかけめし):rice with other ingredients poured on top",Jouyou. JLPT : N4
+"貸
+sample words:
+貸し地
+貸手
+貸して上げる",かし,"貸:lend; hire out, rent, lease; give credit to
+貸し地(かしち):land for rent
+貸手(かして):lender
+貸して上げる(かしてあげる):to lend (e.g. money)",Jouyou. JLPT : N4
+"私
+sample words:
+私宛
+私達
+私なり",わたし,"私:I, myself, private (affairs)
+私宛(わたしあて):for me; addressed to me
+私達(わたしたち):us; we
+私なり(わたしなり):(in) my own way",Jouyou. JLPT : N4

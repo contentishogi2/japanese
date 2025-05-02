@@ -1,0 +1,637 @@
+Question,Answer,Comment,Instruction,Render As
+お邪魔します,"おじゃまします","I'm coming in; please excuse the intrusion","Guess the reading (3k:邪,魔)",Image
+一顧,"いっこ","a little thought; glance; slightest attention; slightest consideration; slightest notice","Guess the reading (3k:顧)",Image
+不穏,"ふおん","disquieting; disturbing; restless; threatening; turbulent; unsettled","Guess the reading (3k:穏)",Image
+丘陵,"きゅうりょう","hill","Guess the reading (3k:陵)",Image
+乱伐,"らんばつ","overcutting of forests; reckless deforestation","Guess the reading (3k:伐)",Image
+乳房,"にゅうぼう,ちぶさ","breast; udder,breast; udder","Guess the reading (3k:房)",Image
+了承,"りょうしょう","acknowledgement; acknowledgment; approval; consent; understanding","Guess the reading (3k:了)",Image
+了解,"りょうかい","agreement; comprehension; consent; understanding; OK; roger","Guess the reading (3k:了)",Image
+互換,"ごかん","transposition; compatible (e.g. PC); interchange","Guess the reading (3k:換)",Image
+亡霊,"ぼうれい","apparition; departed spirit; ghost; soul of the dead","Guess the reading (3k:霊)",Image
+人畜,"じんちく","men and animals","Guess the reading (3k:畜)",Image
+仏壇,"ぶつだん","Buddhist (household) altar","Guess the reading (3k:壇)",Image
+令嬢,"れいじょう","(your) daughter; daughter of a good family; young woman","Guess the reading (3k:嬢)",Image
+任免,"にんめん","appointments and dismissal","Guess the reading (3k:免)",Image
+企図,"きと","plan; project; scheme","Guess the reading (3k:企)",Image
+企業,"きぎょう","business; company; corporation; enterprise","Guess the reading (3k:企)",Image
+企画,"きかく","arrangements; plan; planning; project","Guess the reading (3k:企)",Image
+伐採,"ばっさい","cutting down trees; felling timber; logging; lumbering","Guess the reading (3k:伐)",Image
+休憩,"きゅうけい","break; intermission; recess; rest","Guess the reading (3k:憩)",Image
+伴奏,"ばんそう","(musical) accompaniment","Guess the reading (3k:伴)",Image
+伸び悩む,"のびなやむ","to be sluggish; to fail to improve; to level off; to make little progress; to not grow as much as expected; to show little growth","Guess the reading (3k:伸)",Image
+伸び率,"のびりつ","coefficient of extension; growth rate","Guess the reading (3k:伸)",Image
+伸縮,"しんしゅく","elasticity; expansion and contraction; flexibility","Guess the reading (3k:伸)",Image
+佳境,"かきょう","beautiful place; climax; good part; most interesting part (of a story); scenic spot","Guess the reading (3k:佳)",Image
+侍従,"じじゅう","chamberlain","Guess the reading (3k:侍)",Image
+供宴,"きょうえん","banquet; feast","Guess the reading (3k:宴)",Image
+供託,"きょうたく","deposit","Guess the reading (3k:託)",Image
+俳壇,"はいだん","the world of the haiku","Guess the reading (3k:壇)",Image
+倒錯,"とうさく","inversion; perversion","Guess the reading (3k:錯)",Image
+値崩れ,"ねくずれ","price collapse","Guess the reading (3k:崩)",Image
+倹約,"けんやく","economy; frugality; thrift","Guess the reading (3k:倹)",Image
+停滞,"ていたい","accumulation; congestion; delay; falling into arrears; stagnation; standstill; tie-up","Guess the reading (3k:滞)",Image
+偶像,"ぐうぞう","idol; image; statue","Guess the reading (3k:偶)",Image
+傍聴,"ぼうちょう","attending (without participating); listening (to a lecture, hearing, parliament session, etc.); observing; sitting in (e.g. on a meeting)","Guess the reading (3k:聴)",Image
+催促,"さいそく","demand; demanding; pressing; urging","Guess the reading (3k:催,促)",Image
+催涙,"さいるい","tear-inducing","Guess the reading (3k:催)",Image
+催眠,"さいみん","hypnosis","Guess the reading (3k:催)",Image
+債券,"さいけん","bond; debenture","Guess the reading (3k:債)",Image
+債務,"さいむ","debt; liabilities; obligation to a person or party (usu. legal or contractual)","Guess the reading (3k:債)",Image
+債権,"さいけん","claim; credit","Guess the reading (3k:債)",Image
+傾聴,"けいちょう","listening closely","Guess the reading (3k:聴)",Image
+僧籍,"そうせき","priesthood","Guess the reading (3k:籍)",Image
+優遇,"ゆうぐう","favorable treatment; favourable treatment; good treatment; hearty welcome; hospitality; warm reception","Guess the reading (3k:遇)",Image
+克己,"こっき","self control; self denial","Guess the reading (3k:克)",Image
+免状,"めんじょう","certificate; diploma; licence; license; permit","Guess the reading (3k:免)",Image
+免税,"めんぜい","duty exemption; tax exemption","Guess the reading (3k:免)",Image
+免罪,"めんざい","indulgence; pardon; remission of sin; acquittal","Guess the reading (3k:免)",Image
+免職,"めんしょく","discharge; dismissal; sacking","Guess the reading (3k:免)",Image
+免許,"めんきょ","certificate; licence; license; permission; permit","Guess the reading (3k:免)",Image
+免責,"めんせき","disclaimer; exemption from responsibility","Guess the reading (3k:免)",Image
+免除,"めんじょ","discharge; exemption; exoneration","Guess the reading (3k:免)",Image
+党籍,"とうせき","party membership; party register","Guess the reading (3k:籍)",Image
+入れ墨,"いれずみ","tattoo (esp. a traditional Japanese one); tattooing","Guess the reading (3k:墨)",Image
+兵糧,"ひょうろう","(army) provisions; food","Guess the reading (3k:糧)",Image
+円弧,"えんこ","arc","Guess the reading (3k:弧)",Image
+再審,"さいしん","reexamination; reopening of a case; retrial; review","Guess the reading (3k:審)",Image
+冗舌,"にょうぜつ,じょうぜつ","garrulity; loquacity; talkativeness,garrulity; loquacity; talkativeness","Guess the reading (3k:冗)",Image
+冠状,"かんじょう","coronal; coronary; coronate","Guess the reading (3k:冠)",Image
+凍傷,"とうしょう","chilblains; frostbite","Guess the reading (3k:凍)",Image
+凝り性,"こりしょう","susceptibility for a stiffening of the shoulders; fastidiousness; meticulousness; monomania; perfectionism; tendency to become totally absorbed in something","Guess the reading (3k:凝)",Image
+凝縮,"ぎょうしゅく","condensation (of a vapour or gas); condensation (of ideas, emotions, etc.)","Guess the reading (3k:凝)",Image
+凝視,"ぎょうし","fixation; gaze; stare","Guess the reading (3k:凝)",Image
+処刑,"しょけい","execution","Guess the reading (3k:刑)",Image
+処遇,"しょぐう","dealing with; treatment (of a person)","Guess the reading (3k:遇)",Image
+分泌,"ぶんぴ,ぶんぴつ","secretion,secretion","Guess the reading (3k:泌)",Image
+切符,"きっぷ","ticket","Guess the reading (3k:符)",Image
+刑罰,"けいばつ","(criminal) punishment; penalty; sentence","Guess the reading (3k:刑)",Image
+削減,"さくげん","curtailment; cut; reduction","Guess the reading (3k:削)",Image
+削除,"さくじょ","deletion; elimination; erasure; striking out","Guess the reading (3k:削)",Image
+割り勘,"わりかん","Dutch treat; splitting the bill; splitting the cost","Guess the reading (3k:勘)",Image
+割譲,"かつじょう","cession (of territory)","Guess the reading (3k:譲)",Image
+動揺,"どうよう","agitation; commotion; discomposure; disturbance; excitement; feeling shaken; oscillation; pitching; rolling; shaking; trembling; turmoil; unrest","Guess the reading (3k:揺)",Image
+勘弁,"かんべん","forbearance; forgiveness; pardon","Guess the reading (3k:勘)",Image
+勘違い,"かんちがい","mistaken idea; misunderstanding; wrong guess","Guess the reading (3k:勘)",Image
+募債,"ぼさい","loan floatation; raising of a loan","Guess the reading (3k:募,債)",Image
+勧誘,"かんゆう","canvasing; canvassing; encouragement; inducement; invitation; persuasion; solicitation","Guess the reading (3k:誘)",Image
+包摂,"ほうせつ","connotation; encompassing; inclusion; subsumption","Guess the reading (3k:摂)",Image
+北郊,"ほっこう","northern suburbs","Guess the reading (3k:郊)",Image
+卑劣,"ひれつ","base; contemptible; cowardly; despicable; dirty; foul; mean","Guess the reading (3k:卑)",Image
+卑屈,"ひくつ","grovelling; obsequious; self-abasing; servile; slavish; spineless; subservient","Guess the reading (3k:卑)",Image
+卓抜,"たくばつ","excellence; preeminence; prevalence; superiority","Guess the reading (3k:卓)",Image
+卓越,"たくえつ","excellence; preeminence; superiority; transcendence","Guess the reading (3k:卓)",Image
+南蛮,"なんばん","exotic (esp. in a Western European or South-East Asian style); foreign (of goods from South-East Asia and Western Europe); chili pepper; dish prepared using chili peppers and Welsh onions; nanban; South-East Asian countries (in the late-Muromachi and Edo periods); southern barbarians (name used in ancient China for non-Chinese ethnic groups to the south); thrusting the right foot and right arm for","Guess the reading (3k:蛮)",Image
+南郊,"なんこう","southern suburbs","Guess the reading (3k:郊)",Image
+危篤,"きとく","being on the verge of death; critical condition","Guess the reading (3k:篤)",Image
+卵胞,"らんほう,らんぽう","(ovarian) follicle,(ovarian) follicle","Guess the reading (3k:胞)",Image
+卸値,"おろしね","wholesale price","Guess the reading (3k:卸)",Image
+厚遇,"こうぐう","cordial welcome; hearty welcome; hospitality; kind treatment","Guess the reading (3k:遇)",Image
+原簿,"げんぼ","ledger; original record; register","Guess the reading (3k:簿)",Image
+双子,"そうし,ふたご","twin; twins,twin; twins","Guess the reading (3k:双)",Image
+双方,"そうほう","both parties; both sides","Guess the reading (3k:双)",Image
+双発,"そうはつ","two-motored","Guess the reading (3k:双)",Image
+双葉,"ふたば","bud; cotyledons; early stages; seed leaves (of a dicot); sprout; very beginning","Guess the reading (3k:双)",Image
+双頭,"そうとう","double-headed","Guess the reading (3k:双)",Image
+収奪,"しゅうだつ","exploitation; plundering","Guess the reading (3k:奪)",Image
+収穫,"しゅうかく","fruits (of one's labors); gain; result; returns; bag (hunting); catch (fishing); crop; harvest; haul; ingathering","Guess the reading (3k:穫)",Image
+召喚,"しょうかん","arraigning; calling; citation; subpoena; summoning; summons","Guess the reading (3k:喚)",Image
+台湾,"たいわん","Taiwan","Guess the reading (3k:湾)",Image
+吉報,"きっぽう","good news","Guess the reading (3k:吉)",Image
+名簿,"みょうぶ,めいぼ","proof of identity (for nobles, doctors, etc.; Heian period),list of names; register; register of names; roll; roster","Guess the reading (3k:簿)",Image
+呪縛,"じゅばく","binding spell; spell (that restricts one's movements)","Guess the reading (3k:縛)",Image
+呼び掛ける,"よびかける","to address; to appeal; to call out to; to hail","Guess the reading (3k:掛)",Image
+哀歓,"あいかん","happiness and sadness; joys and sorrows","Guess the reading (3k:哀)",Image
+哲人,"てつじん","philosopher; sage; wise man","Guess the reading (3k:哲)",Image
+哲学,"てつがく","philosophy","Guess the reading (3k:哲)",Image
+唐揚げ,"からあげ","deep-fried food (esp. chicken)","Guess the reading (3k:揚)",Image
+啓示,"けいじ","(divine) revelation","Guess the reading (3k:啓)",Image
+喜寿,"きじゅ","77th birthday","Guess the reading (3k:寿)",Image
+喫煙,"きつえん","smoking (tobacco)","Guess the reading (3k:喫)",Image
+喫緊,"きっきん","exigent; pressing; urgent","Guess the reading (3k:喫,緊)",Image
+営繕,"えいぜん","maintenance and repair; upkeep (of equipment)","Guess the reading (3k:繕)",Image
+嘱託,"しょくたく","part-time employee; temporary work; commission; entrusting with (work)","Guess the reading (3k:嘱,託)",Image
+回廊,"かいろう","cloister (i.e. covered walk typically circling a building or garden, esp. in a palace or place of worship); corridor; gallery; hallway","Guess the reading (3k:廊)",Image
+回顧,"かいこ","looking back; recollecting; reminiscing; retrospection; review","Guess the reading (3k:顧)",Image
+団塊,"だんかい","baby boom generation (of 1947-1949); babyboomer (born between 1947-1949); clod; clump; lump; mass; nodule","Guess the reading (3k:塊)",Image
+在籍,"ざいせき","being a member (of a team, organization, etc.); being enrolled (at a school); being registered","Guess the reading (3k:籍)",Image
+坑内,"こうない","within a pit or (mine) shaft","Guess the reading (3k:坑)",Image
+坑口,"こうこう","minehead; pithead","Guess the reading (3k:坑)",Image
+坑道,"こうどう","(mining) gallery; level; pit; shaft; tunnel","Guess the reading (3k:坑)",Image
+城郭,"じょうかく","castle; castle walls; citadel; enclosure; fortress","Guess the reading (3k:郭)",Image
+埋没,"まいぼつ","being absorbed (e.g. in research); being buried; being forgotten; being immersed; remaining unknown","Guess the reading (3k:埋,没)",Image
+埋葬,"まいそう","burial","Guess the reading (3k:埋,葬)",Image
+埋蔵,"まいぞう","burying in the ground; having underground deposits","Guess the reading (3k:埋)",Image
+埋設,"まいせつ","burying (e.g. pipe); laying underground (e.g. cables)","Guess the reading (3k:埋)",Image
+基礎,"きそ","basis; foundation","Guess the reading (3k:礎)",Image
+基礎控除,"きそこうじょ","basic or standard deduction","Guess the reading (3k:礎,控)",Image
+基軸,"きじく","basis; core; criterion; foundation; standard","Guess the reading (3k:軸)",Image
+塗り替える,"ぬりかえる","to break (a record); to change completely; to paint (a different colour); to paint again; to redraw (e.g. the map); to remake; to repaint","Guess the reading (3k:塗)",Image
+塗布,"とふ","application (of ointment, etc.); coating","Guess the reading (3k:塗)",Image
+塗装,"とそう","coating; painting","Guess the reading (3k:塗)",Image
+墓碑,"ぼひ","gravestone; tombstone","Guess the reading (3k:碑)",Image
+境遇,"きょうぐう","environment; one's circumstances; situation (in life)","Guess the reading (3k:遇)",Image
+墨付き,"すみつき","(the) thumbs up; authorisation; authorization; certificate; certified document; paper with signature of the shogun or lord; seal of approval","Guess the reading (3k:墨)",Image
+墨書,"ぼくしょ","writing in India ink","Guess the reading (3k:墨)",Image
+墨絵,"すみえ","ink painting","Guess the reading (3k:墨)",Image
+墳丘,"ふんきゅう","grave mound; tumulus","Guess the reading (3k:墳)",Image
+墳墓,"ふんぼ","grave; tomb","Guess the reading (3k:墳)",Image
+壁掛け,"かべかけ","wall-mounted; wall decoration; wall hanging; wall-mounted ornament","Guess the reading (3k:掛)",Image
+壊滅,"かいめつ","(complete) destruction; annihilation; devastation","Guess the reading (3k:滅)",Image
+変哲,"へんてつ","something odd; something out of the ordinary; something unusual","Guess the reading (3k:哲)",Image
+外郭,"がいかく","contour; outer block; outer enclosure; outer fence; outline","Guess the reading (3k:郭)",Image
+夢幻,"ゆめまぼろし,むげん","dreams; fantasy; visions,dreams; fantasy; visions","Guess the reading (3k:幻)",Image
+大悟,"だいご,たいご","enlightenment; great wisdom,enlightenment; great wisdom","Guess the reading (3k:悟)",Image
+奇怪,"きっかい,きかい","mysterious; outrageous; strange; weird; wonderful,mysterious; outrageous; strange; weird; wonderful","Guess the reading (3k:怪)",Image
+奉納,"ほうのう","dedication; oblation; offering; presentation","Guess the reading (3k:奉)",Image
+契機,"けいき","cause; chance; opportunity; trigger","Guess the reading (3k:契)",Image
+契約,"けいやく","agreement; compact; contract","Guess the reading (3k:契)",Image
+妨害,"ぼうがい","blocking; disturbance; hindrance; interference; interruption; jamming (a signal); obstruction","Guess the reading (3k:妨)",Image
+娘婿,"むすめむこ","son-in-law","Guess the reading (3k:婿)",Image
+娯楽,"ごらく","amusement; entertainment; hobby; pastime; pleasure; recreation","Guess the reading (3k:娯)",Image
+嫁ぎ先,"とつぎさき","family a woman has married into","Guess the reading (3k:嫁)",Image
+嫁入り,"よめいり","marriage; wedding","Guess the reading (3k:嫁)",Image
+孔子,"くじ,こうし","Confucius,Confucius","Guess the reading (3k:孔)",Image
+孔雀,"くざく,くじゃく","peafowl (incl. the male peacock, female peahen, and young peachick),peafowl (incl. the male peacock, female peahen, and young peachick)","Guess the reading (3k:孔)",Image
+孤独,"こどく","isolation; loneliness; solitude","Guess the reading (3k:孤)",Image
+安穏,"あんおん,あんのん","peace; quiet; tranquility; tranquillity,peace; quiet; tranquility; tranquillity","Guess the reading (3k:穏)",Image
+完遂,"かんつい,かんすい","accomplishment; carrying through; completion; fulfillment; successful execution,accomplishment; carrying through; completion; fulfillment; successful execution","Guess the reading (3k:遂)",Image
+官吏,"かんり","civil servant; government official; public servant","Guess the reading (3k:吏)",Image
+宝冠,"ほうかん","diadem; jeweled crown","Guess the reading (3k:冠)",Image
+家畜,"かちく","cattle; domestic animals; livestock","Guess the reading (3k:畜)",Image
+容赦なく,"ようしゃなく","mercilessly; relentlessly; unsparingly","Guess the reading (3k:赦)",Image
+寄り掛かる,"よりかかる","to depend on; to lean against; to lean on; to recline on; to rely on","Guess the reading (3k:掛)",Image
+寄託,"きたく","deposit; entrusting","Guess the reading (3k:託)",Image
+密封,"みっぷう","sealing (up); sealing hermetically","Guess the reading (3k:封)",Image
+密猟,"みつりょう","poaching","Guess the reading (3k:猟)",Image
+密葬,"みっそう","private funeral; secret burial","Guess the reading (3k:葬)",Image
+寝袋,"ねぶくろ","sleeping bag","Guess the reading (3k:袋)",Image
+審判,"しんばん,しんぱん","judge; referee; umpire; decision; judgement; judgement (of God); judging; judgment; refereeing; sentence; umpiring; verdict,judge; referee; umpire; decision; judgement; judgement (of God); judging; judgment; refereeing; sentence; umpiring; verdict","Guess the reading (3k:審)",Image
+審査,"しんさ","examination; inspection; investigation; judging; review","Guess the reading (3k:審)",Image
+封殺,"ふうさつ","force-out; suppression (e.g. of free speech)","Guess the reading (3k:封)",Image
+封鎖,"ふうさ","blockade; freezing (funds); lockdown; sealing off (an area)","Guess the reading (3k:封)",Image
+将棋,"しょうぎ","Japanese chess; shogi","Guess the reading (3k:棋)",Image
+尿酸,"にょうさん","uric acid","Guess the reading (3k:尿)",Image
+屈伸,"くっしん","bending and stretching; flexing and extending","Guess the reading (3k:伸)",Image
+屈託,"くったく","boredom; care; concern; ennui; worry","Guess the reading (3k:託)",Image
+屈辱,"くつじょく","disgrace; humiliation","Guess the reading (3k:辱)",Image
+山岳,"さんがく","mountain chain; mountains","Guess the reading (3k:岳)",Image
+峡谷,"きょうこく","canyon; glen; gorge; ravine","Guess the reading (3k:峡)",Image
+崩壊,"ほうかい","(radioactive) decay; breaking down; caving in; collapse; crumbling; disintegration","Guess the reading (3k:崩)",Image
+巧妙,"こうみょう","clever; deft; ingenious; skillful","Guess the reading (3k:巧)",Image
+巨匠,"きょしょう","maestro; master; masterhand","Guess the reading (3k:匠)",Image
+布施,"ふせ","alms-giving; charity; offerings (usu. money) to a priest (for reading sutras, etc.)","Guess the reading (3k:施)",Image
+帆船,"ほぶね,はんせん","sailing boat; sailing ship; sailing vessel,sailing boat; sailing ship; sailing vessel","Guess the reading (3k:帆)",Image
+帆走,"はんそう","sailing","Guess the reading (3k:帆)",Image
+帝政,"ていせい","imperial government; imperialism; monarchical rule","Guess the reading (3k:帝)",Image
+師匠,"ししょう","master; teacher; stable master","Guess the reading (3k:匠)",Image
+帳簿,"ちょうぼ","account book; ledger; register","Guess the reading (3k:簿)",Image
+常軌,"じょうき","normal course (of action); proper course; regular way","Guess the reading (3k:軌)",Image
+常駐,"じょうちゅう","resident (program, file, etc.); permanent stationing; staying permanently","Guess the reading (3k:駐)",Image
+平穏,"へいおん","calm; peaceful; quiet; restful; tranquil","Guess the reading (3k:穏)",Image
+幻影,"げんえい","illusion; phantom; vision","Guess the reading (3k:幻)",Image
+幻惑,"げんわく","bewitchment; dazzlement; entrancement; fascination","Guess the reading (3k:幻)",Image
+幻滅,"げんめつ","disillusionment","Guess the reading (3k:幻,滅)",Image
+幼稚,"ようち","childish; immature; infantile; primitive; infancy","Guess the reading (3k:稚)",Image
+幽閉,"ゆうへい","confinement; imprisonment; incarceration","Guess the reading (3k:幽)",Image
+幽霊,"ゆうれい","apparition; ghost; phantom; specter; spectre","Guess the reading (3k:幽,霊)",Image
+廃坑,"はいこう","abandoned mine; closure of a mine; disused mine","Guess the reading (3k:坑)",Image
+廊下,"ろうか","corridor; hallway; passageway","Guess the reading (3k:廊)",Image
+廉価,"れんか","low price; moderate price","Guess the reading (3k:廉)",Image
+廉潔,"れんけつ","honest; incorruptible; integrity","Guess the reading (3k:廉)",Image
+延滞,"えんたい","(being) overdue; arrears; delay (e.g. in payment); procrastination","Guess the reading (3k:滞)",Image
+当該,"とうがい","aforementioned; applicable; appropriate (e.g. authorities); competent; concerned; relevant; respective; said","Guess the reading (3k:該)",Image
+修了,"しゅうりょう","completion (of a course)","Guess the reading (3k:了)",Image
+修繕,"しゅうぜん","mending; repair","Guess the reading (3k:繕)",Image
+彫像,"ちょうぞう","carved statue; graven image; sculpture","Guess the reading (3k:彫)",Image
+彫刻,"ちょうこく","carving; engraving; sculpture","Guess the reading (3k:彫)",Image
+徐々に,"じょじょに","by degrees; gradually; little by little; slowly; steadily; step by step","Guess the reading (3k:徐)",Image
+徐行,"じょこう","going slowly (of a car, train, etc.)","Guess the reading (3k:徐)",Image
+御免,"ごめん","excuse me; I'm sorry; may I come in?; my apologies; pardon me; being fed up with; discharge; dismissal; leave; license; not wanting; objecting to; permission; wishing to avoid","Guess the reading (3k:免)",Image
+御霊,"ごりょう,みたま","spirit of a deceased person; the Holy Ghost; the Holy Spirit,spirit of a deceased person; the Holy Ghost; the Holy Spirit","Guess the reading (3k:霊)",Image
+心憎い,"こころにくい","admirable; refined; superb","Guess the reading (3k:憎)",Image
+忌避,"きひ","avoidance; challenge; evasion; recusation (of a judge); shirking; taking exception (to a judge)","Guess the reading (3k:忌)",Image
+応募,"おうぼ","application; enlistment; entry (competition, raffle, etc.); subscription","Guess the reading (3k:募)",Image
+応諾,"おうだく","compliance; consent","Guess the reading (3k:諾)",Image
+忠魂,"ちゅうこん","loyalty; the loyal dead","Guess the reading (3k:魂)",Image
+快諾,"かいだく","ready consent","Guess the reading (3k:諾)",Image
+思慕,"しぼ","deep affection; longing for; yearning","Guess the reading (3k:慕)",Image
+怠慢,"たいまん","carelessness; neglect; negligence; procrastination","Guess the reading (3k:怠)",Image
+性癖,"せいへき","characteristic; disposition; fetish; idiosyncrasy; inclination; propensity; sexual disposition","Guess the reading (3k:癖)",Image
+怪奇,"かいき","bizarre; grotesque; mysterious; strange; weird","Guess the reading (3k:怪)",Image
+怪我,"けが","accident; injury; loss; mistake; wound","Guess the reading (3k:怪)",Image
+怪獣,"かいじゅう","monster","Guess the reading (3k:怪)",Image
+怪盗,"かいとう","mysterious thief; phantom thief","Guess the reading (3k:怪)",Image
+恐慌,"きょうこう","alarm; financial panic; panic; panic; scare","Guess the reading (3k:慌)",Image
+恥辱,"ちじょく","disgrace; insult; shame","Guess the reading (3k:辱)",Image
+恩赦,"おんしゃ","amnesty; pardon","Guess the reading (3k:赦)",Image
+悔し涙,"くやしなみだ","bitter tears; chagrin; tears of regret; vexation","Guess the reading (3k:悔)",Image
+愚弄,"ぐろう","derision; mockery; ridicule","Guess the reading (3k:愚)",Image
+愚痴,"ぐち","moha (ignorance, folly); grumble; idle complaint","Guess the reading (3k:愚)",Image
+愚直,"ぐちょく","simple honesty; tactless frankness","Guess the reading (3k:愚)",Image
+愚行,"ぐこう","folly; foolish act","Guess the reading (3k:愚)",Image
+愛憎,"あいぞう","love and hate","Guess the reading (3k:憎)",Image
+感慨,"かんがい","deep emotion; strong feelings","Guess the reading (3k:慨)",Image
+慈善,"じぜん","benevolence; charity; philanthropy","Guess the reading (3k:慈)",Image
+慈眼,"じがん,じげん","merciful eye (of a Buddha or a bodhisattva watching humanity),merciful eye (of a Buddha or a bodhisattva watching humanity)","Guess the reading (3k:慈)",Image
+慰留,"いりゅう","dissuasion (from resigning, leaving, etc.); persuading (to stay)","Guess the reading (3k:慰)",Image
+慰謝,"いしゃ","consolation","Guess the reading (3k:慰)",Image
+慰霊,"いれい","consoling the spirits of the dead","Guess the reading (3k:慰,霊)",Image
+憂慮,"ゆうりょ","anxiety; concern; fear","Guess the reading (3k:憂)",Image
+憎悪,"ぞうお","abhorrence; detestation; hatred; loathing","Guess the reading (3k:憎)",Image
+憤慨,"ふんがい","indignation; resentment","Guess the reading (3k:慨)",Image
+成し遂げる,"なしとげる","to accomplish; to finish; to fulfill","Guess the reading (3k:遂)",Image
+扶桑,"ふそう","Chinese hibiscus (Hibiscus rosa-sinensis); divine tree or island east of China (in Chinese mythology); Fusang; Japan","Guess the reading (3k:桑)",Image
+承諾,"しょうだく","acceptance; agreement; approval; compliance; consent","Guess the reading (3k:諾)",Image
+技巧,"ぎこう","finesse; technique","Guess the reading (3k:巧)",Image
+抑制,"よくせい","check; constraint; control; curb; curtailment; inhibition; restraint; suppression","Guess the reading (3k:抑)",Image
+抑圧,"よくあつ","check; oppression; restraint; suppression","Guess the reading (3k:抑)",Image
+抑揚,"よくよう","accent; inflection; intonation; modulation","Guess the reading (3k:抑,揚)",Image
+抑留,"よくりゅう","detainment; detention; internment","Guess the reading (3k:抑)",Image
+抜粋,"ばっすい","excerpt; extract; selection","Guess the reading (3k:粋)",Image
+抱き締める,"だきしめる","to embrace closely; to hold someone tight; to hug someone close","Guess the reading (3k:締)",Image
+抱擁,"ほうよう","embrace; holding in one's arms; hug","Guess the reading (3k:擁)",Image
+押し掛ける,"おしかける","to barge in on; to call on without an invitation; to converge upon; to crowd into; to gatecrash; to go uninvited; to pile in; to throng to","Guess the reading (3k:掛)",Image
+抽象,"ちゅうしょう","abstraction","Guess the reading (3k:抽)",Image
+担架,"たんか","gurney; litter (medical); stretcher","Guess the reading (3k:架)",Image
+拘留,"こうりゅう","confinement; custody; detention","Guess the reading (3k:拘)",Image
+拘禁,"こうきん","confinement; custody; detention; internment","Guess the reading (3k:拘)",Image
+招請,"しょうじょう,ちょうしょう,しょうせい","invitation,invitation,invitation","Guess the reading (3k:請)",Image
+拝啓,"はいけい","Dear (so and so); Dear Madam; Dear Sir; To Whom It May Concern","Guess the reading (3k:啓)",Image
+括弧,"かっこ","brackets; parentheses","Guess the reading (3k:弧)",Image
+振り絞る,"ふりしぼる","to exert fully; to muster all of (one's strength, courage, etc.); to strain (one's voice); to summon all of; to use to the full (one's voice, energy, etc.)","Guess the reading (3k:絞)",Image
+捕鯨,"ほげい","whale fishing; whale hunting; whaling","Guess the reading (3k:鯨)",Image
+掃射,"そうしゃ","mowing down; strafing; sweeping with fire","Guess the reading (3k:掃)",Image
+掃討,"そうとう","cleaning up; mopping up; sweeping up","Guess the reading (3k:掃)",Image
+掃除,"そうじ","cleaning; dusting; scrubbing; sweeping","Guess the reading (3k:掃)",Image
+掌握,"しょうあく","commanding; grasping; having control over; holding; seizing","Guess the reading (3k:掌)",Image
+排卵,"はいらん","ovulation","Guess the reading (3k:排)",Image
+排斥,"はいせき","boycott; expulsion; ostracism; rejection","Guess the reading (3k:排,斥)",Image
+排煙,"はいえん","smoke (dispersal)","Guess the reading (3k:排)",Image
+排除,"はいじょ","clearing away; elimination; exclusion; getting rid of; removal","Guess the reading (3k:排)",Image
+掘削,"くっさく","digging out; excavation","Guess the reading (3k:削)",Image
+掛け値,"かけね","exaggeration; inflated price (assigned in anticipation of being haggled down); overcharging","Guess the reading (3k:掛)",Image
+掛け捨て,"かけずて,かけすて","fixed-term payment (usu. insurance); stopping payment of installments (usu. insurance),fixed-term payment (usu. insurance); stopping payment of installments (usu. insurance)","Guess the reading (3k:掛)",Image
+掛け軸,"かけじく","hanging scroll","Guess the reading (3k:掛,軸)",Image
+採択,"さいたく","adoption; choice; selection","Guess the reading (3k:択)",Image
+控訴,"こうそ","appeal to a higher court; intermediate appeal","Guess the reading (3k:控)",Image
+控除,"こうじょ","deduction (e.g. tax); subsidy; subtraction","Guess the reading (3k:控)",Image
+措置,"そち","action; measure; step","Guess the reading (3k:措)",Image
+掲揚,"けいよう","flying; hoisting (e.g. a flag); putting up; raising","Guess the reading (3k:掲,揚)",Image
+掲示,"けいじ","bulletin; notice; placard; post; posting","Guess the reading (3k:掲)",Image
+掲載,"けいさい","carrying (e.g. a story); insertion (e.g. of an advertisement); posting (e.g. on the web); printing; publication (e.g. of an article in a newspaper); running (e.g. a serial)","Guess the reading (3k:掲)",Image
+提携,"ていけい","alliance; cooperation; joint business; partnership; sponsorship; tie-up","Guess the reading (3k:携)",Image
+揚げ句,"あげく","last line (of a renga); after (a long process); at the end of","Guess the reading (3k:揚)",Image
+握り締める,"にぎりしめる","to grasp tightly","Guess the reading (3k:締)",Image
+搾乳,"さくにゅう","breast pumping; milk expression; milking (a cow, goat, etc.)","Guess the reading (3k:搾)",Image
+摂取,"せっしゅ","absorption (e.g. of new knowledge); adoption (e.g. of foreign culture); assimilation; ingestion; intake (e.g. of salt); reception and protection","Guess the reading (3k:摂)",Image
+摂氏,"せっし","Celsius; centigrade","Guess the reading (3k:摂)",Image
+摂理,"せつり","(divine) providence; laws (of nature)","Guess the reading (3k:摂)",Image
+撃墜,"げきつい","shooting down (aircraft)","Guess the reading (3k:墜)",Image
+撮影,"さつえい","(video) recording; filming; photographing; photography (still or motion); shooting","Guess the reading (3k:撮)",Image
+擁護,"おうご,ようご","the Buddha's help (aid, succour),championship; defence; protection; safeguarding; support; vindication","Guess the reading (3k:擁)",Image
+擦り傷,"かすりきず,さっしょう,すりきず","abrasion; graze; scratch,abrasion; graze; scratch,abrasion; graze; scratch","Guess the reading (3k:擦)",Image
+改訂,"かいてい","alteration; change; revision (of text)","Guess the reading (3k:訂)",Image
+赦免,"しゃめん","amnesty; pardon; remission","Guess the reading (3k:赦,免)",Image
+敢闘,"かんとう","fighting bravely","Guess the reading (3k:敢)",Image
+施政,"しせい","administration; government; statesmanship","Guess the reading (3k:施)",Image
+施策,"しさく","measure; policy","Guess the reading (3k:施)",Image
+施設,"しせつ","establishment; facility; institution; home (for elderly, orphans, etc.)","Guess the reading (3k:施)",Image
+施錠,"せじょう","locking","Guess the reading (3k:施,錠)",Image
+既刊,"きかん","already published","Guess the reading (3k:既)",Image
+既婚,"きこん","married","Guess the reading (3k:既)",Image
+既存,"きぞん,きそん","existing,existing","Guess the reading (3k:既)",Image
+既往,"きおう","the past","Guess the reading (3k:既)",Image
+既製,"きせい","off the shelf; ready-made","Guess the reading (3k:既)",Image
+既設,"きせつ","established; existing","Guess the reading (3k:既)",Image
+昇任,"しょうにん","advancement; promotion","Guess the reading (3k:昇)",Image
+昇格,"しょうかく","promotion; raising of status","Guess the reading (3k:昇)",Image
+昇華,"しょうか","channelling; converting; diverting; elevating; sublimating (an emotion, impulse, etc.); sublimation","Guess the reading (3k:昇,華)",Image
+昇降,"しょうこう","ascending and descending; going up and down","Guess the reading (3k:昇)",Image
+普賢,"ふげん","Samantabhadra (bodhisattva); Universal Compassion","Guess the reading (3k:賢)",Image
+暖房,"だんぼう","(indoor) heating","Guess the reading (3k:房)",Image
+暖炉,"だんろ","fireplace; hearth; stove","Guess the reading (3k:炉)",Image
+暫定,"ざんてい","provisional; temporary; tentative","Guess the reading (3k:暫)",Image
+暴虐,"ぼうぎゃく","atrocity; tyranny","Guess the reading (3k:虐)",Image
+朗詠,"ろうえい","recitation (of Japanese or Chinese poem)","Guess the reading (3k:詠)",Image
+未遂,"みすい","failed attempt (at a crime, suicide, etc.)","Guess the reading (3k:遂)",Image
+束縛,"そくばく","binding; confinement with rope; fetters; restraint; restriction; shackles; yoke","Guess the reading (3k:縛)",Image
+架設,"かせつ","building; construction","Guess the reading (3k:架)",Image
+桑原,"くわばら","mulberry field","Guess the reading (3k:桑)",Image
+桑田,"そうでん","mulberry plantation","Guess the reading (3k:桑)",Image
+桑畑,"くわばた,くわばたけ","mulberry field; mulberry plantation,mulberry field; mulberry plantation","Guess the reading (3k:桑)",Image
+棄却,"ききゃく","abandoning; dismissal; rejection; renunciation; turning down","Guess the reading (3k:棄)",Image
+棄損,"きそん","damage; defamation; harm; injury","Guess the reading (3k:棄)",Image
+棄権,"きけん","abstention (from voting); renunciation (of a right); withdrawal (from a contest)","Guess the reading (3k:棄)",Image
+棋士,"きし","professional go player; professional shogi player","Guess the reading (3k:棋)",Image
+棋聖,"きせい","great master of go; great master of shogi","Guess the reading (3k:棋)",Image
+検閲,"けんえつ","censorship; examination; inspection","Guess the reading (3k:閲)",Image
+楼閣,"ろうかく","multistoried building","Guess the reading (3k:楼)",Image
+概況,"がいきょう","general situation; outlook","Guess the reading (3k:概)",Image
+概略,"がいりゃく","gist; in brief; outline; summary","Guess the reading (3k:概)",Image
+概論,"がいろん","general remarks; introduction; outline","Guess the reading (3k:概)",Image
+模倣,"もほう","copying; imitation","Guess the reading (3k:倣)",Image
+欺瞞,"ぎまん","deceit; deception","Guess the reading (3k:欺)",Image
+殊勝,"しゅしょう","admirable; laudable","Guess the reading (3k:殊)",Image
+殊勲,"しゅくん","distinguished services; meritorious deeds","Guess the reading (3k:殊)",Image
+殴り込み,"なぐりこみ","assault; attack; raid","Guess the reading (3k:殴)",Image
+沈没,"ちんぼつ","foundering; getting dead drunk; going down; having too much fun (esp. in a red-light district, etc.) and missing work or neglecting one's duties; sinking; staying in one place for a long time; submersion","Guess the reading (3k:没)",Image
+沈滞,"ちんたい","inactivity; stagnation","Guess the reading (3k:滞)",Image
+没収,"ぼっしゅう","confiscation; forfeiture; impounding; seizure","Guess the reading (3k:没)",Image
+河畔,"かはん","riverside","Guess the reading (3k:畔)",Image
+海峡,"かいきょう","channel (e.g. between two land masses); strait","Guess the reading (3k:峡)",Image
+浪費,"ろうひ","extravagance; waste","Guess the reading (3k:浪)",Image
+浮き彫り,"うきぼり","embossed carving; relief; bringing to the fore; throwing something into relief","Guess the reading (3k:彫)",Image
+浮揚,"ふよう","buoyancy; buoying up (e.g. economy); floatation; floating (e.g. in air, water)","Guess the reading (3k:揚)",Image
+液晶,"えきしょう","liquid crystal","Guess the reading (3k:晶)",Image
+添削,"てんさく","correction; looking over; touching up","Guess the reading (3k:削)",Image
+減免,"げんめん","mitigation and remission (e.g. in criminal law); reduction and exemption (e.g. taxes)","Guess the reading (3k:免)",Image
+減刑,"げんけい","commutation of a sentence; reduction of penalty","Guess the reading (3k:刑)",Image
+減衰,"げんすい","attenuation; damping; decay","Guess the reading (3k:衰)",Image
+渡欧,"とおう","going to Europe; trip to Europe","Guess the reading (3k:欧)",Image
+港湾,"こうわん","harbor; harbour","Guess the reading (3k:湾)",Image
+湾岸,"わんがん","bay coast; gulf coast","Guess the reading (3k:湾)",Image
+湾曲,"わんきょく","bend; crook; curve","Guess the reading (3k:湾)",Image
+満悦,"まんえつ","great delight; great satisfaction; rapture","Guess the reading (3k:悦)",Image
+滅亡,"めつぼう","collapse; destruction; downfall; ruin","Guess the reading (3k:滅)",Image
+滅私,"めっし","being unselfish; selflessness","Guess the reading (3k:滅)",Image
+滑り込む,"すべりこむ","to slide into; to slip into","Guess the reading (3k:滑)",Image
+滑り降りる,"すべりおりる","to slide down; to slip down","Guess the reading (3k:滑)",Image
+滝口,"たきぐち","top of a waterfall","Guess the reading (3k:滝)",Image
+滝川,"たきがわ","rapids","Guess the reading (3k:滝)",Image
+滞在,"たいざい","sojourn; stay","Guess the reading (3k:滞)",Image
+滞留,"たいりゅう","accumulation; pile-up; sojourn; stagnation; standstill; stay","Guess the reading (3k:滞)",Image
+滞納,"たいのう","being in arrears; default; delinquency; falling behind (with a payment); non-payment","Guess the reading (3k:滞)",Image
+漂泊,"ひょうはく","drifting (with the current, on the tide, etc.); drifting about; roaming; wandering","Guess the reading (3k:漂)",Image
+漏出,"ろうしゅつ","leak; leakage; leaking out","Guess the reading (3k:漏)",Image
+漏洩,"ろうせつ,ろうえい","coming through (of light); escape (of gas); leak (of gas, liquid, etc.); leakage; disclosure; divulging; leak (of secrets, information, etc.),coming through (of light); escape (of gas); leak (of gas, liquid, etc.); leakage; disclosure; divulging; leak (of secrets, information, etc.)","Guess the reading (3k:漏)",Image
+演壇,"えんだん","platform; rostrum","Guess the reading (3k:壇)",Image
+潔癖,"けっぺき","fastidiousness; love of cleanliness","Guess the reading (3k:癖)",Image
+潜り込む,"もぐりこむ","to conceal oneself (under); to crawl into (under); to infiltrate; to slip into; to sneak into","Guess the reading (3k:潜)",Image
+潜伏,"せんぷく","ambush; concealment; dormancy; hiding; incubation; latency","Guess the reading (3k:潜,伏)",Image
+潜在,"せんざい","dormancy; latency; potentiality","Guess the reading (3k:潜)",Image
+潜航,"せんこう","submarine voyage; underwater navigation","Guess the reading (3k:潜)",Image
+潤沢,"じゅんたく","abundant; affluent; ample; glossy; lustrous; plentiful","Guess the reading (3k:潤)",Image
+激励,"げきれい","cheering (on); encouragement; spurring (on)","Guess the reading (3k:励)",Image
+濃紺,"のうこん","dark blue","Guess the reading (3k:紺)",Image
+濫伐,"らんばつ","overcutting of forests; reckless deforestation","Guess the reading (3k:濫,伐)",Image
+濫獲,"らんかく","excessive fishing; excessive taking; overfishing; overhunting","Guess the reading (3k:濫)",Image
+瀬踏み,"せぶみ","measuring the depths (of a river); sounding out","Guess the reading (3k:瀬)",Image
+炊き込み,"たきこみ","(something) cooked with rice","Guess the reading (3k:炊)",Image
+焦燥,"しょうそう","fretfulness; frustration; impatience; irritation","Guess the reading (3k:焦)",Image
+牧畜,"ぼくちく","cattle breeding; livestock farming; stock-farming","Guess the reading (3k:畜)",Image
+特殊,"とくしゅ","particular; peculiar; special; unique","Guess the reading (3k:殊)",Image
+犠牲,"いけにえ,ぎせい","(living) sacrifice; scapegoat; victim,casualty; sacrifice; sacrifice (to a deity); victim (dead and wounded)","Guess the reading (3k:犠,牲)",Image
+狩猟,"しゅりょう","hunting","Guess the reading (3k:猟)",Image
+独房,"どくぼう","isolation cell; single cell; solitary cell; solitary confinement cell","Guess the reading (3k:房)",Image
+猟師,"りょうし","hunter; huntsman","Guess the reading (3k:猟)",Image
+甘辛,"あまから","salted and sweetened taste; sweetness and saltiness","Guess the reading (3k:辛)",Image
+生憎,"あいにく","sorry, but ...; unfortunately","Guess the reading (3k:憎)",Image
+甲乙,"こうおつ","A and B; discernment; discrimination; distinction (in quality); first and second; superiority and (or) inferiority","Guess the reading (3k:甲,乙)",Image
+画廊,"がろう","art gallery (esp. artworks for sale); picture gallery","Guess the reading (3k:廊)",Image
+畜生,"ちきしょう,ちくしょう","damn; damn it; for Christ's sake; son of a bitch; animal; bastard; beast; brute; person reborn into the animal realm,damn; damn it; for Christ's sake; son of a bitch; animal; bastard; beast; brute; person reborn into the animal realm","Guess the reading (3k:畜)",Image
+畜産,"ちくさん","animal husbandry; livestock industry","Guess the reading (3k:畜)",Image
+略奪,"りゃくだつ","looting; pillage; plunder; robbery","Guess the reading (3k:奪)",Image
+疑獄,"ぎごく","bribery scandal; graft case","Guess the reading (3k:獄)",Image
+疾駆,"しっく","driving a horse fast; riding fast","Guess the reading (3k:疾)",Image
+痛恨,"つうこん","bitter grief; deep regret; great sorrow","Guess the reading (3k:恨)",Image
+痛惜,"つうせき","deep regret","Guess the reading (3k:惜)",Image
+白菊,"しらぎく","white chrysanthemum","Guess the reading (3k:菊)",Image
+皇帝,"おうだい,こうてい","emperor,emperor","Guess the reading (3k:帝)",Image
+盗聴,"とうちょう","bug; interception (email); wiretap","Guess the reading (3k:聴)",Image
+盗賊,"とうぞく","bandit; burglar; robber; thief","Guess the reading (3k:賊)",Image
+盛衰,"せいすい","rise and fall; ups and downs; vicissitudes; welfare","Guess the reading (3k:衰)",Image
+監獄,"かんごく","prison","Guess the reading (3k:獄)",Image
+瞳孔,"どうこう","pupil (of the eye)","Guess the reading (3k:孔)",Image
+破棄,"はき","abrogation; annulment; breaking (e.g. a treaty); cancellation; destruction; quashing; reversal (of an original ruling on appeal); tearing up and discarding (e.g. documents); voiding","Guess the reading (3k:棄)",Image
+破滅,"はめつ","destruction; fall; ruin","Guess the reading (3k:滅)",Image
+破裂,"はれつ","breakdown (of talks, negotiations, etc.); breaking off; bursting; explosion; rupture","Guess the reading (3k:裂)",Image
+硬派,"こうは","(young) man with traditionally masculine interests; man's man; strait-laced type (with respect to relationships); tough boy; bullish traders; diehards; hard news; hard-liners; hawks; reporter who covers political and economic affairs","Guess the reading (3k:硬)",Image
+硬質,"こうしつ","hardness; stiffness","Guess the reading (3k:硬)",Image
+硬骨,"こうこつ","backbone; firmness (of character); unyielding spirit; bone","Guess the reading (3k:硬)",Image
+禁忌,"きんき","contraindication; taboo","Guess the reading (3k:忌)",Image
+福祉,"ふくち,ふくし","social security; social service; social welfare; welfare; well-being,social security; social service; social welfare; welfare; well-being","Guess the reading (3k:祉)",Image
+秘匿,"ひとく","concealment; hiding","Guess the reading (3k:匿)",Image
+移籍,"いせき","transfer (of one's name into another family register); transfer (to another team, company, etc.)","Guess the reading (3k:籍)",Image
+移譲,"いじょう","assignment; transfer","Guess the reading (3k:譲)",Image
+種痘,"しゅとう","inoculation against smallpox; smallpox vaccination","Guess the reading (3k:痘)",Image
+稲穂,"いなほ","ear (head) of rice","Guess the reading (3k:穂)",Image
+穏便,"おんびん","amicable; gentle; peaceable; quiet; simply; without fuss","Guess the reading (3k:穏)",Image
+穏健,"おんけん","(politically) moderate; dependable; quiet; uniform","Guess the reading (3k:穏)",Image
+穏和,"おんわ","agreeable; clement; gentle (nature, personality, etc.); mild; mild; mild (climate); moderate (statement, measure, etc.); pleasant; pleasant; quiet; temperate; temperate","Guess the reading (3k:穏)",Image
+穏当,"おんとう","appropriate; proper; reasonable; right","Guess the reading (3k:穏)",Image
+穴埋め,"あなうめ","compensation; covering (a deficit); filler (e.g. article); filling (up) a hole; filling in (for a gap, vacancy, etc.); making up (for a loss, damage, etc.); stopgap; cloze deletion (test format)","Guess the reading (3k:埋)",Image
+突き崩す,"つきくずす","to crush (e.g. enemy); to knock down; to level; to pick apart; to raze; to refute; to tear down; to throw into confusion; to undermine","Guess the reading (3k:崩)",Image
+突っ掛ける,"つっかける","to bash into; to hit (e.g. one's leg) against; to push (one's opponent) down before he stands up; to slip on (slippers, sandals, etc.)","Guess the reading (3k:掛)",Image
+突如,"とつじょ","all of a sudden; suddenly; unexpectedly","Guess the reading (3k:如)",Image
+突貫,"とっかん","charging (at the enemy) with a shout; penetration; piercing; rush; rushing (an activity); working at full speed","Guess the reading (3k:貫)",Image
+窒素,"ちっそ","nitrogen (N)","Guess the reading (3k:窒)",Image
+符号,"ふごう","code; mark; sign; sign (e.g. positive, negative); symbol","Guess the reading (3k:符)",Image
+策謀,"さくぼう","artifice; strategy","Guess the reading (3k:謀)",Image
+簿外,"ぼがい","off the books; unaccounted","Guess the reading (3k:簿)",Image
+簿記,"ぼき","bookkeeping; journalisation; journalization (accounts)","Guess the reading (3k:簿)",Image
+粗削り,"あらけずり","incomplete; rough-hewn; still in the process of being formed; unrefined","Guess the reading (3k:粗,削)",Image
+粗暴,"そぼう","rough (behaviour, temperament, etc.); rude; violent; wild","Guess the reading (3k:粗)",Image
+粗筋,"あらすじ","argument; outline; summary","Guess the reading (3k:粗)",Image
+粗鋼,"そこう","crude steel","Guess the reading (3k:粗)",Image
+粗雑,"そざつ","coarse; crude; rough","Guess the reading (3k:粗)",Image
+粘性,"ねんせい","viscosity","Guess the reading (3k:粘)",Image
+粘膜,"ねんまく","mucous membrane","Guess the reading (3k:粘,膜)",Image
+精巧,"せいこう","delicate; elaborate; exquisite","Guess the reading (3k:巧)",Image
+精華,"せいか","essence; flower; glory; quintessence","Guess the reading (3k:華)",Image
+精錬,"せいれん","refinement; refining; smelting; training","Guess the reading (3k:錬)",Image
+精霊,"せいれい,しょうりょう","ghost; soul; spirit,spirit of the deceased","Guess the reading (3k:霊)",Image
+精魂,"せいこん","soul; spirit","Guess the reading (3k:魂)",Image
+糧食,"りょうしょく","provisions","Guess the reading (3k:糧)",Image
+純粋,"じゅんすい","genuine; pure; true; unmixed","Guess the reading (3k:粋)",Image
+紛れ込む,"まぎれこむ","to be lost in; to be mixed up with; to disappear into; to slip into","Guess the reading (3k:紛)",Image
+紫紺,"しこん","bluish purple","Guess the reading (3k:紺)",Image
+絞り込む,"しぼりこむ","to narrow down; to refine; to squeeze; to wring out","Guess the reading (3k:絞)",Image
+絞殺,"こうさつ","strangling; strangulation","Guess the reading (3k:絞)",Image
+絶滅,"ぜつめつ","eradication; extermination; extinction; stamping out; wiping out","Guess the reading (3k:滅)",Image
+綱渡り,"つなわたり","funambulism; high-wire act; pulling a risky balancing act; tightrope walking; treading a tightrope; walking on thin ice","Guess the reading (3k:綱)",Image
+綱紀,"こうき","(official) discipline; law and order","Guess the reading (3k:綱)",Image
+綱領,"こうりょう","general plan; main points; mission statement; platform (e.g. for a campaign); summary","Guess the reading (3k:綱)",Image
+網膜,"もうまく","retina","Guess the reading (3k:膜)",Image
+緊密,"きんみつ","closeness; compactness; rigor; rigour; tightly knit","Guess the reading (3k:緊)",Image
+緊張,"きんちょう","muscle tone; tonus; nervousness; strain; stress; tension; tensions (between countries, groups, etc.)","Guess the reading (3k:緊)",Image
+緊縮,"きんしゅく","contraction; economy; retrenchment; shrinkage","Guess the reading (3k:緊)",Image
+緊迫,"きんぱく","strain; tension","Guess the reading (3k:緊)",Image
+総崩れ,"そうくずれ","collapse; rout","Guess the reading (3k:崩)",Image
+緩慢,"かんまん","dull; lax; lenient; sloppy; slow; sluggish","Guess the reading (3k:緩)",Image
+緩衝,"かんしょう","buffered","Guess the reading (3k:緩,衝)",Image
+縛り首,"しばりくび","(death by) hanging","Guess the reading (3k:縛)",Image
+縦貫,"じゅうかん","running through; traversal","Guess the reading (3k:貫)",Image
+縦軸,"じゅうじく,たてじく","connection between past and present; spindle; vertical axis; vertical line; vertical shaft,connection between past and present; spindle; vertical axis; vertical line; vertical shaft","Guess the reading (3k:軸)",Image
+縫い針,"ぬいばり","sewing needle","Guess the reading (3k:縫)",Image
+縫製,"ほうせい","sewing (by machine)","Guess the reading (3k:縫)",Image
+罪滅ぼし,"つみほろぼし","atonement (for one's sins); expiation; making amends; making up for (a misdeed)","Guess the reading (3k:滅)",Image
+翻訳,"ほんやく","translation; deciphering; decoding; translation","Guess the reading (3k:翻)",Image
+老婆,"ろうば","old woman","Guess the reading (3k:婆)",Image
+耐乏,"たいぼう","austerity; voluntary privation","Guess the reading (3k:乏)",Image
+聴衆,"ちょうしゅう","attendance; audience; hearers","Guess the reading (3k:聴)",Image
+聴講,"ちょうこう","auditing; lecture attendance","Guess the reading (3k:聴)",Image
+肝炎,"かんえん","hepatitis","Guess the reading (3k:肝,炎)",Image
+肝臓,"かんぞう","liver","Guess the reading (3k:肝)",Image
+肩凝り,"かたこり","stiff neck; stiff shoulders","Guess the reading (3k:凝)",Image
+肺炎,"はいえん","pneumonia","Guess the reading (3k:炎)",Image
+胃炎,"いえん","gastric catarrh; gastritis","Guess the reading (3k:炎)",Image
+胃袋,"いぶくろ","dietary needs; stomach","Guess the reading (3k:袋)",Image
+背伸び,"せいのび,せのび","overreaching oneself; overstretching oneself; pushing to the limit; standing on tiptoe and stretching one's back to make oneself taller; stretching oneself; trying to do something beyond one's ability,overreaching oneself; overstretching oneself; pushing to the limit; standing on tiptoe and stretching one's back to make oneself taller; stretching oneself; trying to do something beyond one's abilit","Guess the reading (3k:伸)",Image
+胎盤,"たいばん","placenta","Guess the reading (3k:胎)",Image
+脅威,"きょうい","menace; threat","Guess the reading (3k:脅)",Image
+脅迫,"きょうはく","blackmail; coercion; menace; threat","Guess the reading (3k:脅)",Image
+脳炎,"のうえん","brain inflammation; cerebritis; encephalitis","Guess the reading (3k:炎)",Image
+腰掛ける,"こしかける","to sit (down)","Guess the reading (3k:掛)",Image
+腸炎,"ちょうえん","enteritis","Guess the reading (3k:炎)",Image
+腹膜炎,"ふくまくえん","peritonitis","Guess the reading (3k:膜,炎)",Image
+膨張,"ぼうちょう","expansion; growth; increase; swelling","Guess the reading (3k:膨)",Image
+興隆,"こうりゅう","prosperity; rise","Guess the reading (3k:隆)",Image
+舞姫,"ぶき,まいひめ","dancing girl; danseuse; female dancer,dancing girl; danseuse; female dancer","Guess the reading (3k:姫)",Image
+花嫁,"はなよめ","bride","Guess the reading (3k:嫁)",Image
+芳香,"ほうこう","aroma; balm; fragrance; perfume; sweet scent","Guess the reading (3k:芳)",Image
+苗床,"なえどこ","nursery; seedbed; seed-plot","Guess the reading (3k:苗)",Image
+華厳,"けごん","avatamsa (flower adornment, as a metaphor for becoming a buddha); Avatamska sutra; Kegon (sect of Buddhism)","Guess the reading (3k:華)",Image
+華麗,"かれい","gorgeous; magnificent; splendid","Guess the reading (3k:華)",Image
+菊花,"きっか,きくか","chrysanthemum flower,chrysanthemum flower","Guess the reading (3k:菊)",Image
+葬儀,"そうぎ","funeral; funeral service","Guess the reading (3k:葬)",Image
+薄膜,"はくまく,うすまく","thin film,thin film","Guess the reading (3k:膜)",Image
+藩士,"はんし","retainer of a daimyo","Guess the reading (3k:藩)",Image
+虐殺,"ぎゃくさつ","massacre; slaughter","Guess the reading (3k:虐)",Image
+虚像,"きょぞう","false image; pretence; pretense; virtual image","Guess the reading (3k:虚)",Image
+虚構,"きょこう","concoction; fabrication; fiction","Guess the reading (3k:虚)",Image
+虚脱,"きょだつ","(physical) collapse; despondency; lethargy; mental numbness; prostration","Guess the reading (3k:虚)",Image
+虚飾,"きょしょく","affectation; ostentation; show","Guess the reading (3k:虚)",Image
+蛮勇,"ばんゆう","brute courage; foolhardiness; recklessness; savage valor; savage valour","Guess the reading (3k:蛮)",Image
+蛮行,"ばんこう","act of barbarity; barbarism; brutality; savagery","Guess the reading (3k:蛮)",Image
+衝撃,"しょうげき","impact; impulse; shock; (psychological) shock","Guess the reading (3k:衝)",Image
+衝突,"しょうとつ","brush; clash; collision; conflict; crash; discord; impact; quarrel; running into; skirmish","Guess the reading (3k:衝)",Image
+衰退,"すいたい","decay; decline; degeneration; ebbing; waning","Guess the reading (3k:衰)",Image
+被膜,"ひまく","capsule; coating; film; membrane; tunic (plants)","Guess the reading (3k:膜)",Image
+被覆,"ひふく","coating; cover; covering","Guess the reading (3k:覆)",Image
+裁縫,"さいほう","needlework; sewing","Guess the reading (3k:縫)",Image
+装甲,"そうこう","armor; armoring; armour; armouring","Guess the reading (3k:甲)",Image
+裸婦,"らふ","naked woman; nude woman","Guess the reading (3k:裸)",Image
+裸眼,"らがん","bare eyes (i.e. without glasses, contact lenses, etc.); unaided vision; uncorrected vision","Guess the reading (3k:裸)",Image
+製陶,"せいとう","porcelain manufacturing","Guess the reading (3k:陶)",Image
+視聴,"してい,しちょう","(television) viewing; looking and listening; watching; (public) attention; interest,(television) viewing; looking and listening; watching; (public) attention; interest","Guess the reading (3k:聴)",Image
+覚悟,"かくご","preparedness; readiness; resignation; resolution","Guess the reading (3k:悟)",Image
+解凍,"かいとう","decompression (of data); defrosting; extraction; thawing; unpacking; unzipping","Guess the reading (3k:凍)",Image
+解雇,"かいこ","discharge; dismissal (of an employee); firing; layoff","Guess the reading (3k:雇)",Image
+訂正,"ていせい","amendment; correction; revision","Guess the reading (3k:訂)",Image
+託宣,"たくせん","divine message; oracle; revelation","Guess the reading (3k:託)",Image
+訪欧,"ほうおう","visit to Europe; visiting Europe","Guess the reading (3k:欧)",Image
+許諾,"きょだく","approval; assent; consent; permission","Guess the reading (3k:諾)",Image
+詐欺,"さぎ","cheating; flaking out; fraud; graft; making promises without keeping them; saying you're going to do something but in the end not doing it; scam; swindle; trick","Guess the reading (3k:欺)",Image
+詰め掛ける,"つめかける","to crowd (a house); to throng to (a door)","Guess the reading (3k:掛)",Image
+該当,"がいとう","being applicable to; being relevant to; coming under; corresponding to; falling under; fulfilling (requirements); meeting (conditions); qualifying for","Guess the reading (3k:該)",Image
+誘因,"ゆういん","contributing cause; exciting cause; incentive; motive","Guess the reading (3k:誘)",Image
+誘導,"ゆうどう","guidance; incitement; inducement; induction; introduction; leading","Guess the reading (3k:誘)",Image
+誘惑,"ゆうわく","allurement; enticement; lure; seduction; temptation","Guess the reading (3k:誘)",Image
+誘爆,"ゆうばく","induced explosion; secondary explosion","Guess the reading (3k:誘)",Image
+誘致,"ゆうち","attraction; invitation; lure","Guess the reading (3k:誘)",Image
+請託,"せいたく","solicitation","Guess the reading (3k:請,託)",Image
+論壇,"ろんだん","rostrum; the world of criticism","Guess the reading (3k:壇)",Image
+諾否,"だくひ","accept or reject; assent or dissent; consent or refusal; decision to accept or decline; up or down (vote); yes or no","Guess the reading (3k:諾)",Image
+諮問,"しもん","consultation; enquiry; inquiry; question","Guess the reading (3k:諮)",Image
+謀略,"ぼうりゃく","artifice; plot; scheme; stratagem; trick","Guess the reading (3k:謀)",Image
+警鐘,"けいしょう","alarm bell; fire bell; wake-up call; warning","Guess the reading (3k:鐘)",Image
+譲り渡す,"ゆずりわたす","to cede; to hand over; to turn over","Guess the reading (3k:譲)",Image
+譲与,"じょうよ","transfer","Guess the reading (3k:譲)",Image
+豚肉,"とんにく,ぶたにく","pork,pork","Guess the reading (3k:豚)",Image
+豪華,"ごうか","extravagant; fancy; gorgeous; lavish; luxurious; magnificent; opulent; splendid","Guess the reading (3k:華)",Image
+貧乏,"びんぼう","destitute; penurious; poor; poverty-stricken","Guess the reading (3k:乏)",Image
+赴任,"ふにん","(proceeding to) new appointment; moving to a different location to start a new job","Guess the reading (3k:赴)",Image
+超絶,"ちょうぜつ","excellence; superiority; transcendence","Guess the reading (3k:超)",Image
+超越,"ちょうえつ","transcendence; transcendency","Guess the reading (3k:超)",Image
+超過,"ちょうか","being more than; excess","Guess the reading (3k:超)",Image
+躍如,"やくじょ","graphic; lifelike; vivid","Guess the reading (3k:如)",Image
+軌跡,"きせき","locus; path one has taken; tire track; traces of a person or thing","Guess the reading (3k:軌)",Image
+転嫁,"てんか","remarriage; second marriage; imputation; passing the buck; shifting (blame, responsibility, etc.)","Guess the reading (3k:嫁)",Image
+輪郭,"りんかく","contour; features; looks; outline; outline; silhouette; sketch; summary","Guess the reading (3k:郭)",Image
+辛抱,"しんぼう","endurance; patience; perseverance","Guess the reading (3k:辛)",Image
+辛酸,"しんさん","hardships; privation","Guess the reading (3k:辛)",Image
+近郊,"きんこう","environs (of a city); outskirts; surrounding area; surroundings","Guess the reading (3k:郊)",Image
+逮捕,"たいほ","apprehension; arrest; capture","Guess the reading (3k:逮)",Image
+遂行,"すいこう","accomplishment; execution","Guess the reading (3k:遂)",Image
+遅滞,"ちたい","delay; procrastination","Guess the reading (3k:滞)",Image
+遊郭,"ゆうかく","(licensed) red light district","Guess the reading (3k:郭)",Image
+遭遇,"そうぐう","being confronted with (e.g. a difficulty); encounter; meeting with (e.g. an accident); running into","Guess the reading (3k:遭,遇)",Image
+遭難,"そうなん","accident; disaster; distress; shipwreck","Guess the reading (3k:遭)",Image
+遵守,"じゅんしゅ","abiding by; adherence; compliance; following; obeying; observance (of laws, rules, etc.)","Guess the reading (3k:遵)",Image
+遺恨,"いこん","enmity; grudge; ill will","Guess the reading (3k:恨)",Image
+遺棄,"いき","abandonment; desertion","Guess the reading (3k:棄)",Image
+邦訳,"ほうやく","translation into Japanese","Guess the reading (3k:邦)",Image
+邪険,"じゃけん","cruel; hard-hearted; harsh; unkind","Guess the reading (3k:邪)",Image
+郊外,"こうがい","commuter belt; residential area on the outskirt of a city; suburb","Guess the reading (3k:郊)",Image
+酔っ払い,"よっぱらい","drunkard","Guess the reading (3k:酔)",Image
+酵素,"こうそ","enzyme","Guess the reading (3k:酵)",Image
+野菊,"のぎく","aster; wild chrysanthemum","Guess the reading (3k:菊)",Image
+野蛮,"やばん","barbaric; barbarous; savage; uncivilised; uncivilized","Guess the reading (3k:蛮)",Image
+金縛り,"かなしばり","being tied down with money; binding hand and foot; sleep paralysis; temporary feeling of paralysis","Guess the reading (3k:縛)",Image
+鋳型,"いがた","mold; mould; template","Guess the reading (3k:鋳)",Image
+鋳造,"ちゅうぞう","casting; founding; minting","Guess the reading (3k:鋳)",Image
+錠剤,"じょうざい","lozenge; pill; tablet","Guess the reading (3k:錠)",Image
+錯乱,"さくらん","confusion; derangement; distraction","Guess the reading (3k:錯)",Image
+錯誤,"さくご","discrepancy; discrepancy between one's actions and intentions; error; mistake","Guess the reading (3k:錯)",Image
+鍛錬,"たんれん","annealing; disciplining; forging; tempering (metal); toughening; training","Guess the reading (3k:鍛,錬)",Image
+鎮圧,"ちんあつ","putting down; quelling; repression; suppression (of a riot, revolt, etc.)","Guess the reading (3k:鎮)",Image
+鎮座,"ちんざ","enshrinement","Guess the reading (3k:鎮)",Image
+鎮魂,"たましずめ,ちんこん","ceremony for the repose of a departed soul; repose of a soul,ceremony for the repose of a departed soul; repose of a soul","Guess the reading (3k:鎮,魂)",Image
+鐘楼,"しゅろう,しょうろう","belfry; bell tower,belfry; bell tower","Guess the reading (3k:鐘,楼)",Image
+開墾,"かいこん","clearing; cultivating new land; reclamation","Guess the reading (3k:墾)",Image
+閲覧,"えつらん","browsing (the web); inspection; perusal; reading","Guess the reading (3k:閲)",Image
+阻害,"そがい","blocking; check; hindrance; impediment; inhibition; obstruction","Guess the reading (3k:阻)",Image
+阻止,"そし","blocking; check; hindrance; impediment; interdiction; obstruction; preemption; prevention","Guess the reading (3k:阻)",Image
+降伏,"こうふく","yield; capitulation; submission; surrender","Guess the reading (3k:伏)",Image
+除湿,"じょしつ","dehumidification","Guess the reading (3k:湿)",Image
+除籍,"じょせき","decommissioning; expelling (e.g. from school); removing a name","Guess the reading (3k:籍)",Image
+陪審,"ばいしん","jury","Guess the reading (3k:陪,審)",Image
+陰湿,"いんしつ","devious; malicious; shady and damp; sly; spiteful; underhanded; vicious; wicked","Guess the reading (3k:湿)",Image
+陰謀,"いんぼう","agreement between two or more people to commit an unlawful act; conspiracy; intrigue; plot; scheme","Guess the reading (3k:謀)",Image
+陳情,"ちんじょう","appeal; petition","Guess the reading (3k:陳)",Image
+陳腐,"ちんぷ","cliched; hackneyed; stale","Guess the reading (3k:陳)",Image
+陳謝,"ちんしゃ","apology","Guess the reading (3k:陳)",Image
+陳述,"ちんじゅつ","declaration; statement","Guess the reading (3k:陳)",Image
+陵墓,"りょうぼ","imperial mausoleum; imperial tomb","Guess the reading (3k:陵)",Image
+陶磁,"とうじ","clay","Guess the reading (3k:陶)",Image
+陶酔,"とうすい","being carried away by; being enraptured by; intoxication","Guess the reading (3k:陶,酔)",Image
+隆盛,"りゅうせい","flourishing; prosperity; thriving","Guess the reading (3k:隆)",Image
+随伴,"ずいはん","accompanying; adjoint; attendance; following","Guess the reading (3k:随,伴)",Image
+隔壁,"かくへき","barrier wall; bulkhead; diaphragm; partition; septum","Guess the reading (3k:隔)",Image
+隔絶,"かくぜつ","inaccessibility; isolation; reclusion; remoteness; seclusion; separation; sequestration","Guess the reading (3k:隔)",Image
+隔離,"かくり","isolation; quarantine; segregation; separation","Guess the reading (3k:隔)",Image
+隠匿,"いんとく","concealment (esp. of wrongdoings or criminals); harboring; sheltering","Guess the reading (3k:匿)",Image
+隠滅,"えんめつ,いんめつ","concealment; destruction (esp. of evidence); hiding; spoliation; suppression,concealment; destruction (esp. of evidence); hiding; spoliation; suppression","Guess the reading (3k:滅)",Image
+雑炊,"ぞうすい","rice gruel containing vegetables, fish, etc., and seasoned with miso or soy sauce","Guess the reading (3k:炊)",Image
+難聴,"なんちょう","bradyacusia; deafness; hardness of hearing; having poor reception (radio, etc.); hearing loss","Guess the reading (3k:聴)",Image
+雨漏り,"あまもり","roof leak","Guess the reading (3k:漏)",Image
+零下,"れいか","below zero; sub-zero","Guess the reading (3k:零)",Image
+零敗,"れいはい","being undefeated; having no losses; losing without scoring; shutout; whitewash","Guess the reading (3k:零)",Image
+零時,"れいじ","midnight; noon; twelve o'clock","Guess the reading (3k:零)",Image
+零点,"れいてん","freezing point; no marks; root; zero (of a function); zero (points, marks); zero degrees (Celsius)","Guess the reading (3k:零)",Image
+零細,"れいさい","cottage (industry); insignificant; paltry; tiny (company); trifling","Guess the reading (3k:零)",Image
+霊泉,"れいせん","miraculous spring or fountain","Guess the reading (3k:霊)",Image
+霊魂,"れいこん","soul; spirit","Guess the reading (3k:霊,魂)",Image
+静穏,"せいおん","calmness; quietness; serenity; tranquility; tranquillity","Guess the reading (3k:穏)",Image
+音符,"おんぷ","musical note; note symbol; part of a kanji for which the role is primarily to represent the pronunciation (as opposed to the meaning); phonetic symbol (incl. the kanji and kana-doubling symbols, vowel-lengthening symbol, etc.)","Guess the reading (3k:符)",Image
+預託,"よたく","depositing (of money, valuables, etc.); deposition","Guess the reading (3k:託)",Image
+顧問,"こもん","adviser; advisor; consultant","Guess the reading (3k:顧)",Image
+顧客,"こかく,こきゃく","client; customer; patron,client; customer; patron","Guess the reading (3k:顧)",Image
+食糧,"しょくりょう","food (esp. staple food such as rice or wheat); food supply; provisions; rations","Guess the reading (3k:糧)",Image
+飢餓,"きが","famine; hunger; starvation","Guess the reading (3k:餓)",Image
+飽和,"ほうわ","satiation; saturation","Guess the reading (3k:飽)",Image
+飽食,"ほうしょく","having adequate food; having all one needs (for daily living); plenty; eating one's fill; eating until one is full; gorging (on); satiation","Guess the reading (3k:飽)",Image
+養豚,"ようとん","pig farming; pig-keeping","Guess the reading (3k:豚)",Image
+餓死,"がしん,がし","(death from) starvation; starving to death,(death from) starvation; starving to death","Guess the reading (3k:餓)",Image
+駐在,"ちゅうざい","(job) posting; being stationed (overseas, etc.); residence; stay; residential police box; residential police box officer","Guess the reading (3k:駐)",Image
+駐留,"ちゅうりゅう","garrison; stationing (e.g. of troops)","Guess the reading (3k:駐)",Image
+騎士,"きし","(medieval) knight; samurai on horseback","Guess the reading (3k:騎)",Image
+骨髄,"こつずい","bone marrow; medulla; one's mind; true spirit","Guess the reading (3k:髄)",Image
+髄膜炎,"ずいまくえん","meningitis","Guess the reading (3k:髄,膜,炎)",Image
+魂胆,"こんたん","complicated circumstances; intricacies; plot; scheme; ulterior motive","Guess the reading (3k:魂,胆)",Image
+魅了,"みりょう","to captivate; to charm; to enthrall; to fascinate; to hold spellbound; to mesmerize; charm; fascination","Guess the reading (3k:魅,了)",Image
+魅惑,"みわく","attraction; captivation; charm; fascination; lure","Guess the reading (3k:魅)",Image
+魔術,"まじゅつ","black magic; juggling; magic tricks; sorcery","Guess the reading (3k:魔)",Image
+鶏卵,"けいらん","hen's egg","Guess the reading (3k:鶏)",Image
+鼓膜,"こまく","eardrum; tympanic membrane","Guess the reading (3k:膜)",Image

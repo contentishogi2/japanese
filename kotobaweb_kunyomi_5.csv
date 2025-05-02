@@ -1,0 +1,617 @@
+question,answer,comment,instruction
+"一
+sample words:
+どれ一つ
+一つ置きに
+一突き",ひとつ,"一:one, a unit; the same; just; once
+どれ一つ(どれひとつ):not one
+一つ置きに(ひとつおきに):alternately
+一突き(ひとつき):stab; lunge; thrust",Jouyou. JLPT : N5
+"一
+sample words:
+一折り
+一間
+一盛り",ひと,"一:one, a unit; the same; just; once
+一折り(ひとおり):one box
+一間(ひとま):one room
+一盛り(ひともり):pile",Jouyou. JLPT : N5
+"七
+sample words:
+無くて七癖
+七重
+七十",なな,"七:seven
+無くて七癖(なくてななくせ):every person has their eccentricities
+七重(ななえ):sevenfold; seven-ply
+七十(ななそ):seventy; 70",Jouyou. JLPT : N5
+"三
+sample words:
+三従兄弟
+三貴
+三十",み,"三:three
+三従兄弟(みいとこ):third cousin
+三貴(みき):Miki; Miki Corporation
+三十(みそ):30; thirty",Jouyou. JLPT : N5
+"上
+sample words:
+お上さん
+上方歌舞伎
+上期",かみ,"上:up, upper part, top, summit; surface; far better;....................
+お上さん(おかみさん):missus; missis
+上方歌舞伎(かみがたかぶき):kabuki in the Kyoto-Osaka style
+上期(かみき):first half of the (fiscal) year",Jouyou. JLPT : N5
+"上
+sample words:
+上付き文字
+上の子
+上を行く",うえ,"上:up, upper part, top, summit; surface; far better;....................
+上付き文字(うえつきもじ):superscript
+上の子(うえのこ):the older child
+上を行く(うえをいく):to be ahead of",Jouyou. JLPT : N5
+"下
+sample words:
+下刈り
+下つき
+下付き文字",した,"下:come down, go down; get down, descend; be given; .................
+下刈り(したがり):weeding
+下つき(したつき):subscript
+下付き文字(したつきもじ):subscript",Jouyou. JLPT : N5
+"下
+sample words:
+足下
+足下を見る
+御膝下",もと,"下:come down, go down; get down, descend; be given; .................
+足下(あしもと):gait; current; most recent; underfoot; pace; at o..
+足下を見る(あしもとをみる):to size up (e.g. customer when setting a high pri.
+御膝下(おひざもと):Imperial court; close aid (of a nobleman, etc.); .....",Jouyou. JLPT : N5
+"中
+sample words:
+心の中
+此の中
+卑下も自慢の中",うち,"中:inside, interior, midst, middle, mean, midway
+心の中(こころのうち):one's mind; one's inner thoughts; one's heart; on.
+此の中(このうち):the other day; meanwhile; recently
+卑下も自慢の中(ひげもじまんのうち):taking pride in one's humility is a form of bragg..",Jouyou. JLPT : N5
+"中
+sample words:
+背中
+背中を出す
+中刳り",なか,"中:inside, interior, midst, middle, mean, midway
+背中(せなか):back (of the body)
+背中を出す(せなかをだす):to bare one's back
+中刳り(なかぐり):boring",Jouyou. JLPT : N5
+"九
+sample words:
+九重
+九日
+九十路",ここの,"九:nine
+九重(ここのえ):imperial palace; ninefold; the Court
+九日(ここのか):9th day of the month; nine days
+九十路(ここのそじ):age ninety; one's nineties",Jouyou. JLPT : N5
+"二
+sample words:
+二子
+二十路
+二間",ふた,"二:two
+二子(ふたご):twins; twin
+二十路(ふたそじ):age twenty; one's twenties
+二間(ふたま):two rooms",Jouyou. JLPT : N5
+"五
+sample words:
+五重
+五日
+五日熱",いつ,"五:five; five years old
+五重(いつえ):five-storied; fivefold; quintuplicate
+五日(いつか):five days; 5th day of the month
+五日熱(いつかねつ):trench fever",Jouyou. JLPT : N5
+"人
+sample words:
+書き人
+ぱりさい人
+人くろん",ひと,"人:man, human being, mankind, person, people; charac..
+書き人(かきびと):writer
+ぱりさい人(ぱりさいびと):Pharisee
+人くろん(ひとくろん):human clone",Jouyou. JLPT : N5
+"先
+sample words:
+先立ち
+先っちょ
+差し出し先",さき,"先:point, tip, end; nozzle; head (of a line); the fi..
+先立ち(さきだち):before
+先っちょ(さきっちょ):point; end; tip
+差し出し先(さしだしさき):address",Jouyou. JLPT : N5
+"入
+sample words:
+入り揚げる
+入目
+討ち入り",いり,"入:go in, come in; flow into; set; set in. put in, t......
+入り揚げる(いりあげる):to lavish money on
+入目(いりめ):expenses
+討ち入り(うちいり):raid",Jouyou. JLPT : N5
+"八
+sample words:
+八重
+八重咲き
+八重の潮路",や,"八:eight
+八重(やえ):multilayered; doubled
+八重咲き(やえざき):double blossom
+八重の潮路(やえのしおじ):distant seas",Jouyou. JLPT : N5
+"六
+sample words:
+明け六つ
+二四六九士
+六借しい",む,"六:six
+明け六つ(あけむつ):the sixth hour of the morning
+二四六九士(にしむくさむらい):nishimuku samurai (mnemonic for remembering the m.
+六借しい(むずかしい):fussy; glum; detestable; unfeasible; complicated;.....",Jouyou. JLPT : N5
+"円
+sample words:
+黄星円跳虫
+円く
+円味",まる,"円:round, circular, spherical
+黄星円跳虫(きぼしまるとびむし):garden springtail (Bourletiella hortensis)
+円く(まるく):in a circle; amicably
+円味(まるみ):maturity; mellowness; rotundity; roundness",Jouyou. JLPT : N5
+"出
+sample words:
+出来不出来
+出来れば
+出州",で,"出:appear, come out, emerge; haunt, infest; be found..............
+出来不出来(できふでき):uneven results
+出来れば(できれば):if possible
+出州(です):spit (of land)",Jouyou. JLPT : N5
+"十
+sample words:
+五十日
+十一
+十日",とお,"十:ten
+五十日(ごとおび):days of the month ending in 5 or 0 (when payments.
+十一(とおいち):dealt hand consisting of 1-point cards and one si..
+十日(とおか):10th day of the month; ten days",Jouyou. JLPT : N5
+"十
+sample words:
+十重
+十重二十重
+十五",と,"十:ten
+十重(とえ):tenfold
+十重二十重(とえはたえ):multitude
+十五(とご):black-market loan charging 50% interest every ten.",Jouyou. JLPT : N5
+"千
+sample words:
+噛み千切る
+食い千切る
+千重",ち,"千:thousand, many
+噛み千切る(かみちぎる):to bite off
+食い千切る(くいちぎる):to bite off
+千重(ちえ):many layers; many piles",Jouyou. JLPT : N5
+"右
+sample words:
+右くりっく
+右手
+右に折れる",みぎ,"右:right, right hand
+右くりっく(みぎくりっく):right-click
+右手(みぎて):right-hand side; right hand; (on) the right; righ.
+右に折れる(みぎにおれる):to turn to the right",Jouyou. JLPT : N5
+"名
+sample words:
+烏帽子名
+假名
+名が挙がる",な,"名:name; fame, reputation; pretext
+烏帽子名(えぼしな):adult name
+假名(かな):kana; Japanese syllabary (i.e. hiragana, katakana.
+名が挙がる(ながあがる):to become famous",Jouyou. JLPT : N5
+"四
+sample words:
+二十四時間
+四畳半趣味
+四十",よ,"四:four
+二十四時間(にじゅうよじかん):twenty-four hours; 24 hours
+四畳半趣味(よじょうはんしゅみ):enjoying food, drink and entertainment in a small.
+四十(よそ):forty; 40",Jouyou. JLPT : N5
+"四
+sample words:
+第四世界
+四駆
+四こま",よん,"四:four
+第四世界(だいよんせかい):Fourth World
+四駆(よんく):four-wheel drive
+四こま(よんこま):yonkoma; four-panel comic strip",Jouyou. JLPT : N5
+"土
+sample words:
+土に埋める
+土を被せる
+粘土",つち,"土:earth, soil, ground
+土に埋める(つちにうめる):to bury in the ground
+土を被せる(つちをかぶせる):to cover with earth
+粘土(へなつち):clay",Jouyou. JLPT : N5
+"大
+sample words:
+大食らい
+大野
+大身",おお,"大:large, great, grand, mighty, immense; severe; hea..
+大食らい(おおぐらい):glutton
+大野(おおの):large field
+大身(おおみ):long blade",Jouyou. JLPT : N5
+"女
+sample words:
+あば擦れ女
+女仮名
+女歌舞伎",おんな,"女:woman, female, sweetheart, girl
+あば擦れ女(あばずれおんな):coquette; flirt; minx; vamp; tease
+女仮名(おんながな):hiragana
+女歌舞伎(おんなかぶき):girls' kabuki",Jouyou. JLPT : N5
+"子
+sample words:
+吾子
+御子さん
+織り子",こ,"子:child, offspring; the young (of animals)
+吾子(あこ):my child
+御子さん(おこさん):child
+織り子(おりこ):weaver",Jouyou. JLPT : N5
+"子
+sample words:
+天鼠子
+粉吹金亀子
+子月",ね,"子:child, offspring; the young (of animals)
+天鼠子(くすね):boiled pine pitch and oil (traditionally used as .
+粉吹金亀子(こふきこがね):Japanese cockchafer (Melolontha japonica)
+子月(ねづき):eleventh month of the lunar calendar",Jouyou. JLPT : N5
+"小
+sample words:
+小間
+小女
+小気味よげに",こ,"小:small, little, diminutive, minute, fine, trivial..
+小間(こま):small room
+小女(こめ):small girl
+小気味よげに(こきみよげに):in a gloating manner",Jouyou. JLPT : N5
+"山
+sample words:
+お山
+山一證券
+山が見える",やま,"山:mountain, hill, height, knoll; heap, pile; crown ..
+お山(おやま):mountain
+山一證券(やまいち):Yamaichi Securities Company, Limited
+山が見える(やまがみえる):to have the end in sight; to see the mountains",Jouyou. JLPT : N5
+"川
+sample words:
+いささ小川
+いさら小川
+川越え",かわ,"川:river, stream, brook
+いささ小川(いささおがわ):trickling brook
+いさら小川(いさらおがわ):trickling brook
+川越え(かわごえ):crossing a river",Jouyou. JLPT : N5
+"左
+sample words:
+左かぶ
+左くりっく
+左手",ひだり,"左:left; the left; leftist
+左かぶ(ひだりかぶ):left curve
+左くりっく(ひだりくりっく):left-click
+左手(ひだりて):left hand; left-hand direction; (on) the left; le.",Jouyou. JLPT : N5
+"年
+sample words:
+うるう年
+今年
+ため年",とし,"年:year; age, time of life
+うるう年(うるうどし):leap year
+今年(ことし):this year
+ため年(ためどし):same age",Jouyou. JLPT : N5
+"日
+sample words:
+日に当てる
+日の入り
+日の出",ひ,"日:sun; time; day, date
+日に当てる(ひにあてる):to expose to the sun
+日の入り(ひのいり):sunset
+日の出(ひので):sunrise",Jouyou. JLPT : N5
+"月
+sample words:
+月毛
+月ろけっと
+ひと月",つき,"月:moon; month
+月毛(つきげ):palomino
+月ろけっと(つきろけっと):moon rocket
+ひと月(ひとつき):one month",Jouyou. JLPT : N5
+"木
+sample words:
+居木
+老い木
+木場",き,"木:tree; wood; timber; lumber; wooden clappers
+居木(いぎ):bars (of a saddle tree)
+老い木(おいき):old tree
+木場(きば):lumberyard",Jouyou. JLPT : N5
+"本
+sample words:
+旗本八万騎
+日の本
+本木",もと,"本:beginning, origin; foundation, basis, source; cau..
+旗本八万騎(はたもとはちまんき):the shogun's eighty thousand guards, comprising h.
+日の本(ひのもと):Japan
+本木(もとき):original stock",Jouyou. JLPT : N5
+"水
+sample words:
+黄水
+濃水
+水漬く",みず,"水:water
+黄水(きみず):gall; bile
+濃水(こみず):rice water
+水漬く(みずく):to be soaked (in water); to be drenched",Jouyou. JLPT : N5
+"火
+sample words:
+蚊火
+蚊火
+火で溶ける",ひ,"火:fire, flame, blaze
+蚊火(かひ):smoky fire to repel mosquitoes
+蚊火(かび):smoky fire to repel mosquitoes
+火で溶ける(ひでとける):to melt in the fire",Jouyou. JLPT : N5
+"生
+sample words:
+お生
+生でた
+生飲み込み",なま,"生:grow, spring up; cut (teeth). cultivate, wear (a ..........
+お生(おなま):impudence; sauciness
+生でた(なまでた):raw data
+生飲み込み(なまのみこみ):superficial",Jouyou. JLPT : N5
+"男
+sample words:
+男気
+男っ気
+男っぽい",おとこ,"男:man, male; fellow; adult; manhood; male servant; .
+男気(おとこけ):male presence
+男っ気(おとこっけ):male presence
+男っぽい(おとこっぽい):boyish; manly",Jouyou. JLPT : N5
+"白
+sample words:
+白味
+白目を剥く
+白わいん",しろ,"白:white, fair (skin); gray (hair); blank (paper); s.
+白味(しろみ):whiteness
+白目を剥く(しろめをむく):to faint; to open one's eyes wide (as in fear or .
+白わいん(しろわいん):white wine",Jouyou. JLPT : N5
+"車
+sample words:
+うぉむ歯車
+車いす
+車座",くるま,"車:wheel; vehicle, carriage, wagon; cart, wheelbarro.
+うぉむ歯車(うぉむはぐるま):worm gear
+車いす(くるまいす):wheelchair
+車座(くるまざ):sitting in a circle",Jouyou. JLPT : N5
+"金
+sample words:
+お金
+お金持ち
+金のこ",かね,"金:money, metal
+お金(おかね):money
+お金持ち(おかねもち):rich person
+金のこ(かねのこ):hacksaw",Jouyou. JLPT : N5
+"金
+sample words:
+金気
+金糸雀茄子
+金糸雀",かな,"金:money, metal
+金気(かなけ):metallic taste; taste of iron
+金糸雀茄子(かなりあなす):nipplefruit (Solanum mammosum); cow's udder; titt.
+金糸雀(かなりや):canary (esp. the island canary, Serinus canaria)",Jouyou. JLPT : N5
+"雨
+sample words:
+雨が上がる
+雨がち
+雨が降る",あめ,"雨:rain, rainfall
+雨が上がる(あめがあがる):to stop raining
+雨がち(あめがち):rainy
+雨が降る(あめがふる):to rain",Jouyou. JLPT : N5
+"万
+sample words:
+千代万代
+八百万
+八十万",よろず,"万:ten thousand; myriad. fully; if by any chance
+千代万代(ちよよろずよ):(through) eternity; countless ages; for ever and .
+八百万(やおよろず):countless things; myriad
+八十万(やそよろず):many",Jouyou. JLPT : N5
+"今
+sample words:
+今しき
+今では
+今に",いま,"今:now, present time; just now, soon, immediately; (.
+今しき(いましき):now
+今では(いまでは):nowadays; now
+今に(いまに):even now; before long",Jouyou. JLPT : N5
+"何
+sample words:
+何がな
+何語
+何にしても",なに,"何:what
+何がな(なにがな):something
+何語(なにご):what language
+何にしても(なににしても):anyhow; at any rate; even so",Jouyou. JLPT : N5
+"何
+sample words:
+何か無しに
+何期も
+何語",なん,"何:what
+何か無しに(なんかなしに):casually
+何期も(なんきも):many periods
+何語(なんご):how many words",Jouyou. JLPT : N5
+"前
+sample words:
+御名前
+気前
+ずっと前に",まえ,"前:front, fore part; head (of a line); presence; ago.
+御名前(おなまえ):name
+気前(きまえ):generosity
+ずっと前に(ずっとまえに):a long time ago",Jouyou. JLPT : N5
+"北
+sample words:
+北あふりか
+北あめりか
+北受け",きた,"北:north
+北あふりか(きたあふりか):North Africa
+北あめりか(きたあめりか):North America
+北受け(きたうけ):facing the north",Jouyou. JLPT : N5
+"午
+sample words:
+午年
+午の年
+午の日",うま,"午:11 a.m.-1 p.m.; 7th zodiac sign
+午年(うまどし):year of the Horse
+午の年(うまのとし):year of the Horse
+午の日(うまのひ):day of the Horse",Jouyou. JLPT : N5
+"南
+sample words:
+真南
+南あ
+南あじあ",みなみ,"南:south
+真南(まみなみ):due south
+南あ(みなみあ):South Africa
+南あじあ(みなみあじあ):South Asia",Jouyou. JLPT : N5
+"友
+sample words:
+ずっ友
+友垣
+友子",とも,"友:friend, companion, pal
+ずっ友(ずっとも):friends forever
+友垣(ともがき):friend
+友子(ともこ):comrade; companion; friend",Jouyou. JLPT : N5
+"国
+sample words:
+国こど
+国つ
+国尽くし",くに,"国:country, land, realm; province; native land
+国こど(くにこど):country code
+国つ(くにつ):of the land
+国尽くし(くにづくし):list of province names",Jouyou. JLPT : N5
+"外
+sample words:
+この外
+沙汰の外
+その外",ほか,"外:outside, exterior, open air; some other place; ou.......
+この外(このほか):moreover; in addition; besides
+沙汰の外(さたのほか):out of the question; preposterous; absurd; unreas.
+その外(そのほか):and other ...; other than that; and the like; and..",Jouyou. JLPT : N5
+"外
+sample words:
+外様大名
+外つ国
+外幕",と,"外:outside, exterior, open air; some other place; ou.......
+外様大名(とざまだいみょう):non-Tokugawa daimyo
+外つ国(とつくに):province outside Kinai; foreign country
+外幕(とまく):outer curtain (in a military encampment)",Jouyou. JLPT : N5
+"外
+sample words:
+蚊帳の外
+外寝
+外見",そと,"外:outside, exterior, open air; some other place; ou.......
+蚊帳の外(かやのそと):being excluded; being kept out of the loop; being..
+外寝(そとね):sleeping outside (on a hot summer night)
+外見(そとみ):looks; outward appearance",Jouyou. JLPT : N5
+"後
+sample words:
+後から
+後知恵
+後で",あと,"後:after, since then; future; after one's death. bac....
+後から(あとから):after; later
+後知恵(あとぢえ):hindsight
+後で(あとで):afterwards; later (on)",Jouyou. JLPT : N5
+"後
+sample words:
+後ろ手
+後面
+後ろもたれ",うしろ,"後:after, since then; future; after one's death. bac....
+後ろ手(うしろで):rear; back; behind; putting one's hands behind on.
+後面(うしろめん):rear; back; rear side
+後ろもたれ(うしろもたれ):backward lean out",Jouyou. JLPT : N5
+"後
+sample words:
+後添い
+後添え
+後に",のち,"後:after, since then; future; after one's death. bac....
+後添い(のちぞい):one's second wife
+後添え(のちぞえ):one's second wife
+後に(のちに):by and by; after a while; later on; subsequently",Jouyou. JLPT : N5
+"時
+sample words:
+かわたれ時
+死に時
+たそがれ時",とき,"時:time, hour, moment, occasion; season; opportunity.
+かわたれ時(かわたれどき):daybreak; dawn
+死に時(しにどき):time to die
+たそがれ時(たそがれどき):dusk; twilight",Jouyou. JLPT : N5
+"東
+sample words:
+北東
+東あじあ
+東あふりか",ひがし,"東:east
+北東(きたひがし):northeast
+東あじあ(ひがしあじあ):East Asia
+東あふりか(ひがしあふりか):East Africa",Jouyou. JLPT : N5
+"母
+sample words:
+義理の母
+母子
+母御",はは,"母:mother; cause; motive
+義理の母(ぎりのはは):mother-in-law; stepmother; foster mother
+母子(ははこ):mother and child
+母御(ははご):mother",Jouyou. JLPT : N5
+"毎
+sample words:
+一年毎
+日毎
+日毎夜毎",ごと,"毎:each, every, at an interval of, whenever. Apiece
+一年毎(いちねんごと):every (one) year
+日毎(ひごと):daily; every day
+日毎夜毎(ひごとよごと):day after day; every day and every night; daily",Jouyou. JLPT : N5
+"父
+sample words:
+義理の父
+父親らしい
+父君",ちち,"父:father
+義理の父(ぎりのちち):foster father; father-in-law; stepfather
+父親らしい(ちちおやらしい):fatherly; paternal
+父君(ちちぎみ):father",Jouyou. JLPT : N5
+"西
+sample words:
+西あじあ
+西あふりか
+西ごと",にし,"西:west
+西あじあ(にしあじあ):West Asia
+西あふりか(にしあふりか):West Africa
+西ごと(にしごと):Visigoth",Jouyou. JLPT : N5
+"話
+sample words:
+御話
+話し甲斐
+話変わるけど",はなし,"話:talk, speak, converse; tell; explain. chat, conve..
+御話(おはなし):discussion; talk; story; tale
+話し甲斐(はなしがい):worth talking to
+話変わるけど(はなしかわるけど):by the way; changing the subject; on a different .",Jouyou. JLPT : N5
+"間
+sample words:
+いつの間に
+借り間
+木の間",ま,"間:space, interval, gap; between, among; midway; on ...
+いつの間に(いつのまに):when; at what point
+借り間(かりま):rented room
+木の間(このま):in the trees",Jouyou. JLPT : N5
+"間
+sample words:
+間柄
+間食い
+間にある",あいだ,"間:space, interval, gap; between, among; midway; on ...
+間柄(あいだがら):relation; terms (good, friendly, etc.); relations.
+間食い(あいだぐい):eating between meals; snacking
+間にある(あいだにある):intervening",Jouyou. JLPT : N5
+"高
+sample words:
+威猛高
+梯子高
+連結売上高",だか,"高:high, tall, lofty, raised, elevated, eminent; exa.....
+威猛高(いたけだか):overbearing; high-handed
+梯子高(はしごだか):ladder form of 'high' kanji
+連結売上高(れんけつうりあげだか):consolidated sales; consolidated net sales",Jouyou. JLPT : N5
+"高
+sample words:
+威高
+売れ高
+高が知れる",たか,"高:high, tall, lofty, raised, elevated, eminent; exa.....
+威高(いたか):arrogant
+売れ高(うれだか):sales
+高が知れる(たかがしれる):to be of no importance",Jouyou. JLPT : N5

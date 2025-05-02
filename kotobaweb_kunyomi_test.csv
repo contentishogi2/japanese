@@ -1,0 +1,573 @@
+Question,Answer,Comment,Instruction,Render as
+唄,"うた","modern poetry;classical Japanese poem (esp. tanka);singing;song",Guess the Kunyomi,Image
+荷,"に","freight;cargo;baggage;load;responsibility;burden;goods",Guess the Kunyomi,Image
+牙,"きば","tusk;fang",Guess the Kunyomi,Image
+芽,"め","bud;shoot;sprout;germinal disk (in an egg)",Guess the Kunyomi,Image
+雛,"ひな,ひよこ","fledgling;chick;young bird;doll displayed during the Girls' Festival;hina doll,young bird;rookie;novice;greenhorn;chick;fledgeling;fledgling",Guess the Kunyomi,Image
+殻,"から","hull;husk;shell;chaff;pod",Guess the Kunyomi,Image
+咳,"せき","coughing;cough;tussis",Guess the Kunyomi,Image
+崖,"がけ","precipice;cliff;brink of a dangerous situation",Guess the Kunyomi,Image
+蓋,"ふた","lid;cover;cap",Guess the Kunyomi,Image
+鎧,"よろい","armor;armour",Guess the Kunyomi,Image
+夷,"えびす","foreigner;brutish, unsophisticated warrior (esp. used by Kyoto samurai to refer to samurai from eastern Japan);provincial (i.e. a person who lives far from the city);peoples formerly of northern Japan with distinct language and culture (i.e. the Ainu);barbarian",Guess the Kunyomi,Image
+衣,"ころも","robe;gown;garment;clothes;coating (e.g. glaze, batter, icing)",Guess the Kunyomi,Image
+印,"しるし","proof;symbol;sign;evidence;crest;mark;flag;badge;emblem;token (of gratitude, affection, etc.)",Guess the Kunyomi,Image
+霞,"かすみ","mist;haze (esp. in spring);dimness (of sight)",Guess the Kunyomi,Image
+我,"われ","you;me;I;prefix indicating familiarity or contempt;oneself",Guess the Kunyomi,Image
+垣,"かき","fence;railing;hedge;barrier;wall",Guess the Kunyomi,Image
+柿,"かき","kaki;Japanese persimmon (Diospyros kaki)",Guess the Kunyomi,Image
+芋,"いも","yokel;yam;dud;worthless thing;taro;potato;bumpkin;tuber",Guess the Kunyomi,Image
+角,"かど,つの","(street) corner;edge;corner;sharpness;harshness;abrasiveness;rough edges (of one's character, words, etc.);turning,antenna;antler;horn;horn-like projection (e.g. peaks of whipped cream);tentacle (e.g. of a snail);feeler",Guess the Kunyomi,Image
+襖,"ふすま","fusuma;Japanese sliding screen",Guess the Kunyomi,Image
+蚊,"か","mosquito",Guess the Kunyomi,Image
+稲,"いね","rice plant (Oryza sativa)",Guess the Kunyomi,Image
+丑,"うし","north-northeast;hour of the Ox (around 2am, 1-3am, or 2-4am);the Ox (second sign of the Chinese zodiac);twelfth month of the lunar calendar",Guess the Kunyomi,Image
+臼,"うす","millstone;mortar",Guess the Kunyomi,Image
+渦,"うず","eddy;swirl;whirlpool;maelstrom;vortex",Guess the Kunyomi,Image
+嘘,"うそ","bad decision;fib;unbelievable!;error;no way!;untruth;lie;unwise move;really?!;falsehood;mistake,bad decision;untruth;fib;unbelievable!;mistake;lie;falsehood;no way!;unwise move;error;really?!",Guess the Kunyomi,Image
+宴,"うたげ","banquet;party;feast",Guess the Kunyomi,Image
+炎,"ほのお","flames (of intense emotion, e.g. love, jealousy, anger);blaze;flame;passion",Guess the Kunyomi,Image
+玉,"たま","orb;ball;coin;okonomiyaki;character;jewel (esp. spherical;sometimes used figuratively);gem;bead (of an abacus);ball (i.e. a testicle);item, funds or person used as part of a plot;person (when commenting on their nature);female entertainer (e.g. a geisha);pile (of noodles, etc.);drop;sphere;precious;egg;pearl;lens (of glasses, etc.);bullet;droplet;excellent;bulb (i.e. a light bulb);beautiful;bead (of sweat, dew, etc.);globe;ball (in sports)",Guess the Kunyomi,Image
+桐,"きり","empress tree;paulownia (Paulownia tomentosa);foxglove tree",Guess the Kunyomi,Image
+錦,"にしき","fine dress;brocade;fine clothes",Guess the Kunyomi,Image
+琴,"こと","zheng (Chinese zither);stringed instrument;koto (13-stringed Japanese zither);guzheng",Guess the Kunyomi,Image
+浦,"うら","seashore;inlet;beach",Guess the Kunyomi,Image
+瓜,"うり","melon;gourd",Guess the Kunyomi,Image
+噂,"うわさ","gossip;hearsay;report;rumor;rumour;common talk",Guess the Kunyomi,Image
+餌,"えさ","enticement;pet food;fodder;(animal) feed;lure;bait",Guess the Kunyomi,Image
+烏,"からす","crow (Corvus spp.);raven",Guess the Kunyomi,Image
+羽,"はね,わ","shuttlecock (in hanetsuki);down;arrow feathers;shuttlecock (in badminton);feather;plume;wing;blade (of a fan, propeller, etc.),counter for birds, rabbits, etc.",Guess the Kunyomi,Image
+沖,"おき","open sea;Okinawa",Guess the Kunyomi,Image
+桶,"おけ","pail;bucket;tub",Guess the Kunyomi,Image
+燕,"つばめ","barn swallow (Hirundo rustica);younger man involved with an older woman;martin;swallow (bird of the Hirundinidae family);boy toy,boy toy;barn swallow (Hirundo rustica);martin;swallow (bird of the Hirundinidae family);younger man involved with an older woman",Guess the Kunyomi,Image
+猿,"さる","non-human primate;sliding wooden bolt (for holding a door or window shut);clasp used to control the height of a pot-hook;monkey (esp. the Japanese macaque, Macaca fuscata);sly person;ape;hick;idiot;bathhouse prostitute",Guess the Kunyomi,Image
+縁,"ふち","edge;brim;rim;brink",Guess the Kunyomi,Image
+艶,"つや","gloss;luster;shine;sexiness;love;romance;feeling;colour;color;appeal;interest;youthfulness (e.g. of skin);mellowness (of a voice);polish;sheen;lustre;charm",Guess the Kunyomi,Image
+茜,"あかね","madder (esp. Japanese madder, Rubia argyi);madder (red color)",Guess the Kunyomi,Image
+鵜,"う","cormorant (Phalacrocoracidae spp.)",Guess the Kunyomi,Image
+鰻,"うなぎ","eel (esp. the Japanese eel, Anguilla japonica)",Guess the Kunyomi,Image
+雲,"くも","cloud",Guess the Kunyomi,Image
+穴,"あな","hole (in a theory, plan, etc.);defect;fault;flaw;opening;gap (left by a missing employee, team member, etc.);holt;dark horse;(financial) hole;cavity;hollow;den;hideout;deficit;hole;hiding place;good place not many people know about;shortage;hole (e.g. in the ground);burrow;(partitioned) box (type of floor seating in a traditional Japanese theatre);long shot;upset victory (with a large payoff);well-kept secret;loophole;weak point;vacancy;loss;pit;perforation;orifice;lair",Guess the Kunyomi,Image
+筋,"すじ","vein;tendon;ninth vertical line;well-informed person (in a transaction);circle;aptitude;counter for roads or blocks when giving directions;logical move (in go, shogi, etc.);counter for long thin things;talent;logic;along;gristly fish paste (made of muscle, tendons, skin, etc.);seam on a helmet;(Edo period) counter for hundreds of mon (obsolete unit of currency);descent;storyline;plot;school (e.g. of scholarship or arts);status;social position;line;street (in Osaka);fiber;muscle;lineage;stripe;ch",Guess the Kunyomi,Image
+荻,"おぎ","Amur silvergrass (Miscanthus sacchariflorus)",Guess the Kunyomi,Image
+奥,"おく","recesses (of one's mind);living quarters (at the back of a house);recesses (e.g. of a cave);inner part;bottom (of one's heart);inner room;end (of a road, garden, etc.);heart;depths (e.g. of a forest);back (of a drawer, one's throat, etc.);interior;mysteries (of an art);behind (someone's words)",Guess the Kunyomi,Image
+鉛,"なまり","lead (Pb)",Guess the Kunyomi,Image
+甥,"おい","nephew",Guess the Kunyomi,Image
+串,"くし","skewer;spit;proxy (computer server)",Guess the Kunyomi,Image
+屑,"くず","dregs;loser;garbage;scrap;waste;piece of trash;scum",Guess the Kunyomi,Image
+熊,"くま","bear (any mammal of family Ursidae),bear (any mammal of family Ursidae)",Guess the Kunyomi,Image
+型,"かた","form;kata (set sequence of positions and movements in martial arts);mould;(set) size;(standard) form;impression;(taxonomical) form;style (in kabuki, noh, etc.);template;type;inches (in sizes of displays, disks, image sensors, etc.);tradition;mold;pattern;model;style;usage;formula;convention",Guess the Kunyomi,Image
+郡,"こおり","district (of 2-20 50-home neighbourhoods or townships, in the ritsuryō period);county;district;commandery (in China)",Guess the Kunyomi,Image
+葦,"あし","common reed (Phragmites australis)",Guess the Kunyomi,Image
+鏡,"かがみ","mirror;mirror-shaped mochi;page added at the beginning of a document mentioning its purpose, date, author, etc.;barrel head;looking-glass",Guess the Kunyomi,Image
+血,"ち","ancestry;blood;passions;feelings;(the) blood;stock;lineage",Guess the Kunyomi,Image
+伴,"とも","retinue;attendant;follower;companion",Guess the Kunyomi,Image
+薪,"まき,たきぎ","piece(s) of firewood (esp. chopped or split from logs);kindling (twigs, branches, etc.);firewood",Guess the Kunyomi,Image
+弓,"ゆみ","archery;bow (weapon);bow (for a violin, etc.)",Guess the Kunyomi,Image
+蘆,"あし","common reed (Phragmites australis)",Guess the Kunyomi,Image
+駒,"こま","foal;horse;piece (in shogi, chess, etc.);bridge (of a violin, etc.)",Guess the Kunyomi,Image
+櫛,"くし","comb",Guess the Kunyomi,Image
+栗,"くり","Japanese chestnut (Castanea crenata)",Guess the Kunyomi,Image
+桑,"くわ","mulberry (tree)",Guess the Kunyomi,Image
+鍬,"くわ","hoe",Guess the Kunyomi,Image
+涎,"よだれ","drool",Guess the Kunyomi,Image
+潟,"かた","tidal flat;tidal beach;creek;inlet;lagoon;tideland",Guess the Kunyomi,Image
+岳,"たけ","peak;mountain",Guess the Kunyomi,Image
+暁,"あかつき","occurrence;daybreak;event (e.g. 'in the event of ...');dawn;occasion",Guess the Kunyomi,Image
+鋸,"のこぎり","saw;musical saw",Guess the Kunyomi,Image
+丈,"だけ,たけ","simply;merely;just;only;enough to;to the extent of;as much as;alone;nothing but;no more than,all (one has);height;length (esp. of clothing);stature;magnificence (of a waka poem, etc.);everything",Guess the Kunyomi,Image
+鬼,"おに","ogre-like person (i.e. fierce, relentless, merciless, etc.);spirit of a deceased person;oni;demon;ogre;super-;extremely;very;it (in a game of tag, hide-and-seek, etc.);Chinese 'ghost' constellation (one of the 28 mansions)",Guess the Kunyomi,Image
+亀,"かめ","heavy drinker;turtle;tortoise;turtle mon;turtle crest,turtle mon;heavy drinker;turtle;tortoise;turtle crest",Guess the Kunyomi,Image
+憩,"いこい","relaxation;rest",Guess the Kunyomi,Image
+桂,"かつら","katsura (Cercidiphyllum japonicum);Japanese Judas tree",Guess the Kunyomi,Image
+己,"おのれ","interjection expressing anger or chagrin;me;I;oneself (itself, etc.);by oneself (itself, etc.);you",Guess the Kunyomi,Image
+戸,"と","entrance (to a home);window shutter;shutter;door (esp. Japanese-style);narrows",Guess the Kunyomi,Image
+偽,"にせ","fake;imitation;bogus;sham;pseudo-;forged;counterfeit;phony",Guess the Kunyomi,Image
+額,"ひたい","forehead;brow",Guess the Kunyomi,Image
+顎,"あご","chin;jaw;barb (of a fishhook)",Guess the Kunyomi,Image
+梓,"あずさ","Japanese cherry birch (Betula grossa);printing block;Japanese mallotus (Mallotus japonicus);yellow catalpa (Catalpa ovata);catalpa bow;catalpa medium",Guess the Kunyomi,Image
+飴,"あめ","sugar made from the starch of rice, potatoes, etc.;rice-sugar;toffee;(hard) candy;yellowish-brown;amber",Guess the Kunyomi,Image
+粟,"あわ","foxtail millet (Setaria italica);Italian millet (also Hungarian, German)",Guess the Kunyomi,Image
+狐,"きつね","soba or udon topped with deep-fried tofu;fox (i.e. a sly person);fox (esp. the red fox, Vulpes vulpes);golden brown;light brown",Guess the Kunyomi,Image
+糊,"のり","glue;paste;clothing starch",Guess the Kunyomi,Image
+袴,"はかま","hakama;man's formal divided skirt",Guess the Kunyomi,Image
+股,"また,もも","crotch;tines (of a fork);groin;fork (in a tree, road, river, etc.);thigh;crutch,thigh;femoral",Guess the Kunyomi,Image
+虎,"とら","sot;drunk;drunkard;tiger (Panthera tigris),tiger (Panthera tigris);sot;drunkard;drunk",Guess the Kunyomi,Image
+器,"うつわ","container;vessel;bowl;caliber;calibre;capacity;ability",Guess the Kunyomi,Image
+笠,"かさ","something shaped like a conical hat or an umbrella;coolie hat;conical hat (East-Asian style);pileus;mushroom cap;shade (of a lamp)",Guess the Kunyomi,Image
+庵,"いおり","hermitage;retreat",Guess the Kunyomi,Image
+姑,"しゅうとめ","mother-in-law",Guess the Kunyomi,Image
+湖,"みずうみ","lake",Guess the Kunyomi,Image
+鼓,"つづみ","hand drum",Guess the Kunyomi,Image
+畦,"あぜ","causeway;ridge between grooves in threshold or lintel;ridge of earth between rice fields;footpath between rice fields",Guess the Kunyomi,Image
+技,"わざ","technique;skill;art;move",Guess the Kunyomi,Image
+仮,"かり","theoretical;interim;provisional;temporary;alias;assumed (name);hypothetical;fictitious",Guess the Kunyomi,Image
+茎,"くき","stalk;stem",Guess the Kunyomi,Image
+蛍,"ほたる","firefly (Luciola cruciata);lightning bug;glowworm",Guess the Kunyomi,Image
+鹿,"しか","deer (esp. the sika deer, Cervus nippon);cervid",Guess the Kunyomi,Image
+幾,"いく","a few;several;some;so (much);very;how much;how many;many",Guess the Kunyomi,Image
+剣,"つるぎ","dart;stinger;bayonet;blade;sword (esp. a large, double-edged one);ovipositor;swordsmanship",Guess the Kunyomi,Image
+旗,"はた","flag;pataka (banner);banner (administrative division of Inner Mongolia)",Guess the Kunyomi,Image
+軒,"のき","eaves;narrow aisle surrounding the core of a temple building",Guess the Kunyomi,Image
+机,"つくえ","desk",Guess the Kunyomi,Image
+諺,"ことわざ","aphorism;saying;proverb;maxim",Guess the Kunyomi,Image
+蟻,"あり","ant",Guess the Kunyomi,Image
+橘,"たちばな","tachibana orange (Citrus tachibana)",Guess the Kunyomi,Image
+丸,"まる","suffix for names of swords, armour, musical instruments, etc.;suffix for ship names;money;entirety;whole;circle;soft-shelled turtle;complete;full;enclosure inside a castle's walls;dough;moola;suffix for names of dogs, horses, etc.;suffix for names of people (esp. infants)",Guess the Kunyomi,Image
+樫,"かし","evergreen oak",Guess the Kunyomi,Image
+虞,"おそれ","uneasiness;concern;reverence;horror;fear;anxiety",Guess the Kunyomi,Image
+岸,"きし","bank;shore;coast",Guess the Kunyomi,Image
+貝,"かい","shellfish;seashell;shell",Guess the Kunyomi,Image
+懐,"ふところ","depths;bosom (e.g. of nature);heart (e.g. of a mountain);inside the breast of one's clothing (esp. kimono);pocketbook;mind;inner part;(one's) reach;space between one's chest and outstretched arms;(breast) pocket;purse;money (one is carrying);inner thoughts;bosom;heart",Guess the Kunyomi,Image
+岩,"いわ","anchor;cliff;boulder;rock;crag",Guess the Kunyomi,Image
+蟹,"かに","crab",Guess the Kunyomi,Image
+灰,"はい","ash;ashes",Guess the Kunyomi,Image
+鍵,"かぎ","lock;key;key (to a problem, success, etc.);clue",Guess the Kunyomi,Image
+拳,"こぶし","fist",Guess the Kunyomi,Image
+幻,"まぼろし","vision;phantom;very rare thing;mythical thing;fabled item;short-lived dream;something fleeting;apparition;illusion",Guess the Kunyomi,Image
+源,"みなもと","source;fountainhead;source (of a river);root;origin",Guess the Kunyomi,Image
+闇,"やみ","underhand transactions;shady trading;black market;oblivion;secrecy;hidden place;hopelessness;despair;bewilderment;the dark;darkness;illegal channels",Guess the Kunyomi,Image
+巻,"まき","roll (e.g. of cloth);heel (of a Japanese sandal);volume (of book);winding (e.g. watch);speeding up",Guess the Kunyomi,Image
+胸,"むね","breast;stomach;lungs;bosom;breasts;heart;bust;chest;feelings;mind",Guess the Kunyomi,Image
+葛,"くず","Japanese arrowroot;kudzu (Pueraria montana);Chinese moonseed (Sinomenium acutum)",Guess the Kunyomi,Image
+鰹,"かつお","oceanic bonito;skipjack tuna (Katsuwonus pelamis);victorfish",Guess the Kunyomi,Image
+漆,"うるし","East-Asian lacquer;japan;Chinese lacquer tree (Toxicodendron vernicifluum, formerly Rhus verniciflua)",Guess the Kunyomi,Image
+棹,"さお","single line (esp. as a flying formation for geese);shamisen;counter for flags (on poles);penis;beam (i.e. the crossbar of a balance);neck (of a shamisen, etc.);pole;rod;counter for long, thin Japanese sweets (e.g. yōkan)",Guess the Kunyomi,Image
+竿,"さお","counter for flags (on poles);penis;single line (esp. as a flying formation for geese);beam (i.e. the crossbar of a balance);shamisen;neck (of a shamisen, etc.);pole;rod;counter for long, thin Japanese sweets (e.g. yōkan)",Guess the Kunyomi,Image
+姿,"すがた","form (of a waka);image;picture;condition;state;guise;dress;appearance;shape;form;figure;wearing ...;dressed in ...",Guess the Kunyomi,Image
+鞄,"かばん","bag;briefcase;satchel;basket",Guess the Kunyomi,Image
+株,"かぶ","corporation;stock company;strain (of bacteria, etc.);plant with attached roots or stem;(clump of) roots;stump;share;stock;one's forte;popularity;standing;reputation;privilege (that comes with a role);goodwill (of a business);KK;kabushiki kaisha",Guess the Kunyomi,Image
+兜,"かぶと","helmet (of a warrior);headpiece",Guess the Kunyomi,Image
+釜,"かま","iron pot;kettle",Guess the Kunyomi,Image
+鴨,"かも","sucker;duck;easy mark;sitting duck",Guess the Kunyomi,Image
+茅,"かや","grass used for thatching;sedge used for thatching",Guess the Kunyomi,Image
+粥,"かゆ","breakfast (in Zen temples);congee;rice gruel;watery cooked rice;thin rice porridge",Guess the Kunyomi,Image
+芝,"しば","sod;lawn;turf",Guess the Kunyomi,Image
+縞,"しま","(weaved) stripe pattern (of 2 or more different colors);streak;bar;stripe",Guess the Kunyomi,Image
+汗,"あせ","sweat;oops;gulp;condensation;moisture;perspiration",Guess the Kunyomi,Image
+志,"こころざし","will;gift (as a token of gratitude);kind offer;goodwill;kindness;goal;aim;ambition;intention;resolution",Guess the Kunyomi,Image
+橋,"はし","bridge",Guess the Kunyomi,Image
+絹,"きぬ","silk",Guess the Kunyomi,Image
+肩,"かた","shoulder",Guess the Kunyomi,Image
+樺,"かば","birch (esp. Japanese white birch)",Guess the Kunyomi,Image
+瓦,"かわら","roof tile",Guess the Kunyomi,Image
+胆,"きも","liver;essential point;crux;courage;guts;innards;key;pluck;spirit",Guess the Kunyomi,Image
+肝,"きも","crux;essential point;guts;innards;pluck;spirit;courage;liver;key",Guess the Kunyomi,Image
+鶏,"にわとり","chicken (Gallus gallus domesticus);domestic chicken;chicken meat",Guess the Kunyomi,Image
+蚕,"かいこ","silkworm (Bombyx mori)",Guess the Kunyomi,Image
+隙,"すき","space;chance;interval;opportunity;gap;breach (of a relationship between people);chink (in one's armor, armour);break;interlude;weak spot",Guess the Kunyomi,Image
+刃,"は,やいば","blade;edge (of a knife or sword);prong (of an electrical plug)",Guess the Kunyomi,Image
+塵,"ちり,ごみ","ritual gestures indicating that a fight will be clean;impurities of the world;worldly cares;hustle and bustle (of life);tiny bit;negligible amount;dirt;rubbish;garbage;trash;dust",Guess the Kunyomi,Image
+旨,"むね","purport;central part;aim;wishes;drift;intention;orders;instructions;gist;pillar;main purpose;principle;meaning",Guess the Kunyomi,Image
+粋,"いき","understanding;sophisticated;refined;tasteful;stylish;smart;chic;familiar with worldly pleasures (esp. sexual relations, geisha districts and red-light districts);sensible;thoughtful;considerate",Guess the Kunyomi,Image
+根,"ね","root (of a plant);(fishing) reef;one's true nature;basis;cause;origin;source;root (of all evil, etc.);center (of a pimple, etc.);root (of a tooth, hair, etc.)",Guess the Kunyomi,Image
+嫁,"よめ","(one's) daughter-in-law;bride;wife",Guess the Kunyomi,Image
+鯨,"くじら","whale (Cetacea spp.)",Guess the Kunyomi,Image
+針,"はり","sewing;needlework;staple (for a stapler);hand (e.g. clock, etc.);stinger;thorn;pointer;hook;pin;needle;counter for stitches;malice",Guess the Kunyomi,Image
+為,"ため","effect;sake;welfare;benefit;advantage;regarding;objective;result;purpose;good;concerning;consequence;aim;affecting",Guess the Kunyomi,Image
+侍,"さむらい","warrior (esp. of military retainers of daimyos in the Edo period);retainer;man in attendance (on a person of high standing);samurai",Guess the Kunyomi,Image
+腰,"こし","hips;waist;lower back;spring;resilience;body (of hair, noodle, paper, etc.);lumbar region",Guess the Kunyomi,Image
+枝,"えだ","spray;sprig;twig;limb;bough;branch",Guess the Kunyomi,Image
+骨,"ほね","bone;difficult;troublesome;laborious;fortitude;spirit;backbone;core;outline;frame",Guess the Kunyomi,Image
+酢,"す","vinegar",Guess the Kunyomi,Image
+桁,"けた","crossbeam;girder;beam;column;order of magnitude;decade;digit;yard;spar",Guess the Kunyomi,Image
+砂,"すな","sand;grit",Guess the Kunyomi,Image
+鎖,"くさり","chain;chains",Guess the Kunyomi,Image
+寺,"てら","temple (Buddhist)",Guess the Kunyomi,Image
+糸,"いと","string;yarn;thread",Guess the Kunyomi,Image
+紫,"むらさき","purple gromwell (Lithospermum erythrorhizon);violet;soy sauce;red-root gromwell;purple;red gromwell",Guess the Kunyomi,Image
+脂,"あぶら","lard;tallow;fat;grease",Guess the Kunyomi,Image
+尚,"なお","as ...;further;more;note that ...;like ...;in addition;furthermore;greater;moreover;still more;yet;still",Guess the Kunyomi,Image
+坂,"さか","hill;incline;slope;(age) mark;milestone",Guess the Kunyomi,Image
+榊,"さかき","sakaki (species of evergreen sacred to Shinto, Cleyera japonica);evergreen (esp. one planted or used at a shrine)",Guess the Kunyomi,Image
+肴,"さかな","appetizer or snack served with drinks;performance to liven up a bar;conversation to liven up a party",Guess the Kunyomi,Image
+崎,"さき","promontory;cape;small peninsula;headland",Guess the Kunyomi,Image
+床,"とこ,ゆか","sickbed;bedding;bed;floor;straw 'core' of a tatami mat;seedbed;riverbed;alcove,stage (for the narrator and the shamisen player);floor;dining platform built across a river",Guess the Kunyomi,Image
+松,"まつ","pine tree (Pinus spp.);highest (of a three-tier ranking system)",Guess the Kunyomi,Image
+沼,"ぬま","wetland;swamp;marsh;ugly man;getting sucked into;being hooked on;addiction;obsession;pond;bog",Guess the Kunyomi,Image
+証,"あかし","certificate;proof;patient's condition;enlightenment;to testify (usu. Christian religious context);membership card;vindication;testimony;sign;evidence;symptoms (in Chinese medicine);license",Guess the Kunyomi,Image
+鐘,"かね","bell (often a large hanging bell);chime",Guess the Kunyomi,Image
+鞘,"さや","cap (on pen, brush, etc.);sheath;scabbard;outer fence;enclosure;commission;markup;spread;margin (between two prices);sleeve;case",Guess the Kunyomi,Image
+雀,"すずめ","talkative person;tree sparrow (Passer montanus);knowledgeable person",Guess the Kunyomi,Image
+裾,"すそ","foot (of a mountain);bottom edge;bottom part;train (of a dress);bottom (of a kimono);shirttail;(trouser) cuff;hem;tips (of hair);downstream",Guess the Kunyomi,Image
+瀬,"せ","current;rapids;torrent;shoal;shallows;opportunity;chance;place;position",Guess the Kunyomi,Image
+碁,"ご","go (board game)",Guess the Kunyomi,Image
+雌,"めす","female (animal, plant)",Guess the Kunyomi,Image
+畝,"うね","rib (cloth, mountains, sea);row of raised earth when planting crops;ridge (in field);cord (e.g. corduroy)",Guess the Kunyomi,Image
+鯉,"こい","common carp (Cyprinus carpio);koi carp",Guess the Kunyomi,Image
+札,"ふだ","plate;playing card;tag;receipt;talisman;sign;check;charm;card;label;token;ticket;slip of paper posted on shrine pillars by pilgrims",Guess the Kunyomi,Image
+砦,"とりで","fort;fortification;stronghold;fortress",Guess the Kunyomi,Image
+盾,"たて","escutcheon;buckler;shield;pretext",Guess the Kunyomi,Image
+杉,"すぎ","Japanese cedar (Cryptomeria japonica)",Guess the Kunyomi,Image
+傘,"かさ","parasol;umbrella;pileus;mushroom cap;shade (of a lamp);something shaped like an umbrella or a conical hat",Guess the Kunyomi,Image
+星,"ほし","hoshi;star point (intersection marked with a dot);fleck;spot;small dot;star (actor, player, etc.);star (glyph, symbol, shape);heavenly body;planet (usu. not including Earth);star (usu. not including the Sun);score;point;one's fortune;one's star (that determines one's fate);bullseye;suspect;offender;mark;perpetrator;perp",Guess the Kunyomi,Image
+汁,"しる","juice;(dipping) sauce;soup;sap;broth",Guess the Kunyomi,Image
+獣,"けもの,けだもの","beast;animal;brute;animal with human characteristics,animal;beast;animal with human characteristics;brute",Guess the Kunyomi,Image
+縦,"たて","vertical (relationship);height;length;the vertical;(weaving) warp;hierarchy;front-to-back;north-to-south",Guess the Kunyomi,Image
+礎,"いしずえ","foundation stone;cornerstone",Guess the Kunyomi,Image
+鯖,"さば","mackerel (esp. the chub mackerel, Scomber japonicus);server (esp. in an online game),server (esp. in an online game);mackerel (esp. the chub mackerel, Scomber japonicus)",Guess the Kunyomi,Image
+鮫,"さめ","shark,shark",Guess the Kunyomi,Image
+皿,"さら","course;helping;serving;disc;platter;dish;plate;kanji radical 108 (at the bottom)",Guess the Kunyomi,Image
+杖,"つえ","staff;walking stick;cane;wand",Guess the Kunyomi,Image
+畳,"たたみ","tatami mat;Japanese straw floor coverings",Guess the Kunyomi,Image
+蛇,"へび","large snake;serpent;snake",Guess the Kunyomi,Image
+城,"しろ","castle",Guess the Kunyomi,Image
+鼠,"ねずみ","rat;dark grey;mouse;dark gray;slate (color, colour),dark gray;rat;mouse;slate (color, colour);dark grey",Guess the Kunyomi,Image
+尻,"しり","rump;behind;buttocks;consequence;end;last place;undersurface;hips;bottom",Guess the Kunyomi,Image
+邪,"よこしま","wicked;wrong;evil;bad",Guess the Kunyomi,Image
+寂,"さび","antique look;patina;well-trained voice;elegant simplicity",Guess the Kunyomi,Image
+唇,"くちびる","lip;lips",Guess the Kunyomi,Image
+曙,"あけぼの","daybreak;dawn;beginning",Guess the Kunyomi,Image
+渚,"なぎさ","water's edge;beach;shore",Guess the Kunyomi,Image
+序,"ついで","successor;sequence;order;chance;occasion;opportunity",Guess the Kunyomi,Image
+朱,"あけ","vermilion;red;scarlet;cinnabar",Guess the Kunyomi,Image
+趣,"おもむき","tenor;meaning;taste;refinement;charm;grace;influence;aspect;gist;elegance;appearance;effect",Guess the Kunyomi,Image
+錫,"すず","tin (Sn)",Guess the Kunyomi,Image
+布,"ぬの","material;fabric;cloth;bujian (spade-shaped bronze coin of ancient China);textile",Guess the Kunyomi,Image
+斧,"おの","ax;axe;hatchet",Guess the Kunyomi,Image
+節,"ふし","tune;knuckle;joint;node;part;(notable) point;knob;knot (in wood);node (of a plant stem);melody",Guess the Kunyomi,Image
+畑,"はたけ","sphere;field (for growing wheat, fruit, vegetables, etc.);vegetable plot;cultivated land;field (of specialization);birth;plantation;womb;area;line;birthplace;kitchen garden",Guess the Kunyomi,Image
+麦,"むぎ","barley;wheat;oat (oats)",Guess the Kunyomi,Image
+筈,"はず","nock-shaped grip (between thumb and forefinger);nock (of an arrow);nock (of a bow);must (be);expected (to be);bound (to be);should (be);wooden frame on the tip of the mast of a Japanese ship that prevents the hawser from falling out",Guess the Kunyomi,Image
+肌,"はだ","character;disposition;surface;type;temperament;body (in the context of intimate bodily contact);skin;texture;grain (e.g. of wood)",Guess the Kunyomi,Image
+匠,"たくみ","plot;design;skill;workman;trick;dexterity;craftsmanship;craft;carpenter;artisan;craftsman;artifice;scheme",Guess the Kunyomi,Image
+升,"ます","measuring container;square bearing block (at the top of a pillar);measure;box (seating at a theatre, etc.);cell of a grid;square on a grid",Guess the Kunyomi,Image
+宵,"よい","evening;early night hours",Guess the Kunyomi,Image
+公,"おおやけ","being public knowledge;common;public (use, matter, forum, etc.);formal;governmental;official;exposure to public view;being out in the open",Guess the Kunyomi,Image
+箸,"はし","chopsticks",Guess the Kunyomi,Image
+巷,"ちまた","quarters;street;the street (e.g. 'word on the street');the public;location (e.g. of a battle);district;crossroads;fork (in a road);divide (e.g. between life and death);scene (e.g. of carnage)",Guess the Kunyomi,Image
+鳩,"はと","pigeon;dove",Guess the Kunyomi,Image
+尼,"あま","sister;Catholic nun;Amazon (online retailer);Buddhist nun;Amagasaki (city in Hyogo Prefecture);bitch",Guess the Kunyomi,Image
+隼,"はやぶさ","falcon (esp. the peregrine falcon, Falco peregrinus)",Guess the Kunyomi,Image
+鯛,"たい","tai (species of reddish-brown Pacific sea bream, Pagrus major);porgy;sea bream (Sparidae),tai (species of reddish-brown Pacific sea bream, Pagrus major);porgy;sea bream (Sparidae)",Guess the Kunyomi,Image
+鷹,"たか","hawk;falcon",Guess the Kunyomi,Image
+滝,"たき","waterfall;rapids",Guess the Kunyomi,Image
+沢,"さわ","dale;valley;mountain stream;marsh;swamp;wetlands",Guess the Kunyomi,Image
+河,"かわ","stream;River;the ... river",Guess the Kunyomi,Image
+泉,"いずみ","spring;fountain",Guess the Kunyomi,Image
+辰,"たつ","east-southeast;hour of the Dragon (around 8am, 7-9am, or 8-10am);the Dragon (fifth sign of the Chinese zodiac);third month of the lunar calendar",Guess the Kunyomi,Image
+棚,"たな,だな","rack;ledge;shelf;trellis",Guess the Kunyomi,Image
+寿,"ことぶき","felicitations;best wishes;congratulations;long life;longevity",Guess the Kunyomi,Image
+乳,"ちち","loop;milk;breast;decorative bump (on a hanging bell)",Guess the Kunyomi,Image
+扇,"おうぎ","folding fan",Guess the Kunyomi,Image
+杭,"くい","post;stake;stump;pile;picket",Guess the Kunyomi,Image
+江,"え","inlet;bay",Guess the Kunyomi,Image
+狸,"たぬき","cunning devil;sly fox;tanuki (Nyctereutes procyonoides);sly person;sly old fox;sly dog;raccoon dog,cunning devil;raccoon dog;sly person;tanuki (Nyctereutes procyonoides);sly fox;sly dog;sly old fox",Guess the Kunyomi,Image
+炭,"すみ","charcoal;charred remains",Guess the Kunyomi,Image
+虹,"にじ","rainbow",Guess the Kunyomi,Image
+茸,"きのこ","mushroom",Guess the Kunyomi,Image
+誰,"だれ","who",Guess the Kunyomi,Image
+穂,"ほ","tip;scion (in grafting);crest (of a wave);(pointed) head;point (of a brush, spear, etc.);spike;head;ear (of a cereal plant)",Guess the Kunyomi,Image
+鋼,"はがね","steel;sword steel;sword",Guess the Kunyomi,Image
+喪,"も","misfortune;calamity;mourning",Guess the Kunyomi,Image
+舌,"した","clapper (of a bell);tongue-like object;tongue;reed (of a musical instrument);talon (of a lock)",Guess the Kunyomi,Image
+蝉,"せみ","small-sized pulley;locust;cicada",Guess the Kunyomi,Image
+操,"みさお","honor;honour;fidelity;faithfulness (e.g. to one's husband);chastity (of a woman);constancy",Guess the Kunyomi,Image
+麹,"こうじ","malt;malted rice;kōji;malt-like material from growing mold on rice, barley, beans, etc. (used as a starter to make sake, miso, soy sauce, etc.)",Guess the Kunyomi,Image
+棟,"むね","back of a sword;ridge (of roof);counter for buildings, apartments, etc.",Guess the Kunyomi,Image
+湯,"ゆ","hot spring;hot bath;hot water;molten iron",Guess the Kunyomi,Image
+奴,"やつ","chap;guy;fellow;her;him;she;he;object;thing",Guess the Kunyomi,Image
+刀,"かたな","scalpel;katana;sword (esp. Japanese single-edged);knife money (knife-shaped commodity money used in ancient China);graver;burin;chisel",Guess the Kunyomi,Image
+墓,"はか","gravesite;grave;tomb",Guess the Kunyomi,Image
+巣,"す","den;hive;breeding place;rookery;nest;(spider's) web;haunt",Guess the Kunyomi,Image
+槍,"やり","javelin;jeering;spear;lance",Guess the Kunyomi,Image
+蕪,"かぶ","turnip (Brassica rapa)",Guess the Kunyomi,Image
+跡,"あと","tracks;mark;trace;remains;site;sign;scar;ruins",Guess the Kunyomi,Image
+島,"しま","one's territory (e.g. of a sex worker, organized crime gang);island;one's turf",Guess the Kunyomi,Image
+潮,"しお","tide;thin soup of fish or shellfish boiled in seawater;chance;current;sea water;opportunity",Guess the Kunyomi,Image
+腸,"はらわた,わた","bowels;guts;intestines",Guess the Kunyomi,Image
+宛,"あて","expectations;end;something that can be relied upon;per;blow;object;addressed to;snack served with alcoholic drink;prospects;purpose;hopes;guard;pad;strike;aim",Guess the Kunyomi,Image
+兎,"うさぎ","coney;rabbit;hare;lagomorph (esp. leporids);cony",Guess the Kunyomi,Image
+藻,"も","seaweed;waterweed;algae;duckweed",Guess the Kunyomi,Image
+蕗,"ふき","giant butterbur (Petasites japonicus);Japanese sweet coltsfoot",Guess the Kunyomi,Image
+桃,"もも","peach (Prunus persica)",Guess the Kunyomi,Image
+峰,"みね","ridge;summit;back of a blade;peak;top",Guess the Kunyomi,Image
+綱,"つな","line;cord;rope;grand champion's braided belt",Guess the Kunyomi,Image
+泡,"あわ","suds;bubble;head (on beer);froth;foam;lather",Guess the Kunyomi,Image
+板,"いた","cutting board;slab;pane;plate (of glass);sheet (of metal);plank;board;stage (i.e. at a theatre);cook;chef (esp. of high-end Japanese cuisine);chopping board",Guess the Kunyomi,Image
+筒,"つつ","well curb;well lining;cannon;gun;gun barrel;cylinder;tube;pipe",Guess the Kunyomi,Image
+霜,"しも","gray hair;grey hair;white hair;frost",Guess the Kunyomi,Image
+幅,"はば","difference (e.g. in price);gap;latitude;freedom (e.g. of thought);breadth;width;range (e.g. of voice)",Guess the Kunyomi,Image
+帆,"ほ","sail",Guess the Kunyomi,Image
+宝,"たから","treasure",Guess the Kunyomi,Image
+淵,"ふち","grip (e.g. of death);deep water;abyss;deep pool;depths (e.g. of despair, etc.)",Guess the Kunyomi,Image
+仏,"ほとけ","the dead;Shakyamuni;departed soul;dead person;figure of Buddha;Buddhist image;Buddha;merciful person",Guess the Kunyomi,Image
+后,"きさき","empress;queen",Guess the Kunyomi,Image
+垢,"あか","filth;dirt;grime",Guess the Kunyomi,Image
+麻,"あさ","hemp (fiber);hemp (plant);linen;flax;cannabis (Cannabis sativa);jute",Guess the Kunyomi,Image
+枕,"まくら","introduction (e.g. to a rakugo story);bolster;pillow;lead-in",Guess the Kunyomi,Image
+鮪,"まぐろ","tunny;person who is inactive during sexual intercourse;Pacific bluefin tuna (edible fish, Thunnus orientalis);tuna (edible fish, Thunnus spp.);someone unconscious due to alcohol;starfish;dead lay",Guess the Kunyomi,Image
+墨,"すみ","Chinese ink;India ink;sumi;carpenter's inking string;octopus ink;squid ink;ink-cake;ink stick",Guess the Kunyomi,Image
+堀,"ほり","canal;fosse;moat;ditch",Guess the Kunyomi,Image
+脚,"あし","bottom structural component (i.e. radical) of a kanji;paw;money;(one's) ride;arm (of an octopus, squid, etc.);coin;gait;leg;foot;pace;means of transportation",Guess the Kunyomi,Image
+葱,"ねぎ","green onion;Welsh onion (Allium fistulosum);spring onion",Guess the Kunyomi,Image
+髭,"ひげ","whiskers (on a cat, etc.);(chin) tuft;beard;feelers (on an insect, etc.);shadow (on a candlestick chart);whiskers;moustache",Guess the Kunyomi,Image
+房,"ふさ","segment (of a tangerine, etc.);cluster (of flowers);bunch (of grapes, bananas, etc.);tassel;fringe;tuft (of hair, threads, etc.);section",Guess the Kunyomi,Image
+謀,"はかりごと","plan;strategy",Guess the Kunyomi,Image
+鱒,"ます","trout;sea trout",Guess the Kunyomi,Image
+又,"また","some other time;likewise;indirect;really;moreover;while;another time;again;(what, why) on earth;how;furthermore;besides;as well;once again;once more;or;in addition;and;on the other hand;too;otherwise;also",Guess the Kunyomi,Image
+尿,"ゆばり,しと","urine",Guess the Kunyomi,Image
+袖,"そで","wing (of a stage, desk, gate, etc.);sleeve;flap (of a dust jacket)",Guess the Kunyomi,Image
+粉,"こな","dust;powder;meal;flour",Guess the Kunyomi,Image
+糞,"くそ","dung;shit;damn it;negligible;blasted;counting for nothing;really;very;insignificant;hardly worth consideration;not mattering at all;awful;excrement;extremely;feces;crap;out of the question;a lot;stupid;damned;damn;terrible,crap;hardly worth consideration;counting for nothing;stupid;shit;insignificant;negligible;very;out of the question;not mattering at all;damned;a lot;awful;damn it;blasted;terrible;really;extremely;damn;dung;excrement;feces",Guess the Kunyomi,Image
+苔,"こけ","short plants resembling moss (incl. other bryophytes, lichens, very small spermatophytes, etc.);moss,moss;short plants resembling moss (incl. other bryophytes, lichens, very small spermatophytes, etc.)",Guess the Kunyomi,Image
+袋,"ふくろ","pouch;sack;bag;plot of land surrounded by water;dead end;skin of an orange (and other like fruits)",Guess the Kunyomi,Image
+姫,"ひめ","girl;young lady of noble birth;prostitute;lesser (in names of species);small;princess (esp. in Western contexts, tales, etc.);cute",Guess the Kunyomi,Image
+孫,"まご","grandchild",Guess the Kunyomi,Image
+俵,"たわら","straw bag;bale;counter for sacks (of rice, potatoes, coal, etc.);sack",Guess the Kunyomi,Image
+藤,"ふじ","wisteria (esp. Japanese wisteria, Wisteria floribunda);wistaria",Guess the Kunyomi,Image
+豆,"まめ","baby;miniature;small;soy;legume (esp. edible legumes or their seeds, e.g. beans, peas, pulses);bean;soya bean (Glycine max);midget;pea;female genitalia (esp. the clitoris);child;small-scale;kidney;soybean",Guess the Kunyomi,Image
+舵,"かじ","rudder;helm",Guess the Kunyomi,Image
+繭,"まゆ","cocoon",Guess the Kunyomi,Image
+扉,"とびら","opening;gate;door;title page",Guess the Kunyomi,Image
+皮,"かわ","sheath;shell;bark;husk;peel;rind;fur;pelt;hide;skin;seeming;mask (hiding one's true nature);wrapping",Guess the Kunyomi,Image
+肥,"こえ","dung;night soil;manure;fertilizer;fertiliser",Guess the Kunyomi,Image
+唾,"つば","spit;saliva;spittle",Guess the Kunyomi,Image
+頬,"ほお,ほほ","cheek (of the face),cheek (of the face)",Guess the Kunyomi,Image
+柄,"え,がら","grip;handle;stalk (of a mushroom, leaf, etc.),fitting of;appropriate to;nature;character;essential qualities;physique;figure;body build;design;pattern;suitable for",Guess the Kunyomi,Image
+膝,"ひざ","knee;lap;knee and thigh (while sitting)",Guess the Kunyomi,Image
+丙,"ひのえ","third class;third rank;third sign of the Chinese calendar;third person (in a contract, etc.)",Guess the Kunyomi,Image
+筆,"ふで","penmanship;drawing with a brush;writing with a brush;pen;paintbrush;writing brush;plot;(land) lot;the written word;writing (composing text);something drawn with a brush",Guess the Kunyomi,Image
+紐,"ひも","string;gigolo;man who is financially dependent on a woman;leash;cord;oviduct meat (chicken);mantle (shellfish, etc.);restrictions;small intestine (beef, pork);conditions;pimp",Guess the Kunyomi,Image
+革,"かわ","leather",Guess the Kunyomi,Image
+樋,"とい","water pipe;gutter;trough;coulisse (of a sword blade);chute;flume",Guess the Kunyomi,Image
+尾,"お","tail (of a kite, etc.);tail (of an animal);slope at the foot of a mountain;tail (of a comet);tail end",Guess the Kunyomi,Image
+眉,"まゆ","eyebrow;eyebrows",Guess the Kunyomi,Image
+肘,"ひじ","elbow",Guess the Kunyomi,Image
+帯,"おび","obi (kimono sash);cingulum;band;obi (strip of paper looped around a book, CD, etc. containing information about the product);radio or television program broadcast in the same time slot on all or most days;strip;belt",Guess the Kunyomi,Image
+壁,"かべ","Chinese 'Wall' constellation (one of the 28 mansions);barrier;partition;wall;obstacle",Guess the Kunyomi,Image
+氷,"こおり","shaved ice (usually served with flavored simple syrup);ice",Guess the Kunyomi,Image
+輩,"やから","family;clan;set (of people);party (of people);fellow",Guess the Kunyomi,Image
+爺,"じじ","old man;old geezer",Guess the Kunyomi,Image
+巴,"ともえ","tomoe;heraldic design composed of two or more interlocked comma-shaped figures",Guess the Kunyomi,Image
+波,"なみ","wave;ups and downs",Guess the Kunyomi,Image
+雷,"かみなり","thunderbolt;anger;god of lightning;god of thunder;thunder;lightning;fit of anger",Guess the Kunyomi,Image
+梅,"うめ","Japanese plum;ume;Japanese apricot (Prunus mume);lowest (of a three-tier ranking system);Chinese plum",Guess the Kunyomi,Image
+雉,"きじ","green pheasant (Phasianus versicolor);Japanese pheasant",Guess the Kunyomi,Image
+婆,"ばば","old woman;joker (in old maid)",Guess the Kunyomi,Image
+虜,"とりこ","victim (of love, etc.);prisoner;captive;slave (to one's lust, etc.)",Guess the Kunyomi,Image
+蝿,"はえ","person of no worth;fly (any insect of infraorder Muscomorpha);pisher;scrub,fly (any insect of infraorder Muscomorpha);scrub;pisher;person of no worth",Guess the Kunyomi,Image
+蠅,"はえ","pisher;person of no worth;fly (any insect of infraorder Muscomorpha);scrub,scrub;pisher;person of no worth;fly (any insect of infraorder Muscomorpha)",Guess the Kunyomi,Image
+秤,"はかり","scales;weighing machine",Guess the Kunyomi,Image
+萩,"はぎ","dark red exterior with blue interior (color combination worn in autumn);bush clover;Japanese clover (any flowering plant of genus Lespedeza);Hagi (city in Yamaguchi)",Guess the Kunyomi,Image
+癖,"くせ","crease;peculiarity;tendency;curl;quirk;mannerism;idiosyncrasy;habit (usu. a bad one);kink;wrinkle",Guess the Kunyomi,Image
+影,"かげ","light (stars, moon);ominous sign;reflection;shape;silhouette;shadow;other side;shadow (of one's former self);image;figure;background;behind;trace",Guess the Kunyomi,Image
+洞,"ほら","hole;cavity;hollow;cave",Guess the Kunyomi,Image
+瞳,"ひとみ","pupil (of the eye);one's eyes",Guess the Kunyomi,Image
+陰,"かげ","back;gloom (in someone's expression, nature, etc.);behind someone's back;behind the scenes;the background;other side;behind (something);shadow;darkness;shade",Guess the Kunyomi,Image
+籠,"かご","basket (shopping, etc.);cage;hamper,hamper;cage;basket (shopping, etc.)",Guess the Kunyomi,Image
+篭,"かご","cage;basket (shopping, etc.);hamper,basket (shopping, etc.);cage;hamper",Guess the Kunyomi,Image
+鼻,"はな","nose",Guess the Kunyomi,Image
+匙,"さじ","spoon",Guess the Kunyomi,Image
+峠,"とうげ","crisis;worst (e.g. of an illness);peak (e.g. of summer);ridge;highest point on a mountain road;(mountain) pass;most difficult part;critical point",Guess the Kunyomi,Image
+竹,"たけ","bamboo (any grass of subfamily Bambusoideae);middle (of a three-tier ranking system)",Guess the Kunyomi,Image
+塚,"つか","heap;roadside stone statue;standing stone;barrow;tumulus;tomb;burial mound;hillock;mound;stone signpost;gravesite",Guess the Kunyomi,Image
+辻,"つじ","street corner;intersection;crossing;crossroads;street",Guess the Kunyomi,Image
+椿,"つばき","common camellia (Camellia japonica);tea produced in the mountains",Guess the Kunyomi,Image
+坪,"つぼ","traditional unit of fabric or paper area, approx. 9.18 square centimeters;tsubo;traditional unit of land area, approx. 3.31 square meters;cubic tsubo (approx. 6 cubic metres);traditional unit of leather or tile area, approx. 918 square centimeters",Guess the Kunyomi,Image
+塊,"かたまり","clod;mass;bundle;group;embodiment (of an idea, quality, feeling etc.);crowd;lump;cluster;personification;clump",Guess the Kunyomi,Image
+禿,"ハゲ,はげ","baldy;idiot;bald person;bald head;baldness;moron,idiot;baldy;bald person;bald head;baldness;moron",Guess the Kunyomi,Image
+童,"わらべ","child",Guess the Kunyomi,Image
+壷,"つぼ","dice cup;target (when aiming an arrow);key point (of a conversation, etc.);vase;the mark;position on the fingerboard (of a shamisen, koto, etc.);essence;pressure point;pot;depression;aim;what one wants;basin (e.g. of a waterfall);moxibustion point;acupuncture point;jar,target (when aiming an arrow);jar;pressure point;key point (of a conversation, etc.);position on the fingerboard (of a shamisen, koto, etc.);acupuncture point;basin (e.g. of a waterfall);what one wants;the mark;dice cup;depression",Guess the Kunyomi,Image
+壺,"つぼ","what one wants;key point (of a conversation, etc.);dice cup;essence;position on the fingerboard (of a shamisen, koto, etc.);pressure point;basin (e.g. of a waterfall);depression;target (when aiming an arrow);vase;aim;jar;pot;the mark;moxibustion point;acupuncture point,acupuncture point;key point (of a conversation, etc.);what one wants;moxibustion point;basin (e.g. of a waterfall);the mark;target (when aiming an arrow);essence;pot;aim;vase;jar;position on the fingerboard (of a shamisen, koto, e",Guess the Kunyomi,Image
+轍,"わだち","wheel track;rut;furrow",Guess the Kunyomi,Image
+蔵,"くら","depository;cellar;elevator;godown;granary;warehouse;magazine;storehouse;treasury",Guess the Kunyomi,Image
+倉,"くら","cellar;elevator;granary;magazine;treasury;depository;godown;storehouse;warehouse",Guess the Kunyomi,Image
+寅,"とら","east-northeast;hour of the Tiger (around 4am, 3-5am, or 4-6am);the Tiger (third sign of the Chinese zodiac);first month of the lunar calendar",Guess the Kunyomi,Image
+酉,"とり","the Chicken;the Cock;the Rooster (tenth sign of the Chinese zodiac);eight month of the lunar calendar;west;hour of the Rooster (around 6pm, 5-7pm, or 6-8pm);the Bird",Guess the Kunyomi,Image
+豚,"ぶた","pig (Sus scrofa domesticus);pork;fatso;fatty",Guess the Kunyomi,Image
+堤,"つつみ","embankment;bank;dike",Guess the Kunyomi,Image
+帝,"みかど","mikado;emperor (of Japan);(the gates of an) imperial residence",Guess the Kunyomi,Image
+底,"そこ","bottom;sole",Guess the Kunyomi,Image
+苗,"なえ","young plant;seedling;rice seedling",Guess the Kunyomi,Image
+浜,"はま","riverbank;Yokohama;captured stones;captured pieces;beach;riverside;seashore",Guess the Kunyomi,Image
+瓶,"かめ","flagon;phial;decanter;bottle;jar;vial",Guess the Kunyomi,Image
+歪,"いびつ","round, wooden container for cooked rice;elliptical shape;oval;warped;irregular;crooked;distorted;oval coin",Guess the Kunyomi,Image
+脇,"わき","away;to the side;aside;by;close to;under one's arm;armpit;near;flank;deuteragonist;off-track;out of the way;supporting role;beside;side;second verse (in a linked series of poems);off-topic",Guess the Kunyomi,Image
+枠,"わく","framework;frame;reel;spool (of thread);live (online) broadcast;live stream;time slot (in a broadcasting schedule);class;bracket;category;quota;restriction;box;border;limit",Guess the Kunyomi,Image
+薄,"すすき","zebra grass;maiden silvergrass;Japanese pampas grass (Miscanthus sinensis)",Guess the Kunyomi,Image
+鷲,"わし","eagle (Accipitridae family)",Guess the Kunyomi,Image
+藁,"わら","straw",Guess the Kunyomi,Image
+甕,"かめ","earthenware pot",Guess the Kunyomi,Image
+腕,"うで","efforts;skill;arm;ability",Guess the Kunyomi,Image
+丼,"どんぶり","donburi;porcelain bowl;bowl of meat, fish, etc. served over rice",Guess the Kunyomi,Image
+翁,"おう","old man;father;old;venerable gentleman;venerable",Guess the Kunyomi,Image
+猪,"いのしし","wild boar;wild pig",Guess the Kunyomi,Image
+爪,"つめ","claw;nail (e.g. fingernail, toenail);clasp;hook;pick;plectrum;hoof;talon",Guess the Kunyomi,Image
+卯,"う","second month in the lunar calendar;east;hour of the Rabbit (around 6am, 5-7am, or 6-8am);the Hare;the Rabbit (fourth sign of the Chinese zodiac)",Guess the Kunyomi,Image
+塩,"しお","saltiness;trouble;toil;hardship;sodium chloride;table salt;common salt;salt;indifferent;unwelcoming;cold",Guess the Kunyomi,Image
+暇,"ひま","leisure;leave;holiday;vacation;time off;(being) inactive;time (e.g. time it takes to do something);divorcing (one's spouse);quitting (one's job);leaving;departing;free time;(of one's business) slow;spare time;firing someone;day off",Guess the Kunyomi,Image
+蛸,"たこ","octopus",Guess the Kunyomi,Image
+矛,"ほこ","long-handled Chinese spear;weapon;grip of a bow;pike;arms;lance;parade float decorated with long-handled Chinese spears",Guess the Kunyomi,Image
+殿,"どの","Ms.;Miss;Mrs.;Mr.",Guess the Kunyomi,Image
+謎,"なぞ","enigma;puzzle;riddle;mysterious;enigmatic;mystery",Guess the Kunyomi,Image
+鍋,"なべ","hot pot;stew;saucepan;pot;pan",Guess the Kunyomi,Image
+縄,"なわ","cord;rope;policeman's rope",Guess the Kunyomi,Image
+蛙,"かえる","frog;kajika frog (Buergeria buergeri)",Guess the Kunyomi,Image
+釘,"くぎ","brad;rivet;tack;spike;(pachinko) pin;nail",Guess the Kunyomi,Image
+泥,"どろ","mud;thief;mire;(wet) dirt;slush",Guess the Kunyomi,Image
+蔦,"つた","ivy (esp. Boston ivy, Parthenocissus tricuspidata)",Guess the Kunyomi,Image
+鶴,"つる","crane (any bird of the family Gruidae, esp. the red-crowned crane, Grus japonensis)",Guess the Kunyomi,Image
+仲,"なか","relation;relationship",Guess the Kunyomi,Image
+蕨,"わらび","bracken",Guess the Kunyomi,Image
+滴,"しずく","drop (e.g. of water);drip",Guess the Kunyomi,Image
+柱,"はしら","support;post;pillar;counter for buddhas, gods, nobles, etc.;mainstay;prop",Guess the Kunyomi,Image
+虫,"むし","worm;valve core;single-minded person;fretfulness;nervousness;roundworm;moth;cricket;bug;insect;mushi (type of game played with a stripped deck);person devoted to one thing;(one's) unconscious;thing inside one's body believed to influence one's thoughts and feelings",Guess the Kunyomi,Image
+蜂,"はち","bee;hornet;wasp",Guess the Kunyomi,Image
+蒲,"かば","common bulrush;common cattail (Typha latifolia);common reedmace",Guess the Kunyomi,Image
+笛,"ふえ","pipe;fife;flute;whistle;clarinet;shakuhachi;flageolet;recorder",Guess the Kunyomi,Image
+櫓,"やぐら","wooden frame (of a kotatsu);scaffolding;watchtower;weapons storehouse;fortress;yagura;high wooden stage;turret",Guess the Kunyomi,Image
+露,"つゆ","(not) a bit;tears;dew;(not) at all",Guess the Kunyomi,Image
+邸,"やしき","mansion;residence;premises;grounds;estate",Guess the Kunyomi,Image
+冠,"かんむり","diadem;crown;named sponsorship of a program, event, team, etc.;title;name;first;peerless;best;first verse of a haikai, etc.;top kanji radical;traditional cap worn by Shinto clergy and courtiers;coronet",Guess the Kunyomi,Image
+幹,"みき","(tool) handle;(arrow) shaft;(tree) trunk;base;backbone",Guess the Kunyomi,Image
+管,"くだ","pipe;tube,tube;pipe",Guess the Kunyomi,Image
+雁,"かり","head of a penis;glans;wild goose",Guess the Kunyomi,Image
+詔,"みことのり","imperial edict;imperial decree",Guess the Kunyomi,Image
+勅,"みことのり","imperial decree;imperial edict,imperial decree;imperial edict",Guess the Kunyomi,Image
+狼,"おおかみ","womanizer;wolf in sheep's clothing;wolf (Canis lupus)",Guess the Kunyomi,Image
+嘴,"くちばし","beak;bill",Guess the Kunyomi,Image
+祭,"まつり","frenzy;feast;festival;online shaming;mania;galore (as in 'goals galore');flaming;harassment by an Internet pitchfork mob",Guess the Kunyomi,Image
+蹄,"ひづめ","hoof",Guess the Kunyomi,Image
+鼎,"かなえ","three-legged bronze vessel (used in ancient China)",Guess the Kunyomi,Image
+痣,"あざ","nevus;bruise;birthmark",Guess the Kunyomi,Image
+埃,"ほこり","dust",Guess the Kunyomi,Image
+鯵,"あじ","horse mackerel (Carangidae spp., esp. the Japanese horse mackerel, Trachurus japonicus);pompano;jack mackerel;scad",Guess the Kunyomi,Image
+巳,"み","hour of the Snake (around 10am, 9-11am, or 10am-12 noon);the Serpent;the Snake (sixth sign of the Chinese zodiac);fourth month of the lunar calendar;south-southeast",Guess the Kunyomi,Image
+戌,"いぬ","the Dog (eleventh sign of the Chinese zodiac);ninth month of the lunar calendar;west-northwest;hour of the Dog (around 8pm, 7-9pm, or 8-10pm)",Guess the Kunyomi,Image
+掟,"おきて","law;compact;arrangement;agreement;code;rule;regulation",Guess the Kunyomi,Image
+昴,"すばる","Pleiades;Chinese 'Hairy Head' constellation (one of the 28 mansions);Seven Sisters",Guess the Kunyomi,Image
+柚,"ゆず","yuzu (Citrus ichangensis x C. reticulata),yuzu (Citrus ichangensis x C. reticulata)",Guess the Kunyomi,Image
+揺,"ゆり","tremor;jolting;flickering;vibration",Guess the Kunyomi,Image
+仇,"あだ","enemy;enmity;resentment;rival;harm;grudge;foe;injury",Guess the Kunyomi,Image
+頃,"ごろ,ころ","suitable time (or condition);toward;about;around;(approximate) time;season;time of year,season;time of year;suitable time (or condition);toward;about;around;(approximate) time",Guess the Kunyomi,Image
+箒,"ほうき","broom",Guess the Kunyomi,Image
+旁,"つくり","right-hand radical of a character",Guess the Kunyomi,Image
+窯,"かま","stove;kiln;furnace",Guess the Kunyomi,Image
+謡,"うたい","noh chanting;recitation",Guess the Kunyomi,Image
+眼,"め,まなこ","possibility (of a good result);eye (e.g. for quality);judgement;discernment;discrimination;an experience;attention;stare;look;eye;eye (of a storm, needle, etc.);chance (of success);viewpoint;notice;eyeball;division (of a scale);graduation;intersection (on a go board);opening;(an) appearance;observation;glance;gaze;eyesight;dot (on a dice);square (on a chessboard);weave;eyes (of the world, public, etc.);vision;sight;point (e.g. of change);-ish;somewhat;ordinal number suffix;tooth (of a saw, comb,",Guess the Kunyomi,Image
+弦,"つる","bail (arched pot handle);string (of shamisen, guitar, violin, etc.);bowstring;diagonal levelling wire across the top of a masu",Guess the Kunyomi,Image
+庚,"かのえ","7th in rank;seventh sign of the Chinese calendar",Guess the Kunyomi,Image
+溝,"みぞ","drain;ditch;rift;gulf;gap (between people, countries, etc.);indentation;tread;groove;trench;gutter",Guess the Kunyomi,Image
+紅,"べに,くれない","crimson;rouge;deep red;lipstick,deep red;lipstick;rouge;crimson",Guess the Kunyomi,Image
+鰯,"いわし","pilchard (esp. Japanese pilchard, Sardinops melanostictus);sardine",Guess the Kunyomi,Image
+樅,"もみ","momi fir;Japanese fir (Abies firma)",Guess the Kunyomi,Image
+檻,"おり","pen;cage;(jail) cell",Guess the Kunyomi,Image
+翼,"つばさ","wing;Chinese 'Wings' constellation (one of the 28 mansions);counter for birds or bird wings",Guess the Kunyomi,Image
+裸,"はだか","being uncovered;baldness;nakedness;bareness;nudity;openness;concealing nothing;being penniless",Guess the Kunyomi,Image
+羊,"ひつじ","sheep (Ovis aries)",Guess the Kunyomi,Image
+或,"ある","some ...;a certain ...",Guess the Kunyomi,Image
+鮑,"あわび","abalone;ear shell",Guess the Kunyomi,Image
+丘,"おか","knoll;height;hill;bonus points awarded to the winner at the end of a game;rising ground",Guess the Kunyomi,Image
+霧,"きり","mist;fog;spray",Guess the Kunyomi,Image
+婿,"むこ","groom;husband;(one's) son-in-law",Guess the Kunyomi,Image
+魂,"たましい","soul;spirit",Guess the Kunyomi,Image
+鮭,"さけ","chum salmon (Oncorhynchus keta);salmon (Salmonidae spp.),chum salmon (Oncorhynchus keta);salmon (Salmonidae spp.)",Guess the Kunyomi,Image
+杏,"あんず","apricot (Prunus armeniaca)",Guess the Kunyomi,Image
+嫌,"いや","nasty;quit it!;horrible;disliking;unpleasant;not wanting;no!;unwelcome;disgusting;disagreeable;unwilling (to do);undesirable;reluctant;stop!,quit it!;unpleasant;unwelcome;horrible;no!;unwilling (to do);disgusting;disagreeable;reluctant;disliking;stop!;undesirable;not wanting;nasty",Guess the Kunyomi,Image
+鬘,"かつら","hairpiece;wig;toupee",Guess the Kunyomi,Image
+襟,"えり","neck;neckband;lapel;collar;nape of the neck;scruff of the neck",Guess the Kunyomi,Image
+喉,"のど","throat;gutter (inner margins of a book);singing voice",Guess the Kunyomi,Image
+卵,"たまご","spawn;eggs;infancy;origin;egg;beginning;(an expert) in the making;(hen's) egg;roe",Guess the Kunyomi,Image
+嵐,"あらし","pile of 3 cards of the same value in oicho-kabu;winds (e.g. of change);uproar;tempest;storm;storm (e.g. of protest);hullabaloo",Guess the Kunyomi,Image
+藍,"あい","dyer's knotweed (Persicaria tinctoria, used to produce indigo dye);indigo (colour);indigo (dye)",Guess the Kunyomi,Image
+雄,"おす","male (animal, plant)",Guess the Kunyomi,Image
+裏,"うら","rear;reverse side;undersurface;side hidden from view;other side;bottom;opposite side;last half (of an inning);bottom (of an inning);inverse (of a hypothesis, etc.);contrary;opposite (of a prediction, common sense, etc.);proof;different side;unknown circumstances;hidden side (e.g. of one's personality);more (to something than meets the eye);behind (someone's) back;offstage;behind the scenes;in the shadows;inside;lining;behind;back",Guess the Kunyomi,Image
+綿,"わた","cotton plant (Gossypium spp.);batting;wadding;padding",Guess the Kunyomi,Image
+姪,"めい","niece",Guess the Kunyomi,Image
+梨,"なし","pear (esp. Japanese pear)",Guess the Kunyomi,Image
+毛,"け","wool;fur;hair;feathers;plumage;down",Guess the Kunyomi,Image
+櫂,"かい,かじ","oar;paddle;scull",Guess the Kunyomi,Image
+刺,"とげ","thorn;biting words;prickle;spine;splinter (esp. lodged in one's flesh);hard sharp item (esp. lodged in one's throat, e.g. fish bone)",Guess the Kunyomi,Image
+棘,"とげ","prickle;biting words;spine;hard sharp item (esp. lodged in one's throat, e.g. fish bone);thorn;splinter (esp. lodged in one's flesh)",Guess the Kunyomi,Image
+梁,"はり","beam;joist",Guess the Kunyomi,Image
+幟,"のぼり","carp streamer;Boys' Day nobori;long, narrow banner attached to a pole on one side and a horizontal rod along the top;nobori",Guess the Kunyomi,Image
+届,"とどけ","notification;registration;report",Guess the Kunyomi,Image
+陸,"りく","land;shore",Guess the Kunyomi,Image
+網,"あみ","netting;net;web",Guess the Kunyomi,Image
+卸,"おろし","wholesale",Guess the Kunyomi,Image
+並,"なみ","row of (teeth, houses, etc.);equal to;common;medium;line of;on par with;regular grade;mid-grade (item);ordinary;same level as;every;each (e.g. month);equivalent to;average",Guess the Kunyomi,Image
+粒,"つぶ","grain;drop;bead;counter for small round objects including grains, seeds, pills, drops",Guess the Kunyomi,Image
+碑,"いしぶみ","stone monument bearing an inscription (esp. memorial for future generations);stele;stela",Guess the Kunyomi,Image
+俄,"にわか","bandwagon fan;hasty;offhand;improvised;sudden;impromptu skit;unexpected;abrupt;fair-weather fan",Guess the Kunyomi,Image
+鋏,"はさみ","clippers;shears;scissors;hole punch",Guess the Kunyomi,Image
+黴,"かび","mold;mould;mildew",Guess the Kunyomi,Image
+鼾,"いびき","snoring;snore",Guess the Kunyomi,Image
+亥,"い","north-northwest;hour of the Boar (around 10pm, 9-11pm, or 10pm to 12 midnight);the Pig;the Boar (twelfth sign of the Chinese zodiac);tenth month of the lunar calendar",Guess the Kunyomi,Image
+柏,"かしわ","daimyo oak (Quercus dentata);Japanese emperor oak",Guess the Kunyomi,Image
+匹,"ひき","counter for horses;counter for rolls of cloth (two han in size);counter for small animals;roll of cloth",Guess the Kunyomi,Image
+灯,"ひ,あかり","light;lamp",Guess the Kunyomi,Image
+佃,"つくだ","cultivated rice field",Guess the Kunyomi,Image
+臍,"へそ","center;main point;most important part;centre;belly button;navel;protrusion or depression in the middle of an object",Guess the Kunyomi,Image
+麓,"ふもと","bottom;foot (of a mountain or hill);base",Guess the Kunyomi,Image
+桜,"さくら","seat filler;shill;cherry blossom;paid audience;horse meat;hired applauder;fake buyer;cherry tree",Guess the Kunyomi,Image
+蓼,"たで","smartweed;jointweed;knotweed (Polygonaceae);water pepper (Persicaria hydropiper)",Guess the Kunyomi,Image
+蕾,"つぼみ","promising young person;(flower) bud;budding beauty",Guess the Kunyomi,Image
+躾,"しつけ","training;discipline;teaching manners",Guess the Kunyomi,Image
+瘤,"こぶ","protuberance;lump;bump;swelling",Guess the Kunyomi,Image
+皺,"しわ","crease;wrinkle;ripple",Guess the Kunyomi,Image
+絆,"きずな","fetters;link;relationship;tether;(emotional) ties;bonds (between people);connection",Guess the Kunyomi,Image
+銅,"あかがね","bronze (medal);copper (Cu)",Guess the Kunyomi,Image
+舅,"しゅうと","father-in-law",Guess the Kunyomi,Image
+苺,"いちご","strawberry (esp. the garden strawberry, Fragaria x ananassa)",Guess the Kunyomi,Image
+踵,"かかと","heel (of foot, shoe, stocking, etc.)",Guess the Kunyomi,Image
+錆,"さび","rust",Guess the Kunyomi,Image
+甦,"よみがえ","resurrection",Guess the Kunyomi,Image
+瞼,"まぶた","eyelid",Guess the Kunyomi,Image
+岬,"みさき","cape (on coast)",Guess the Kunyomi,Image
+罠,"わな","trap (i.e. ruse, subterfuge, etc.);trap (for catching wild game, etc.);snare",Guess the Kunyomi,Image
+脛,"すね","shank;shin;lower leg",Guess the Kunyomi,Image
+傷,"きず","weak point;chip;defect;injury;stain (on one's reputation);hurt feelings;weakness;scar;nick;gash;(emotional) hurt;scratch;flaw;bruise;scrape;dishonour;dishonor;cut;crack;wound;disgrace",Guess the Kunyomi,Image
+端,"はし","beginning;scrap;margin;odds and ends;edge;point;tip;end (e.g. of street);odd bit;first;least;start",Guess the Kunyomi,Image
+汝,"うぬ","blockhead!;you",Guess the Kunyomi,Image
+鎌,"かま","trick question;leading question;sickle;part of a fish around the gills;noisiness;gooseneck tenon and mortise joint;spear with curved cross-blades;sickle-and-chain (weapon)",Guess the Kunyomi,Image
+鉦,"かね","gong;handbell",Guess the Kunyomi,Image
+樽,"たる","cask;barrel",Guess the Kunyomi,Image
+鄙,"ひな","countryside;rural areas",Guess the Kunyomi,Image
+谷,"たに","valley",Guess the Kunyomi,Image
+掌,"てのひら","palm (of the hand)",Guess the Kunyomi,Image
+蓑,"みの","straw raincoat",Guess the Kunyomi,Image
+錨,"いかり","anchor",Guess the Kunyomi,Image
+蓮,"はす","sacred lotus (Nelumbo nucifera);lotus;Indian lotus;rose of Sharon (Hibiscus syriacus)",Guess the Kunyomi,Image
+竜,"たつ","semi-divine human-cobra chimera in Hindu and Buddhist mythology;promoted rook;naga;dragon (esp. a Chinese dragon)",Guess the Kunyomi,Image
+矢,"や","arrow;wedge;chock",Guess the Kunyomi,Image
+訳,"わけ","cause;reason;conclusion from reasoning, judgement or calculation based on something read or heard;situation;circumstances;meaning",Guess the Kunyomi,Image
+柳,"やなぎ","willow (any tree of genus Salix);weeping willow (Salix babylonica)",Guess the Kunyomi,Image
+誠,"まこと","integrity;honesty;sincerity;reality;that's right;fidelity;truth",Guess the Kunyomi,Image
+辛,"かのと","8th in rank;eighth sign of the Chinese calendar",Guess the Kunyomi,Image
+唯,"ただ","ordinary;merely;free of charge;however;as is;nevertheless;only;unaffected;but;simply;usual;common;safe;just",Guess the Kunyomi,Image
+只,"ただ","common;simply;safe;merely;nevertheless;free of charge;as is;but;only;ordinary;however;usual;unaffected;just",Guess the Kunyomi,Image
+餅,"もち","mochi;(sticky) rice cake",Guess the Kunyomi,Image
+籾,"もみ","paddy;rice in the husk;unhulled rice;chaff;rice husks",Guess the Kunyomi,Image
+油,"あぶら","oil",Guess the Kunyomi,Image
+陵,"みささぎ","Emperor's tomb;imperial mausoleum;big hill",Guess the Kunyomi,Image
+緑,"みどり","greenery;green;verdure",Guess the Kunyomi,Image
+輪,"わ","ring;circle (e.g. of friends);loop;circle;wheel;planetary ring;hoop",Guess the Kunyomi,Image
+隣,"となり","adjoining;adjacent;next (to);next-door neighbor;next-door neighbour;neighbouring house;house next door",Guess the Kunyomi,Image
+鱗,"うろこ","serif (on kana or kanji (e.g. in Mincho font));scale (of fish, snake, etc.),scale (of fish, snake, etc.);serif (on kana or kanji (e.g. in Mincho font))",Guess the Kunyomi,Image
+涙,"なみだ","sympathy;tear;lachrymal secretion;tears",Guess the Kunyomi,Image
+稀,"まれ","rare;seldom",Guess the Kunyomi,Image
+暦,"こよみ","calendar;almanac",Guess the Kunyomi,Image
+儲,"もうけ","profit;earnings",Guess the Kunyomi,Image
+鈴,"すず","bell (often globular)",Guess the Kunyomi,Image
+齢,"よわい","(one's) age",Guess the Kunyomi,Image
+恋,"こい","(romantic) love",Guess the Kunyomi,Image
+糠,"ぬか","rice bran",Guess the Kunyomi,Image
+屍,"しかばね","corpse;kanji 'corpse' radical",Guess the Kunyomi,Image
+磯,"いそ","(rocky) beach;seashore",Guess the Kunyomi,Image
+堰,"せき","sluice;dam;weir;barrier",Guess the Kunyomi,Image
+杵,"きね","pestle;mallet;pounder",Guess the Kunyomi,Image
+躯,"むくろ","(dead) body;corpse",Guess the Kunyomi,Image
+笹,"ささ","bamboo grass;generally smaller species of running bamboo that do not shed their sheaths (e.g. Sasa spp.)",Guess the Kunyomi,Image
+柴,"しば","brushwood;firewood",Guess the Kunyomi,Image
+嵩,"かさ","bulk;quantity;volume",Guess the Kunyomi,Image
+槌,"つち","hammer;sledgehammer;mallet;gavel",Guess the Kunyomi,Image
+紬,"つむぎ","pongee;tsumugi;traditional rough-surfaced cloth woven from raw silk",Guess the Kunyomi,Image
+鞍,"くら","saddle",Guess the Kunyomi,Image
+井,"い","well",Guess the Kunyomi,Image
+硯,"すずり","inkstone",Guess the Kunyomi,Image
+灘,"なだ","open sea",Guess the Kunyomi,Image
+檄,"げき","manifesto;circular;(written) appeal;letter of encouragement;encouraging words;encouragement",Guess the Kunyomi,Image
+菅,"すげ","sedge (Cyperaceae spp., esp. members of genus Carex),sedge (Cyperaceae spp., esp. members of genus Carex)",Guess the Kunyomi,Image
+柊,"ひいらぎ","false holly;holly olive (Osmanthus heterophyllus);holly;spotnape ponyfish (Leiognathus nuchalis)",Guess the Kunyomi,Image
+妾,"めかけ","concubine;mistress;kept woman",Guess the Kunyomi,Image

@@ -1,0 +1,935 @@
+Question,Answer,Comment,Instruction,Render As
+"お手盛り","おてもり","making arbitrary decisions which benefit oneself; self-approved plan","Guess the Missing Word (5k:盛)",Text
+"お歳暮","おせいぼ","end of the year; year end; year-end gift","Guess the Missing Word (5k:暮)",Text
+"お馴染み","おなじみ","(a) regular; old acquaintance; old friend; regular customer; familiar; favorite; favourite; regular (e.g. customer); well-known","Guess the Missing Word (5k:染)",Text
+"一人暮らし","ひとりぐらし","living alone; living by oneself","Guess the Missing Word (5k:暮)",Text
+"一冊","いっさつ","one copy (of a book, magazine, etc.); one volume","Guess the Missing Word (5k:冊)",Text
+"一刻","いっこく","obstinate; stubborn; a minute; a moment; an instant","Guess the Missing Word (5k:刻)",Text
+"一卵性双生児","いちらんせいそうせいじ","identical twins","Guess the Missing Word (5k:卵)",Text
+"一晩","ひとばん","all night; one evening; one night; overnight","Guess the Missing Word (5k:晩)",Text
+"一晩中","ひとばんじゅう","all night long; all through the night","Guess the Missing Word (5k:晩)",Text
+"一枚看板","いちまいかんばん","best item one has (to show); box-office star; leading player; one's single area of expertise; one's sole Sunday best; prima donna","Guess the Missing Word (5k:枚,看)",Text
+"一片","いっぺん","a bit; a fragment; a piece; a scrap; iota; modicum; scrap; the slightest bit (of); trace","Guess the Missing Word (5k:片)",Text
+"三重奏","さんじゅうそう","instrumental trio","Guess the Missing Word (5k:奏)",Text
+"不純","ふじゅん","adulterated; dishonest; foul; impure; mixed","Guess the Missing Word (5k:純)",Text
+"不純物","ふじゅんぶつ","foreign matter; impurities","Guess the Missing Word (5k:純)",Text
+"不経済","ふけいざい","poor economy; waste","Guess the Missing Word (5k:済)",Text
+"不行き届き","ふゆきとどき","carelessness; incompetence; mismanagement; negligence","Guess the Missing Word (5k:届)",Text
+"世間並み","せけんなみ","average; conventional; ordinary (esp. life or behavior); standard; typical","Guess the Missing Word (5k:並)",Text
+"並び替える","ならびかえる","to put (things) in order; to rearrange; to reorganize","Guess the Missing Word (5k:並)",Text
+"並み居る","なみいる","to be present (and lined up); to sit in a row","Guess the Missing Word (5k:並)",Text
+"並々","なみなみ","ordinary","Guess the Missing Word (5k:並)",Text
+"並列","へいれつ","parallel (electronics, computing, etc.); arranging in a line; standing in a row","Guess the Missing Word (5k:並)",Text
+"並外れ","なみはずれ","abnormal; extraordinary; far above the average; out of the common; unreasonable","Guess the Missing Word (5k:並)",Text
+"並外れる","なみはずれる","to be uncommon","Guess the Missing Word (5k:並)",Text
+"並大抵","なみたいてい","average; ordinary; run-of-the-mill","Guess the Missing Word (5k:並)",Text
+"並木","なみき","roadside trees; row of trees","Guess the Missing Word (5k:並)",Text
+"並木道","なみきじ,なみきみち","avenue; boulevard; tree-lined street,avenue; boulevard; tree-lined street","Guess the Missing Word (5k:並)",Text
+"並立","へいりつ","standing abreast","Guess the Missing Word (5k:並)",Text
+"並行","へいこう","going abreast; going side-by-side; keeping pace with; occurring at the same time; running concurrently","Guess the Missing Word (5k:並)",Text
+"中傷","ちゅうしょう","calumny; defamation; libel; slander; smear","Guess the Missing Word (5k:傷)",Text
+"中将","ちゅうじょう","lieutenant general; vice-admiral","Guess the Missing Word (5k:将)",Text
+"中規模","ちゅうきぼ","mid-range; mid-scale; mid-size","Guess the Missing Word (5k:模)",Text
+"主将","しゅしょう","captain (of a team); commander-in-chief; supreme commander","Guess the Missing Word (5k:将)",Text
+"乱射","らんしゃ","firing blindly; indiscriminate shooting; random shooting","Guess the Missing Word (5k:乱,射)",Text
+"乳幼児","にゅうようじ","babies and very young children; infants","Guess the Missing Word (5k:乳,幼)",Text
+"二律背反","にりつはいはん","antinomy; choice between mutually exclusive alternatives; either-or situation; self-contradiction","Guess the Missing Word (5k:律,背)",Text
+"二枚舌","にまいじた","double-dealing; double-tongued; duplicity; equivocation","Guess the Missing Word (5k:枚,舌)",Text
+"二重奏","にじゅうそう","instrumental duet; instrumental duo","Guess the Missing Word (5k:奏)",Text
+"五重奏","ごじゅうそう","instrumental quintet","Guess the Missing Word (5k:奏)",Text
+"人並み","ひとなみ","average; common; like most people; like the average person; normal; ordinary","Guess the Missing Word (5k:並)",Text
+"人工呼吸","じんこうこきゅう","artificial respiration","Guess the Missing Word (5k:呼,吸)",Text
+"仁王","におう","guardian gods of Buddhism who stand at the entrance of a Buddhist temple; two Deva kings","Guess the Missing Word (5k:仁)",Text
+"仁義","じんぎ","(gang's) moral code; duty; formal greeting (between yakuza, street vendors, gamblers, etc.); humanity and justice (esp. in Confucianism); virtue","Guess the Missing Word (5k:仁)",Text
+"今晩","こんばん","this evening; tonight","Guess the Missing Word (5k:晩)",Text
+"今晩は","こんばんは,こんばんわ","good evening,good evening","Guess the Missing Word (5k:晩)",Text
+"仏閣","ぶっかく","Buddhist temple","Guess the Missing Word (5k:閣)",Text
+"仏頂面","ぶっちょうづら","pout; sour look; surly face","Guess the Missing Word (5k:頂)",Text
+"内勤","ないきん","desk work; indoor work; office work","Guess the Missing Word (5k:勤)",Text
+"内奏","ないそう","secret report to the emperor","Guess the Missing Word (5k:奏)",Text
+"内臓","ないぞう","internal organs; viscera","Guess the Missing Word (5k:臓)",Text
+"内装","ないそう","interior; interior design; upholstery","Guess the Missing Word (5k:装)",Text
+"内閣","ないかく","cabinet (of a government); ministry","Guess the Missing Word (5k:閣)",Text
+"内閣官房","ないかくかんぼう","Cabinet Secretariat","Guess the Missing Word (5k:閣)",Text
+"内閣官房長官","ないかくかんぼうちょうかん","Chief Cabinet Secretary","Guess the Missing Word (5k:閣)",Text
+"内閣府","ないかくふ","Cabinet Office","Guess the Missing Word (5k:閣)",Text
+"内閣法制局","ないかくほうせいきょく","Cabinet Legislation Bureau","Guess the Missing Word (5k:閣)",Text
+"付け届け","つけとどけ","bribe; gift; present; tip","Guess the Missing Word (5k:届)",Text
+"仮装","かそう","converted (cruiser); costume; disguise; fancy dress; masquerade","Guess the Missing Word (5k:装)",Text
+"伝染","でんせん","contagion; infection","Guess the Missing Word (5k:染)",Text
+"伝染病","でんせんびょう","communicable disease; contagious disease; epidemic; infectious disease; transmissible disease","Guess the Missing Word (5k:染)",Text
+"伴奏","ばんそう","(musical) accompaniment","Guess the Missing Word (5k:奏)",Text
+"低姿勢","ていしせい","(keeping a) low profile","Guess the Missing Word (5k:姿)",Text
+"住宅","じゅうたく","housing; residence; residential building","Guess the Missing Word (5k:宅)",Text
+"住宅地","じゅうたくち","housing district; residential district","Guess the Missing Word (5k:宅)",Text
+"住宅街","じゅうたくがい","residential area","Guess the Missing Word (5k:宅)",Text
+"体系","たいけい","architecture; organisation; organization; system","Guess the Missing Word (5k:系)",Text
+"体系的","たいけいてき","systematic","Guess the Missing Word (5k:系)",Text
+"使用済み","しようずみ","spent (fuel, battery, etc.); used (ticket, stamp, etc.)","Guess the Missing Word (5k:済)",Text
+"供給源","きょうきゅうげん","source of supply","Guess the Missing Word (5k:供,源)",Text
+"保障","ほしょう","assurance; guarantee; pledge; security; warranty","Guess the Missing Word (5k:障)",Text
+"俳優","はいゆう","actor; actress; performer; player","Guess the Missing Word (5k:俳,優)",Text
+"倒閣","とうかく","overthrow of government","Guess the Missing Word (5k:閣)",Text
+"候補","こうほ","candidacy; candidate; candidature; choice; contender; list; nomination; pick; prospect","Guess the Missing Word (5k:補)",Text
+"候補者","こうほしゃ","applicant; candidate","Guess the Missing Word (5k:補)",Text
+"値段","ねだん","cost; price","Guess the Missing Word (5k:値,段)",Text
+"偽装","ぎそう","camouflage; disguise; feigning; masquerade; pretense","Guess the Missing Word (5k:装)",Text
+"傷々しい","いたいたしい","painful to look at; pathetic; pitiful","Guess the Missing Word (5k:傷)",Text
+"傷付く","きずつく","to be wounded; to get chipped; to get damaged; to get hurt feelings; to get injured; to get scratched","Guess the Missing Word (5k:傷)",Text
+"傷付ける","きずつける","to chip; to damage; to hurt someone's feelings (pride, etc.); to injure; to scratch; to wound","Guess the Missing Word (5k:傷)",Text
+"傷兵","しょうへい","wounded soldier","Guess the Missing Word (5k:傷)",Text
+"傷口","きずぐち","(mouth of a) wound; (opening of) a wound; cut","Guess the Missing Word (5k:傷)",Text
+"傷害","しょうがい","inflicting bodily injury; injury","Guess the Missing Word (5k:傷)",Text
+"傷害保険","しょうがいほけん","accident insurance","Guess the Missing Word (5k:傷)",Text
+"傷心","しょうしん","grief; heartbreak; sorrow","Guess the Missing Word (5k:傷)",Text
+"傷病","しょうびょう","injuries and sickness; wounds and illness","Guess the Missing Word (5k:傷)",Text
+"傷者","しょうしゃ","casualty; injured person; wounded person","Guess the Missing Word (5k:傷)",Text
+"傷跡","しょうこん,きずあと","scar,scar","Guess the Missing Word (5k:傷)",Text
+"働き盛り","はたらきざかり","prime of one's working life","Guess the Missing Word (5k:盛)",Text
+"優先権","ゆうせんけん","preference; preferential right; priority; right of way","Guess the Missing Word (5k:優,権)",Text
+"兄貴","あにき","elder brother; man older than oneself; older man; one's senior","Guess the Missing Word (5k:貴)",Text
+"先刻","せんこく","a short while ago; already","Guess the Missing Word (5k:刻)",Text
+"党派","とうは","clique; faction; party","Guess the Missing Word (5k:党,派)",Text
+"入閣","にゅうかく","joining the cabinet","Guess the Missing Word (5k:閣)",Text
+"全盛","ぜんせい","height of prosperity","Guess the Missing Word (5k:盛)",Text
+"公衆","こうしゅう","general public; the public","Guess the Missing Word (5k:衆)",Text
+"公衆衛生","こうしゅうえいせい","public health; public hygiene; sanitation","Guess the Missing Word (5k:衆)",Text
+"公衆電話","こうしゅうでんわ","pay phone; public telephone","Guess the Missing Word (5k:衆)",Text
+"共済","きょうさい","mutual aid","Guess the Missing Word (5k:済)",Text
+"円熟","えんじゅく","maturity; mellowness; ripeness","Guess the Missing Word (5k:熟)",Text
+"冊子","さっし","book; booklet; notebook; pamphlet; story book","Guess the Missing Word (5k:冊)",Text
+"冊数","さっすう","number of books","Guess the Missing Word (5k:冊)",Text
+"冷暖房","れいだんぼう","air conditioning and heating","Guess the Missing Word (5k:暖)",Text
+"准将","じゅんしょう","brigadier general; commodore","Guess the Missing Word (5k:将)",Text
+"凍傷","とうしょう","chilblains; frostbite","Guess the Missing Word (5k:傷)",Text
+"出処進退","しゅっしょしんたい","course of action; move; staying in one's position or resigning","Guess the Missing Word (5k:処,退)",Text
+"出勤","しゅっきん","attendance (at work); being at work; going to work; leaving for work; presence (in the office); reporting for work","Guess the Missing Word (5k:勤)",Text
+"出窓","でまど","bay window","Guess the Missing Word (5k:窓)",Text
+"刃傷","にんじょう","bloodshed","Guess the Missing Word (5k:傷)",Text
+"分冊","ぶんさつ","fascicle; fascicule; separate volume","Guess the Missing Word (5k:冊)",Text
+"分担","ぶんたん","allocation; allotment; apportionment; assignment; dividing (work, expenses, etc.) between; taking on one's share (e.g. of work)","Guess the Missing Word (5k:担)",Text
+"切り傷","きりきず","cut; gash; incision","Guess the Missing Word (5k:傷)",Text
+"切り盛り","きりもり","administration; cut and fill (e.g. earthwork); cutting up and serving food; management (of a house, store, etc.); running","Guess the Missing Word (5k:盛)",Text
+"刑事補償","けいじほしょう","criminal indemnity","Guess the Missing Word (5k:補)",Text
+"別冊","べっさつ","additional volume; extra issue; separate volume; supplement; supplementary volume","Guess the Missing Word (5k:冊)",Text
+"刻々","こくこく,こっこく","hour by hour; moment by moment,hour by hour; moment by moment","Guess the Missing Word (5k:刻)",Text
+"刻印","こくいん","engraving; inscribing; stamping (an impression); brand (i.e. a mark of disgrace); reputation; stamp; engraved seal; engraving a seal; inscribed seal","Guess the Missing Word (5k:刻)",Text
+"前奏曲","ぜんそうきょく","overture; prelude","Guess the Missing Word (5k:奏)",Text
+"副将","ふくしょう","fourth athlete to compete in a 5-on-5 team competition (kendo, judo, etc.); second in command (of an army); vice-captain","Guess the Missing Word (5k:将)",Text
+"割増賃金","わりましちんぎん","extra pay","Guess the Missing Word (5k:割,賃)",Text
+"割引券","わりびきけん","discount coupon or ticket","Guess the Missing Word (5k:割,券)",Text
+"創り出す","つくりだす","to create; to dream up; to invent; to manufacture; to produce; to raise (crops)","Guess the Missing Word (5k:創)",Text
+"創世","そうせい","creation of the world","Guess the Missing Word (5k:創)",Text
+"創世記","そうせいき","Genesis (book of the Bible)","Guess the Missing Word (5k:創)",Text
+"創作","そうさく","(creative) writing; creation; creative work (novel, film, etc.); fabrication; fiction; invention; original work; production","Guess the Missing Word (5k:創)",Text
+"創価学会","そうかがっかい","Soka Gakkai (lay organization based on Nichiren Buddhism)","Guess the Missing Word (5k:創)",Text
+"創出","そうしゅつ","creation; generation","Guess the Missing Word (5k:創)",Text
+"創刊","そうかん","first publication; foundation (of a newspaper, magazine, etc.); launching; starting","Guess the Missing Word (5k:創)",Text
+"創始","そうし","creation; founding; initiating","Guess the Missing Word (5k:創)",Text
+"創建","そうけん","establishment; foundation","Guess the Missing Word (5k:創)",Text
+"創意","そうい","original idea; originality","Guess the Missing Word (5k:創)",Text
+"創業","そうぎょう","establishment (of a business); founding","Guess the Missing Word (5k:創)",Text
+"創立","そうりつ","establishment; founding; organisation; organization","Guess the Missing Word (5k:創)",Text
+"創設","そうせつ","establishment; founding; organisation; organization","Guess the Missing Word (5k:創)",Text
+"創造","そうぞう","creation; Creation (by God)","Guess the Missing Word (5k:創)",Text
+"創造力","そうぞうりょく","creative power; creativity","Guess the Missing Word (5k:創)",Text
+"創造的","そうぞうてき","creative","Guess the Missing Word (5k:創)",Text
+"劇映画","げきえいが","film drama","Guess the Missing Word (5k:劇,映)",Text
+"加担","かたん","assistance; complicity; conspiracy; participation; support","Guess the Missing Word (5k:担)",Text
+"加盟","かめい","accession; affiliation; joining (an association, agreement, etc.); participation","Guess the Missing Word (5k:盟)",Text
+"勤め人","つとめにん","office worker; salaried worker; white-collar worker","Guess the Missing Word (5k:勤)",Text
+"勤め先","つとめさき","place of work","Guess the Missing Word (5k:勤)",Text
+"勤労","きんろう","diligent service; exertion; labor; labour","Guess the Missing Word (5k:勤)",Text
+"勤労者","きんろうしゃ","worker","Guess the Missing Word (5k:勤)",Text
+"勤勉","きんべん","diligent; hard-working; industrious","Guess the Missing Word (5k:勤)",Text
+"勤務","きんむ","duty; service; work","Guess the Missing Word (5k:勤)",Text
+"勤務時間","きんむじかん","business hours; office hours; working hours","Guess the Missing Word (5k:勤)",Text
+"勤続","きんぞく","continuous service","Guess the Missing Word (5k:勤)",Text
+"包装","ほうそう","packing; wrapping","Guess the Missing Word (5k:装)",Text
+"半信半疑","はんしんはんぎ","dubious; half in doubt; half-convinced; incredulous","Guess the Missing Word (5k:疑)",Text
+"半熟","はんじゅく","half-cooked; half-done; half-ripe; soft-boiled; unripe","Guess the Missing Word (5k:熟)",Text
+"協奏曲","きょうそうきょく","concerto","Guess the Missing Word (5k:奏)",Text
+"単純","たんじゅん","naive; plain; simple; simple-minded; straightforward; uncomplicated","Guess the Missing Word (5k:純)",Text
+"単純化","たんじゅんか","simplification","Guess the Missing Word (5k:純)",Text
+"単純平均","たんじゅんへいきん","arithmetic average; simple average","Guess the Missing Word (5k:純)",Text
+"危害","きがい","danger; harm; injury","Guess the Missing Word (5k:危)",Text
+"危急","ききゅう","crisis; emergency; imminent danger; VU; Vulnerable (conservation status)","Guess the Missing Word (5k:危)",Text
+"危惧","きぐ","anxiety; apprehension; fear; misgivings; uneasiness","Guess the Missing Word (5k:危)",Text
+"危機","きき","crisis; critical situation; emergency; pinch","Guess the Missing Word (5k:危)",Text
+"危篤","きとく","being on the verge of death; critical condition","Guess the Missing Word (5k:危)",Text
+"危険","きけん","danger; hazard; peril; risk","Guess the Missing Word (5k:危)",Text
+"危険性","きけんせい","(degree of) risk; danger; riskiness","Guess the Missing Word (5k:危)",Text
+"即刻","そっこく","at once; immediately; instantly","Guess the Missing Word (5k:刻)",Text
+"卵子","らんし","egg cell; ovule; ovum","Guess the Missing Word (5k:卵)",Text
+"卵巣","らんそう","ovary","Guess the Missing Word (5k:卵)",Text
+"卵形","らんけい,たまごがた","egg shape; oval shape,egg shape; oval shape","Guess the Missing Word (5k:卵)",Text
+"卵焼き","たまごやき","fried egg; frying pan for making rolled eggs; rolled egg; rolled omelette (omelet)","Guess the Missing Word (5k:卵)",Text
+"卵白","らんぱく","albumen; white of an egg","Guess the Missing Word (5k:卵)",Text
+"卵管","らんかん","fallopian tube; oviduct","Guess the Missing Word (5k:卵)",Text
+"卵胞","らんほう,らんぽう","(ovarian) follicle,(ovarian) follicle","Guess the Missing Word (5k:卵)",Text
+"卵黄","らんおう","egg yolk","Guess the Missing Word (5k:卵)",Text
+"厳密","げんみつ","close; precise; scrupulous; strict","Guess the Missing Word (5k:厳,密)",Text
+"去就","きょしゅう","(one's) attitude; (one's) course of action; (one's) position; leaving or staying","Guess the Missing Word (5k:就)",Text
+"参拝","さんぱい","going and worshipping (at a shrine or temple); visit (to a shrine or temple to worship)","Guess the Missing Word (5k:拝)",Text
+"友禅染め","ゆうぜんぞめ","silk printed by the Yuzen process; type of dyeing method or pattern","Guess the Missing Word (5k:染)",Text
+"収納","しゅうのう","harvesting; putting away; receipt (of funds, payment, etc.); storage","Guess the Missing Word (5k:収,納)",Text
+"収縮","しゅうしゅく","constriction; contraction; deflation; shrinking","Guess the Missing Word (5k:収,縮)",Text
+"収蔵","しゅうぞう","collection; garnering","Guess the Missing Word (5k:収,蔵)",Text
+"受精卵","じゅせいらん","fertilised egg; fertilized egg","Guess the Missing Word (5k:卵)",Text
+"古傷","ふるきず","old wound; painful memory; past misdeed; scar; unpleasant past experience","Guess the Missing Word (5k:傷)",Text
+"合奏","がっそう","concert; ensemble (e.g. orchestra, chamber group, etc.)","Guess the Missing Word (5k:奏)",Text
+"合衆国","がっしゅうこく","federal state; federation; United States of America","Guess the Missing Word (5k:衆)",Text
+"同盟","どうめい","alliance; league; union","Guess the Missing Word (5k:盟)",Text
+"同盟条約","どうめいじょうやく","treaty of alliance","Guess the Missing Word (5k:盟)",Text
+"同窓","どうそう","being a graduate of the same school; fellow alumnus; person who went to the same school","Guess the Missing Word (5k:窓)",Text
+"同窓会","どうそうかい","alumni association; alumni meeting; class reunion; graduates' association","Guess the Missing Word (5k:窓)",Text
+"同系","どうけい","affiliated; akin","Guess the Missing Word (5k:系)",Text
+"名将","めいしょう","famous commander; great commander","Guess the Missing Word (5k:将)",Text
+"吸収","きゅうしゅう","absorption; attraction; suction","Guess the Missing Word (5k:吸,収)",Text
+"君臨","くんりん","controlling; dictating; dominating; reigning (over a country)","Guess the Missing Word (5k:臨)",Text
+"否認","ひにん","denial; disapproval; negation; repudiation","Guess the Missing Word (5k:否,認)",Text
+"吹奏楽","すいそうがく","wind instrument music; wind music","Guess the Missing Word (5k:奏)",Text
+"呼び捨て","よびすて","addressing (someone) without using a suffix such as '-san' or '-chan' (considered impolite)","Guess the Missing Word (5k:呼,捨)",Text
+"呼吸","こきゅう","breathing; respiration; accord; balance; harmony; knack; secret (of doing something); short interval; short pause; synchronization; trick","Guess the Missing Word (5k:呼,吸)",Text
+"呼吸器","こきゅうき","respiratory organs","Guess the Missing Word (5k:呼,吸)",Text
+"和装","わそう","being dressed in a kimono; Japanese clothing; Japanese-style bookbinding","Guess the Missing Word (5k:装)",Text
+"若干","そこば,そくばく,そこばく,じゃっかん","a lot; many; somewhat; to a certain extent; a little (bit); a number of; few; some,a lot; many; somewhat; to a certain extent; a little (bit); a number of; few; some,a lot; many; somewhat; to a certain extent; a little (bit); a number of; few; some,a lot; many; somewhat; to a certain extent; a little (bit); a number of; few; some","Guess the Missing Word (5k:若,干)",Text
+"善処","ぜんしょ","dealing appropriately (with a situation); handling (an issue) carefully; making the best of (a bad bargain); taking proper measures","Guess the Missing Word (5k:善,処)",Text
+"善後策","ぜんごさく","corrective measure; countermeasure; relief measure; remedial measure; remedy","Guess the Missing Word (5k:善,策)",Text
+"四重奏","しじゅうそう","instrumental quartet","Guess the Missing Word (5k:奏)",Text
+"困難","こんなん","difficulty; distress; hardship; inability (to carry out); infeasibility; trouble","Guess the Missing Word (5k:困,難)",Text
+"土俵","どひょう","(wrestling) ring; forum (e.g. for discussion); gabion; sandbag","Guess the Missing Word (5k:俵)",Text
+"土俵入り","どひょういり","entrance procession of wrestlers into the ring","Guess the Missing Word (5k:俵)",Text
+"土俵際","どひょうぎわ","brink; critical moment; edge of the ring; last moment; verge","Guess the Missing Word (5k:俵)",Text
+"土砂降り","どしゃぶり","cloudburst; downpour; heavy rain; pelting rain; pouring rain","Guess the Missing Word (5k:砂,降)",Text
+"在勤","ざいきん","(while) working in or at or for","Guess the Missing Word (5k:勤)",Text
+"在宅","ざいたく","being at home; being in","Guess the Missing Word (5k:宅)",Text
+"地球温暖化","ちきゅうおんだんか","global warming","Guess the Missing Word (5k:暖)",Text
+"地磁気","ちじき","geomagnetism; terrestrial magnetism","Guess the Missing Word (5k:磁)",Text
+"地誌","ちし","geographical description; topography","Guess the Missing Word (5k:誌)",Text
+"垂れ幕","たれまく","curtain; hanging banner; hanging screen","Guess the Missing Word (5k:垂,幕)",Text
+"塗装","とそう","coating; painting","Guess the Missing Word (5k:装)",Text
+"墓穴","はかあな,ぼけつ","grave (pit),grave (pit)","Guess the Missing Word (5k:穴)",Text
+"増補","ぞうほ","augmenting; enlarging; extending (e.g. a book); supplementing","Guess the Missing Word (5k:補)",Text
+"変奏曲","へんそうきょく","variation","Guess the Missing Word (5k:奏)",Text
+"変更届","へんこうとどけ","alteration report; notification of change; registration of modification","Guess the Missing Word (5k:届)",Text
+"変装","へんそう","disguise; masquerade","Guess the Missing Word (5k:装)",Text
+"夕刻","ゆうこく","evening; evening hour","Guess the Missing Word (5k:刻)",Text
+"夕暮れ","ゆうぐれ","dusk; evening; twilight","Guess the Missing Word (5k:暮)",Text
+"外傷","がいしょう","(physical) trauma; external wound","Guess the Missing Word (5k:傷)",Text
+"外勤","がいきん","outside duty; working away from the office; working outside the office","Guess the Missing Word (5k:勤)",Text
+"外装","がいそう","arm; armor (armour); cladding; exterior; packaging","Guess the Missing Word (5k:装)",Text
+"夜勤","やきん","night shift","Guess the Missing Word (5k:勤)",Text
+"大宇宙","だいうちゅう","macrocosm; macrocosmos; the cosmos; the universe","Guess the Missing Word (5k:宇,宙)",Text
+"大将","だいしょう,たいしょう","admiral; athlete who competes in the last match of a team competition (kendo, judo, etc.); boss; boss; chief; chief; general; head; kingpin; leader; man; mate; old chap,admiral; athlete who competes in the last match of a team competition (kendo, judo, etc.); boss; boss; chief; chief; general; head; kingpin; leader; man; mate; old chap","Guess the Missing Word (5k:将)",Text
+"大盛り","おおもり","large portion; large serving","Guess the Missing Word (5k:盛)",Text
+"大穴","おおあな","a killing (made from a bet); big deficit; big winnings (on a long shot); heavy losses; large hole; long-shot win (in horse racing, etc.)","Guess the Missing Word (5k:穴)",Text
+"大衆","たいしゅう","general public; the masses","Guess the Missing Word (5k:衆)",Text
+"大衆化","たいしゅうか","popularisation; popularization","Guess the Missing Word (5k:衆)",Text
+"大衆性","たいしゅうせい","popularity","Guess the Missing Word (5k:衆)",Text
+"大衆文学","たいしゅうぶんがく","popular literature","Guess the Missing Word (5k:衆)",Text
+"大規模","だいきぼ","large-scale","Guess the Missing Word (5k:模)",Text
+"天守閣","てんしゅかく","castle tower; donjon; keep","Guess the Missing Word (5k:閣)",Text
+"天皇誕生日","てんのうたんじょうび","Emperor's Birthday (national holiday; February 23)","Guess the Missing Word (5k:皇,誕)",Text
+"天皇陛下","てんのうへいか","His Majesty the Emperor","Guess the Missing Word (5k:皇,陛)",Text
+"天窓","てんそう,てんまど","head; skylight,head; skylight","Guess the Missing Word (5k:窓)",Text
+"太陽系","たいようけい","solar system","Guess the Missing Word (5k:系)",Text
+"奏功","そうこう","achievement; fruition; success","Guess the Missing Word (5k:奏)",Text
+"奏楽","そうがく","musical performance","Guess the Missing Word (5k:奏)",Text
+"奏法","そうほう","playing technique; style of playing; way of playing (an instrument)","Guess the Missing Word (5k:奏)",Text
+"奏者","そうしゃ","instrumentalist; player","Guess the Missing Word (5k:奏)",Text
+"女将","おかみ,にょしょう,じょしょう","female innkeeper; hostess; landlady; mistress; proprietress (of a traditional Japanese inn, restaurant, or shop),female innkeeper; hostess; landlady; mistress; proprietress (of a traditional Japanese inn, restaurant, or shop),female innkeeper; hostess; landlady; mistress; proprietress (of a traditional Japanese inn, restaurant, or shop)","Guess the Missing Word (5k:将)",Text
+"女装","じょそう","cross dressing (for a man); female clothing; wearing female clothing","Guess the Missing Word (5k:装)",Text
+"姿勢","しせい","approach; attitude; carriage (of the body); pose; position; posture; stance; stance","Guess the Missing Word (5k:姿)",Text
+"嫌疑","けんぎ","suspicion","Guess the Missing Word (5k:疑)",Text
+"存亡","そんぼう","destiny; existence; life or death","Guess the Missing Word (5k:存,亡)",Text
+"存否","ぞんぴ,そんぴ","(whether) existent or non-existent; life or death,(whether) existent or non-existent; life or death","Guess the Missing Word (5k:存,否)",Text
+"孤軍奮闘","こぐんふんとう","fighting alone","Guess the Missing Word (5k:奮)",Text
+"学会誌","がっかいし","academic journal","Guess the Missing Word (5k:誌)",Text
+"宅地","たくち","building lot; residential land","Guess the Missing Word (5k:宅)",Text
+"宅配","たくはい","home delivery","Guess the Missing Word (5k:宅)",Text
+"宅配便","たくはいびん","express home delivery parcel (box, etc.); express home delivery service","Guess the Missing Word (5k:宅)",Text
+"宇宙","うちゅう","cosmos; space; universe","Guess the Missing Word (5k:宇,宙)",Text
+"宇宙空間","うちゅうくうかん","(outer) space","Guess the Missing Word (5k:宇,宙)",Text
+"宇宙通信","うちゅうつうしん","space communication","Guess the Missing Word (5k:宇,宙)",Text
+"宇宙開発","うちゅうかいはつ","space development; space exploration","Guess the Missing Word (5k:宇,宙)",Text
+"宇宙開発事業団","うちゅうかいはつじぎょうだん","NASDA; National Space Development Agency","Guess the Missing Word (5k:宇,宙)",Text
+"宇宙飛行士","うちゅうひこうし","astronaut","Guess the Missing Word (5k:宇,宙)",Text
+"安全保障","あんぜんほしょう","security guarantee (e.g. military security, network security, etc.)","Guess the Missing Word (5k:障)",Text
+"安全装置","あんぜんそうち","safety device","Guess the Missing Word (5k:装)",Text
+"完済","かんさい","full payment; liquidation","Guess the Missing Word (5k:済)",Text
+"完熟","かんじゅく","full maturity; full ripeness","Guess the Missing Word (5k:熟)",Text
+"宗派","しゅうは","denomination; school (e.g. of poetry); sect","Guess the Missing Word (5k:宗,派)",Text
+"定刻","ていこく","appointed time; schedule; timetable","Guess the Missing Word (5k:刻)",Text
+"宣伝","せんでん","advertisement; advertising; propaganda; publicity","Guess the Missing Word (5k:宣)",Text
+"宣告","せんこく","pronouncement; sentence; verdict","Guess the Missing Word (5k:宣)",Text
+"宣戦","せんせん","declaration of war","Guess the Missing Word (5k:宣)",Text
+"宣教","せんきょう","religious mission; religious proclamation","Guess the Missing Word (5k:宣)",Text
+"宣教師","せんきょうし","missionary","Guess the Missing Word (5k:宣)",Text
+"宣言","せんげん","announcement; declaration; proclamation","Guess the Missing Word (5k:宣)",Text
+"宣誓","せんせい","abjuration; oath; pledge","Guess the Missing Word (5k:宣)",Text
+"家並み","やなみ,いえなみ","each house; every door; every house; row of houses,each house; every door; every house; row of houses","Guess the Missing Word (5k:並)",Text
+"家宅","かたく","domicile; premises","Guess the Missing Word (5k:宅)",Text
+"家系","かけい","family lineage","Guess the Missing Word (5k:系)",Text
+"容姿","ようし","(physical) appearance (of a person); one's face and figure","Guess the Missing Word (5k:姿)",Text
+"容疑","ようぎ","charge; suspicion","Guess the Missing Word (5k:疑)",Text
+"容疑者","ようぎしゃ","suspect","Guess the Missing Word (5k:疑)",Text
+"密閉","みっぺい","making airtight; sealing hermetically; shutting tightly","Guess the Missing Word (5k:密,閉)",Text
+"富貴","ふっき,ふうき","riches and honours (honors); wealth and rank,riches and honours (honors); wealth and rank","Guess the Missing Word (5k:貴)",Text
+"寒暖","かんだん","(degree of) temperature; cold and heat","Guess the Missing Word (5k:暖)",Text
+"寒暖計","かんだんけい","thermometer","Guess the Missing Word (5k:暖)",Text
+"寸劇","すんげき","short play; skit","Guess the Missing Word (5k:寸,劇)",Text
+"専従","せんじゅう","working exclusively for; working full-time (for)","Guess the Missing Word (5k:専,従)",Text
+"専従者","せんじゅうしゃ","full-time union official; full-time worker; person doing one job exclusively","Guess the Missing Word (5k:専,従)",Text
+"将兵","しょうへい","officers and men","Guess the Missing Word (5k:将)",Text
+"将官","しょうかん","admiral; general","Guess the Missing Word (5k:将)",Text
+"将来","しょうらい","(future) prospects; future; bringing (from abroad, another region, etc.); bringing about; causing; giving rise to; incurring","Guess the Missing Word (5k:将)",Text
+"将来像","しょうらいぞう","vision of the future","Guess the Missing Word (5k:将)",Text
+"将来性","しょうらいせい","future prospects; promise","Guess the Missing Word (5k:将)",Text
+"将来的","しょうらいてき","future; possible; potential; prospective","Guess the Missing Word (5k:将)",Text
+"将校","しょうこう","commissioned officer","Guess the Missing Word (5k:将)",Text
+"将棋","しょうぎ","Japanese chess; shogi","Guess the Missing Word (5k:将)",Text
+"将棋倒し","しょうぎだおし","falling down one after another (like dominoes); toppling shogi pieces (lined up in a row)","Guess the Missing Word (5k:将)",Text
+"将軍","しょうぐん","general; shogun","Guess the Missing Word (5k:将)",Text
+"将軍家","しょうぐんけ","family positioned to accede to the shogunate","Guess the Missing Word (5k:将)",Text
+"尊厳","そんげん","dignity; majesty; sanctity","Guess the Missing Word (5k:尊,厳)",Text
+"尊敬","そんけい","esteem; honor; honour; respect; reverence","Guess the Missing Word (5k:尊,敬)",Text
+"小冊子","しょうさっし","booklet; pamphlet","Guess the Missing Word (5k:冊)",Text
+"小刻み","こきざみ","bit by bit; gradual; little by little; short and repeated (movements; e.g. trembling, quick steps); chopping finely; mincing","Guess the Missing Word (5k:刻)",Text
+"小宇宙","しょううちゅう","microcosm; microcosmos","Guess the Missing Word (5k:宇,宙)",Text
+"小規模","しょうきぼ","small scale","Guess the Missing Word (5k:模)",Text
+"小銭","こぜに","coins; small change; small sum of money","Guess the Missing Word (5k:銭)",Text
+"少将","しょうしょう","air commodore; major general; rear admiral","Guess the Missing Word (5k:将)",Text
+"就任","しゅうにん","assumption (of office); inauguration; installation; taking up (a post)","Guess the Missing Word (5k:就)",Text
+"就労","しゅうろう","being employed; being hired; working","Guess the Missing Word (5k:就)",Text
+"就学","しゅうがく","entering school; school attendance","Guess the Missing Word (5k:就)",Text
+"就寝","しゅうしん","going to bed; retiring (for the night)","Guess the Missing Word (5k:就)",Text
+"就役","しゅうえき","being placed in commission; being placed on duty; going into commission (of a warship, freighter, etc.)","Guess the Missing Word (5k:就)",Text
+"就業","しゅうぎょう","employment; starting work","Guess the Missing Word (5k:就)",Text
+"就活","しゅうかつ","job hunting; job searching","Guess the Missing Word (5k:就)",Text
+"就職","しゅうしょく","finding employment; getting a job","Guess the Missing Word (5k:就)",Text
+"就航","しゅうこう","being in service; entering service (on a route; of a plane or ship); going into commission","Guess the Missing Word (5k:就)",Text
+"居並ぶ","いならぶ","to be arrayed; to sit in a row","Guess the Missing Word (5k:並)",Text
+"届け出","とどけで","notification; report","Guess the Missing Word (5k:届)",Text
+"届け出る","とどけでる","to notify; to report","Guess the Missing Word (5k:届)",Text
+"展覧","てんらん","displaying; exhibition; putting on display; showing","Guess the Missing Word (5k:展,覧)",Text
+"展覧会","てんらんかい","exhibition","Guess the Missing Word (5k:展,覧)",Text
+"山並み","やまなみ","mountain belt; mountain range","Guess the Missing Word (5k:並)",Text
+"山盛り","やまもり","full measure; heap; pile; stack","Guess the Missing Word (5k:盛)",Text
+"山系","さんけい","mountain range; mountain system","Guess the Missing Word (5k:系)",Text
+"山頂","さんちょう","summit (of a mountain)","Guess the Missing Word (5k:頂)",Text
+"崇拝","すうはい","admiration; adoration; cult; worship","Guess the Missing Word (5k:拝)",Text
+"巻尺","まきじゃく","tape measure","Guess the Missing Word (5k:巻,尺)",Text
+"帰宅","きたく","coming home; getting home; going home; returning home","Guess the Missing Word (5k:宅)",Text
+"常勤","じょうきん","full-time employment","Guess the Missing Word (5k:勤)",Text
+"平年並み","へいねんなみ","in line with an average year; normal; similar to that of an average year","Guess the Missing Word (5k:並)",Text
+"年の暮れ","としのくれ","year end","Guess the Missing Word (5k:暮)",Text
+"度忘れ","どわすれ","(something) slipping one's mind; forgetting for a moment something one knows well; lapse of memory","Guess the Missing Word (5k:忘)",Text
+"度胸","どきょう","bravery; courage; grit; guts; nerve; pluck","Guess the Missing Word (5k:胸)",Text
+"座視","ざし","looking on unconcernedly (doing nothing); remaining an idle spectator","Guess the Missing Word (5k:座,視)",Text
+"延納","えんのう","deferred payment","Guess the Missing Word (5k:延,納)",Text
+"弁済","べんさい","paying off; reimbursement (of expenses); repayment; settlement (of a debt)","Guess the Missing Word (5k:済)",Text
+"当座預金","とうざよきん","checking account; current account","Guess the Missing Word (5k:座,預)",Text
+"彫刻","ちょうこく","carving; engraving; sculpture","Guess the Missing Word (5k:刻)",Text
+"影の内閣","かげのないかく","shadow cabinet","Guess the Missing Word (5k:閣)",Text
+"後ろ姿","うしろすがた","(a person's) appearance from behind; back view; person as seen from behind; retreating figure","Guess the Missing Word (5k:姿)",Text
+"後片付け","あとかたづけ","cleaning up; clearing away; clearing up; putting in order; tidying up","Guess the Missing Word (5k:片)",Text
+"復刻","ふっこく","reissue; reprinting; reproduction; republication","Guess the Missing Word (5k:刻)",Text
+"復刻版","ふっこくばん","facsimile edition; reprint","Guess the Missing Word (5k:刻)",Text
+"心臓","しんぞう","central part; cheek; gall; guts; heart; heart (of something); nerve; spine","Guess the Missing Word (5k:臓)",Text
+"心臓病","しんぞうびょう","cardiopathy; heart disease; heart trouble","Guess the Missing Word (5k:臓)",Text
+"忘れ去る","わすれさる","to forget completely; to leave behind","Guess the Missing Word (5k:忘)",Text
+"忘れ物","わすれもの","forgetting something; leaving something behind; lost article; thing left behind","Guess the Missing Word (5k:忘)",Text
+"忘却","ぼうきゃく","(consigning to) oblivion; forgetting completely; lapse of memory","Guess the Missing Word (5k:忘)",Text
+"忘年会","ぼうねんかい","'forget-the-year' party; bōnenkai; year-end party","Guess the Missing Word (5k:忘)",Text
+"忠孝","ちゅうこう","loyalty and filial piety","Guess the Missing Word (5k:忠,孝)",Text
+"忠誠","ちゅうせい","allegiance; fidelity; integrity; loyalty; sincerity","Guess the Missing Word (5k:忠,誠)",Text
+"怪我","けが","accident; injury; loss; mistake; wound","Guess the Missing Word (5k:我)",Text
+"怪我人","けがにん","injured person; wounded person","Guess the Missing Word (5k:我)",Text
+"恩人","おんじん","benefactor; patron; person to whom one is (deeply) indebted; person to whom one owes a great deal","Guess the Missing Word (5k:恩)",Text
+"恩典","おんてん","act of grace; favor; favour; special privilege","Guess the Missing Word (5k:恩)",Text
+"恩恵","おんけい","benefit; blessing; favor; favour; grace","Guess the Missing Word (5k:恩)",Text
+"恩赦","おんしゃ","amnesty; pardon","Guess the Missing Word (5k:恩)",Text
+"恩知らず","おんしらず","ungrateful","Guess the Missing Word (5k:恩)",Text
+"恩給","おんきゅう","pension (esp. public servant's); a lord giving a land holding to a vassal","Guess the Missing Word (5k:恩)",Text
+"恩義","おんぎ","debt of gratitude; favor; favour; obligation","Guess the Missing Word (5k:恩)",Text
+"恩賜","おんし","Imperial gift","Guess the Missing Word (5k:恩)",Text
+"恩返し","おんがえし","repayment (of an obligation, kindness, etc.); requital of a favour","Guess the Missing Word (5k:恩)",Text
+"情緒障害","じょうしょしょうがい,じょうちょしょうがい","(suffering) an emotional disturbance,(suffering) an emotional disturbance","Guess the Missing Word (5k:障)",Text
+"意気盛ん","いきさかん","in high spirits","Guess the Missing Word (5k:盛)",Text
+"感傷","かんしょう","sentiment; sentimentality","Guess the Missing Word (5k:傷)",Text
+"感傷的","かんしょうてき","emotional; maudlin; mawkish; sentimental","Guess the Missing Word (5k:傷)",Text
+"感染","かんせん","becoming infected; being infected (e.g. with harmful ideas); being influenced (by); contagion; infection","Guess the Missing Word (5k:染)",Text
+"感染症","かんせんしょう","infection; infectious disease","Guess the Missing Word (5k:染)",Text
+"憲法裁判所","けんぽうさいばんしょ","constitutional court","Guess the Missing Word (5k:憲,裁)",Text
+"懐疑","かいぎ","disbelief; doubt; scepticism; skepticism","Guess the Missing Word (5k:疑)",Text
+"成就","じょうじゅ","completion; fulfillment; fulfilment; realisation; realization","Guess the Missing Word (5k:就)",Text
+"成熟","せいじゅく","maturity; ripeness","Guess the Missing Word (5k:熟)",Text
+"我が儘","わがまま","egoist; self-indulgent; selfish; wilful; willful","Guess the Missing Word (5k:我)",Text
+"我が国","わがくに","one's own country; our country; our land","Guess the Missing Word (5k:我)",Text
+"我が家","わがいえ,わがや","one's family; one's home; one's house,one's family; one's home; one's house","Guess the Missing Word (5k:我)",Text
+"我が身","わがみ","I; me; you (referring to one's inferior); myself; oneself","Guess the Missing Word (5k:我)",Text
+"我々","われわれ","we","Guess the Missing Word (5k:我)",Text
+"我慢","がまん","bearing (with something); endurance; patience; perseverance; self-control; self-restraint","Guess the Missing Word (5k:我)",Text
+"我流","がりゅう","one's own style; one's own way; self-taught method","Guess the Missing Word (5k:我)",Text
+"戦傷","せんしょう","war wound","Guess the Missing Word (5k:傷)",Text
+"承認","しょうにん","acknowledgement; acknowledgment; agreement; approval; consent; recognition","Guess the Missing Word (5k:承,認)",Text
+"抜け穴","ぬけあな","hole one can go through; loophole; opening; secret passage; underground passage","Guess the Missing Word (5k:穴)",Text
+"担い手","にないて","bearer; carrier; person bearing responsibility; person in charge; supporter","Guess the Missing Word (5k:担)",Text
+"担ぎ出す","かつぎだす","to bring up (a subject); to broach a topic; to carry something out of a place; to convince someone to accept a post (esp. through flattery); to elevate (someone) to a high position; to mention; to mention something; to raise (an issue)","Guess the Missing Word (5k:担)",Text
+"担任","たんにん","class teacher; form teacher; homeroom teacher; being in charge of (esp. a class or subject); taking charge of","Guess the Missing Word (5k:担)",Text
+"担保","たんぽ","collateral (e.g. mortgage); guarantee; security","Guess the Missing Word (5k:担)",Text
+"担当","たんとう","being in charge (of an area of responsibility); being responsible (for a work role, etc.)","Guess the Missing Word (5k:担)",Text
+"担当者","たんとうしゃ","contact (person); person in charge (of an area of work, etc.); person responsible","Guess the Missing Word (5k:担)",Text
+"担架","たんか","gurney; litter (medical); stretcher","Guess the Missing Word (5k:担)",Text
+"拝借","はいしゃく","borrowing","Guess the Missing Word (5k:拝)",Text
+"拝啓","はいけい","Dear (so and so); Dear Madam; Dear Sir; To Whom It May Concern","Guess the Missing Word (5k:拝)",Text
+"拝殿","はいでん","front shrine; hall of worship","Guess the Missing Word (5k:拝)",Text
+"拝礼","はいれい","worship","Guess the Missing Word (5k:拝)",Text
+"拝見","はいけん","looking at; seeing","Guess the Missing Word (5k:拝)",Text
+"拝観","はいかん","inspect; see; visit","Guess the Missing Word (5k:拝)",Text
+"拝金","はいきん","mammon-worship; money-worship","Guess the Missing Word (5k:拝)",Text
+"拡充","かくじゅう","expansion","Guess the Missing Word (5k:拡)",Text
+"拡声機","かくせいき","bullhorn; loudhailer; megaphone","Guess the Missing Word (5k:拡)",Text
+"拡大","かくだい","enlargement; escalation; expansion; extension; magnification; spread","Guess the Missing Word (5k:拡)",Text
+"拡大均衡","かくだいきんこう","an expanded or expanding equilibrium","Guess the Missing Word (5k:拡)",Text
+"拡張","かくちょう","enlargement; ESC; escape; expansion; extension","Guess the Missing Word (5k:拡)",Text
+"拡張子","かくちょうし","filename extension","Guess the Missing Word (5k:拡)",Text
+"拡散","かくさん","diffusion (of light, gas); disseminating; scattering; spreading","Guess the Missing Word (5k:拡)",Text
+"持ち回り閣議","もちまわりかくぎ","round-robin cabinet","Guess the Missing Word (5k:閣)",Text
+"指揮棒","しきぼう","conductor's baton; conductor's stick","Guess the Missing Word (5k:揮,棒)",Text
+"挫傷","ざしょう","bruise; contusion; fracture; sprain; wrench","Guess the Missing Word (5k:傷)",Text
+"排卵","はいらん","ovulation","Guess the Missing Word (5k:卵)",Text
+"排卵誘発剤","はいらんゆうはつざい","ovulation-inducing drug","Guess the Missing Word (5k:卵)",Text
+"探訪","たんぼう","hunting for news story; journalist; searching","Guess the Missing Word (5k:探,訪)",Text
+"推論","すいろん","deduction; induction; inference; reasoning","Guess the Missing Word (5k:推,論)",Text
+"損傷","そんしょう","damage; injury","Guess the Missing Word (5k:傷)",Text
+"操縦","そうじゅう","control; flying; handling; handling; management (of people); maneuvering; manipulation; operation; piloting; steering","Guess the Missing Word (5k:操,縦)",Text
+"擦り傷","さっしょう,すりきず","abrasion; graze; scratch,abrasion; graze; scratch","Guess the Missing Word (5k:傷)",Text
+"支払い済み","しはらいずみ","paid; settled","Guess the Missing Word (5k:済)",Text
+"支障","ししょう","difficulty; hindrance; impediment; obstacle","Guess the Missing Word (5k:障)",Text
+"改装","かいそう","remodeling; remodelling; reorganisation; reorganization","Guess the Missing Word (5k:装)",Text
+"故障","こしょう","being out of order; breakdown; failure; fault; trouble; hindrance; hitch; objection; obstacle; problem; protest; damage (to a part of the body); hurt; injury","Guess the Missing Word (5k:障)",Text
+"救済","きゅうさい","(Christian) grace; (religious) salvation; aid; help; relief; rescue","Guess the Missing Word (5k:済)",Text
+"敵視","てきし","being hostile toward; looking upon (someone) as an enemy; regarding as an enemy","Guess the Missing Word (5k:敵,視)",Text
+"敵討ち","かたきうち","retaliation; revenge; vengeance","Guess the Missing Word (5k:敵,討)",Text
+"文系","ぶんけい","humanities, social sciences, and fine arts; liberal arts","Guess the Missing Word (5k:系)",Text
+"断片","だんぺん","fragment; piece; scrap; shred","Guess the Missing Word (5k:片)",Text
+"断片的","だんぺんてき","fragmentary","Guess the Missing Word (5k:片)",Text
+"新装","しんそう","redecoration; refurbishment; remodeling; remodelling","Guess the Missing Word (5k:装)",Text
+"日勤","にっきん","day shift","Guess the Missing Word (5k:勤)",Text
+"日暮れ","ひぐれ","dusk; evening; sunset; twilight","Guess the Missing Word (5k:暮)",Text
+"日本経済","にほんけいざい","Japanese economy","Guess the Missing Word (5k:済)",Text
+"日系","にっけい","company managed by Japanese or non-Japanese of Japanese descent; company, etc. set up with Japanese capital; nikkeijin; non-Japanese of Japanese descent; (of) Japanese descent","Guess the Missing Word (5k:系)",Text
+"日誌","にっし","journal; log","Guess the Missing Word (5k:誌)",Text
+"日銭","ひぜに","daily income in cash; money paid by daily installments; money paid by daily instalments","Guess the Missing Word (5k:銭)",Text
+"早晩","そうばん","eventually; in time; sooner or later","Guess the Missing Word (5k:晩)",Text
+"早熟","そうじゅく","early ripening; precocity; premature development","Guess the Missing Word (5k:熟)",Text
+"旺盛","おうせい","avid (e.g. desire); energetic; healthy; lively; rich (e.g. imagination); vigorous; brimming with; full of (energy, appetite, curiosity, etc.)","Guess the Missing Word (5k:盛)",Text
+"明け暮れ","あけくれ","daily routine; morning and evening; all the time; always; constantly; day and night; to do day in, day out; to spend all one's time doing","Guess the Missing Word (5k:暮)",Text
+"明晩","みょうばん","tomorrow evening","Guess the Missing Word (5k:晩)",Text
+"明朗","めいろう","bright; cheerful; clean; clear; fair; honest","Guess the Missing Word (5k:朗)",Text
+"昨晩","さくばん","last night","Guess the Missing Word (5k:晩)",Text
+"時々刻々","じじこくこく,じじこっこく","from hour to hour; from one minute to the next; hourly; moment by moment; with each passing moment,from hour to hour; from one minute to the next; hourly; moment by moment; with each passing moment","Guess the Missing Word (5k:刻)",Text
+"時刻","じこく","(the) hour; chance; favourable time; opportunity; time","Guess the Missing Word (5k:刻)",Text
+"時刻表","じこくひょう","schedule; timetable","Guess the Missing Word (5k:刻)",Text
+"晩夏","ばんか","late summer; sixth month of the lunar calendar","Guess the Missing Word (5k:晩)",Text
+"晩婚","ばんこん","late marriage","Guess the Missing Word (5k:晩)",Text
+"晩年","ばんねん","final years (in life); one's later years","Guess the Missing Word (5k:晩)",Text
+"晩御飯","ばんごはん","dinner; evening meal","Guess the Missing Word (5k:晩)",Text
+"晩春","ばんしゅん","late spring; third month of the lunar calendar","Guess the Missing Word (5k:晩)",Text
+"晩期","ばんき","the last stage","Guess the Missing Word (5k:晩)",Text
+"晩秋","ばんしゅう","late autumn (fall); ninth month of the lunar calendar","Guess the Missing Word (5k:晩)",Text
+"晩酌","ばんしゃく","dinner-time drink; drink at home with one's evening meal","Guess the Missing Word (5k:晩)",Text
+"晩餐","ばんさん","dinner","Guess the Missing Word (5k:晩)",Text
+"晴れ姿","はれすがた","appearing in one's finest clothes; appearing in one's hour of triumph","Guess the Missing Word (5k:姿)",Text
+"暖冬","だんとう","mild winter; warm winter","Guess the Missing Word (5k:暖)",Text
+"暖地","だんち","region of mild climate; warm district","Guess the Missing Word (5k:暖)",Text
+"暖房","だんぼう","(indoor) heating","Guess the Missing Word (5k:暖)",Text
+"暖流","だんりゅう","warm current","Guess the Missing Word (5k:暖)",Text
+"暖炉","だんろ","fireplace; hearth; stove","Guess the Missing Word (5k:暖)",Text
+"暖簾","のうれん,のんれん,のれん","(short) curtain hung at shop entrance; credit; good name; goodwill; reputation (of a store); split curtain used to divide spaces in a house,(short) curtain hung at shop entrance; credit; good name; goodwill; reputation (of a store); split curtain used to divide spaces in a house,(short) curtain hung at shop entrance; credit; good name; goodwill; reputation (of a store); split curtain used to divide spaces in a house","Guess the Missing Word (5k:暖)",Text
+"暮らし向き","くらしむき","(family) finances; life circumstances; lifestyle","Guess the Missing Word (5k:暮)",Text
+"更年期障害","こうねんきしょうがい","menopausal disorders","Guess the Missing Word (5k:障)",Text
+"書誌","しょし","bibliography (history or description of books); bibliography (list of books by an author or on a subject); book","Guess the Missing Word (5k:誌)",Text
+"書誌学","しょしがく","bibliography (study of books); bibliology","Guess the Missing Word (5k:誌)",Text
+"最盛期","さいせいき","best time; golden age; height of prosperity; heyday; prime; season (for fruit, vegetables, etc.)","Guess the Missing Word (5k:盛)",Text
+"月並み","げつじ,つきなみ","every month; commonplace; conventional; hackneyed; trite,every month; commonplace; conventional; hackneyed; trite","Guess the Missing Word (5k:並)",Text
+"有頂天","うちょうてん","highest heaven; ecstasy","Guess the Missing Word (5k:頂)",Text
+"服装","ふくそう","attire; clothes; clothing; costume; dress; garb","Guess the Missing Word (5k:装)",Text
+"朗報","ろうほう","glad tidings; good news; happy news","Guess the Missing Word (5k:朗)",Text
+"朗詠","ろうえい","recitation (of Japanese or Chinese poem)","Guess the Missing Word (5k:朗)",Text
+"朗読","ろうどく","reading aloud; recitation","Guess the Missing Word (5k:朗)",Text
+"朝令暮改","ちょうれいぼかい","(orders or laws) being revised often with no guiding principles; an unsettled course of action","Guess the Missing Word (5k:暮)",Text
+"朝晩","あさばん","morning and evening; all the time; always; day and night; every day","Guess the Missing Word (5k:晩)",Text
+"期成同盟","きせいどうめい","association formed to carry out an objective","Guess the Missing Word (5k:盟)",Text
+"木片","もくへん","block (of wood); chip; splinter","Guess the Missing Word (5k:片)",Text
+"未熟","みじゅく","immature; inexperienced; unskilled; green; unripe","Guess the Missing Word (5k:熟)",Text
+"未熟児","みじゅくじ","premature baby","Guess the Missing Word (5k:熟)",Text
+"本誌","ほんし","this magazine","Guess the Missing Word (5k:誌)",Text
+"机上","きじょう","on the desk; academic; armchair (e.g. plan); desktop; not yet implemented; paper; theoretical","Guess the Missing Word (5k:机)",Text
+"染まり具合","そまりぐあい","effect of dyeing","Guess the Missing Word (5k:染)",Text
+"染み込む","しみこむ","to be (deeply) ingrained; to be embedded; to be impressed; to be instilled; to permeate; to seep into; to sink into; to sink into (one's mind); to soak into","Guess the Missing Word (5k:染)",Text
+"染料","せんりょう","dyes","Guess the Missing Word (5k:染)",Text
+"染色","せんしょく","dyeing; staining; dyed colour (color)","Guess the Missing Word (5k:染)",Text
+"染色体","せんしょくたい","chromosome","Guess the Missing Word (5k:染)",Text
+"株券","かぶけん","stock certificate","Guess the Missing Word (5k:株,券)",Text
+"核武装","かくぶそう","nuclear arms","Guess the Missing Word (5k:装)",Text
+"楼閣","ろうかく","multistoried building","Guess the Missing Word (5k:閣)",Text
+"模倣","もほう","copying; imitation","Guess the Missing Word (5k:模)",Text
+"模写","もしゃ","copy (of the real thing); copying; reproduction; tracing","Guess the Missing Word (5k:模)",Text
+"模型","もけい","dummy; maquette; model","Guess the Missing Word (5k:模)",Text
+"模擬","もぎ","imitation","Guess the Missing Word (5k:模)",Text
+"模擬店","もぎてん","refreshment booth; refreshment stand; snack bar","Guess the Missing Word (5k:模)",Text
+"模擬試験","もぎしけん","mock exam; practice exam; practice test","Guess the Missing Word (5k:模)",Text
+"模様","もよう","condition; conjecture of the current situation; design; example; figure; framework; indicates that something seems likely (e.g. rain or storm); model; moyo; pattern; pattern; state; territorial framework; the way it seems","Guess the Missing Word (5k:模)",Text
+"模様替え","もようがえ","rearranging; remodeling; remodelling","Guess the Missing Word (5k:模)",Text
+"模範","もはん","example; exemplar; model; pattern","Guess the Missing Word (5k:模)",Text
+"模範的","もはんてき","exemplary","Guess the Missing Word (5k:模)",Text
+"模索","もさく","fumbling around (for); groping (for); searching (for an answer, solution, etc.); trying to find","Guess the Missing Word (5k:模)",Text
+"模試","もし","mock exam; practice exam; practice test","Guess the Missing Word (5k:模)",Text
+"模造","もぞう","counterfeit; ersatz (object); fake; imitation; sham","Guess the Missing Word (5k:模)",Text
+"横穴","おうけつ,よこあな","cave; tunnel; tunnel tomb (Kofun period),cave; tunnel; tunnel tomb (Kofun period)","Guess the Missing Word (5k:穴)",Text
+"欠勤","けっきん","absence (from work)","Guess the Missing Word (5k:勤)",Text
+"欠片","かけら","broken piece; chip; fragment; ounce (of truth, conscience, etc.); scrap; shard; shred; splinter; trace","Guess the Missing Word (5k:片)",Text
+"正装","せいそう","formal dress; full dress; uniform","Guess the Missing Word (5k:装)",Text
+"武将","ぶしょう","military commander","Guess the Missing Word (5k:将)",Text
+"武装","ぶそう","armament; arming oneself; arms; taking up arms","Guess the Missing Word (5k:装)",Text
+"歯並び","はならび","dentition; row of teeth; set of teeth","Guess the Missing Word (5k:並)",Text
+"歳暮","せいぼ","end of the year; year end; year-end gift","Guess the Missing Word (5k:暮)",Text
+"死の灰","しのはい","atomic dust; lethal radioactive fallout","Guess the Missing Word (5k:灰)",Text
+"死傷","ししょう","casualties; injuries and deaths","Guess the Missing Word (5k:傷)",Text
+"死傷者","ししょうしゃ","casualties; the killed and wounded","Guess the Missing Word (5k:傷)",Text
+"毎晩","まいばん","every night","Guess the Missing Word (5k:晩)",Text
+"毛並み","けなみ","breeding; coat (of hair or fur); lie of (dog's) hair; lineage; sort; type","Guess the Missing Word (5k:並)",Text
+"毛穴","もうく,けあな","pore (of the skin),pore (of the skin)","Guess the Missing Word (5k:穴)",Text
+"民衆","みんしゅう","masses; people; populace","Guess the Missing Word (5k:衆)",Text
+"気障","きざ","affected; conceited; pompous; pretentious; smug; snobby","Guess the Missing Word (5k:障)",Text
+"水系","すいけい","drainage system; river system; water system","Guess the Missing Word (5k:系)",Text
+"水蒸気","すいじょうき","steam; water vapor; water vapour","Guess the Missing Word (5k:蒸)",Text
+"汚染","おせん","contamination; pollution","Guess the Missing Word (5k:染)",Text
+"決済","けっさい","liquidation of debts; payment; settlement (of an account)","Guess the Missing Word (5k:済)",Text
+"決済方法","けっさいほうほう","payment method","Guess the Missing Word (5k:済)",Text
+"沿革","えんかく","development; history","Guess the Missing Word (5k:沿,革)",Text
+"泡盛","あわもり","awamori; strong Okinawan liquor distilled from rice or millet","Guess the Missing Word (5k:盛)",Text
+"洋装","ようそう","Western binding; Western clothing","Guess the Missing Word (5k:装)",Text
+"洗脳","せんのう","brainwashing","Guess the Missing Word (5k:洗,脳)",Text
+"洞穴","どうけつ,ほらあな","cave; cavern; den; grotto,cave; cavern; den; grotto","Guess the Missing Word (5k:穴)",Text
+"海外経済協力基金","かいがいけいざいきょうりょくききん","Overseas Economic Cooperation Fund","Guess the Missing Word (5k:済)",Text
+"深刻","しんこく","acute; grave; serious; severe","Guess the Missing Word (5k:刻)",Text
+"深刻化","しんこくか","aggravation; becoming more serious or severe; intensification","Guess the Missing Word (5k:刻)",Text
+"深呼吸","しんこきゅう","deep breath","Guess the Missing Word (5k:呼,吸)",Text
+"清純","せいじゅん","innocence; purity","Guess the Missing Word (5k:純)",Text
+"温暖","おんだん","mild; temperate; warm","Guess the Missing Word (5k:暖)",Text
+"温泉郷","おんせんきょう","hot-spring village; onsen village","Guess the Missing Word (5k:泉,郷)",Text
+"源泉","げんせん","origin; source (of a spring, etc.); source (of payment, energy, knowledge, etc.); wellspring","Guess the Missing Word (5k:源,泉)",Text
+"演奏","えんそう","musical performance","Guess the Missing Word (5k:奏)",Text
+"演奏会","えんそうかい","concert; recital","Guess the Missing Word (5k:奏)",Text
+"激痛","げきつう","acute pain; intense pain; sharp pain","Guess the Missing Word (5k:激,痛)",Text
+"激論","げきろん","heated argument; heated debate; heated discussion","Guess the Missing Word (5k:激,論)",Text
+"火傷","かしょう,やけど","burn; scald,burn; scald","Guess the Missing Word (5k:傷)",Text
+"火山灰","かざんばい","volcanic ash","Guess the Missing Word (5k:灰)",Text
+"灰皿","はいざら","ashtray","Guess the Missing Word (5k:灰)",Text
+"灰色","かいしょく,はいいろ","ashen; gray; grey,ashen; gray; grey","Guess the Missing Word (5k:灰)",Text
+"無傷","むきず","faultless (e.g. performance); flawless (e.g. gem); perfect (condition); perfect (record); spotless (e.g. reputation); unblemished; undamaged; unharmed; unhurt; uninjured; unscathed; unwounded; without defeat; without failure","Guess the Missing Word (5k:傷)",Text
+"無党派層","むとうはそう","floating voters; swinging voters; unaffiliated voters","Guess the Missing Word (5k:党,派,層)",Text
+"無届け","むとどけ","unregistered; unreported (e.g. marriage, business, etc.); without leave (e.g. absence); without notice","Guess the Missing Word (5k:届)",Text
+"無我","むが","anatman; anatta; doctrine that states that humans do not possess souls; self-effacement; selflessness; self-renunciation","Guess the Missing Word (5k:我)",Text
+"無我夢中","むがむちゅう","being absorbed in; losing control of oneself; losing oneself in","Guess the Missing Word (5k:我)",Text
+"無線操縦","むせんそうじゅう","radio-controlled (plane)","Guess the Missing Word (5k:操,縦)",Text
+"熟慮","じゅくりょ","to consider a matter carefully; (thoughtful) consideration; deliberation","Guess the Missing Word (5k:熟)",Text
+"熟成","じゅくせい","ageing; aging; curing; fermenting; maturing; ripening","Guess the Missing Word (5k:熟)",Text
+"熟睡","じゅくすい","deep sleep; profound sleep; sound sleep","Guess the Missing Word (5k:熟)",Text
+"熟知","じゅくち","being familiar with; being well-informed about; having a thorough knowledge of","Guess the Missing Word (5k:熟)",Text
+"熟練","じゅくれん","dexterity; experience; expertise; mastery; proficiency; skill","Guess the Missing Word (5k:熟)",Text
+"熟語","じゅくご","idiom; idiomatic phrase; kanji compound","Guess the Missing Word (5k:熟)",Text
+"熟読","じゅくどく","careful reading; perusal; reading thoroughly","Guess the Missing Word (5k:熟)",Text
+"燻蒸","くんじょう","fumigation; smoking (out)","Guess the Missing Word (5k:蒸)",Text
+"片っ端から","かたっぱしから","absolutely every little bit; everything from A to Z; one after another; successively; systematically; thoroughly","Guess the Missing Word (5k:片)",Text
+"片付く","かたづく","to be disposed of; to be finished; to be married (off); to be put in order; to be put to rights; to be solved","Guess the Missing Word (5k:片)",Text
+"片付け","かたづけ","finishing; tidying up","Guess the Missing Word (5k:片)",Text
+"片付ける","かたづける","to bring something to an end; to bump someone off; to clear (dispute); to do away with someone; to finish; to marry off (e.g. a daughter); to put away; to put in order; to settle (problem); to straighten up; to tidy up","Guess the Missing Word (5k:片)",Text
+"片仮名","かたかな","angular Japanese syllabary used primarily for loanwords; katakana","Guess the Missing Word (5k:片)",Text
+"片側","かたがわ","one side","Guess the Missing Word (5k:片)",Text
+"片寄る","かたよる","to be biased; to be concentrated on; to be partial; to be prejudiced; to be unbalanced (e.g. diet); to be unduly weighted towards; to incline; to lean (to one side)","Guess the Missing Word (5k:片)",Text
+"片思い","かたおもい","one-sided love; unrequited love","Guess the Missing Word (5k:片)",Text
+"片手","かたて","one hand","Guess the Missing Word (5k:片)",Text
+"片手間","かたてま","free time; leisure time; spare time","Guess the Missing Word (5k:片)",Text
+"片方","かたほう","one (of a pair); the fellow; the mate; the other (one); one party; one side; the other party; the other side","Guess the Missing Word (5k:片)",Text
+"片時","へんじ,かたとき","instant; moment,instant; moment","Guess the Missing Word (5k:片)",Text
+"片田舎","かたいなか","back country; remote countryside","Guess the Missing Word (5k:片)",Text
+"片目","かため","one eye; one of one's eyes","Guess the Missing Word (5k:片)",Text
+"片腕","かたうで","one arm; one's right hand; one's right-hand man","Guess the Missing Word (5k:片)",Text
+"片親","かたおや","one parent; single parent","Guess the Missing Word (5k:片)",Text
+"片言","かたこと","baby talk; broken language; halting language; imperfect speech; prattle; smattering","Guess the Missing Word (5k:片)",Text
+"片足","かたあし","one foot; one leg; one of a pair (of shoes or socks)","Guess the Missing Word (5k:片)",Text
+"片道","かたみち","one-way ticket; one-way (trip)","Guess the Missing Word (5k:片)",Text
+"片隅","かたすみ","corner; nook","Guess the Missing Word (5k:片)",Text
+"片面","かためん","one side","Guess the Missing Word (5k:片)",Text
+"物忘れ","ものわすれ","forgetfulness","Guess the Missing Word (5k:忘)",Text
+"特装","とくそう","customised; customized; specially equipped","Guess the Missing Word (5k:装)",Text
+"独創","どくそう","originality","Guess the Missing Word (5k:創)",Text
+"独創的","どくそうてき","creative; original","Guess the Missing Word (5k:創)",Text
+"独奏","どくそう","(instrumental) solo; recital","Guess the Missing Word (5k:奏)",Text
+"猜疑","さいぎ","jealousy; suspicion","Guess the Missing Word (5k:疑)",Text
+"王将","おうしょう","king (of the senior player)","Guess the Missing Word (5k:将)",Text
+"班員","はんいん","member of a group","Guess the Missing Word (5k:班)",Text
+"班長","はんちょう","group leader; squad leader; team leader","Guess the Missing Word (5k:班)",Text
+"理系","りけい","science","Guess the Missing Word (5k:系)",Text
+"生卵","なまたまご","raw egg","Guess the Missing Word (5k:卵)",Text
+"生態系","せいたいけい","ecosystem","Guess the Missing Word (5k:系)",Text
+"生石灰","せいせっかい","quick lime","Guess the Missing Word (5k:灰)",Text
+"産卵","さんらん","egg-laying; spawning","Guess the Missing Word (5k:卵)",Text
+"男装","だんそう","disguising oneself as a man; dressing as a man (for a woman); male clothing","Guess the Missing Word (5k:装)",Text
+"町並み","まちなみ","(look of) stores and houses on street; street (of stores and houses); townscape","Guess the Missing Word (5k:並)",Text
+"異存","いぞん","objection","Guess the Missing Word (5k:異,存)",Text
+"異論","いろん","different opinion; objection","Guess the Missing Word (5k:異,論)",Text
+"異郷","いきょう","far-off land; foreign country; foreign land; strange land","Guess the Missing Word (5k:異,郷)",Text
+"奮い立つ","ふるいたつ","to be encouraged (by); to be in high spirits; to cheer up","Guess the Missing Word (5k:奮)",Text
+"奮戦","ふんせん","hard fighting","Guess the Missing Word (5k:奮)",Text
+"奮発","ふんぱつ","splurge; spurt; strenuous exertion","Guess the Missing Word (5k:奮)",Text
+"奮起","ふんき","rousing oneself; stirring","Guess the Missing Word (5k:奮)",Text
+"奮闘","ふんとう","fierce fighting; hard fighting; hard struggle; strenuous effort; working hard","Guess the Missing Word (5k:奮)",Text
+"疑似","ぎじ","false; mock; para-; pseudo; quasi; sham; suspected (case, e.g. of disease)","Guess the Missing Word (5k:疑)",Text
+"疑問","ぎもん","doubt; dubiousness; question; suspicion","Guess the Missing Word (5k:疑)",Text
+"疑問点","ぎもんてん","doubt; point of uncertainty; unclarified issue","Guess the Missing Word (5k:疑)",Text
+"疑問符","ぎもんふ","question mark","Guess the Missing Word (5k:疑)",Text
+"疑心","ぎしん","apprehension; doubt; fear; suspicion","Guess the Missing Word (5k:疑)",Text
+"疑心暗鬼","ぎしんあんき","jumping at shadows; once you suspect something, everything else will look suspicious; suspicion will raise bogies","Guess the Missing Word (5k:疑)",Text
+"疑念","ぎねん","doubt; misgivings; scruples; suspicion","Guess the Missing Word (5k:疑)",Text
+"疑惑","ぎわく","distrust; doubt; misgivings; suspicion","Guess the Missing Word (5k:疑)",Text
+"疑獄","ぎごく","bribery scandal; graft case","Guess the Missing Word (5k:疑)",Text
+"疑義","ぎぎ","doubt","Guess the Missing Word (5k:疑)",Text
+"発奮","はっぷん","being inspired; being roused; being spurred on; being stimulated","Guess the Missing Word (5k:奮)",Text
+"登頂","とうちょう","climbing to the summit; summiting","Guess the Missing Word (5k:頂)",Text
+"白内障","はくないしょう","cataract","Guess the Missing Word (5k:障)",Text
+"白装束","しろしょうぞく","white clothing","Guess the Missing Word (5k:装)",Text
+"皇后","こうごう","(Japanese) empress; queen","Guess the Missing Word (5k:皇,后)",Text
+"皇太后","こうたいこう,こうたいごう","Empress Dowager; Queen Mother,Empress Dowager; Queen Mother","Guess the Missing Word (5k:皇,后)",Text
+"皇宮警察","こうぐうけいさつ","the Imperial Guards","Guess the Missing Word (5k:皇,警)",Text
+"皇民党","こうみんとう","Imperialist Party","Guess the Missing Word (5k:皇,党)",Text
+"盛り上がり","もりあがり","bulge; climax; uprush","Guess the Missing Word (5k:盛)",Text
+"盛り上がる","もりあがる","to be piled up; to bulge; to get excited; to rise; to rouse; to swell","Guess the Missing Word (5k:盛)",Text
+"盛り上げる","もりあげる","to bring to a climax; to enliven; to heap up; to pile up; to stir up","Guess the Missing Word (5k:盛)",Text
+"盛り付け","もりつけ","arrangement of food (on a dish); serving of (arranged) food","Guess the Missing Word (5k:盛)",Text
+"盛り付ける","もりつける","to arrange (food) on a plate; to dish up","Guess the Missing Word (5k:盛)",Text
+"盛り土","もりつち,もりど","embankment (for road, railway, etc.); fill; raising the ground level,embankment (for road, railway, etc.); fill; raising the ground level","Guess the Missing Word (5k:盛)",Text
+"盛り場","さかりば","amusement quarters; busy place; busy street; place that's always bustling with people","Guess the Missing Word (5k:盛)",Text
+"盛り込む","もりこむ","to fill (a vessel) with; to include; to incorporate","Guess the Missing Word (5k:盛)",Text
+"盛り返す","もりかえす","to make a comeback; to rally","Guess the Missing Word (5k:盛)",Text
+"盛会","せいかい","successful meeting","Guess the Missing Word (5k:盛)",Text
+"盛夏","せいか","height of summer; midsummer","Guess the Missing Word (5k:盛)",Text
+"盛大","せいだい","forceful; grand; large scale; lavish; lively; magnificent; powerful; prosperous; thriving; vigorous","Guess the Missing Word (5k:盛)",Text
+"盛時","せいじ","era of national prosperity; prime of life","Guess the Missing Word (5k:盛)",Text
+"盛期","せいき","prosperous period","Guess the Missing Word (5k:盛)",Text
+"盛況","せいきょう","boom; prosperity; success","Guess the Missing Word (5k:盛)",Text
+"盛衰","せいすい","rise and fall; ups and downs; vicissitudes; welfare","Guess the Missing Word (5k:盛)",Text
+"盟主","めいしゅ","leader (of an alliance); leading power","Guess the Missing Word (5k:盟)",Text
+"盟友","めいゆう","sworn friend","Guess the Missing Word (5k:盟)",Text
+"盟約","めいやく","alliance; covenant; oath; pact; pledge","Guess the Missing Word (5k:盟)",Text
+"目盛り","めもり","division; gradations (on a ruler, thermometer, etc.); scale","Guess the Missing Word (5k:盛)",Text
+"目障り","めざわり","eyesore; obstructing a view; unpleasant sight","Guess the Missing Word (5k:障)",Text
+"直系","ちょっけい","direct descent; direct line","Guess the Missing Word (5k:系)",Text
+"真っ盛り","まっさかり","full bloom; height of; middle of","Guess the Missing Word (5k:盛)",Text
+"短冊","たんじゃく,たんざく","long, narrow strip of paper on which Japanese poems are written (vertically); tanzaku; thin rectangle,long, narrow strip of paper on which Japanese poems are written (vertically); tanzaku; thin rectangle","Guess the Missing Word (5k:冊)",Text
+"石灰","いしばい,せっかい","caustic lime; lime; quicklime,caustic lime; lime; quicklime","Guess the Missing Word (5k:灰)",Text
+"石灰岩","せっかいがん","limestone","Guess the Missing Word (5k:灰)",Text
+"砂糖","さとう","sugar","Guess the Missing Word (5k:砂,糖)",Text
+"破片","はへん","broken piece; chip; fragment; shard; splinter","Guess the Missing Word (5k:片)",Text
+"磁力","じりょく","magnetic force; magnetism","Guess the Missing Word (5k:磁)",Text
+"磁器","じき","china; chinaware; porcelain","Guess the Missing Word (5k:磁)",Text
+"磁場","じじょう,じば","ambience; atmosphere; focal point; magnetic field,ambience; atmosphere; focal point; magnetic field","Guess the Missing Word (5k:磁)",Text
+"磁性","じせい","magnetism","Guess the Missing Word (5k:磁)",Text
+"磁石","じせき,じしゃく","compass; magnet,compass; magnet","Guess the Missing Word (5k:磁)",Text
+"礼拝","らいはい,れいはい","adoration; divine service; worship (esp. Christian); worship (esp. Buddhist and Shinto),adoration; divine service; worship (esp. Christian); worship (esp. Buddhist and Shinto)","Guess the Missing Word (5k:拝)",Text
+"社会保障","しゃかいほしょう","social security","Guess the Missing Word (5k:障)",Text
+"社宅","しゃたく","company housing; housing provided by one's company","Guess the Missing Word (5k:宅)",Text
+"神経系","しんけいけい","nervous system","Guess the Missing Word (5k:系)",Text
+"私権","しけん","private right","Guess the Missing Word (5k:私,権)",Text
+"私欲","しよく","self-interest; selfish desire","Guess the Missing Word (5k:私,欲)",Text
+"私腹","しふく","one's own pockets; one's own profits","Guess the Missing Word (5k:私,腹)",Text
+"秘密","ひみつ","confidentiality; privacy; secrecy; secret; esoteric teachings; mystery; secret (e.g. to success)","Guess the Missing Word (5k:秘,密)",Text
+"秘策","ひさく","secret method; secret plan; secret scheme; secret stratagem","Guess the Missing Word (5k:秘,策)",Text
+"秘蔵","ひそう,ひぞう","cherishing; holding dear; prizing; treasuring,cherishing; holding dear; prizing; treasuring","Guess the Missing Word (5k:秘,蔵)",Text
+"穀倉","こくぐら,こくそう","granary,granary","Guess the Missing Word (5k:穀)",Text
+"穀物","こくもつ","cereal; corn; grain","Guess the Missing Word (5k:穀)",Text
+"穀類","こくるい","grains","Guess the Missing Word (5k:穀)",Text
+"穴埋め","あなうめ","compensation; covering (a deficit); filler (e.g. article); filling (up) a hole; filling in (for a gap, vacancy, etc.); making up (for a loss, damage, etc.); stopgap; cloze deletion (test format)","Guess the Missing Word (5k:穴)",Text
+"穴場","あなば","betting booth (at a racecourse); good out-of-the-way place; good place not many people know about; great little-known spot; hidden gem of a place; well-kept secret","Guess the Missing Word (5k:穴)",Text
+"穴熊","あなくま,あなぐま","badger; defensive opening for shogi; Eurasian badger (Meles meles),badger; defensive opening for shogi; Eurasian badger (Meles meles)","Guess the Missing Word (5k:穴)",Text
+"空模様","そらもよう","look of the sky; weather","Guess the Missing Word (5k:模)",Text
+"窓口","まどぐち","contact person; counter; point of contact; teller window; ticket window; window","Guess the Missing Word (5k:窓)",Text
+"窓外","そうがい","outside a window","Guess the Missing Word (5k:窓)",Text
+"窓越し","まどごし","doing through a window; going through a window; passing through a window; viewing through a window","Guess the Missing Word (5k:窓)",Text
+"窓際","まどぎわ","(at the) window","Guess the Missing Word (5k:窓)",Text
+"立ち並ぶ","たちならぶ","to be equal to; to be on a par with; to line; to line in a row; to stand in a row (e.g. shops on a street)","Guess the Missing Word (5k:並)",Text
+"立候補","りっこうほ","bidding (to host an event, e.g. the Olympics); candidacy; standing as a candidate","Guess the Missing Word (5k:補)",Text
+"篆刻","てんこく","seal engraving","Guess the Missing Word (5k:刻)",Text
+"簡裁","かんさい","court of summary offences; summary court","Guess the Missing Word (5k:簡,裁)",Text
+"米穀","べいこく","rice","Guess the Missing Word (5k:穀)",Text
+"粗鋼","そこう","crude steel","Guess the Missing Word (5k:鋼)",Text
+"精神障害","せいしんしょうがい","mental disability; mental disorder; mental illness","Guess the Missing Word (5k:障)",Text
+"系列","けいれつ","conglomeration of businesses linked by cross-shareholdings; keiretsu (group); sequence; series; succession; system; affiliated; subsidiary","Guess the Missing Word (5k:系)",Text
+"系図","けいず","family tree; genealogy; pedigree","Guess the Missing Word (5k:系)",Text
+"系統","けいとう","a population sharing a common ancestor (in genetics); ancestry; close (evolutionary) relationship; family (e.g. of languages); family line; group (e.g. of colors) (colours); lineage; party; school (of thought); strain (e.g. bacterial); system","Guess the Missing Word (5k:系)",Text
+"系統的","けいとうてき","systematic","Guess the Missing Word (5k:系)",Text
+"系譜","けいふ","family tree; genealogy; lineage; pedigree","Guess the Missing Word (5k:系)",Text
+"紅潮","こうちょう","blush; flush","Guess the Missing Word (5k:紅,潮)",Text
+"納骨","のうこつ","depositing ashes; placing (a person's) ashes inside a funerary urn (or a tomb or ossuary)","Guess the Missing Word (5k:納,骨)",Text
+"純化","じゅんか","purification; refining; simplification","Guess the Missing Word (5k:純)",Text
+"純増","じゅんぞう","net increase","Guess the Missing Word (5k:純)",Text
+"純度","じゅんど","purity (of a substance)","Guess the Missing Word (5k:純)",Text
+"純情","じゅんじょう","innocence; naivete; pure heart","Guess the Missing Word (5k:純)",Text
+"純愛","じゅんあい","pure love","Guess the Missing Word (5k:純)",Text
+"純文学","じゅんぶんがく","belles-lettres; pure literature","Guess the Missing Word (5k:純)",Text
+"純朴","じゅんぼく","homely; naive; simple and honest; unsophisticated","Guess the Missing Word (5k:純)",Text
+"純正","じゅんせい","genuine; perfect; pure","Guess the Missing Word (5k:純)",Text
+"純然","じゅんぜん","absolute; complete; pure; sheer; utter","Guess the Missing Word (5k:純)",Text
+"純白","じゅんぱく","pure white; snow white","Guess the Missing Word (5k:純)",Text
+"純益","じゅんえき","clear profit; net income; net profit","Guess the Missing Word (5k:純)",Text
+"純真","じゅんしん","ingenuous; innocent; naive; pure; pure-hearted; unspoilt","Guess the Missing Word (5k:純)",Text
+"純粋","じゅんすい","genuine; pure; true; unmixed","Guess the Missing Word (5k:純)",Text
+"純金","じゅんきん","fine gold; pure gold; solid gold","Guess the Missing Word (5k:純)",Text
+"純銀","じゅんぎん","pure silver","Guess the Missing Word (5k:純)",Text
+"紙片","しへん","piece (scrap, bit, strip) of paper","Guess the Missing Word (5k:片)",Text
+"組閣","そかく","formation of a cabinet","Guess the Missing Word (5k:閣)",Text
+"経済","けいざい","(one's) finances; being economical; economics; economy; economy; finance; financial circumstances; thrift","Guess the Missing Word (5k:済)",Text
+"経済企画庁","けいざいきかくちょう","Economic Planning Agency (defunct as of 2001)","Guess the Missing Word (5k:済)",Text
+"経済学","けいざいがく","economics","Guess the Missing Word (5k:済)",Text
+"経済封鎖","けいざいふうさ","economic blockade; embargo","Guess the Missing Word (5k:済)",Text
+"経済成長率","けいざいせいちょうりつ","rate of economic growth","Guess the Missing Word (5k:済)",Text
+"経済界","けいざいかい","business community; economic world; financial circles","Guess the Missing Word (5k:済)",Text
+"経済的","けいざいてき","economic; economical; financial; frugal; thrifty","Guess the Missing Word (5k:済)",Text
+"経済研究所","けいざいけんきゅうしょ","economics research center; economics research centre","Guess the Missing Word (5k:済)",Text
+"絶頂","ぜっちょう","climax; orgasm; climax; height; peak; summit; top (of a mountain); zenith","Guess the Missing Word (5k:頂)",Text
+"絹布","けんぷ","silk; silk cloth","Guess the Missing Word (5k:絹)",Text
+"絹糸","けんし,きぬいと","silk thread,silk thread","Guess the Missing Word (5k:絹)",Text
+"絹織物","きぬおりもの","silk goods","Guess the Missing Word (5k:絹)",Text
+"緊急事態宣言","きんきゅうじたいせんげん","declaration of a state of emergency","Guess the Missing Word (5k:宣)",Text
+"緑内障","りょくないしょう","glaucoma","Guess the Missing Word (5k:障)",Text
+"縦割り","たてわり","dividing vertically; division into sections; splitting lengthwise; top-to-bottom sectioning; vertical split","Guess the Missing Word (5k:縦,割)",Text
+"繁盛","はんせい,はんじょう","flourishing; prosperity; thriving,flourishing; prosperity; thriving","Guess the Missing Word (5k:盛)",Text
+"縮尺","しゅくしゃく","reduced scale; scaling down","Guess the Missing Word (5k:縮,尺)",Text
+"置き忘れる","おきわすれる","to forget; to leave behind; to misplace","Guess the Missing Word (5k:忘)",Text
+"群衆","ぐんしゅ,ぐんじゅ,ぐんしゅう","crowd; group (of people); horde; mob; multitude; throng,crowd; group (of people); horde; mob; multitude; throng,crowd; group (of people); horde; mob; multitude; throng","Guess the Missing Word (5k:衆)",Text
+"翌年","よくとし,よくねん","following year,following year","Guess the Missing Word (5k:翌)",Text
+"翌日","よくじつ","next day","Guess the Missing Word (5k:翌)",Text
+"翌春","よくしゅん","next spring","Guess the Missing Word (5k:翌)",Text
+"翌月","よくげつ","following month","Guess the Missing Word (5k:翌)",Text
+"翌朝","よくあさ,よくちょう","next morning,next morning","Guess the Missing Word (5k:翌)",Text
+"翌週","よくしゅう","the following week; the next week","Guess the Missing Word (5k:翌)",Text
+"習熟","しゅうじゅく","becoming proficient (in); mastery; proficiency","Guess the Missing Word (5k:熟)",Text
+"耳障り","みみざわり","cacophonous; grating; hard (on the ears); harsh; jarring; offensive (to the ear); rasping; rough","Guess the Missing Word (5k:障)",Text
+"聖域","せいいき","issue that is regarded as being off-limits; matter that is not up for discussion; consecrated ground; holy ground; sacred precincts; sanctuary","Guess the Missing Word (5k:聖,域)",Text
+"聴衆","ちょうしゅう","attendance; audience; hearers","Guess the Missing Word (5k:衆)",Text
+"肝臓","かんぞう","liver","Guess the Missing Word (5k:臓)",Text
+"育ち盛り","そだちざかり","growth period (in children)","Guess the Missing Word (5k:盛)",Text
+"肺炎","はいえん","pneumonia","Guess the Missing Word (5k:肺)",Text
+"肺結核","はいけっかく","consumption; pulmonary tuberculosis","Guess the Missing Word (5k:肺)",Text
+"胃痛","いつう","gastralgia; stomach pain; stomach-ache","Guess the Missing Word (5k:胃,痛)",Text
+"胃腸","いちょう","digestive organs; gastrointestinal tract; stomach and intestines","Guess the Missing Word (5k:胃,腸)",Text
+"背筋","はいきん,せすじ","back muscles; muscles of the back,line of the backbone; seam down the back (of clothing); spine","Guess the Missing Word (5k:背,筋)",Text
+"背骨","せぼね","backbone; spinal column; spine","Guess the Missing Word (5k:背,骨)",Text
+"胸中","きょうちゅう","one's heart; one's intentions; one's mind","Guess the Missing Word (5k:胸)",Text
+"胸像","きょうぞう","bust (sculpture); half-length portrait","Guess the Missing Word (5k:胸)",Text
+"胸元","むなもと","breast; chest; epigastrium; pit of the stomach; solar plexus","Guess the Missing Word (5k:胸)",Text
+"胸突き八丁","むなつきはっちょう","the most difficult period; the most trying spot or period","Guess the Missing Word (5k:胸)",Text
+"胸襟","きょうきん","one's heart","Guess the Missing Word (5k:胸)",Text
+"胸部","きょうぶ","breast; chest","Guess the Missing Word (5k:胸)",Text
+"脳挫傷","のうざしょう","cerebral contusion","Guess the Missing Word (5k:傷)",Text
+"脳裏","のうり","one's mind","Guess the Missing Word (5k:脳,裏)",Text
+"腎臓","じんぞう","kidney","Guess the Missing Word (5k:臓)",Text
+"腹式呼吸","ふくしきこきゅう","abdominal breathing; diaphragmatic breathing","Guess the Missing Word (5k:腹,呼,吸)",Text
+"腹痛","はらいた,ふくつう","abdominal pain; stomach ache,abdominal pain; stomach ache","Guess the Missing Word (5k:腹,痛)",Text
+"腹筋","はらすじ,ふくきん,ふっきん","sit-up (exercise); abdominal muscles; abs,sit-up (exercise); abdominal muscles; abs,sit-up (exercise); abdominal muscles; abs","Guess the Missing Word (5k:腹,筋)",Text
+"臓器","ぞうき","internal organs; viscera","Guess the Missing Word (5k:臓)",Text
+"臨場感","りんじょうかん","(sense of) presence; ambiance; feeling as if one was there; feeling of actually being there; realism","Guess the Missing Word (5k:臨)",Text
+"臨床","りんしょう","clinical (e.g. pathology, physiology)","Guess the Missing Word (5k:臨)",Text
+"臨床医","りんしょうい","clinician","Guess the Missing Word (5k:臨)",Text
+"臨戦","りんせん","preparing for action or battle","Guess the Missing Word (5k:臨)",Text
+"臨時","りんじ","extra; extraordinary; interim; provisional; special; temporary","Guess the Missing Word (5k:臨)",Text
+"臨書","りんしょ","writing (from a copy)","Guess the Missing Word (5k:臨)",Text
+"臨月","りんげつ","final month of pregnancy; month in which childbirth is due","Guess the Missing Word (5k:臨)",Text
+"臨検","りんけん","on-the-spot investigation or inspection; raid","Guess the Missing Word (5k:臨)",Text
+"臨機応変","りんきおうへん","ad hoc approach; adapting oneself to the requirements of the moment; playing by ear","Guess the Missing Word (5k:臨)",Text
+"臨海","りんかい","coastal; maritime; oceanfront; seaside","Guess the Missing Word (5k:臨)",Text
+"臨港","りんこう","facing (along) the harbor (harbour)","Guess the Missing Word (5k:臨)",Text
+"臨終","りんじゅう","deathbed; dying hour; one's death","Guess the Missing Word (5k:臨)",Text
+"自宅","じたく","one's home; one's house","Guess the Missing Word (5k:宅)",Text
+"自己批判","じこひはん","self-criticism","Guess the Missing Word (5k:己,批)",Text
+"自我","じが","ego; ego; self","Guess the Missing Word (5k:我)",Text
+"自由経済","じゆうけいざい","free economy","Guess the Missing Word (5k:済)",Text
+"至宝","しほう","greatest treasure; most valuable asset; pride (of)","Guess the Missing Word (5k:至,宝)",Text
+"至誠","しせい","devotion; sincerity","Guess the Missing Word (5k:至,誠)",Text
+"至難","しなん","most difficult; next to impossible","Guess the Missing Word (5k:至,難)",Text
+"致命傷","ちめいしょう","fatal wound","Guess the Missing Word (5k:傷)",Text
+"興奮","こうふん","agitation; arousal; excitement; stimulation","Guess the Missing Word (5k:奮)",Text
+"舗装","ほそう","pavement; paving (a road); surfacing (with asphalt, concrete, etc.)","Guess the Missing Word (5k:装)",Text
+"舞台装置","ぶたいそうち","stage setting","Guess the Missing Word (5k:装)",Text
+"航空宇宙技術研究所","こうくううちゅうぎじゅつけんきゅうじょ","NAL; National Aerospace Laboratory","Guess the Missing Word (5k:宇,宙)",Text
+"花盛り","はなざかり","booming or peaking (in popularity); flowers in full bloom; the age at which someone (esp. a woman) is at the peak of their beauty; time of year in which flowers are in full bloom","Guess the Missing Word (5k:盛)",Text
+"草創","そうそう","beginning; inauguration","Guess the Missing Word (5k:創)",Text
+"荒れ模様","あれもよう","stormy; threatening","Guess the Missing Word (5k:模)",Text
+"著作権","ちょさくけん","copyright","Guess the Missing Word (5k:著,権)",Text
+"落とし穴","おとしあな","pit; pitfall; trap","Guess the Missing Word (5k:穴)",Text
+"蒸し暑い","むしあつい","humid; sultry","Guess the Missing Word (5k:蒸)",Text
+"蒸し返す","むしかえす","to bring up again (a problem that has been dealt with); to drag up; to rehash; to reheat; to steam over; to take up again","Guess the Missing Word (5k:蒸)",Text
+"蒸気","じょうき","steam; steam locomotive; steamboat; vapor; vapour","Guess the Missing Word (5k:蒸)",Text
+"蒸気機関","じょうききかん","steam engine","Guess the Missing Word (5k:蒸)",Text
+"蒸発","じょうはつ","disappearance (of a person); evaporation; vanishing without a trace","Guess the Missing Word (5k:蒸)",Text
+"蚕糸","さんし","silk thread; silk yarn","Guess the Missing Word (5k:蚕)",Text
+"血糖値","けっとうち","blood sugar level","Guess the Missing Word (5k:糖,値)",Text
+"衆人","しゅうじん","the people; the public","Guess the Missing Word (5k:衆)",Text
+"衆目","しゅうもく","all eyes; public attention","Guess the Missing Word (5k:衆)",Text
+"衆議院","しゅうぎいん","House of Representatives (lower house of the National Diet of Japan)","Guess the Missing Word (5k:衆)",Text
+"衆院","しゅういん","House of Representatives (lower house of the National Diet of Japan)","Guess the Missing Word (5k:衆)",Text
+"行き届く","ゆきとどく,いきとどく","to be attentive; to be complete; to be prudent; to be scrupulous; to be thorough,to be attentive; to be complete; to be prudent; to be scrupulous; to be thorough","Guess the Missing Word (5k:届)",Text
+"街宣車","がいせんしゃ","(right-wing) propaganda truck","Guess the Missing Word (5k:宣)",Text
+"衣装","いしょう","clothing; costume; dress; garment; outfit","Guess the Missing Word (5k:装)",Text
+"表装","ひょうそう","binding (of a book); mounting (of a picture)","Guess the Missing Word (5k:装)",Text
+"被疑者","ひぎしゃ","suspect","Guess the Missing Word (5k:疑)",Text
+"装丁","そうてい","binding (of a book); design (of a book cover)","Guess the Missing Word (5k:装)",Text
+"装備","そうび","equipment","Guess the Missing Word (5k:装)",Text
+"装具","そうぐ","equipment; fittings; harness","Guess the Missing Word (5k:装)",Text
+"装束","そうずく,そうぞく,しょうぞく","attire; costume; dress,attire; costume; dress,attire; costume; dress","Guess the Missing Word (5k:装)",Text
+"装甲","そうこう","armor; armoring; armour; armouring","Guess the Missing Word (5k:装)",Text
+"装着","そうちゃく","equipping; fitting; installing; mounting; putting on","Guess the Missing Word (5k:装)",Text
+"装置","そうち","apparatus; device; equipment; installation; stage setting","Guess the Missing Word (5k:装)",Text
+"装身具","そうしんぐ","personal accessories (ornaments, adornments)","Guess the Missing Word (5k:装)",Text
+"装飾","そうしょく","decoration; ornament","Guess the Missing Word (5k:装)",Text
+"裏腹","うらはら","contrary; opposite; reverse","Guess the Missing Word (5k:裏,腹)",Text
+"補佐","ほさ","adviser; advisor; aid; assistance; assistant; counsellor; counselor; help","Guess the Missing Word (5k:補)",Text
+"補償","ほしょう","compensation; reparation","Guess the Missing Word (5k:補)",Text
+"補充","ほじゅう","refilling; replacement; replenishment; supplement; supplementation","Guess the Missing Word (5k:補)",Text
+"補助","ほじょ","aid; assistance; grant-in-aid; help; spotting (in weight training); subsidy; subvention; supplement; support","Guess the Missing Word (5k:補)",Text
+"補填","ほてん","compensating (for); covering (a loss, deficit, etc.); making up (for); supplementation","Guess the Missing Word (5k:補)",Text
+"補完","ほかん","complementation; completion; supplementation","Guess the Missing Word (5k:補)",Text
+"補導","ほどう","guidance; protective custody","Guess the Missing Word (5k:補)",Text
+"補強","ほきょう","reinforcement; strengthening","Guess the Missing Word (5k:補)",Text
+"補修","ほしゅう","mending; repair","Guess the Missing Word (5k:補)",Text
+"補欠","ほけつ","alternate; deputy; spare; substitute; filling a vacancy; supplementation","Guess the Missing Word (5k:補)",Text
+"補正","ほせい","compensation (e.g. to a pendulum); correction; revision","Guess the Missing Word (5k:補)",Text
+"補正予算","ほせいよさん","revised budget; supplementary budget","Guess the Missing Word (5k:補)",Text
+"補給","ほきゅう","replenishment; supply; supplying","Guess the Missing Word (5k:補)",Text
+"補聴器","ほちょうき","hearing aid","Guess the Missing Word (5k:補)",Text
+"補足","ほそく","complement; supplement","Guess the Missing Word (5k:補)",Text
+"製鋼","せいこう","steel manufacture","Guess the Missing Word (5k:鋼)",Text
+"見届ける","みとどける","to ascertain; to make sure of; to see with one's own eyes; to watch to make sure (that); to watch to the end","Guess the Missing Word (5k:届)",Text
+"規模","きぼ","plan; scale; scope; structure","Guess the Missing Word (5k:模)",Text
+"観衆","かんしゅう","members of the audience; onlookers; spectators","Guess the Missing Word (5k:衆)",Text
+"言語障害","げんごしょうがい","speech disorder; speech impediment","Guess the Missing Word (5k:障)",Text
+"討論","とうろん","debate; discussion","Guess the Missing Word (5k:討,論)",Text
+"託宣","たくせん","divine message; oracle; revelation","Guess the Missing Word (5k:宣)",Text
+"訳詞","やくし","translation of lyrics","Guess the Missing Word (5k:訳,詞)",Text
+"詰め将棋","つめしょうぎ","composed shogi problem","Guess the Missing Word (5k:将)",Text
+"誌上","しじょう","in a magazine","Guess the Missing Word (5k:誌)",Text
+"誌面","しめん","page of a magazine","Guess the Missing Word (5k:誌)",Text
+"認否","にんぴ","admission or denial; approval or disapproval","Guess the Missing Word (5k:認,否)",Text
+"誤射","ごしゃ","accidental shooting","Guess the Missing Word (5k:誤,射)",Text
+"誤訳","ごやく","mistranslation","Guess the Missing Word (5k:誤,訳)",Text
+"誤認","ごにん","misrecognition; mistaking (x for y)","Guess the Missing Word (5k:誤,認)",Text
+"諸々","もろもろ","all kinds of things; large number of people; various things","Guess the Missing Word (5k:諸)",Text
+"諸君","しょくん","everyone; gentlemen; ladies and gentlemen; my friends; you (people)","Guess the Missing Word (5k:諸)",Text
+"諸国","しょこく","various countries; various provinces; various regions","Guess the Missing Word (5k:諸)",Text
+"諸島","しょとう","archipelago; group of islands","Guess the Missing Word (5k:諸)",Text
+"諸悪","しょあく","all evils; every kind of evil; various evils","Guess the Missing Word (5k:諸)",Text
+"諸般","しょはん","several; various","Guess the Missing Word (5k:諸)",Text
+"謝恩会","しゃおんかい","thank-you party","Guess the Missing Word (5k:恩)",Text
+"警察庁","けいさつちょう","National Police Agency","Guess the Missing Word (5k:警,庁)",Text
+"警察権","けいさつけん","police powers","Guess the Missing Word (5k:警,権)",Text
+"警察署","けいさつしょ","police station","Guess the Missing Word (5k:警,署)",Text
+"警棒","けいぼう","(police officer's) baton; billy club; truncheon","Guess the Missing Word (5k:警,棒)",Text
+"警視","けいし","police superintendent","Guess the Missing Word (5k:警,視)",Text
+"警視庁","けいしちょう","Metropolitan Police Department","Guess the Missing Word (5k:警,視,庁)",Text
+"豊胸","ほうきょう","ample breasts; breast enlargement; full breasts","Guess the Missing Word (5k:胸)",Text
+"負傷","ふしょう","injury; wound","Guess the Missing Word (5k:傷)",Text
+"負担","ふたん","bearing (a cost, responsibility, etc.); shouldering; burden; load; responsibility","Guess the Missing Word (5k:担)",Text
+"貴人","きにん,あてびと,うまひと,きじん","aristocrat; dignitary; nobleman; person of high rank,aristocrat; dignitary; nobleman; person of high rank,aristocrat; dignitary; nobleman; person of high rank,aristocrat; dignitary; nobleman; person of high rank","Guess the Missing Word (5k:貴)",Text
+"貴公子","きこうし","man with an aristocratic air; princely young man; scion of a noble family; young nobleman","Guess the Missing Word (5k:貴)",Text
+"貴婦人","きふじん","lady; noblewoman","Guess the Missing Word (5k:貴)",Text
+"貴方","あなた,あんた","dear; honey; you,you","Guess the Missing Word (5k:貴)",Text
+"貴族","きぞく","aristocrat; noble; peer","Guess the Missing Word (5k:貴)",Text
+"貴社","きしゃ","your company; your shrine","Guess the Missing Word (5k:貴)",Text
+"貴賓","きひん","noble visitor","Guess the Missing Word (5k:貴)",Text
+"貴重","きちょう","precious; valuable","Guess the Missing Word (5k:貴)",Text
+"貴重品","きちょうひん","valuable article; valuables","Guess the Missing Word (5k:貴)",Text
+"貴金属","ききんぞく","precious metal","Guess the Missing Word (5k:貴)",Text
+"質疑","しつぎ","interpellation; question","Guess the Missing Word (5k:疑)",Text
+"足並み","あしなみ","pace; step","Guess the Missing Word (5k:並)",Text
+"身体障害者","しんたいしょうがいしゃ","(physically) disabled person; person with a physical disability","Guess the Missing Word (5k:障)",Text
+"身銭","みぜに","one's own money","Guess the Missing Word (5k:銭)",Text
+"身障者","しんしょうしゃ","(physically) disabled person; person with a physical disability","Guess the Missing Word (5k:障)",Text
+"車窓","しゃそう","car window; train window","Guess the Missing Word (5k:窓)",Text
+"軍拡","ぐんかく","arms buildup; military expansion","Guess the Missing Word (5k:拡)",Text
+"軒並み","のきなみ","each house; every door; every house; row of houses; across the board; all; altogether; totally","Guess the Missing Word (5k:並)",Text
+"転勤","てんきん","intra-company transfer; job relocation; job transfer","Guess the Missing Word (5k:勤)",Text
+"軽傷","けいしょう","minor injury","Guess the Missing Word (5k:傷)",Text
+"軽装","けいそう","dressing light; light armaments; light clothing; light equipment","Guess the Missing Word (5k:装)",Text
+"返済","へんさい","redemption; refund; reimbursement; repayment","Guess the Missing Word (5k:済)",Text
+"退潮","たいちょう","ebb tide; waning fortunes","Guess the Missing Word (5k:退,潮)",Text
+"送り届ける","おくりとどける","to deliver; to escort (a person) home; to send to","Guess the Missing Word (5k:届)",Text
+"通勤","つうきん","commuting to work","Guess the Missing Word (5k:勤)",Text
+"連盟","れんめい","alliance; federation; league; union","Guess the Missing Word (5k:盟)",Text
+"週刊誌","しゅうかんし","weekly magazine; weekly publication","Guess the Missing Word (5k:誌)",Text
+"遅刻","ちこく","arriving late; lateness; tardiness","Guess the Missing Word (5k:刻)",Text
+"遺骨","いこつ","ashes; cremated remains (esp. the bones); remains (of war dead)","Guess the Missing Word (5k:遺,骨)",Text
+"邸宅","ていたく","(large) house; mansion; residence","Guess the Missing Word (5k:宅)",Text
+"郵便","ゆうびん","mail; mail; mail service; post; postal items; postal matter; postal service","Guess the Missing Word (5k:郵)",Text
+"郵便切手","ゆうびんきって","postage stamp","Guess the Missing Word (5k:郵)",Text
+"郵便受け","ゆうびんうけ","letter box; letterbox; mail slot; mailbox","Guess the Missing Word (5k:郵)",Text
+"郵便局","ゆうびんきょく","post office","Guess the Missing Word (5k:郵)",Text
+"郵便為替","ゆうびんがわせ,ゆうびんかわせ","postal money order,postal money order","Guess the Missing Word (5k:郵)",Text
+"郵政","ゆうせい","postal system","Guess the Missing Word (5k:郵)",Text
+"郵政省","ゆうせいしょう","(former) Ministry of Posts and Telecommunications (now Ministry of Internal Affairs and Communications)","Guess the Missing Word (5k:郵)",Text
+"郵船","ゆうせん","mail boat","Guess the Missing Word (5k:郵)",Text
+"郵貯","ゆうちょ","postal (post-office) savings (deposit)","Guess the Missing Word (5k:郵)",Text
+"郵送","ゆうそう","mailing; posting","Guess the Missing Word (5k:郵)",Text
+"酒盛り","さかもり","drinking bout; merrymaking","Guess the Missing Word (5k:盛)",Text
+"重傷","おもで,じゅうしょう","serious injury; serious wound,serious injury; serious wound","Guess the Missing Word (5k:傷)",Text
+"重奏","じゅうそう","instrumental ensemble","Guess the Missing Word (5k:奏)",Text
+"野暮","やぼ","boorish; dumb; insensitive; tasteless; thoughtless; uncouth; unrefined; unsophisticated","Guess the Missing Word (5k:暮)",Text
+"金銭","きんせん","cash; money","Guess the Missing Word (5k:銭)",Text
+"針葉樹","しんようじゅ","conifer; needle-leaved tree","Guess the Missing Word (5k:針,樹)",Text
+"釣り銭","つりせん","change (for a purchase)","Guess the Missing Word (5k:銭)",Text
+"鉄鋼","てっこう","iron and steel","Guess the Missing Word (5k:鋼)",Text
+"銀河系","ぎんがけい","galactic system; galaxy; Milky Way; Milky Way galaxy; the Galaxy","Guess the Missing Word (5k:系)",Text
+"銭湯","せんとう","bathhouse; public bath","Guess the Missing Word (5k:銭)",Text
+"鋼材","こうざい","steel material","Guess the Missing Word (5k:鋼)",Text
+"鋼板","こうはん,こうばん","steel plate; steel sheet,steel plate; steel sheet","Guess the Missing Word (5k:鋼)",Text
+"鋼管","こうかん","steel pipe","Guess the Missing Word (5k:鋼)",Text
+"鋼鉄","こうてつ","steel","Guess the Missing Word (5k:鋼)",Text
+"閉幕","へいまく","(coming to an) end; close; falling of the curtain","Guess the Missing Word (5k:閉,幕)",Text
+"開始時刻","かいしじこく","starting time","Guess the Missing Word (5k:刻)",Text
+"閣下","かっか","her Excellency; his Excellency; your Excellency","Guess the Missing Word (5k:閣)",Text
+"閣内","かくない","(inside the) Cabinet","Guess the Missing Word (5k:閣)",Text
+"閣僚","かくりょう","cabinet ministers","Guess the Missing Word (5k:閣)",Text
+"閣外","かくがい","outside the Cabinet","Guess the Missing Word (5k:閣)",Text
+"閣議","かくぎ","cabinet meeting","Guess the Missing Word (5k:閣)",Text
+"除幕式","じょまくしき","unveiling ceremony","Guess the Missing Word (5k:除,幕)",Text
+"陶磁","とうじ","clay","Guess the Missing Word (5k:磁)",Text
+"陶磁器","とうじき","ceramics; pottery and porcelain","Guess the Missing Word (5k:磁)",Text
+"隆盛","りゅうせい","flourishing; prosperity; thriving","Guess the Missing Word (5k:盛)",Text
+"障壁","しょうへき","barrier; boundary fence; enclosing wall; obstacle","Guess the Missing Word (5k:障)",Text
+"障子","しょうじ","shoji (paper sliding door)","Guess the Missing Word (5k:障)",Text
+"障害","しょうがい","defect; disability; disorder; dysfunction; handicap; impairment; obstacle race; steeplechase; steeplechase (athletics); barrier; difficulty; hindrance; impediment; obstacle","Guess the Missing Word (5k:障)",Text
+"障害者","しょうがいしゃ","disabled person; person with a (physical or mental) disability","Guess the Missing Word (5k:障)",Text
+"雄姿","ゆうし","imposing figure; impressive appearance; magnificent appearance; majestic figure","Guess the Missing Word (5k:姿)",Text
+"雑穀","ざっこく","assorted grains; cereals; millet","Guess the Missing Word (5k:穀)",Text
+"雑誌","ざっし","journal; magazine; periodical","Guess the Missing Word (5k:誌)",Text
+"雨模様","あめもよう,あまもよう","signs of rain; threat of rain,signs of rain; threat of rain","Guess the Missing Word (5k:模)",Text
+"電磁","でんじ","electromagnetic","Guess the Missing Word (5k:磁)",Text
+"電磁気","でんじき","electromagnetism","Guess the Missing Word (5k:磁)",Text
+"電磁波","でんじは","electromagnetic wave","Guess the Missing Word (5k:磁)",Text
+"電磁石","でんじしゃく","electromagnet","Guess the Missing Word (5k:磁)",Text
+"非常勤","ひじょうきん","part-time work","Guess the Missing Word (5k:勤)",Text
+"頂上","ちょうじょう","peak; summit; top","Guess the Missing Word (5k:頂)",Text
+"頂戴","ちょーだい,ちょうだい","accepting; being given; drinking; eating; getting; having; receiving; please (give me; do for me),accepting; being given; drinking; eating; getting; having; receiving; please (give me; do for me)","Guess the Missing Word (5k:頂)",Text
+"頂点","ちょうてん","apex; apex; climax; height (e.g. of prosperity); peak; peak (of popularity, a boom, etc.); summit; summit; top (e.g. of a mountain); top (of a profession, field, etc.); vertex; zenith","Guess the Missing Word (5k:頂)",Text
+"風穴","かぜあな,かざあな","air hole; ventilator; windhole,air hole; ventilator; windhole","Guess the Missing Word (5k:穴)",Text
+"養蚕","ようさん","sericulture; silkworm culture; silkworm raising","Guess the Missing Word (5k:蚕)",Text
+"首班","しゅはん","head; leader; prime minister","Guess the Missing Word (5k:班)",Text
+"馴染む","なじむ","to adapt oneself to; to agree with (e.g. one's skin); to become accustomed to; to become attached to; to become familiar with; to become friendly with; to blend in (with); to come to fit; to get used to; to go (well) with; to harmonize (with); to match; to suit","Guess the Missing Word (5k:染)",Text
+"騰貴","とうき","advance; appreciation; rise (in price or value)","Guess the Missing Word (5k:貴)",Text
+"高貴","こうき","high class; noble","Guess the Missing Word (5k:貴)",Text
+"鶏卵","けいらん","hen's egg","Guess the Missing Word (5k:卵)",Text
+"黒砂糖","くろざとう","(unrefined) brown sugar; muscovado","Guess the Missing Word (5k:砂,糖)",Text

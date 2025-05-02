@@ -1,0 +1,4699 @@
+Question,Answer,Comment,Instruction,Render as
+"grade","最高級,勾配,合格,並,同級,上,段階,上がる,点数,学年,小学,可,甲,下級,小学校,上級,程度,欠点,級,品位,高等,並み,下等,段,小学生,中,不可,落第,階級,乙,中尉,入幕,中等,挙がる,位,点,良,現段階","最高級 highest grade
+勾配 grade
+合格 passing grade
+並 regular grade
+同級 same grade
+上 first grade
+段階 grade
+上がる advance next grade
+点数 grade
+学年 grade
+小学 grade
+可 Pass(grade)
+甲 grade
+下級 lower grade
+小学校 grade
+上級 upper grade
+程度 grade
+欠点 failing grade
+級 grade;grade
+品位 grade
+高等 grade
+並み regular grade
+下等 low grade
+段 grade
+小学生 grade student
+中 medium grade;average(grade,level,)
+不可 failing grade
+落第 making grade
+階級 grade
+乙 B(grade)
+中尉 lieutenant junior grade
+入幕 advancing first grade
+中等 second grade;secondary grade
+挙がる advance next grade
+位 grade(quality,)
+点 grade
+良 Go",Guess Vocab related to Keyword,Text
+"visit","墓参り,ご無沙汰,上がる,お参り,初詣,御無沙汰,初詣で,伺う,引っ掛る,寄る,参る,訪ねる,墓参,挙がる,来日,参拝,来訪,里帰り,引っかかる,訪問,訪中,襲う,打つ,参観,見舞う,踏む,訪れ,邪魔,遠征,降る,訪米,引っ掛かる,訪れる,戸別訪問,面会,訪日,訪欧","墓参り visit grave
+ご無沙汰 neglecting(failing)write(call,visit,)
+上がる visit
+お参り visit(shrine,grave,)
+初詣 first shrine visit New Year
+御無沙汰 neglecting(failing)write(call,visit,)
+初詣で first shrine visit New Year
+伺う pay visit
+引っ掛る drop short visit
+寄る short visit
+参る visit(shrine,grave)
+訪ねる visit;pay visit
+墓参 visit grave
+挙がる visit
+来日 visit
+参拝 visit(shrine temple worship)
+来訪 visit
+里帰り bride's first visit parents getting married
+引っかかる drop short visit
+訪問 visit
+訪中 visit China
+襲う sudden visit
+打つ visit(pilgrimage)
+参観 visit
+見舞う visit comfort console
+踏む visit
+訪れ vis",Guess Vocab related to Keyword,Text
+"hair","上げる,下ろす,乱す,抜け出す,刈る,髪形,挙げる,延びる,寝る,揚げる,伸ばす,根,白髪,毛,繕う,結う,延ばす,髪,伸びる,降ろす,美容師,頭,房,坊主,落とす,束ねる,散髪,素直,裾,腰,直す,髪の毛,頭髪,解く,霜,髪型","上げる (hair)
+下ろす (hair)
+乱す dishevel(hair)
+抜け出す begin fall(hair)
+刈る cut(grass,hair,)
+髪形 hair style
+挙げる (hair)
+延びる grow(hair,height,grass,)
+寝る lie flat(hair)
+揚げる (hair)
+伸ばす grow long(hair,nails)
+根 root(tooth,hair,)
+白髪 gray hair;grey hair;white hair;grey hair;gray h
+毛 hair
+繕う fix(hair,clothes,appearance,)
+結う (hair)
+延ばす grow long(hair,nails)
+髪 hair(head)
+伸びる grow(hair,height,grass,)
+降ろす (hair)
+美容師 hair stylist
+頭 hair(head);hair(head)
+房 tuft(hair,threads,)
+坊主 close-cropped hair
+落とす remove(stains facial hair)
+束ねる tie bundle(straw,hair,bills,letters)
+散髪",Guess Vocab related to Keyword,Text
+"begin","仕掛ける,旅立つ,出す,元来,売り出す,乗り出す,働きかける,働き掛ける,立つ,明ける,大体,初めに,始まる,先ず,打ち出す,入る,第一,全体,様になる,取り掛かる,開ける,始めに,話し掛ける,成る,起こす,綻びる,始める,言い出す,掛ける,抜け出す,空ける,走り出す","仕掛ける begin
+旅立つ begin trip
+出す begin
+元来 begin
+売り出す begin selling
+乗り出す begin ride
+働きかける begin work
+働き掛ける begin work
+立つ begin blow(wind,breeze,);begin
+明ける begin(New Year)
+大体 begin
+初めに begin
+始まる begin;begin(anew)
+先ず begin
+打ち出す begin striking
+入る begin
+第一 begin
+全体 begin
+様になる begin
+取り掛かる begin
+開ける begin(New Year)
+始めに begin
+話し掛ける begin talk
+成る begin
+起こす begin
+綻びる begin open;begin bloom
+始める begin
+言い出す begin say
+掛ける begin(complete)
+抜け出す begin fall(hair)
+空ける begin(New Year)
+走り出す begin run",Guess Vocab related to Keyword,Text
+"birth","備える,生後,発生,生まれつき,生み,お産,姫,嫡出,出産,畑,母体,生む,生み出す,出生,産む,生まれ,生誕,誕生,発祥,生育,陣痛,新生,身元,生年月日,身分,避妊","備える since birth
+生後 since birth
+発生 birth(civilization)
+生まれつき birth
+生み giving birth;birth
+お産 (giving)birth
+姫 young lady noble birth
+嫡出 legitimate birth
+出産 (giving)birth
+畑 birth
+母体 mother's body(when pregnant giving birth)
+生む give birth
+生み出す give birth
+出生 birth;birth
+産む give birth
+生まれ birth
+生誕 birth
+誕生 birth
+発祥 birth emperor ancestors
+生育 giving birth raising;birth growth
+陣痛 birth pains
+新生 new birth
+身元 birth(parentage)
+生年月日 date birth;birth date
+身分 birth
+避妊 birth control",Guess Vocab related to Keyword,Text
+"fail","潰れる,何卒,伸び悩む,損なう,落とす,決まって,乗り遅れる,何とぞ,見逃す,倒れる,見捨てる,漏らす,被る,落ちる,必ず,損ねる,逃げる,患う,煩う,是非,怠る,見落とす,見損なう,欠かす,滑る,逃がす","潰れる fail
+何卒 fail
+伸び悩む fail improve
+損なう fail
+落とす fail(course)
+決まって fail
+乗り遅れる fail keep(times)
+何とぞ fail
+見逃す fail notice
+倒れる fail
+見捨てる fail
+漏らす fail
+被る fail
+落ちる fail(exam)
+必ず fail
+損ねる fail(what ought done)
+逃げる fail hold ideal posture
+患う fail
+煩う fail
+是非 fail
+怠る fail
+見落とす fail notice
+見損なう fail notice
+欠かす fail
+滑る fail(examination)
+逃がす fail catch",Guess Vocab related to Keyword,Text
+"behaviour","よそ行き,地味,取り込む,悪戯,習性,様子,ご馳走様,ご馳走さま,仕草,態度,病気,行儀,邪魔,進退,風,振り,動作,真似,愛嬌,行動,振る舞い,謹慎,斑,行い","よそ行き best(behaviour,manners,)
+地味 reserved(behaviour,attitude,)
+取り込む adopt(behaviour)
+悪戯 lewd behaviour
+習性 behaviour
+様子 behaviour
+ご馳走様 thank(displaying lovey-dovey behaviour)
+ご馳走さま thank(displaying lovey-dovey behaviour)
+仕草 behaviour
+態度 behaviour
+病気 bad behaviour
+行儀 behaviour
+邪魔 demon obstructs sentient beings maintaining mor
+進退 behaviour
+風 behaviour
+振り behaviour
+動作 behaviour
+真似 behaviour
+愛嬌 ingratiating behaviour
+行動 behaviour
+振る舞い behaviour
+謹慎 moderating behaviour
+斑 unevenness(quality,results,behaviour,)
+行い behaviour",Guess Vocab related to Keyword,Text
+"drive","やる気,乗り回す,外付,去る,外付け,打ち込む,萎える,乗回す,払う,転がす,走る,気迫,進攻,値切る,行程,追い出す,追い込む,意欲,運動,意気地,飛ばす,打つ,推進,追う","やる気 drive
+乗り回す drive(car)around
+外付 external(hard drive,disk drive,)
+去る drive
+外付け external(hard drive,disk drive,)
+打ち込む drive;drive(nail,stake,)
+萎える disappear(energy,drive,)
+乗回す drive(car)around
+払う drive away(competitors)
+転がす drive(car)
+走る drive
+気迫 drive
+進攻 drive
+値切る drive bargain
+行程 drive
+追い出す drive
+追い込む drive
+意欲 drive
+運動 drive
+意気地 drive
+飛ばす drive fast
+打つ drive
+推進 drive
+追う drive;drive(herd)",Guess Vocab related to Keyword,Text
+"given","お土産,出る,お年玉,姓名,下りる,付く,名,見返り,受ける,名乗り,載る,賜杯,名前,土産,礼金,降りる,呼び名,失点,粗品,頂戴,目覚まし,預かる,請ける","お土産 unpleasant given(illness while vacation)
+出る given
+お年玉 New Year's gift(usu. money given child relativ
+姓名 family given
+下りる given
+付く given(,price,)
+名 given
+見返り done given return
+受ける given(life,talent)
+名乗り given male members nobility samurai class comi
+載る given
+賜杯 trophy given Emperor
+名前 given
+土産 unpleasant given(illness while vacation)
+礼金 money(given thanks)
+降りる given
+呼び名 given
+失点 point given away
+粗品 gift given companies customers token gratitude
+頂戴 given
+目覚まし early-morning treat(traditionally given child
+預かる given responsibility
+請ける given(lif",Guess Vocab related to Keyword,Text
+"please","何とぞ,下さい,お願いいたします,お邪魔します,よろしくお願いいたします,ご免ください,お願いします,お願い,何分,何卒,宜しく,ご遠慮下さい,頼む,よろしくお願いします,お願い致します,取り込む,気難しい,頂戴,ご遠慮ください,喜ばす,難しい,御願い,野放し","何とぞ please
+下さい please(give);please
+お願いいたします please
+お邪魔します please excuse intrusion
+よろしくお願いいたします please remember;please help;please;pl
+ご免ください please forgive
+お願いします please
+お願い please
+何分 please
+何卒 please
+宜しく please take care;please remember;please treat 
+ご遠慮下さい please refrain
+頼む please
+よろしくお願いします please;please help;please remember;plea
+お願い致します please
+取り込む please
+気難しい hard please
+頂戴 please(give
+ご遠慮ください please refrain
+喜ばす please
+難しい hard please
+御願い please
+野放し lettingthey please",Guess Vocab related to Keyword,Text
+"I'm","只今,確か,ご免,お邪魔します,何を隠そう,行ってきます,御免,ご免ください,失礼しました,若しかして,申し訳ありません,恐らく,初めまして,悪しからず,行って来ます,済まない,始めまして,大丈夫,済みません,申し訳ない","只今 I'm home!;I'm back!
+確か If I'm mistaken
+ご免 I'm sorry
+お邪魔します I'm coming
+何を隠そう I'm going lay my cards table
+行ってきます I'm
+御免 I'm sorry
+ご免ください I'm sorry
+失礼しました I'm sorry
+若しかして if I'm mistaken
+申し訳ありません I'm sorry
+恐らく I'm afraid
+初めまして I'm glad your acquaintance
+悪しからず I'm sorry
+行って来ます I'm
+済まない (I'm)sorry
+始めまして I'm glad your acquaintance
+大丈夫 I'm good
+済みません I'm sorry
+申し訳ない I'm sorry",Guess Vocab related to Keyword,Text
+"late","更ける,手遅れ,夜更かし,今更,夜更け,既に,出遅れる,深夜,深い,先代,時雨,寝坊,後期,晩婚,後発,残暑,遅刻,追い込み,遅れる,遅い","更ける late
+手遅れ too late
+夜更かし sitting late night;keeping late hours;staying
+今更 now(when already much too late)
+夜更け late night
+既に too late
+出遅れる late start
+深夜 late night
+深い late
+先代 (late)father
+時雨 rain shower late autumn(fall)early winter
+寝坊 late riser;sleeping late
+後期 late stage
+晩婚 late marriage
+後発 late departure;starting late
+残暑 late summer heat
+遅刻 arriving late
+追い込み late charge
+遅れる late
+遅い too late;late;late",Guess Vocab related to Keyword,Text
+"aside","寝かせる,寝かす,よそ見,積立,寄せる,横,棚上げ,充てる,避ける,積み立て,取る,兎も角,払う,脇,脇見,退ける,貯金,残す,退く,蓄える","寝かせる set aside unused
+寝かす set aside unused
+よそ見 looking aside
+積立 putting aside
+寄せる put aside
+横 aside
+棚上げ putting aside
+充てる set aside
+避ける put aside;put aside
+積み立て putting aside
+取る set aside;put aside
+兎も角 setting aside
+払う knock aside
+脇 aside
+脇見 looking aside
+退ける move(,)aside;move(,)aside;set aside
+貯金 putting money aside
+残す set aside
+退く step aside;step aside
+蓄える set aside",Guess Vocab related to Keyword,Text
+"highest","一番上,大関,大国,上告,幕下,関脇,最高,中卒,最高峰,高卒,小結,出,峠,有頂天,最高級,前頭,特選,平幕,松,横綱","一番上 highest
+大関 ōzeki(second highest rank sumo)
+大国 province highest rank(ritsuryō)
+上告 final appeal highest court
+幕下 third highest division;wrestlers third highest 
+関脇 wrestler third highest rank
+最高 highest
+中卒 graduated junior(highest completed level educat
+最高峰 highest peak;highest mountain
+高卒 graduated(highest completed level education)
+小結 wrestler fourth highest rank
+出 highest point stern ship
+峠 highest point mountain road
+有頂天 highest heaven
+最高級 highest grade
+前頭 rank-and-file wrestlers highest division
+特選 highest honours
+平幕 rank-and-file wrestl",Guess Vocab related to Keyword,Text
+"native","出,ふる里,古里,故国,本土,平仮名,江戸っ子,国人,国語,和語,故郷,祖国,訓読み,読む,郷土,固有,母国語,訓","出 native
+ふる里 native place
+古里 native place
+故国 native land
+本土 native country
+平仮名 cursive syllabary primarily native words(funct
+江戸っ子 Tokyo native
+国人 native
+国語 native words(opposed loanwords Chinese-derived 
+和語 native words(opposed Chinese-derived words othe
+故郷 native place;native place
+祖国 native country
+訓読み native reading Chinese character
+読む read(kanji)native reading
+郷土 native place
+固有 native
+母国語 native language
+訓 native reading Chinese character",Guess Vocab related to Keyword,Text
+"eat","食い込む,摘む,戴く,挙がる,上がる,取る,出来上がる,貪る,召し上がる,決める,食べる,頂ける,食う,喫する,遣る,腹一杯,頂く","食い込む eat
+摘む pick eat
+戴く eat
+挙がる eat
+上がる eat
+取る eat
+出来上がる ready(serve eat)
+貪る eat greedily
+召し上がる eat
+決める eat drink
+食べる eat
+頂ける able eat
+食う eat
+喫する eat
+遣る eat
+腹一杯 (eat)heartily
+頂く eat",Guess Vocab related to Keyword,Text
+"garden","園内,園,入園,庭,御苑,園長,奥,回廊,外苑,庭木,庭園,植木,植物園,霊園,花園,畑,菜園","園内 inside garden
+園 garden;garden
+入園 entering park,garden,zoo,
+庭 garden
+御苑 imperial garden
+園長 head garden
+奥 end(road,garden,)
+回廊 cloister(i.e. covered walk typically circling b
+外苑 outer garden
+庭木 garden tree
+庭園 garden
+植木 garden shrubs
+植物園 botanical garden
+霊園 (garden)cemetery
+花園 flower garden
+畑 kitchen garden
+菜園 vegetable garden",Guess Vocab related to Keyword,Text
+"pet","お気に入り,里親,愛犬,引き取る,持論,抱っこ,親,検査,口癖,餌,愛称,気に入り,可愛がる,里子,飼い主,飼う","お気に入り pet(teacher's pet)
+里親 (pet)caretaker
+愛犬 pet dog
+引き取る take care(,pet)
+持論 pet theory
+抱っこ carrying arms(baby,pet,doll,)
+親 (pet)owner
+検査 scan(MRI,PET)
+口癖 pet saying
+餌 pet food
+愛称 pet
+気に入り pet(teacher's pet)
+可愛がる pet
+里子 adopted animal(pet)
+飼い主 (pet)owner
+飼う keep(pet other animal)",Guess Vocab related to Keyword,Text
+"approx.","合,小,半,坪,商,大幅,刻,才,貫,雨水,大雪,小幅,石,斗,舎,里","合 traditional unit volume,approx. 0.1804 litres
+小 unit field area(approx. 400 sq m)
+半 han(unit land area,approx. 595.8 m^2)
+坪 traditional unit leather tile area,approx. 918 s
+商 approx. 1600-1046 BCE)
+大幅 full-width cloth(approx. 72 cm wide traditional
+刻 (usu. approx. two hours corresponding signs Chin
+才 traditional unit volume,approx. 1.8 ml
+貫 kan(obs. unit weight,approx. 3.75 kg,8.3 lb)
+雨水 rain water solar term(approx. February 19)
+大雪 major snow solar term(approx. Dec. 7)
+小幅 single-breadth cloth(approx. 36 cm wide)
+石 traditional unit volume,app",Guess Vocab related to Keyword,Text
+"slight","小さい,小,些細,僅か,微動,会釈,侮辱,加減,微震,小差,貧しい,微か,侮蔑,浅い,本の,軽い","小さい slight
+小 slight
+些細 slight
+僅か slight
+微動 slight tremor;slight movement
+会釈 slight bow(greeting sign gratitude)
+侮辱 slight
+加減 slight sign;slight state
+微震 slight earthquake
+小差 slight difference
+貧しい slight
+微か slight
+侮蔑 slight
+浅い slight(wound)
+本の slight
+軽い slight",Guess Vocab related to Keyword,Text
+"below","割る,出血,乳児,下,上下,公使,地下,下方,割れる,小さい,零下,以下,溺れる,割り込む,未満","割る fall below
+出血 selling below cost
+乳児 infant(below 1 year old)
+下 below
+上下 above below;above below
+公使 diplomat below rank ambassador(deputy chief mis
+地下 below ground
+下方 region below
+割れる drop below minimum
+小さい below average(degree,amount,)
+零下 below zero
+以下 below;below(standard,level,)
+溺れる sink below surface become unable breathe
+割り込む drop below;fall below(stock prices,sales,)
+未満 below",Guess Vocab related to Keyword,Text
+"smell","匂う,消える,香り,鋭い,消す,香る,臭う,匂い,濃い,聴く,移す,嗅ぐ,籠もる,潰れる,聞く","匂う smell(bad);smell(good)
+消える away(smell,itchiness,sleepiness)
+香り smell
+鋭い keen(intuition,sense smell,)
+消す remove(smell,pain,)
+香る smell sweet
+臭う smell(good);smell(bad)
+匂い smell
+濃い strong(flavour,smell,)
+聴く smell(incense)
+移す permeate smell colour
+嗅ぐ smell
+籠もる fill room(gas,smell,)
+潰れる lost(voice,eyesight,sense smell,)
+聞く smell(incense)",Guess Vocab related to Keyword,Text
+"split","割る,あっという間,分ける,分かれる,瞬時,裂ける,分裂,切れる,薪,暖簾,割れ目,破綻,割れる,破局","割る split
+あっという間 split second
+分ける split
+分かれる split
+瞬時 (split)second
+裂ける split
+分裂 split
+切れる split
+薪 piece(s)firewood(chopped split logs)
+暖簾 split curtain divide spaces house
+割れ目 split
+破綻 split
+割れる split(party);split
+破局 split(friends,lovers,)",Guess Vocab related to Keyword,Text
+"paint","描く,彩る,伸び,塗り替える,伸びる,斑,溶く,塗る,落ちる,絵の具,延びる,落とす,書く,絵を描く","描く paint
+彩る paint
+伸び (ability)spread(paint,cream,)
+塗り替える paint(different colour);paint again
+伸びる spread(paint,cream,)
+斑 unevenness(colour,paint,)
+溶く dissolve(paint)
+塗る paint
+落ちる come(dirt,paint,makeup,)
+絵の具 paint
+延びる spread(paint,cream,)
+落とす clean(dirt,makeup,paint,)
+書く paint
+絵を描く paint(draw)picture",Guess Vocab related to Keyword,Text
+"son","ドラ息子,お坊さん,男の子,子息,長男,坊っちゃん,一人息子,男児,父子,息子,坊ちゃん,畜生,次男","ドラ息子 lazy son;profligate son
+お坊さん son(others)
+男の子 son
+子息 (another's)son
+長男 first-born son;eldest son(may only son)
+坊っちゃん (another's)son
+一人息子 only son
+男児 son
+父子 father son
+息子 son
+坊ちゃん (another's)son
+畜生 son bitch
+次男 second son",Guess Vocab related to Keyword,Text
+"enthusiasm","熱狂,乗り,情熱,やる気,気負い,熱,籠もる,乗り気,熱気,意気込み,希薄,熱意,砕ける","熱狂 wild enthusiasm
+乗り enthusiasm
+情熱 enthusiasm
+やる気 enthusiasm
+気負い enthusiasm
+熱 enthusiasm
+籠もる filled(emotion,enthusiasm,)
+乗り気 enthusiasm
+熱気 enthusiasm
+意気込み enthusiasm
+希薄 lacking(enthusiasm,consideration,substance,)
+熱意 enthusiasm
+砕ける cool(enthusiasm)",Guess Vocab related to Keyword,Text
+"switch","代わる,乗換,乗り換える,乗り換え,捻る,入れる,乗換え,替わる,点ける,転向,消す,行程","代わる switch
+乗換 switch(another ideology,party,,method,)
+乗り換える switch(different,method,)
+乗り換え switch(another ideology,party,,method,)
+捻る turn(switch,)
+入れる turn(switch,)
+乗換え switch(another ideology,party,,method,)
+替わる switch
+点ける switch
+転向 switch
+消す switch
+行程 throw(switch)",Guess Vocab related to Keyword,Text
+"alone","１人,一人旅,丈,独り,孤立,一人で,一人暮らし,放置,独走,放る,単身,独りで","１人 alone
+一人旅 travelling alone
+丈 alone
+独り alone
+孤立 alone
+一人で alone
+一人暮らし living alone
+放置 leaving alone
+独走 running alone
+放る leave alone
+単身 alone
+独りで alone",Guess Vocab related to Keyword,Text
+"crack","割る,傷,割れ目,中堅,欠く,鳴らす,隙間,入る,取り締まる,切れる,割れる,亀裂","割る crack
+傷 crack
+割れ目 crack
+中堅 crack troops
+欠く crack
+鳴らす crack(joints)
+隙間 crack
+入る form(crack,fissure,)
+取り締まる crack
+切れる crack
+割れる crack
+亀裂 crack",Guess Vocab related to Keyword,Text
+"fun","分,嘲る,弄る,冷やかす,曲,戯れ,楽しむ,楽しい,愛嬌,沈没,面白い,食う","分 fun(tenth monme,5.787 grains)
+嘲る fun
+弄る fun
+冷やかす fun
+曲 fun
+戯れ fun
+楽しむ fun
+楽しい fun
+愛嬌 fun
+沈没 too much fun(red-light district,)missing work n
+面白い fun
+食う fun",Guess Vocab related to Keyword,Text
+"those","関係者,奴ら,連中,当時,外来語,それ等,浮く,拉致問題,上達,共,時代,飛び火","関係者 those concerned
+奴ら those guys
+連中 those guys
+当時 those days
+外来語 loanword(,those Western origin)
+それ等 those(near second)
+浮く cut(those around)
+拉致問題 abduction issue(those abducted North Korea)
+上達 communication opinions general populace those r
+共 second third plural(implies speaker higher statu
+時代 those days
+飛び火 effects incident spreading those seemingly uni",Guess Vocab related to Keyword,Text
+"absurd","滑稽,不条理,凄まじい,あり得ない,詰らない,下らない,有り得ない,不合理,馬鹿らしい,理不尽,法外,逆しま","滑稽 absurd
+不条理 absurd
+凄まじい absurd
+あり得ない absurd
+詰らない absurd
+下らない absurd
+有り得ない absurd
+不合理 absurd
+馬鹿らしい absurd
+理不尽 absurd
+法外 absurd
+逆しま absurd",Guess Vocab related to Keyword,Text
+"toward","傾く,下り,向く,目指す,上り,対,対米,人生観,対する,赴く,頃,対日","傾く incline toward;trend toward
+下り train heading toward ending point route
+向く turn toward
+目指す toward
+上り upbound(toward Tokyo);train heading toward star
+対 toward
+対米 toward America
+人生観 attitude toward life
+対する directed toward(future,)
+赴く proceed toward
+頃 toward;toward
+対日 toward",Guess Vocab related to Keyword,Text
+"anxiety","消す,懸念,人見知り,危惧,不安,心配,気掛かり,恐れ,苦労,気がかり,憂慮","消す relieve(pain,anxiety,)
+懸念 anxiety
+人見知り stranger anxiety
+危惧 anxiety
+不安 anxiety
+心配 anxiety
+気掛かり anxiety
+恐れ anxiety
+苦労 anxiety
+気がかり anxiety
+憂慮 anxiety",Guess Vocab related to Keyword,Text
+"was","ご馳走様でした,子供の頃,果たして,ご馳走さま,昔のまま,ご馳走様,生家,臨場感,本土,小さい頃,所","ご馳走様でした was delicious meal
+子供の頃 when was child
+果たして was expected
+ご馳走さま was delicious meal
+昔のまま way was
+ご馳走様 was delicious meal
+生家 house where was born
+臨場感 feeling if was there
+本土 country where was born
+小さい頃 when was child
+所 was just;was process",Guess Vocab related to Keyword,Text
+"busy","お話し中,忙しい,取り込む,立て込む,多忙,慌ただしい,極める,煩忙,暇がない,過密,銀座","お話し中 busy(phone)
+忙しい busy
+取り込む busy
+立て込む busy;busy(many things)
+多忙 very busy
+慌ただしい busy
+極める extremely(busy)
+煩忙 busy
+暇がない busy
+過密 busy
+銀座 busy shopping district",Guess Vocab related to Keyword,Text
+"pen","書く,ペン先,小屋,別名,潰れる,万年筆,囲い,仮名,筆,置く","書く pen
+ペン先 pen nibs
+小屋 (animal)pen
+別名 pen
+潰れる worn(pen nib,saw teeth,)
+万年筆 fountain pen
+囲い pen
+仮名 pen
+筆 pen
+置く put tool(pen)hence stopping what tool",Guess Vocab related to Keyword,Text
+"birthplace","出身地,古里,本場,本家,出所,ふる里,故郷,生まれ,畑,郷里","出身地 birthplace
+古里 birthplace
+本場 birthplace
+本家 birthplace
+出所 birthplace
+ふる里 birthplace
+故郷 birthplace;birthplace
+生まれ birthplace
+畑 birthplace
+郷里 birthplace",Guess Vocab related to Keyword,Text
+"hill","陵,丘陵,丘,野山,坂,山,坂道,小山,麓,高台","陵 big hill
+丘陵 hill
+丘 hill
+野山 hill dale
+坂 hill
+山 hill
+坂道 hill road
+小山 hill
+麓 foot(mountain hill)
+高台 hill",Guess Vocab related to Keyword,Text
+"teeth","並み,剥く,歯,生える,並,潰れる,歯磨き,磨く,美白,矯正","並み row(teeth,houses,)
+剥く bare(teeth,fangs)
+歯 teeth
+生える cut(teeth)
+並 row(teeth,houses,)
+潰れる worn(pen nib,saw teeth,)
+歯磨き brushing teeth
+磨く brush(teeth)
+美白 whitening(skin,teeth,)
+矯正 straightening(teeth)",Guess Vocab related to Keyword,Text
+"visible","表,蜜,見える,劣化,表れる,差す,現れる,零れる,現われる,陽","表 face(i.e. visible side object)
+蜜 sorbitol(when visible dark patches inside apple)
+見える visible
+劣化 (visible)aging
+表れる become visible
+差す visible
+現れる become visible
+零れる become visible(although normally)
+現われる become visible
+陽 visible place",Guess Vocab related to Keyword,Text
+"humble","神妙,粗末,卑しい,下る,下手,控えめ,細やか,謙遜,謙虚","神妙 humble
+粗末 humble
+卑しい humble
+下る humble
+下手 humble position
+控えめ humble
+細やか humble
+謙遜 humble
+謙虚 humble",Guess Vocab related to Keyword,Text
+"vast","大地,荒野,大,凄い,広範囲,広い,広大,膨大,莫大","大地 (vast)land
+荒野 vast plain;vast plain
+大 vast
+凄い vast(numbers);vast(numbers)
+広範囲 vast range
+広い vast
+広大 vast
+膨大 vast
+莫大 vast",Guess Vocab related to Keyword,Text
+"decoration","飾り,彩り,化粧,風船,下げる,装飾,帯びる,勲章,受章","飾り decoration
+彩り decoration
+化粧 decoration
+風船 balloon(toy decoration)
+下げる wear(decoration)
+装飾 decoration
+帯びる wear(sword,decoration,)
+勲章 decoration
+受章 reception decoration",Guess Vocab related to Keyword,Text
+"discord","不仲,摩擦,葛藤,確執,不協和音,争い,鎮める,衝突,間","不仲 discord
+摩擦 discord
+葛藤 discord
+確執 discord
+不協和音 discord(relationship);discord
+争い discord
+鎮める settle(discord)
+衝突 discord
+間 discord",Guess Vocab related to Keyword,Text
+"kimono","前,左前,裾,着物,呉服,帯,懐,浴衣","前 breast(coat,kimono,)
+左前 wearing kimono right side left(normally only de
+裾 bottom(kimono)
+着物 kimono
+呉服 kimono fabrics
+帯 obi(kimono sash)
+懐 inside breast clothing(kimono)
+浴衣 yukata(light cotton kimono worn summer bathrobe",Guess Vocab related to Keyword,Text
+"foolish","浅はか,愚か,下らない,馬鹿らしい,詰らない,半端,間抜け,顔を潰す","浅はか foolish
+愚か foolish
+下らない foolish
+馬鹿らしい foolish
+詰らない foolish
+半端 foolish
+間抜け foolish
+顔を潰す look foolish",Guess Vocab related to Keyword,Text
+"hometown","出身地,ふる里,国,故郷,帰国,郷里,古里","出身地 hometown
+ふる里 hometown
+国 home(i.e. hometown,home country)
+故郷 hometown;hometown
+帰国 return hometown
+郷里 hometown
+古里 hometown",Guess Vocab related to Keyword,Text
+"lifetime","生前,世,寿命,在りし日,半生,生涯,命","生前 during lifetime
+世 lifetime
+寿命 lifetime
+在りし日 during lifetime
+半生 half lifetime
+生涯 lifetime
+命 lifetime",Guess Vocab related to Keyword,Text
+"spell","掛ける,長時間,小康,呪い,魔法,長雨,続き","掛ける put effect(spell,anaesthetic,)
+長時間 long spell
+小康 breathing spell
+呪い spell
+魔法 spell
+長雨 long spell rain
+続き spell",Guess Vocab related to Keyword,Text
+"vague","玉虫色,いい加減,微か,生ぬるい,曖昧,漠然,頼りない","玉虫色 vague
+いい加減 vague
+微か vague
+生ぬるい vague
+曖昧 vague
+漠然 vague
+頼りない vague",Guess Vocab related to Keyword,Text
+"verse","冠,行,巻く,詩,句,節,脇","冠 first verse haikai,
+行 verse
+巻く link(verse)
+詩 verse
+句 verse(5 7 mora poetry
+節 verse
+脇 second verse(linked series poems)",Guess Vocab related to Keyword,Text
+"snack","当て,お八つ,摘む,宛,食堂,摘み","当て snack served alcoholic drink
+お八つ between-meal snack;mid-afternoon(around 3 o'cl
+摘む snack
+宛 snack served alcoholic drink
+食堂 snack bar
+摘み snack(drink)",Guess Vocab related to Keyword,Text
+"waka","丈,姿,本,和歌,元,歌集","丈 magnificence(waka poem,)
+姿 form(waka)
+本 first section waka
+和歌 waka
+元 first section waka
+歌集 collection waka poems",Guess Vocab related to Keyword,Text
+"maturity","満期,成熟,丸み,円み,年頃","満期 maturity(investment)
+成熟 maturity
+丸み maturity
+円み maturity
+年頃 age maturity",Guess Vocab related to Keyword,Text
+"imperial","内,認証,帝,元年,国会,上,博士,京,元号,陵,御苑,君が代,定年,宮中,女房,生まれ,制,帝国,本朝,大学,宮廷,詔,宮内庁,皇居,勅,離宮,神宮,帝政,幕府,年号,御用邸,柏木,皇室,近衛,御所,都,皇族","内 imperial palace grounds
+認証 Imperial attestation
+帝 (gates)imperial residence
+元年 first year(imperial era)
+国会 Imperial Diet
+上 imperial capital(i.e. Kyoto);imperial court;regi
+博士 instructor imperial court(ritsuryō)
+京 imperial capital(Kyoto)
+元号 imperial era(Heisei,Shōwa)
+陵 imperial mausoleum
+御苑 imperial garden
+君が代 Imperial reign
+定年 minimum years service particular rank eligibili
+宮中 imperial court
+女房 woman served imperial palace
+生まれ born(country,month,imperial era,zodiac year,)
+制 imperial command
+帝国 imperial
+本朝 Imperial Court
+大学 former imperial uni",Guess Vocab related to Keyword,Text
+"rest","お休み,休する,その他,休養,一休み,その外,休み,休息,保養所,後,休む,掛け,一気に,一段落,憩い,休憩時間,以下,憩,休める,昼休み,休憩,他,休憩所,余り,先,掛ける,安静,眠る,続き,休止,静養,茶屋,台","お休み rest
+休する rest
+その他 rest
+休養 rest
+一休み (short)rest
+その外 rest
+休み rest
+休息 rest
+保養所 rest home
+後 rest
+休む rest
+掛け rest
+一気に rest
+一段落 getting point where can rest
+憩い rest
+休憩時間 rest
+以下 rest
+憩 rest
+休める rest
+昼休み noon rest
+休憩 rest
+他 rest
+休憩所 rest stop;rest area
+余り rest;rest
+先 rest(story)
+掛ける rest(else)
+安静 rest
+眠る rest(peace)
+続き rest(story,work,)
+休止 rest
+静養 (convalescent)rest
+茶屋 (Edo)rest stop
+台 rest",Guess Vocab related to Keyword,Text
+"student","主席,大学生,高校生,優等生,一年生,学割,学割り,中学生,在学,女子高生,小学生,奨学金,落ちこぼれ,教え子,年生,回生,学徒,秀才,後輩,研究家,門下,学生時代,留学生,首席,学生,生徒,年次,現役","主席 top student
+大学生 college student;university student
+高校生 senior student
+優等生 model student;honours student;honor student
+一年生 first-year student
+学割 student discount
+学割り student discount
+中学生 junior student
+在学 student
+女子高生 female student
+小学生 elementary student;primary student;grade stude
+奨学金 student loan
+落ちこぼれ student cannot keep
+教え子 student(former)
+年生 nth-year student
+回生 nth-year university student
+学徒 student
+秀才 talented student
+後輩 younger student
+研究家 student
+門下 student
+学生時代 student days
+留学生 exchange student;overseas student
+首席 top student
+学生 stu",Guess Vocab related to Keyword,Text
+"key","後退,中軸,手掛かり,決め手,中堅,中枢,原画,肝,握る,手がかり,短調,鍵,基幹,低い,味噌,本調子,胆,礼金,礼,要職,秘訣,要衝,急所,親,調子,重要,軸,長調","後退 backspace(key)
+中軸 key man
+手掛かり key
+決め手 key
+中堅 key figure
+中枢 key
+原画 key animation;key frame
+肝 key
+握る key
+手がかり key
+短調 minor key
+鍵 key(problem,success,);key
+基幹 key
+低い low key
+味噌 key(main)point
+本調子 proper key
+胆 key
+礼金 key money
+礼 key money
+要職 key position
+秘訣 key(success)
+要衝 key point
+急所 key point
+親 key
+調子 key
+重要 key
+軸 key point
+長調 major key",Guess Vocab related to Keyword,Text
+"prefecture","沖縄,越後,奈良,同県,京都,新潟,大和,安芸,琉球,県民,州,広島,埼玉,特別区,大阪,甲斐,県内,県外,県下,島根,山形,福岡,静岡,府立,岐阜,長崎,県","沖縄 Okinawa(city,prefecture)
+越後 Echigo(former province located present-day Niig
+奈良 Nara(city,prefecture)
+同県 said prefecture;same prefecture
+京都 Kyoto(city,prefecture)
+新潟 Niigata(city,prefecture)
+大和 Yamato(former province located present-day Nara
+安芸 Aki(former province located west present-day Hi
+琉球 chain southwestern islands comprising Okinawa P
+県民 citizen prefecture;resident prefecture
+州 prefecture
+広島 Hiroshima(city,prefecture)
+埼玉 Saitama(city,prefecture)
+特別区 administrative subdivision prefecture has dire
+大阪 Osaka(city,prefecture)
+甲斐 Kai(former ",Guess Vocab related to Keyword,Text
+"legal","勝訴,法的,債務,公益法人,見送る,告訴,正当,本来,合法的,社員,法定,合法,式,念書,開示,正式,敗訴,訴状,甲,本籍,正規,薬,法人,適法,法医学,立派","勝訴 victory(legal case);winning(legal)case
+法的 legal
+債務 obligation party(usu. legal contractual)
+公益法人 juridical(legal)working public good
+見送る continue(legal contexts)
+告訴 legal proceedings;legal action
+正当 legal
+本来 legal
+合法的 legal
+社員 company stockholder(legal contexts)
+法定 legal
+合法 legal
+式 enforcement regulations(ritsuryō legal codes)
+念書 legal instrument
+開示 disclosure(legal)
+正式 legal
+敗訴 loss(legal)case
+訴状 (legal)brief
+甲 plaintiff(label legal documents)
+本籍 legal domicile(opposed where lives)
+正規 legal
+薬 (legal)drugs
+法人 legal;legal entity
+適法 legal
+法医学 ",Guess Vocab related to Keyword,Text
+"strike","当り,座り込み,削る,殴打,宛,当たる,争議,解除,歯向う,応える,当たり,打ち出す,当て,闘争,打ち合わせる,擦る,歯向かう,襲う,思い当たる,鉄砲,打つ,見舞う,打撃,殴る,突く","当り strike
+座り込み sit-down(strike)
+削る strike
+殴打 strike
+宛 strike
+当たる strike
+争議 strike
+解除 calling(strike)
+歯向う strike
+応える strike home
+当たり strike
+打ち出す strike(drum indicating end performance)
+当て strike
+闘争 strike
+打ち合わせる strike against each other
+擦る strike(match)
+歯向かう strike
+襲う strike
+思い当たる strike
+鉄砲 wooden pole wrestlers strike practice
+打つ strike;strike(noon,)
+見舞う strike
+打撃 strike
+殴る strike
+突く strike",Guess Vocab related to Keyword,Text
+"hang","掛ける,漂う,下がる,はみ出す,ぶら下がる,垂らす,括る,切る,下げる,ぶら下げる,頑張って,差し掛かる,持ち堪える,垂れる,掲げる,引っ掛ける,込める,持堪える,掛かる,遊ぶ,食い下がる","掛ける hang(coat,picture wall);hang
+漂う hang air
+下がる hang
+はみ出す hang
+ぶら下がる hang
+垂らす hang
+括る hang
+切る hang(phone)
+下げる hang
+ぶら下げる hang
+頑張って hang there
+差し掛かる hang
+持ち堪える hang
+垂れる hang
+掲げる hang(banner)
+引っ掛ける hang
+込める hang
+持堪える hang
+掛かる hang
+遊ぶ hang
+食い下がる hang",Guess Vocab related to Keyword,Text
+"conflict","内乱,治まる,収まる,紛争,抗争,冷却,争い,係争,戦い,火種,納まる,触れる,紛糾,激突,摩擦,抵触,食い違い,衝突,闘争,葛藤,食い違う","内乱 domestic conflict
+治まる die(storm,anger,conflict,)
+収まる settled(dispute,conflict,)
+紛争 conflict
+抗争 conflict
+冷却 cooling(political conflict,)
+争い conflict
+係争 conflict
+戦い conflict
+火種 cause(disturbance,conflict,)
+納まる settled(dispute,conflict,)
+触れる conflict
+紛糾 conflict
+激突 conflict
+摩擦 conflict
+抵触 conflict(theory,claim,)
+食い違い conflict
+衝突 conflict
+闘争 conflict
+葛藤 conflict
+食い違う conflict(facts)",Guess Vocab related to Keyword,Text
+"impression","伝わる,印象,利き目,付き,届く,版,感動,感じ,感激,消える,好感,効き目,思い込む,響く,感触,拭う,感銘,型,染みる,線","伝わる conveyed(feeling,impression,)
+印象 impression
+利き目 impression
+付き impression
+届く impression
+版 impression
+感動 strong impression
+感じ impression
+感激 impression
+消える fade(feeling,impression,)
+好感 favorable impression;favourable impression
+効き目 impression
+思い込む under impression
+響く impression
+感触 impression
+拭う rid(impression,feeling,blemish,)
+感銘 deep impression
+型 impression
+染みる deep impression
+線 impression leaves",Guess Vocab related to Keyword,Text
+"lie","寝る,重なる,散らかる,休む,寝転ぶ,吐く,待ち構える,伏せる,横たわる,寝かせる,潜む,寝かす,眠る,当たる,空,走る,転がる,真っ赤,虚偽","寝る lie flat(hair);lie bed;lie idle(funds,stock,);l
+重なる lie top another
+散らかる lie scattered around
+休む (lie)sleep
+寝転ぶ lie
+吐く tell(lie)
+待ち構える lie wait
+伏せる lie(body)face;lie;lie flat(ground)
+横たわる lie ahead(danger,difficulty,);lie wait;lie
+寝かせる (money,goods,)lie idle;(stock)lie unsold
+潜む lie dormant
+寝かす (stock)lie unsold;(money,goods,)lie idle
+眠る lie(buried);lie untapped;lie untouched;lie unus
+当たる lie(direction)
+空 lie
+走る lie
+転がる lie
+真っ赤 downright(lie)
+虚偽 lie",Guess Vocab related to Keyword,Text
+"throughout","生涯,世界中,に渡って,一日中,年中,共通語,日本全国,越し,終始,中,行き渡る,徹する,徹す,全国的,通る,至る所,行渡る,日本中,通す","生涯 throughout life
+世界中 throughout world
+に渡って throughout
+一日中 throughout
+年中 throughout year
+共通語 standard language(language variety understood 
+日本全国 throughout
+越し throughout
+終始 throughout
+中 throughout(year);throughout;throughout(world)
+行き渡る spread throughout
+徹する throughout(night)
+徹す spread throughout
+全国的 throughout country
+通る spread throughout
+至る所 throughout
+行渡る spread throughout
+日本中 throughout
+通す spread throughout",Guess Vocab related to Keyword,Text
+"shut","塞がる,立てる,締まる,塞ぐ,閉じこもる,潰す,仕舞う,立つ,差す,閉ざす,籠もる,締め切る,閉じ込める,猿,閉まる,閉める,煩い,締め出す,閉じる","塞がる shut
+立てる shut
+締まる shut
+塞ぐ shut
+閉じこもる shut away
+潰す shut
+仕舞う shut
+立つ shut(door,shoji,);shut
+差す shut
+閉ざす shut;shut(snow,ice,)
+籠もる shut(room)
+締め切る shut(behind doors)
+閉じ込める shut
+猿 sliding wooden bolt(holding door window shut)
+閉まる shut
+閉める shut
+煩い shut
+締め出す shut
+閉じる shut",Guess Vocab related to Keyword,Text
+"appear","嫌がる,欲しがる,出る,湧く,発する,吹く,表紙,浮かぶ,表れる,見える,引き合い,立つ,臨む,現われる,載る,飛び出す,現れる,訪れる","嫌がる appear uncomfortable
+欲しがる appear want
+出る appear(print);appear
+湧く appear(suddenly)(sweat,tears,)
+発する appear
+吹く appear(surface)
+表紙 appear cover magazine
+浮かぶ appear
+表れる appear
+見える appear
+引き合い summoned appear court
+立つ appear(rainbow,clouds,)
+臨む appear(court)
+現われる appear
+載る appear(print)
+飛び出す appear(suddenly)
+現れる appear
+訪れる appear",Guess Vocab related to Keyword,Text
+"generation","代目,発電,世,代々,原発,１０代,世代,伝わる,発熱,代代,団塊,後進,発生,初代,先代,生成,創出,断絶","代目 nth generation
+発電 generation(power)
+世 generation
+代々 generation generation
+原発 nuclear power generation
+１０代 tenth generation
+世代 generation
+伝わる handed(generation generation)
+発熱 generation heat
+代代 generation generation
+団塊 baby boom generation(1947-1949)
+後進 next generation;younger generation
+発生 generation(power,heat,)
+初代 first generation
+先代 previous generation(family);previous generation
+生成 generation
+創出 generation
+断絶 (generation)gap",Guess Vocab related to Keyword,Text
+"inferior","下等,不良,不良品,下手,下,悪い,落ちる,悪質,劣る,天下り,劣勢,負ける,下る,小,犬,粗品,劣悪,目下","下等 inferior
+不良 inferior
+不良品 inferior goods
+下手 inferior
+下 inferior(i.e. junior)
+悪い inferior
+落ちる inferior
+悪質 inferior
+劣る inferior
+天下り command(superior inferior,government private s
+劣勢 inferior position
+負ける inferior
+下る inferior
+小 inferior
+犬 inferior
+粗品 inferior goods
+劣悪 inferior
+目下 inferior",Guess Vocab related to Keyword,Text
+"path","中道,徹す,林道,道程,街道,軌跡,上り,描く,道,悪魔,歩む,進路,正道,経路,通す,道のり,道筋,開く","中道 middle path
+徹す path between two points
+林道 path through forest;woodland path
+道程 path(goal)
+街道 path(becoming)
+軌跡 path has taken
+上り ascending(path)
+描く form certain shape(path action,appearance objec
+道 path
+悪魔 evil spirits forces hinder path enlightenment
+歩む tread(figurative path);set(path destruction,rui
+進路 path
+正道 path righteousness;correct path;path duty
+経路 path
+通す path between two points
+道のり path(goal)
+道筋 path
+開く open(new land,path,)",Guess Vocab related to Keyword,Text
+"festival","祭日,前夜,屋台,掛ける,山,盆踊り,お祝い,中元,節句,祭,祭典,幕開け,盆,祭り,祝い,祝う,芸術祭,運動会","祭日 festival
+前夜 eve(festival,major event,)
+屋台 festival float
+掛ける hold(play,festival,)
+山 festival float(mounted decorative halberd)
+盆踊り Lantern Festival dance;Bon Festival dance
+お祝い festival
+中元 Bon Festival gifts;(last)Bon lantern festival
+節句 seasonal festival
+祭 festival
+祭典 festival
+幕開け opening(tournament,festival,)
+盆 Lantern Festival;Bon Festival;Festival Dead
+祭り festival
+祝い festival
+祝う observe(festival)
+芸術祭 art festival
+運動会 sports festival",Guess Vocab related to Keyword,Text
+"fear","不安,懸念,危惧,大丈夫,人見知り,心配,気遣い,危ぶむ,強度,恐怖,捕われる,恐れる,怖がる,憂慮,恐れ,恐縮,捕らわれる,疑心","不安 fear
+懸念 fear
+危惧 fear
+大丈夫 fear
+人見知り fear strangers
+心配 fear
+気遣い fear
+危ぶむ fear
+強度 intense(fear)
+恐怖 fear
+捕われる seized(fear,)
+恐れる fear
+怖がる fear
+憂慮 fear
+恐れ fear
+恐縮 shrinking fear
+捕らわれる seized(fear,)
+疑心 fear",Guess Vocab related to Keyword,Text
+"feet","独り歩き,一人歩き,ひとり歩き,立て直す,両足,決起,足元,立つ,立ちなおる,立ち直る,土足,踏ん張る,手足,踏まえる,蹴る,正座,立ち往生,足下","独り歩き standing own feet
+一人歩き standing own feet
+ひとり歩き standing own feet
+立て直す put feet
+両足 both feet
+決起 jumping feet
+足元 feet
+立つ feet
+立ちなおる feet
+立ち直る feet
+土足 dirty feet;muddy feet;shod feet
+踏ん張る plant feet(firmly ground)
+手足 hands feet
+踏まえる feet firmly planted
+蹴る firmly press feet(against)
+正座 kneeling tops feet flat floor,sitting soles
+立ち往生 dying feet
+足下 feet",Guess Vocab related to Keyword,Text
+"grasp","押さえる,捕える,判る,握り,把握,分かる,感じ取る,解る,握る,汲み取る,取る,知る,捕まえる,飲み込む,握り締める,捕まる,捕らえる","押さえる grasp(point)
+捕える grasp(meaning)
+判る grasp
+握り grasp
+把握 grasp
+分かる grasp
+感じ取る grasp
+解る grasp
+握る grasp
+汲み取る grasp
+取る grasp
+知る grasp
+捕まえる grasp
+飲み込む grasp
+握り締める grasp tightly
+捕まる grasp
+捕らえる grasp(meaning)",Guess Vocab related to Keyword,Text
+"launch","打ち上げ,起こす,打ち上げる,浮かべる,発足,下ろす,上げる,挙げる,興す,進出,新発売,踏み切る,飛ばす,発売,降ろす,揚げる,立ち上げる","打ち上げ launch(rocket,satellite,)
+起こす launch
+打ち上げる launch
+浮かべる launch
+発足 launch
+下ろす launch(boat)
+上げる launch(fireworks,)
+挙げる launch(fireworks,)
+興す launch
+進出 launch
+新発売 launch
+踏み切る launch
+飛ばす launch
+発売 launch(product)
+降ろす launch(boat)
+揚げる launch(fireworks,)
+立ち上げる launch(business)",Guess Vocab related to Keyword,Text
+"suit","セーラー服,適する,似合う,間に合う,勝手気まま,礼服,気に入る,馴染む,同調,紋,合う,釣り合う,告訴,水着,決まる,落ち着く,雨","セーラー服 sailor suit
+適する suit
+似合う suit
+間に合う serve(suit,meet)purpose
+勝手気まま (saying things)suit own convenience
+礼服 dress suit
+気に入る suit fancy
+馴染む suit
+同調 following suit
+紋 playing card suit(karuta)
+合う suit
+釣り合う suit
+告訴 suit
+水着 bathing suit
+決まる suit
+落ち着く suit
+雨 November suit(hanafuda)",Guess Vocab related to Keyword,Text
+"terrible","非常,恐るべき,恐ろしい,不味い,凄い,余り,凄まじい,大変,魔,甚だしい,随分,偉い,惨状,物凄い,最悪,猛烈,酷い","非常 terrible
+恐るべき terrible
+恐ろしい terrible
+不味い terrible
+凄い terrible;terrible
+余り terrible;terrible
+凄まじい terrible
+大変 terrible
+魔 terrible
+甚だしい terrible
+随分 terrible
+偉い terrible
+惨状 terrible spectacle
+物凄い terrible
+最悪 terrible
+猛烈 terrible
+酷い terrible",Guess Vocab related to Keyword,Text
+"treat","繕う,よろしくお願いいたします,よろしくお願いします,労る,取り扱う,立てる,ご馳走,振る舞う,取上げる,苛める,宜しく,扱う,取り上げる,可愛がる,当たる,振る舞い,目覚まし","繕う treat(illness,injury,)
+よろしくお願いいたします please treat well
+よろしくお願いします please treat well
+労る treat sympathy
+取り扱う treat
+立てる treat respect
+ご馳走 treat(food drink)
+振る舞う treat(drink)
+取上げる treat
+苛める treat harshly
+宜しく please treat favorably(favourably)
+扱う treat;treat B
+取り上げる treat
+可愛がる treat tenderly
+当たる treat(harshly)
+振る舞い treat
+目覚まし early-morning treat(traditionally given child",Guess Vocab related to Keyword,Text
+"aware","気がつく,気づく,存じる,いつの間にか,ご存じ,止める,存じ,知る,気付く,気が付く,心得る,目覚める,何時の間にか,意識,悟る,敏感","気がつく become aware
+気づく become aware
+存じる aware
+いつの間にか becomes aware
+ご存じ aware
+止める aware
+存じ aware
+知る aware
+気付く become aware
+気が付く become aware
+心得る aware
+目覚める become aware
+何時の間にか becomes aware
+意識 becoming aware
+悟る become aware
+敏感 aware",Guess Vocab related to Keyword,Text
+"forth","その外,等,生み出す,やり取り,押し問答,出る,その他,吐く,発する,前後,打ち出す,吹く,奮う,行ったり来たり,通う,繰り出す","その外 so forth
+等 so forth
+生み出す bring forth
+やり取り arguing forth
+押し問答 arguing forth
+出る come forth
+その他 so forth
+吐く send forth
+発する give forth
+前後 forth
+打ち出す set forth
+吹く put forth(buds)
+奮う call forth
+行ったり来たり forth
+通う forth between
+繰り出す sally forth",Guess Vocab related to Keyword,Text
+"investment","投下,利回り,投融資,出資,財政投融資,凍結,投入,出金,投信,満期,注ぎ込む,外資,投資,運転,現物,投資信託","投下 investment
+利回り (investment)yield
+投融資 investment lending
+出資 investment
+財政投融資 Fiscal Investment Loan Program
+凍結 suspension(investment)
+投入 investment
+出金 investment
+投信 investment trust
+満期 maturity(investment)
+注ぎ込む pump(investment)
+外資 foreign investment
+投資 investment
+運転 investment
+現物 kind(income,benefit,rent,taxes,investment,)
+投資信託 investment trust",Guess Vocab related to Keyword,Text
+"pitch","同調,勾配,同音,博士,真っ暗,見送る,変化球,初球,見送り,真っ黒,歩み,揺さぶる,死球,調子,決め球,直球","同調 same pitch
+勾配 pitch
+同音 same pitch
+博士 pitch length marks(accompany Buddhist liturgica
+真っ暗 pitch dark
+見送る pitch(baseball)
+変化球 breaking ball(pitch)
+初球 pitcher's first pitch(batter)
+見送り letting pitch
+真っ黒 pitch black
+歩み pitch(screw,)
+揺さぶる put batter(varying type pitch)
+死球 pitch hits batter
+調子 pitch
+決め球 winning pitch
+直球 straight ball(pitch)",Guess Vocab related to Keyword,Text
+"mouth","口コミ,河口,口先,大口,傷口,開く,第一声,入口,口々,空く,川口,口,含める,含む,開口,塞ぐ","口コミ word mouth
+河口 mouth river;mouth river
+口先 mouth
+大口 mouth opened wide;big mouth
+傷口 (mouth)wound
+開く been opened(eyes,mouth,);open(eyes,mouth,)
+第一声 first thing mouth
+入口 mouth
+口々 every mouth
+空く been opened(eyes,mouth,);open(eyes,mouth,)
+川口 mouth river
+口 mouth(bottle);mouth(feed);mouth
+含める putmouth
+含む hold mouth
+開口 opening mouth
+塞ぐ close(eyes,mouth)",Guess Vocab related to Keyword,Text
+"narrow","窮屈,小幅,僅か,狭める,危ない,狭い,細々,小差,狭まる,搾る,細長い,絞る,絞り込む,縮まる,詰まる,軒","窮屈 narrow
+小幅 narrow
+僅か narrow(margin)
+狭める narrow
+危ない narrow(escape)
+狭い narrow
+細々 very narrow
+小差 narrow margin
+狭まる narrow
+搾る narrow(focus)
+細長い long narrow
+絞る narrow(focus)
+絞り込む narrow
+縮まる narrow
+詰まる narrow
+軒 narrow aisle surrounding core temple building",Guess Vocab related to Keyword,Text
+"familiar","お馴染み,慣れる,明るい,使い,見つける,知る,粋,熟知,精通,馴染む,見付ける,親しい,詳しい,身近,顔なじみ","お馴染み familiar
+慣れる become familiar
+明るい familiar
+使い familiar spirit
+見つける familiar
+知る familiar
+粋 familiar worldly pleasures(sexual relations,geis
+熟知 familiar
+精通 familiar
+馴染む become familiar
+見付ける familiar
+親しい familiar;familiar(story)
+詳しい familiar
+身近 familiar
+顔なじみ familiar face",Guess Vocab related to Keyword,Text
+"learn","聞く,盗む,聴く,学ぶ,仕入れる,教わる,飲み込む,懲りる,見習う,留学,身につける,物覚え,知る,習う,覚える","聞く learn
+盗む watch learn
+聴く learn
+学ぶ learn
+仕入れる learn
+教わる learn
+飲み込む learn
+懲りる learn experience;learn hard way;learn lesson
+見習う learn(observation)
+留学 (temporarily)studying another(learn specific sk
+身につける learn
+物覚え ability learn
+知る learn
+習う learn(teacher)
+覚える learn heart;learn",Guess Vocab related to Keyword,Text
+"struggle","争奪,競り合う,争い,共闘,苦戦,往生,溺れる,闘う,戦い,闘争,抗争,戦う,暴れる,泳ぐ,奮闘","争奪 struggle
+競り合う struggle
+争い struggle
+共闘 joint struggle
+苦戦 struggle
+往生 giving struggle
+溺れる struggle water
+闘う struggle(against adversities,)
+戦い struggle(freedom,survival,)
+闘争 struggle(rights,higher wages,)
+抗争 struggle
+戦う struggle(against adversities,)
+暴れる struggle
+泳ぐ struggle through(crowd)
+奮闘 hard struggle",Guess Vocab related to Keyword,Text
+"almost","大概,危うく,先ず,余程,半ば,同然,大抵,紛れる,大方,惜しい,近い,大体,擦れ擦れ,間近","大概 almost
+危うく almost
+先ず almost certainly
+余程 almost
+半ば almost
+同然 (almost)same
+大抵 almost
+紛れる almost indistinguishable
+大方 almost
+惜しい almost(quite)
+近い almost same
+大体 almost
+擦れ擦れ almost touching
+間近 almost here",Guess Vocab related to Keyword,Text
+"conversation","割り込む,対話,切る,談話,英会話,跳ぶ,会話,逸れる,落ちる,対談,話し掛ける,紛らす,話,飛ぶ","割り込む cut(line,conversation,)
+対話 conversation
+切る terminate(conversation)
+談話 conversation
+英会話 English conversation
+跳ぶ jump(conversation)
+会話 conversation
+逸れる deviate(conversation)
+落ちる become vulgar(conversation)
+対談 conversation
+話し掛ける start conversation
+紛らす shift(conversation)
+話 conversation
+飛ぶ jump(conversation)",Guess Vocab related to Keyword,Text
+"emperor","上,天皇陛下,内,夫人,表,神,発祥,天皇制,天皇,帝,御所,賜杯,皇帝,親書","上 rank(emperor);emperor
+天皇陛下 Majesty Emperor
+内 emperor
+夫人 consort emperor
+表 memorial emperor
+神 Emperor
+発祥 appearance auspicious sign will receive divine 
+天皇制 Emperor
+天皇 Emperor
+帝 emperor
+御所 emperor
+賜杯 trophy given Emperor
+皇帝 emperor
+親書 official letter(Emperor,Prime Minister,)",Guess Vocab related to Keyword,Text
+"ward","区民,区役所,区,区内,区長,渋谷,外来,区立,病棟,特別区,区議,病室,目黒,避ける","区民 ward residents
+区役所 ward office
+区 ward
+区内 ward borough
+区長 mayor ward;chief administrator ward;head ward
+渋谷 Shibuya City(special ward Tokyo)
+外来 outpatient ward
+区立 established ward;ward
+病棟 (hospital)ward
+特別区 special ward
+区議 ward assemblyman
+病室 ward
+目黒 Meguro City(special ward Tokyo)
+避ける ward;ward",Guess Vocab related to Keyword,Text
+"Korea","平壌,三十八度線,北,半島,３８度線,日韓,板門店,韓国,朝鮮民主主義人民共和国,北朝鮮,高麗,南北,拉致問題,朝鮮","平壌 Pyongyang(North Korea)
+三十八度線 38th parallel(demarcates North Korea South K
+北 North Korea
+半島 Korea
+３８度線 38th parallel(demarcates North Korea South Ko
+日韓 South Korea
+板門店 Panmunjon(Korea)
+韓国 Republic Korea;South Korea
+朝鮮民主主義人民共和国 Democratic People's Republic Korea(Nor
+北朝鮮 North Korea
+高麗 Korea;Goryeo(dynasty Korea
+南北 South Korea North Korea
+拉致問題 abduction issue(those abducted North Korea)
+朝鮮 Korea",Guess Vocab related to Keyword,Text
+"poem","京,川柳,和歌,余韻,丈,短歌,歌,俳句,歌う,詩,詠む,唄,組み立てる,風物詩","京 final word iroha poem
+川柳 humorous seventeen-mora poem
+和歌 classic poem,tanka,often 31 morae
+余韻 suggestiveness(book,poem,)
+丈 magnificence(waka poem,)
+短歌 31-mora poem
+歌 classical poem(tanka)
+俳句 17-mora poem,usu. 3 lines 5,7 5 morae
+歌う recite(poem);express form poem;sing(love,beauty
+詩 Chinese poem;poem
+詠む compose(poem);use theme poem;recite(poem)
+唄 classical poem(tanka)
+組み立てる compose(story,poem,)
+風物詩 poem natural scenery particular season",Guess Vocab related to Keyword,Text
+"wound","負傷,傷,傷付ける,傷口,痛手,傷つける,負う,外傷,塞がる,致命傷,染みる,追い討ち,浅い,重傷","負傷 wound
+傷 wound
+傷付ける wound
+傷口 (opening)wound;(mouth)wound
+痛手 serious wound
+傷つける wound
+負う sustain(wound)
+外傷 external wound
+塞がる healed(wound)
+致命傷 fatal wound
+染みる sting(wound sensitive area,)
+追い討ち rubbing salt wound
+浅い slight(wound)
+重傷 serious wound",Guess Vocab related to Keyword,Text
+"advice","助言,忠告,勧め,入れる,取り入れる,受け止める,勧告,警告,相談,注意,苦言,聞く,聴く","助言 advice
+忠告 advice
+勧め advice
+入れる take(advice,)
+取り入れる accept(advice)
+受け止める take(advice,)
+勧告 advice
+警告 advice
+相談 askingadvice
+注意 advice
+苦言 harsh honest advice;frank advice;candid advice
+聞く follow(advice,order,)
+聴く follow(advice,order,)",Guess Vocab related to Keyword,Text
+"departure","出発,発着,出陣,発,出国,出港,引き取り,発車,後発,逸脱,立ち,始発,退去","出発 departure
+発着 arrival departure
+出陣 departure front
+発 departure
+出国 departure country
+出港 departure port
+引き取り departure
+発車 departure(train,car,)
+後発 late departure
+逸脱 departure
+立ち departure
+始発 first departure
+退去 departure",Guess Vocab related to Keyword,Text
+"distinction","分別,分かち,隔て,名誉,区別,変わり,見分け,嫌い,別,性別,差別,違い,特徴","分別 distinction
+分かち distinction
+隔て distinction
+名誉 distinction
+区別 distinction
+変わり distinction
+見分け distinction
+嫌い distinction
+別 distinction
+性別 distinction sex
+差別 distinction
+違い distinction
+特徴 distinction",Guess Vocab related to Keyword,Text
+"divide","隔てる,割り切る,割る,分かつ,分かれる,割当てる,立てる,分ける,画する,離す,割り当てる,区切る,暖簾","隔てる divide
+割り切る divide evenly;divide exactly(remainder)
+割る divide
+分かつ divide
+分かれる divide
+割当てる divide among
+立てる divide
+分ける divide;divide
+画する divide
+離す divide
+割り当てる divide among
+区切る divide
+暖簾 split curtain divide spaces house",Guess Vocab related to Keyword,Text
+"loud","声高,大きい,上げる,大,揚げる,高らか,読み方,挙げる,大声,派手,煩い,高い,騒々しい","声高 loud(voice)
+大きい loud
+上げる (loud sound)
+大 loud
+揚げる (loud sound)
+高らか loud
+読み方 way reading(loud)
+挙げる (loud sound)
+大声 loud voice
+派手 loud
+煩い loud
+高い loud
+騒々しい loud",Guess Vocab related to Keyword,Text
+"outcome","始末,転がる,事になる,決める,成果,勝敗,落ち,行方,結果,成否,出来上がり,成り行き,遂げる","始末 outcome
+転がる (situation outcome)change
+事になる outcome
+決める decide(outcome match)
+成果 outcome
+勝敗 outcome(game,battle,)
+落ち outcome
+行方 outcome
+結果 outcome
+成否 outcome
+出来上がり outcome
+成り行き outcome
+遂げる arrive(certain outcome)",Guess Vocab related to Keyword,Text
+"pretext","名,理屈,名義,因縁,付け,盾,口実,出し,寄せる,託す,名目,大義名分,理由","名 pretext
+理屈 pretext
+名義 pretext
+因縁 pretext
+付け pretext
+盾 pretext
+口実 pretext
+出し pretext
+寄せる use pretext
+託す use pretext
+名目 (under)pretext
+大義名分 pretext
+理由 pretext",Guess Vocab related to Keyword,Text
+"blank","白地,生,外れ,白,真っ白,外れる,欄,埋まる,発火,用紙,空砲,白紙,空白","白地 blank
+生 blank(disk)
+外れ blank(lottery ticket)
+白 blank space
+真っ白 blank(mind,paper)
+外れる draw blank(lottery)
+欄 blank
+埋まる filled(blank,vacancy,schedule);filled(blank,va
+発火 firing blank cartridge
+用紙 blank form
+空砲 firing blank
+白紙 blank paper
+空白 blank space(document);blank",Guess Vocab related to Keyword,Text
+"hurry","跳ぶ,急ぎ,駆け足,急遽,大急ぎ,急いで,急かす,焦る,急きょ,急ぐ,特急,慌てる,飛ぶ","跳ぶ hurry
+急ぎ hurry
+駆け足 things hurry
+急遽 hurry
+大急ぎ great hurry
+急いで hurry up!
+急かす hurry
+焦る hurry
+急きょ hurry
+急ぐ hurry
+特急 great hurry
+慌てる hurry
+飛ぶ hurry",Guess Vocab related to Keyword,Text
+"hidden","隠し引き出し,裏,含み,草の根,物陰,闇,内幕,底力,潜む,隠れる,野,裏側,顕在","隠し引き出し hidden drawer
+裏 hidden side(personality);side hidden view
+含み hidden meaning
+草の根 places hidden sight
+物陰 place hidden view
+闇 hidden place
+内幕 hidden circumstances;hidden circumstances
+底力 hidden reserves strength
+潜む hidden
+隠れる hidden
+野 hidden(structural)member
+裏側 hidden side
+顕在 actual(opposed hidden latent)",Guess Vocab related to Keyword,Text
+"dull","不景気,濁る,怠い,寒い,暗い,鈍感,遅い,潰れる,鈍化,退屈,詰らない,閑散,鈍い","不景気 dull
+濁る become dull(sound,color,)
+怠い dull
+寒い dull
+暗い dull
+鈍感 dull
+遅い dull
+潰れる become dull
+鈍化 becoming dull
+退屈 dull
+詰らない dull
+閑散 dull
+鈍い dull(reflexes);dull(sound,color,);dull(knife)",Guess Vocab related to Keyword,Text
+"fade","飛ぶ,薄れる,剥げる,冷める,引く,抜ける,跳ぶ,焼ける,萎れる,消える,萎む,落ちる,遠ざかる","飛ぶ fade
+薄れる fade
+剥げる fade
+冷める fade
+引く fade
+抜ける fade
+跳ぶ fade
+焼ける fade(sun)
+萎れる fade
+消える fade(ink);fade away(footsteps);fade(feeling,im
+萎む fade(away)
+落ちる fade(colour)
+遠ざかる fade away",Guess Vocab related to Keyword,Text
+"iron","波紋,鉄,お好み焼き,製鉄,釜,強権,鉄製,鉄棒,鉄橋,鉄鋼,鉄筋,湯,鉄板","波紋 instrument made iron slits top
+鉄 iron(will,discipline,lady,);iron(Fe)
+お好み焼き savoury pancake fried iron griddle vegetable
+製鉄 iron manufacture
+釜 iron pot
+強権 iron fist
+鉄製 made iron
+鉄棒 iron club;iron rod;iron bar
+鉄橋 iron bridge
+鉄鋼 iron steel
+鉄筋 (iron)reinforcing bar
+湯 molten iron
+鉄板 iron plate",Guess Vocab related to Keyword,Text
+"journey","前途,出る,旅,旅行,道程,立つ,行程,一人旅,道のり,道,行方,就く","前途 journey ahead
+出る leave(journey)
+旅 journey
+旅行 journey
+道程 journey
+立つ depart(journey,trip,)
+行程 journey;leg(journey,relay race,)
+一人旅 solitary journey
+道のり journey
+道 journey
+行方 journey ahead
+就く start(journey)",Guess Vocab related to Keyword,Text
+"judge","認める,判事,回避,裁判官,選者,裁く,踏む,考える,審判,察する,思う,見る","認める judge
+判事 judge
+回避 recusal(judge)
+裁判官 judge
+選者 judge
+裁く judge
+踏む judge
+考える judge
+審判 judge
+察する judge
+思う judge
+見る judge",Guess Vocab related to Keyword,Text
+"primary","予選,主因,主たる,低学年,主,小学生,小学校,小学,原発,第一義,要因,高学年","予選 primary
+主因 primary cause
+主たる primary
+低学年 lower grades primary(first,second,sometimes th
+主 primary concern
+小学生 primary student
+小学校 primary
+小学 primary
+原発 primary(primary immunodeficiency syndrome)
+第一義 primary significance;primary importance
+要因 primary factor
+高学年 upper grades primary(sixth,fifth,sometimes fou",Guess Vocab related to Keyword,Text
+"verge","今にも,外れ,差し掛かる,土俵際,危篤,寸前,掛け,掛かる,瀬戸際,正に,間際,所","今にも verge
+外れ verge
+差し掛かる verge
+土俵際 verge
+危篤 verge death
+寸前 verge
+掛け verge
+掛かる verge
+瀬戸際 verge
+正に verge
+間際 verge
+所 verge",Guess Vocab related to Keyword,Text
+"buy","買い取り,買う,取る,戴く,買い占める,お買得,お買い得,整える,頂く,買い得,求める,転がす","買い取り buy
+買う buy
+取る buy
+戴く buy
+買い占める buy
+お買得 good buy
+お買い得 good buy
+整える buy
+頂く buy
+買い得 good buy
+求める buy
+転がす buy sell(quickly profit)",Guess Vocab related to Keyword,Text
+"breath","息吹,息切れ,そよ風,切らす,継ぐ,一気に,弾む,息,吹く,殺す,止める","息吹 breath(spring,fresh air,);breath
+息切れ shortness breath
+そよ風 breath air
+切らす (breath)
+継ぐ gather(breath)
+一気に breath
+弾む breath
+息 breath
+吹く blow(breath)
+殺す hold(breath)
+止める hold(breath)",Guess Vocab related to Keyword,Text
+"classification","分別,分け,区別,内訳,格付け,分類,区分,大別,種別,選別,車種","分別 classification
+分け classification
+区別 classification
+内訳 classification
+格付け classification
+分類 classification
+区分 classification
+大別 general classification
+種別 classification
+選別 classification
+車種 vehicle classification",Guess Vocab related to Keyword,Text
+"punch","殴る,外す,迫力,落とす,切る,打つ,落ち,跳ぶ,決まる,飛ぶ,見舞う","殴る punch
+外す miss(target,chance,punch,)
+迫力 punch
+落とす finish story(punch line)
+切る punch(ticket)
+打つ punch
+落ち punch line(joke)
+跳ぶ come flying(punch,kick,)
+決まる connect(punch)
+飛ぶ come flying(punch,kick,)
+見舞う deal(punch)",Guess Vocab related to Keyword,Text
+"vacation","春休み,有給,仕事始め,取る,冬休み,お土産,夏休み,別荘,休み,暇,土産","春休み spring vacation
+有給 paid vacation
+仕事始め resuming work New Year's vacation
+取る take(vacation)
+冬休み winter vacation
+お土産 unpleasant given(illness while vacation)
+夏休み summer vacation
+別荘 vacation home
+休み vacation
+暇 vacation
+土産 unpleasant given(illness while vacation)",Guess Vocab related to Keyword,Text
+"viewpoint","上,共有,的,点,目,見地,眼,見方,視点,立場,観点","上 viewpoint
+共有 sharing(viewpoint)
+的 viewpoint
+点 viewpoint
+目 viewpoint
+見地 viewpoint
+眼 viewpoint
+見方 viewpoint
+視点 viewpoint
+立場 viewpoint
+観点 viewpoint",Guess Vocab related to Keyword,Text
+"youth","若い頃,若年,若さ,少年,若いころ,青春,青少年,青年,日々,若者,若返り","若い頃 youth
+若年 youth
+若さ youth
+少年 youth
+若いころ youth
+青春 youth
+青少年 youth
+青年 youth
+日々 days(youth)
+若者 youth
+若返り restoration youth",Guess Vocab related to Keyword,Text
+"somehow","兎も角,何だか,何とか,何か,何故か,空,やり繰り,小,何となく,物,生","兎も角 somehow other
+何だか somehow
+何とか somehow
+何か somehow;somehow
+何故か somehow
+空 somehow
+やり繰り getting(somehow)
+小 somehow
+何となく somehow other
+物 somehow
+生 somehow",Guess Vocab related to Keyword,Text
+"wonderful","最高,不思議,何より,凄い,素晴しい,中々,ご馳走様でした,素晴らしい,中中,結構,目覚ましい","最高 wonderful
+不思議 wonderful
+何より wonderful
+凄い wonderful;wonderful
+素晴しい wonderful
+中々 wonderful
+ご馳走様でした what wonderful meal
+素晴らしい wonderful
+中中 wonderful
+結構 wonderful
+目覚ましい wonderful",Guess Vocab related to Keyword,Text
+"awful","仕方がない,偉い,最低,仕方ない,不味い,酷い,凄まじい,物凄い,仕様がない,最悪,魔","仕方がない awful
+偉い awful
+最低 awful
+仕方ない awful
+不味い awful
+酷い awful
+凄まじい awful
+物凄い awful
+仕様がない awful
+最悪 awful
+魔 awful",Guess Vocab related to Keyword,Text
+"monk","坊さん,小僧,神主,僧,家出,僧侶,お坊さん,執行,長老,大師,生臭い","坊さん monk
+小僧 young Buddhist monk
+神主 pun Buddhist monk jargon
+僧 monk
+家出 becoming Buddhist monk
+僧侶 monk
+お坊さん monk
+執行 lead monk performing various tasks temple
+長老 senior monk
+大師 great teacher(i.e. buddha,bodhisattva monk,Kobo
+生臭い degenerate(monk)",Guess Vocab related to Keyword,Text
+"confinement","出産,禁固,監禁,お産,入所,拘禁,手錠,拘置,束縛,禁錮,謹慎","出産 confinement
+禁固 confinement
+監禁 confinement
+お産 confinement
+入所 confinement
+拘禁 confinement
+手錠 confinement chains(Edo-era judicial corporal pu
+拘置 confinement
+束縛 confinement rope
+禁錮 confinement
+謹慎 confinement home",Guess Vocab related to Keyword,Text
+"desk","受付,下敷き,下敷,机,机上,首席,主席,案,卓,袖,受け付け","受付 reception(desk);information desk
+下敷き desk pad
+下敷 desk pad
+机 desk
+机上 desk
+首席 first desk(orchestra)
+主席 first desk(orchestra)
+案 desk
+卓 desk
+袖 wing(stage,desk,gate,)
+受け付け reception(desk);information desk",Guess Vocab related to Keyword,Text
+"disappear","落ちる,紛れる,飛ぶ,無くなる,散る,隠れる,流れる,取れる,消える,萎える,跳ぶ","落ちる disappear(excess fat)
+紛れる disappear
+飛ぶ disappear
+無くなる disappear(pain)
+散る disappear
+隠れる disappear
+流れる disappear
+取れる disappear
+消える disappear
+萎える disappear(energy,drive,)
+跳ぶ disappear",Guess Vocab related to Keyword,Text
+"rid","根絶,抜く,消す,拭う,取る,散らす,除去,排除,追う,無くす,飛ばす","根絶 getting rid
+抜く rid
+消す rid
+拭う rid(impression,feeling,blemish,)
+取る rid
+散らす rid
+除去 getting rid
+排除 getting rid
+追う rid
+無くす rid
+飛ばす rid",Guess Vocab related to Keyword,Text
+"shout","歓声,叫び,叫ぶ,喚く,声援,唱える,怒鳴る,叫び声,掛け声,気合,罵る","歓声 shout joy
+叫び shout
+叫ぶ shout
+喚く shout
+声援 (shout)encouragement
+唱える shout
+怒鳴る shout(anger)
+叫び声 shout
+掛け声 shout(encouragement,)
+気合 short shout when performing attacking move;shou
+罵る shout abuse",Guess Vocab related to Keyword,Text
+"beat","値切る,倒す,下す,切れる,刻む,殴る,打つ,拍子,破る,鳴らす","値切る beat price
+倒す beat
+下す beat
+切れる beat(record)
+刻む beat(rhythm)
+殴る beat
+打つ beat(drum,);beat;beat(rhythmically,pulse,waves,
+拍子 beat
+破る beat
+鳴らす beat",Guess Vocab related to Keyword,Text
+"behavior","行儀,真似,行い,動作,淑やか,仕草,風,振る舞い,習性,行動","行儀 behavior
+真似 behavior
+行い behavior
+動作 behavior
+淑やか refined(behavior)
+仕草 behavior
+風 behavior
+振る舞い behavior
+習性 behavior
+行動 behavior",Guess Vocab related to Keyword,Text
+"classical","国学,古典的,クラシック音楽,加点,唄,元素,漢文,歌,文体,文語","国学 study classical literature culture
+古典的 classical
+クラシック音楽 classical music
+加点 addition marks symbols classical Chinese text a
+唄 classical poem(tanka)
+元素 (classical)element(earth,water,air,fire)
+漢文 Chinese classical writing
+歌 classical poem(tanka)
+文体 form(written)language(classical,modern)
+文語 classical(formal)written style based Heian-peri",Guess Vocab related to Keyword,Text
+"depart","出かける,出掛ける,曲げる,出る,辞す,立つ,立ち去る,就く,発する,旅立つ","出かける depart
+出掛ける depart
+曲げる depart(principle)
+出る depart
+辞す depart
+立つ depart(journey,trip,)
+立ち去る depart
+就く depart
+発する depart
+旅立つ depart life;depart",Guess Vocab related to Keyword,Text
+"favorite","お馴染み,十八番,口癖,お気に入り,愛用,気に入り,苦手,人気者,好物,本命","お馴染み favorite
+十八番 favourite party trick(favorite)
+口癖 favorite phrase
+お気に入り favorite
+愛用 favorite
+気に入り favorite
+苦手 favorite
+人気者 favorite
+好物 favourite dish(favorite)
+本命 favorite(win)",Guess Vocab related to Keyword,Text
+"favourite","本命,人気者,気に入り,お馴染み,買い付け,お気に入り,好き,十八番,愛用,好物","本命 favourite
+人気者 favourite
+気に入り favourite
+お馴染み favourite
+買い付け favourite(brand,shop,)
+お気に入り favourite
+好き favourite
+十八番 favourite party trick(favorite)
+愛用 favourite
+好物 favourite dish(favorite);favourite food",Guess Vocab related to Keyword,Text
+"indicate","指す,告げる,振り仮名,愛称,物語る,示す,指し示す,語る,欲しがる,物","指す indicate
+告げる indicate
+振り仮名 kana printed above next kanji indicate pronun
+愛称 indicate affection,intimacy,informality,
+物語る indicate
+示す indicate
+指し示す indicate
+語る indicate
+欲しがる indicate wish
+物 indicate common occurrence past(verb past tense)",Guess Vocab related to Keyword,Text
+"inevitable","必然,必死,仕方ない,仕様がない,不可避,仕方がない,必至,必然的,先々,余儀ない","必然 inevitable
+必死 brinkmate(inevitable checkmate);inevitable deat
+仕方ない inevitable
+仕様がない inevitable
+不可避 inevitable
+仕方がない inevitable
+必至 inevitable;brinkmate(inevitable checkmate)
+必然的 inevitable
+先々 inevitable future
+余儀ない inevitable",Guess Vocab related to Keyword,Text
+"misfortune","不幸,取り込み,災い,不幸せ,見る,悪事,降る,災害,不運,災難","不幸 misfortune
+取り込み misfortune
+災い misfortune
+不幸せ misfortune
+見る meet(misfortune,success,)
+悪事 misfortune
+降る visit(luck,misfortune,)
+災害 misfortune
+不運 misfortune
+災難 misfortune",Guess Vocab related to Keyword,Text
+"quit","止める,辞す,下りる,退く,嫌,離れる,引く,降りる,引き時,辞める","止める quit
+辞す quit
+下りる quit
+退く quit;quit;quit;quit
+嫌 quit it!;quit it!
+離れる quit
+引く quit
+降りる quit
+引き時 (good)quit
+辞める quit",Guess Vocab related to Keyword,Text
+"pause","切れ目,休止,合間,隙間,呼吸,区切り,間,立ち止まる,絶え間なく,途切れる","切れ目 pause
+休止 pause
+合間 pause
+隙間 pause
+呼吸 short pause
+区切り pause;pause(speech,writing,)
+間 pause
+立ち止まる pause
+絶え間なく pause
+途切れる pause",Guess Vocab related to Keyword,Text
+"flood","河川敷,攻め,治水,大水,氾濫,水害,浸水,殺到,洪水,水","河川敷 flood plain
+攻め flood
+治水 flood control
+大水 flood
+氾濫 flood
+水害 flood disaster
+浸水 flood
+殺到 flood
+洪水 flood
+水 flood",Guess Vocab related to Keyword,Text
+"kitchen","台所,畑,勝手,流し,包丁,内緒,炊事,弁慶,通る,走り","台所 kitchen
+畑 kitchen garden
+勝手 kitchen
+流し sink(kitchen)
+包丁 kitchen knife
+内緒 kitchen
+炊事 kitchen work
+弁慶 bamboo tube holes drilled(stand kitchen utensil
+通る passed(customer's order kitchen)
+走り kitchen sink",Guess Vocab related to Keyword,Text
+"unable","閉口,溺れる,やり切れない,患う,敵わない,無縁,不能,兼ねる,煩う,難民","閉口 unable bear
+溺れる sink below surface become unable breathe
+やり切れない unable finish(,)
+患う unable
+敵わない unable
+無縁 unable saved Buddha
+不能 unable
+兼ねる unable
+煩う unable
+難民 unable satisfactorily(marry,shop,)",Guess Vocab related to Keyword,Text
+"slope","下り坂,勾配,傾斜,急に,斜面,緩やか,緩める,緩い,坂,尾","下り坂 downward slope
+勾配 slope;slope(linear function)
+傾斜 slope
+急に sharply(slope,bend,)
+斜面 slope
+緩やか gentle(slope,curve)
+緩める more gradual(slope)
+緩い gentle(curve,slope,)
+坂 slope
+尾 slope foot mountain",Guess Vocab related to Keyword,Text
+"link","張る,接続,希薄,巻く,結ぶ,連携,貼る,組む,連ねる,連絡","張る post(link,online)
+接続 link
+希薄 tenuous(link)
+巻く link(verse)
+結ぶ link
+連携 link
+貼る post(link,online)
+組む link(arms);link
+連ねる link
+連絡 link",Guess Vocab related to Keyword,Text
+"makeup","歌舞伎,落とす,施す,構造,落ちる,化粧,構成,盛る,濃厚,装い","歌舞伎 traditional form drama music performed male ac
+落とす clean(dirt,makeup,paint,)
+施す apply(processing,makeup,)
+構造 makeup
+落ちる come(dirt,paint,makeup,)
+化粧 makeup
+構成 makeup
+盛る apply heavy makeup
+濃厚 thick(soup,makeup,)
+装い makeup",Guess Vocab related to Keyword,Text
+"Osaka","大阪,京阪,府知事,関西,府庁,春場所,府立,筋,府警,近畿","大阪 Osaka(city,prefecture)
+京阪 Kyoto Osaka
+府知事 prefectural governor(Osaka Kyoto)
+関西 region consisting Osaka,Kobe,Kyoto surrounding 
+府庁 prefectural office(Osaka Kyoto)
+春場所 Spring Tournament(held Osaka March)
+府立 managed urban prefecture(Osaka Kyoto)
+筋 street(Osaka)
+府警 prefectural police(Osaka Kyoto)
+近畿 Kinki(region around Osaka,Kyoto,Nara)",Guess Vocab related to Keyword,Text
+"secure","大丈夫,取れる,手堅い,固める,厳重,確実,無難,取る,得る,掛ける","大丈夫 secure
+取れる able secure
+手堅い secure
+固める secure
+厳重 secure
+確実 secure
+無難 secure
+取る secure
+得る secure;secure
+掛ける secure(lock)",Guess Vocab related to Keyword,Text
+"sweet","目覚まし,香る,焼芋,さつま芋,薩摩芋,甘い,焼酎,美しい,可愛らしい,焼き芋","目覚まし wake-up sweet
+香る smell sweet
+焼芋 roasted sweet potato;baked sweet potato
+さつま芋 sweet potato(Ipomoea batatas)
+薩摩芋 sweet potato(Ipomoea batatas)
+甘い sweet;sweet(music)
+焼酎 spirit distilled sweet potatoes,rice,
+美しい sweet
+可愛らしい sweet
+焼き芋 baked sweet potato;roasted sweet potato",Guess Vocab related to Keyword,Text
+"tremendous","大層,堪らない,凄まじい,豪快,余り,甚だしい,恐ろしい,絶大,恐るべき,物凄い","大層 tremendous
+堪らない tremendous
+凄まじい tremendous
+豪快 tremendous
+余り tremendous;tremendous
+甚だしい tremendous
+恐ろしい tremendous
+絶大 tremendous
+恐るべき tremendous
+物凄い tremendous",Guess Vocab related to Keyword,Text
+"climax","差し掛かる,白熱,見せ場,頂点,盛り上がり,入る,絶頂,山,盛り上げる","差し掛かる approach(climax)
+白熱 reaching climax
+見せ場 climax
+頂点 climax
+盛り上がり climax
+入る reach(climax);reach(climax)
+絶頂 climax
+山 climax
+盛り上げる bring climax",Guess Vocab related to Keyword,Text
+"closure","閉会,閉鎖,通行止め,締め,休場,休業,休校,休館,打ち切り","閉会 closure(ceremony,event,meeting,)
+閉鎖 closure
+通行止め closure(road)
+締め closure mark
+休場 closure(stock exchange);(temporary)closure(thea
+休業 temporary closure(store,,)
+休校 (temporary)closure
+休館 closure(library,museum,)
+打ち切り closure",Guess Vocab related to Keyword,Text
+"couple","引き裂く,夫婦,別れる,似合い,対,夫妻,老夫婦,同棲,数時間","引き裂く (forcibly)separate(couple,family,)
+夫婦 married couple
+別れる separate(couple)
+似合い well-matched(couple)
+対 couple
+夫妻 married couple
+老夫婦 elderly couple;old couple
+同棲 cohabitation(unmarried couple)
+数時間 couple hours",Guess Vocab related to Keyword,Text
+"float","浮かぶ,浮かべる,流す,浮く,屋台,浮き,山,流れる,漂う","浮かぶ float
+浮かべる float
+流す float(logs river)
+浮く float
+屋台 festival float
+浮き float;fishing float
+山 festival float(mounted decorative halberd)
+流れる float(clouds)
+漂う float",Guess Vocab related to Keyword,Text
+"he","あの人,あの方,同氏,君,お父さん,彼,氏,奴,見送る","あの人 he
+あの方 he
+同氏 he
+君 he
+お父さん he
+彼 he
+氏 he
+奴 he
+見送る take care until he dies",Guess Vocab related to Keyword,Text
+"highway","街道,駅,国道,休憩所,五十三次,高速道路,行き来,高速,道路","街道 highway(existing Edo);highway(success)
+駅 staging post highway(pre-modern)
+国道 national highway
+休憩所 service area(next highway)
+五十三次 fifty-three stations Tōkaidō(Edo-Kyoto highwa
+高速道路 highway
+行き来 highway;highway
+高速 highway
+道路 highway",Guess Vocab related to Keyword,Text
+"percentage","割合,割り引く,度,同率,勝率,率,分,比率,歩合","割合 percentage
+割り引く take(percentage)
+度 alcohol content(percentage)
+同率 same ratio percentage
+勝率 winning percentage
+率 percentage
+分 percentage
+比率 percentage
+歩合 percentage",Guess Vocab related to Keyword,Text
+"reveal","漏らす,名乗る,明かす,表す,表わす,現わす,出す,現す,打ち明ける","漏らす reveal(true intentions)
+名乗る reveal
+明かす reveal
+表す reveal
+表わす reveal
+現わす reveal
+出す reveal
+現す reveal
+打ち明ける reveal",Guess Vocab related to Keyword,Text
+"destination","宛先,行き先,目的地,行方,旅先,に向けて,先,先方,途方","宛先 destination
+行き先 destination
+目的地 destination(heading towards)
+行方 destination
+旅先 destination
+に向けて towards(destination)
+先 destination
+先方 destination
+途方 destination",Guess Vocab related to Keyword,Text
+"insight","不明,眼,知恵,鋭い,眼鏡,見通し,通,洞察,読み","不明 lack insight
+眼 insight
+知恵 prajna(insight leading enlightenment)
+鋭い penetrating(insight,question,)
+眼鏡 insight;insight
+見通し insight
+通 insight
+洞察 insight
+読み insight",Guess Vocab related to Keyword,Text
+"occurrence","物,出来,事,発生,多発,暁,頻度,頻発,異変","物 indicate common occurrence past(verb past tense)
+出来 occurrence
+事 occurrence
+発生 occurrence
+多発 repeated occurrence
+暁 occurrence
+頻度 frequency(occurrence)
+頻発 frequent occurrence
+異変 strange occurrence",Guess Vocab related to Keyword,Text
+"software","命令,推奨環境,入れる,開発元,動作,対応,同人,版,移植","命令 (software)instruction
+推奨環境 requirements(i.e. recommended hardware softwa
+入れる install(software)
+開発元 developer(software,video games,)
+動作 operation(machine,software,)
+対応 compatibility(technology,software,)
+同人 fans hobbyists produce own magazines,manga,soft
+版 implementation(software)
+移植 porting(software)",Guess Vocab related to Keyword,Text
+"trunk","胴体,幹線,元,幹,体,胴,本,根幹,本線","胴体 trunk
+幹線 trunk line
+元 (tree)trunk
+幹 (tree)trunk
+体 trunk
+胴 trunk
+本 (tree)trunk
+根幹 root trunk
+本線 trunk line",Guess Vocab related to Keyword,Text
+"pot","鍋,耳,締め,大麻,弦,もつ鍋,鉢,釜,餃子","鍋 hot pot;pot
+耳 ear(pot,jug,)
+締め dish made eating hot pot adding rice noodles le
+大麻 pot
+弦 bail(arched pot handle)
+もつ鍋 hot pot stew made offal,vegetables(often)miso
+鉢 pot
+釜 iron pot
+餃子 pot sticker",Guess Vocab related to Keyword,Text
+"these","その内に,これ等,今日,この頃,本隊,この内,その内,今日この頃,最近","その内に these days
+これ等 these
+今日 these days
+この頃 these days
+本隊 these troops
+この内 these;between these;among these
+その内 these days
+今日この頃 these days
+最近 these days",Guess Vocab related to Keyword,Text
+"innocent","純,白,坊ちゃん,清らか,清い,涼しい,坊っちゃん,潔い,無邪気","純 innocent
+白 innocent
+坊ちゃん young man innocent ways world
+清らか innocent
+清い innocent
+涼しい innocent
+坊っちゃん young man innocent ways world
+潔い innocent
+無邪気 innocent",Guess Vocab related to Keyword,Text
+"swell","膨らます,張る,膨れる,膨らむ,高まる,盛り上がる,腫れる,高まり,貼る","膨らます swell
+張る swell
+膨れる swell
+膨らむ swell
+高まる swell
+盛り上がる swell
+腫れる swell(inflammation)
+高まり swell
+貼る swell",Guess Vocab related to Keyword,Text
+"resign","捨てる,投げ出す,引く,辞める,諦める,止す,辞す,辞意,退く","捨てる resign
+投げ出す resign
+引く resign
+辞める resign
+諦める resign
+止す resign
+辞す resign
+辞意 intention resign
+退く resign;resign;resign;resign",Guess Vocab related to Keyword,Text
+"bowl","盛る,茶わん,茶碗,丼,器,散らし,注ぐ,鉢,洗面器","盛る serve(bowl,plate,);fill(bowl)
+茶わん rice bowl
+茶碗 rice bowl
+丼 bowl meat,fish,served rice;porcelain bowl
+器 bowl
+散らし sushi rice box bowl variety ingredients sprink
+注ぐ fill(cup,bowl,)
+鉢 bowl
+洗面器 wash bowl(incl. portable bowl public bath)",Guess Vocab related to Keyword,Text
+"dangerous","険悪,小口,危ない,大病,凶器,怪しい,崖,危うい,物騒","険悪 dangerous
+小口 dangerous place
+危ない dangerous
+大病 dangerous disease
+凶器 dangerous weapon
+怪しい dangerous(financial situation)
+崖 brink dangerous situation
+危うい dangerous
+物騒 dangerous",Guess Vocab related to Keyword,Text
+"accumulation","堆積,積み立て,積立,停滞,沈着,積み重ね,集積,蓄積,累積","堆積 accumulation
+積み立て accumulation
+積立 accumulation
+停滞 accumulation
+沈着 accumulation
+積み重ね accumulation
+集積 accumulation
+蓄積 accumulation
+累積 accumulation",Guess Vocab related to Keyword,Text
+"funny","請ける,冗談,面白,受ける,傑作,滑稽,変,面白い,喜劇","請ける find funny
+冗談 funny story
+面白 funny
+受ける find funny
+傑作 funny mistake
+滑稽 funny
+変 funny
+面白い funny
+喜劇 funny show",Guess Vocab related to Keyword,Text
+"margin","差額,余地,端,余剰,小差,僅か,余裕,大差,擦れ擦れ","差額 margin
+余地 margin
+端 margin
+余剰 margin
+小差 narrow margin
+僅か narrow(margin)
+余裕 margin
+大差 wide margin
+擦れ擦れ slim margin",Guess Vocab related to Keyword,Text
+"tighten","締める,引き締める,締まる,突っ張る,張る,閉まる,貼る,搾る,絞る","締める tighten
+引き締める tighten
+締まる tighten
+突っ張る tighten
+張る tighten
+閉まる tighten
+貼る tighten
+搾る tighten(drawstring)
+絞る tighten(drawstring)",Guess Vocab related to Keyword,Text
+"born","備える,生まれ,生まれる,団塊,本土,年男,生まれ育つ,生家","備える born
+生まれ born(country,month,imperial era,zodiac year,)
+生まれる born
+団塊 babyboomer(born between 1947-1949)
+本土 country where was born
+年男 man born year same Chinese zodiac sign current 
+生まれ育つ born brought;born raised;born bred
+生家 house where was born",Guess Vocab related to Keyword,Text
+"bound","切り,跳ぶ,弾む,跳ねる,行き,限界,跳躍,飛ぶ","切り bound
+跳ぶ bound
+弾む bound
+跳ねる bound
+行き bound;bound
+限界 bound
+跳躍 bound
+飛ぶ bound",Guess Vocab related to Keyword,Text
+"continue","来る,し続ける,通す,行く,見送る,徹す,続く,続ける","来る continue
+し続ける continue
+通す continue(state)
+行く continue;continue
+見送る continue(legal contexts)
+徹す continue(state)
+続く continue;continue(break)
+続ける continue",Guess Vocab related to Keyword,Text
+"fancy","色紙,思い付き,ような気がする,気に入る,空想,気の向くままに,思いつき,豪華","色紙 square fancy cardboard,autographs,poetry,
+思い付き fancy
+ような気がする fancy
+気に入る suit fancy
+空想 fancy
+気の向くままに fancy(whim)
+思いつき fancy
+豪華 fancy",Guess Vocab related to Keyword,Text
+"five","地,五,死,段,風,５日,絶句,後","地 earth(five elements)
+五 five
+死 most severe five ritsuryō punishments)
+段 row multiplication table(five times table)
+風 wind(five elements)
+５日 five days
+絶句 jueju(Chinese quatrain lines either five seven 
+後 more(five more minutes)",Guess Vocab related to Keyword,Text
+"listen","徹す,入れる,取り上げる,取上げる,聞かす,聞く,聴く,通す","徹す (look,listen)through(window,wall,)
+入れる listen
+取り上げる listen
+取上げる listen
+聞かす listen
+聞く listen(music);listen
+聴く listen(music);listen
+通す (look,listen)through(window,wall,)",Guess Vocab related to Keyword,Text
+"paid","出る,収まる,有料,援助交際,納まる,有給,桜,礼金","出る paid
+収まる paid(taxes)
+有料 paid
+援助交際 paid dating(underage girl
+納まる paid(taxes)
+有給 paid vacation;paid;paid holiday;paid leave
+桜 paid audience
+礼金 fee paid rental rights",Guess Vocab related to Keyword,Text
+"realize","果たす,悟る,気付く,気がつく,気が付く,気づく,目覚める,知る","果たす realize
+悟る realize
+気付く realize
+気がつく realize
+気が付く realize
+気づく realize
+目覚める realize
+知る realize",Guess Vocab related to Keyword,Text
+"then","即ち,引き続き,に従って,引続き,以後,折から,時々,折々","即ち then
+引き続き then
+に従って X,then Y(we age we gain wisdom,wine matures b
+引続き then
+以後 since(then)
+折から just then
+時々 now then
+折々 now then",Guess Vocab related to Keyword,Text
+"innocence","白黒,純情,潔白,無心,無実,無知,無罪,白","白黒 guilt innocence
+純情 innocence
+潔白 innocence
+無心 innocence
+無実 innocence
+無知 innocence
+無罪 innocence
+白 innocence",Guess Vocab related to Keyword,Text
+"well-known","親しい,知名,お馴染み,著名,顕彰,高名,名高い,周知","親しい well-known
+知名 well-known
+お馴染み well-known
+著名 well-known
+顕彰 making good deeds achievements well-known
+高名 well-known
+名高い well-known
+周知 makingwell-known;well-known",Guess Vocab related to Keyword,Text
+"torment","悩ます,苛める,可愛がる,食う,苦痛,刻む,責める,苦しめる","悩ます torment
+苛める torment
+可愛がる torment
+食う torment
+苦痛 torment
+刻む torment
+責める torment
+苦しめる torment",Guess Vocab related to Keyword,Text
+"install","引く,入れる,戴く,据える,頂く,備える,備え付ける,組み込む","引く install(telephone)
+入れる install(software)
+戴く install(president)
+据える install
+頂く install(president)
+備える install
+備え付ける install
+組み込む install",Guess Vocab related to Keyword,Text
+"sushi","上がり,にぎり寿司,貫,握り寿司,握り,締める,種,散らし","上がり green tea(sushi restaurant)
+にぎり寿司 hand-formed sushi topping seafood,
+貫 counter pieces sushi
+握り寿司 hand-formed sushi topping seafood,
+握り hand-formed sushi topping seafood,
+締める sushi adding mixture vinegar salt
+種 main ingredient(piece sushi)
+散らし sushi rice box bowl variety ingredients sprink",Guess Vocab related to Keyword,Text
+"beef","土手,牛肉,和牛,すき焼き,焼き鳥,焼鳥,牛,牛丼","土手 beef sinew stewed miso mirin
+牛肉 beef
+和牛 beef;Wagyu beef
+すき焼き thin slices beef,cooked various vegetables ta
+焼き鳥 chicken pieces(sometimes beef pork offal)grill
+焼鳥 chicken pieces(sometimes beef pork offal)grille
+牛 beef
+牛丼 rice covered sliced beef,usu. vegetables",Guess Vocab related to Keyword,Text
+"castle","番手,囲い,籠もる,落とす,城,落ちる,城内,大手","番手 castle guard
+囲い castle
+籠もる hold(castle,fortress,)
+落とす take(enemy camp castle)
+城 castle
+落ちる leave(city,castle,)
+城内 inside castle;area surrounded castle walls
+大手 front castle gate;force attacking front castle",Guess Vocab related to Keyword,Text
+"despair","思い切る,失望,自棄,暮れる,悲観,流れる,絶望,闇","思い切る despair
+失望 despair
+自棄 despair
+暮れる sunk(despair)
+悲観 despair
+流れる lapse(indolence,despair)
+絶望 despair
+闇 despair",Guess Vocab related to Keyword,Text
+"pad","下敷き,当て,メモ帳,宛,肉,部屋,下敷,手帳","下敷き desk pad
+当て pad
+メモ帳 scratch pad;writing pad;memo pad
+宛 pad
+肉 ink pad
+部屋 pad
+下敷 desk pad
+手帳 memo pad",Guess Vocab related to Keyword,Text
+"reprimand","問責,意見,注意,叱る,搾る,懲戒,絞る,懲罰","問責 reprimand
+意見 reprimand
+注意 reprimand
+叱る reprimand
+搾る reprimand severely
+懲戒 reprimand
+絞る reprimand severely
+懲罰 reprimand",Guess Vocab related to Keyword,Text
+"accommodation","宿舎,便宜,融通,宿泊,収容,塞がる,和解,適応","宿舎 accommodation
+便宜 accommodation
+融通 accommodation
+宿泊 accommodation
+収容 accommodation
+塞がる taken(accommodation)
+和解 accommodation
+適応 accommodation",Guess Vocab related to Keyword,Text
+"horrible","恐るべき,無残,凄まじい,惨事,憎らしい,嫌,最低,最悪","恐るべき horrible
+無残 horrible
+凄まじい horrible
+惨事 horrible accident
+憎らしい horrible
+嫌 horrible;horrible
+最低 horrible
+最悪 horrible",Guess Vocab related to Keyword,Text
+"ice","かき氷,滑走,綱渡り,貼る,閉ざす,氷,張る,緩む","かき氷 shaved ice(usually served flavored simple syru
+滑走 skating(ice)
+綱渡り walking thin ice
+貼る form(ice pond)
+閉ざす shut(snow,ice,)
+氷 shaved ice(usually served flavored simple syrup)
+張る form(ice pond)
+緩む (ice)partially melt",Guess Vocab related to Keyword,Text
+"imprisonment","収容,懲役,留置,入所,無期,禁錮,禁固,獄中","収容 imprisonment
+懲役 imprisonment hard labor(hard labour)
+留置 imprisonment
+入所 imprisonment
+無期 life imprisonment
+禁錮 imprisonment(forced labour)
+禁固 imprisonment(forced labour)
+獄中 during imprisonment",Guess Vocab related to Keyword,Text
+"incline","偏る,傾ける,曲げる,傾く,傾げる,坂,勾配,片寄る","偏る incline
+傾ける incline
+曲げる incline
+傾く incline toward
+傾げる incline
+坂 incline
+勾配 incline
+片寄る incline",Guess Vocab related to Keyword,Text
+"ancestor","先人,先祖,系統,前身,祖,親,祖先","先人 ancestor
+先祖 ancestor
+系統 population sharing common ancestor(genetics)
+前身 ancestor
+祖 ancestor
+親 ancestor
+祖先 ancestor",Guess Vocab related to Keyword,Text
+"comprehend","得る,分かる,判る,悟る,押さえる,知る,解る","得る comprehend
+分かる comprehend
+判る comprehend
+悟る comprehend
+押さえる comprehend
+知る comprehend
+解る comprehend",Guess Vocab related to Keyword,Text
+"flash","あっという間に,思い当たる,稲妻,瞬時,走る,書き込む,速報","あっという間に flash
+思い当たる recall(flash)
+稲妻 flash lightning
+瞬時 flash
+走る flash(lightning)
+書き込む flash
+速報 news flash",Guess Vocab related to Keyword,Text
+"foremost","一,屈指,有数,大体,第一,第一人者,真っ先","一 foremost
+屈指 foremost
+有数 foremost
+大体 first foremost
+第一 foremost
+第一人者 foremost figure
+真っ先 foremost",Guess Vocab related to Keyword,Text
+"leg","左足,足,行程,行き,右足,脚,飛ばす","左足 left leg
+足 leg
+行程 leg(journey,relay race,)
+行き departing leg;outbound leg;departing leg;outbou
+右足 right leg
+脚 leg
+飛ばす attack(leg manoeuvre)",Guess Vocab related to Keyword,Text
+"scholarship","学,学識,奨学金,学問,筋,学術,学力","学 scholarship
+学識 scholarship
+奨学金 scholarship
+学問 scholarship
+筋 (scholarship arts)
+学術 scholarship
+学力 scholarship",Guess Vocab related to Keyword,Text
+"skilful","上手い,旨い,器用,聞かす,巧い,美味い,鮮やか","上手い skilful
+旨い skilful
+器用 skilful
+聞かす gripskilful singing,storytelling,
+巧い skilful
+美味い skilful
+鮮やか skilful",Guess Vocab related to Keyword,Text
+"stare","目,冷ややか,見守る,眺める,眼,見つめる,見入る","目 stare
+冷ややか cold(attitude,stare,)
+見守る stare
+眺める stare
+眼 stare
+見つめる stare
+見入る stare intently",Guess Vocab related to Keyword,Text
+"sufficient","満足,足りる,足る,沢山,充分,良い,結構","満足 sufficient
+足りる sufficient
+足る sufficient
+沢山 sufficient
+充分 sufficient
+良い sufficient
+結構 sufficient",Guess Vocab related to Keyword,Text
+"lord","大名,主,墨付き,肩書,殿様,肩書き,藩主","大名 daimyo(feudal lord)
+主 Lord
+墨付き paper signature shogun lord
+肩書 title(Doctor,Professor,Lord)
+殿様 lord;feudal lord(Edo)
+肩書き title(Doctor,Professor,Lord)
+藩主 feudal lord",Guess Vocab related to Keyword,Text
+"anyway","兎も角,何しろ,兎角,先ず,何分,所詮,同じ","兎も角 anyway
+何しろ anyway
+兎角 anyway
+先ず anyway
+何分 anyway
+所詮 anyway
+同じ anyway",Guess Vocab related to Keyword,Text
+"paste","貼り付ける,練り,筋,貼る,練る,張る,餡子","貼り付ける paste
+練り paste(bean paste,mustard paste)
+筋 gristly fish paste(made muscle,tendons,skin,)
+貼る paste
+練る thicken paste(stirring flame)
+張る paste
+餡子 red bean paste",Guess Vocab related to Keyword,Text
+"stoppage","停止,中止,梗塞,不通,運休,中絶,休止","停止 stoppage
+中止 stoppage
+梗塞 stoppage
+不通 stoppage
+運休 stoppage
+中絶 stoppage
+休止 stoppage",Guess Vocab related to Keyword,Text
+"abrupt","急,不意,急遽,突然,急きょ,唐突,急激","急 abrupt
+不意 abrupt
+急遽 abrupt
+突然 abrupt
+急きょ abrupt
+唐突 abrupt
+急激 abrupt",Guess Vocab related to Keyword,Text
+"alarm","恐慌,警報,目覚まし時計,言う,掛ける,目覚まし,警鐘","恐慌 alarm
+警報 alarm
+目覚まし時計 alarm clock
+言う (the alarm went ping);(the alarm went ping)
+掛ける set(dial,alarm clock,)
+目覚まし alarm clock
+警鐘 alarm bell",Guess Vocab related to Keyword,Text
+"apparent","明白,表れる,年頃,現れる,示す,顕在,現われる","明白 apparent
+表れる become apparent(trends,effects)
+年頃 apparent age
+現れる become apparent(trends,effects)
+示す apparent
+顕在 apparent
+現われる become apparent(trends,effects)",Guess Vocab related to Keyword,Text
+"brink","土俵際,起死回生,正に,寸前,崖,瀬戸際,縁","土俵際 brink
+起死回生 revival brink death
+正に brink
+寸前 brink
+崖 brink dangerous situation
+瀬戸際 brink
+縁 brink",Guess Vocab related to Keyword,Text
+"hasten","駆けつける,促す,慌てる,速める,急ぐ,進める,早める","駆けつける hasten
+促す hasten(development)
+慌てる hasten
+速める hasten(death)
+急ぐ hasten
+進める hasten
+早める hasten(death)",Guess Vocab related to Keyword,Text
+"abuse","乱用,罵る,悪口,弊害,悪用,虐待,振り回す","乱用 abuse
+罵る abuse(verbally);shout abuse
+悪口 abuse;abuse;abuse
+弊害 abuse
+悪用 abuse
+虐待 abuse
+振り回す abuse(power)",Guess Vocab related to Keyword,Text
+"ambiguous","不明,曖昧,意味不明,漠然,玉虫色,紛らわしい,濁す","不明 ambiguous
+曖昧 ambiguous
+意味不明 ambiguous
+漠然 ambiguous
+玉虫色 ambiguous
+紛らわしい ambiguous
+濁す ambiguous",Guess Vocab related to Keyword,Text
+"strip","剥く,切れ,剥ぐ,剥がす,劇画,帯,漫画","剥く strip
+切れ strip
+剥ぐ strip;strip(clothes,rank,)
+剥がす strip
+劇画 comic strip dramatic story
+帯 obi(strip paper looped around book,CD,containing
+漫画 comic strip;comic strip",Guess Vocab related to Keyword,Text
+"battery","主砲,中隊,寿命,使用済み,電池,乾電池,電池切れ","主砲 main battery
+中隊 battery
+寿命 life(battery,lightbulb,)
+使用済み spent(fuel,battery,)
+電池 battery
+乾電池 battery
+電池切れ running battery;battery depletion",Guess Vocab related to Keyword,Text
+"beam","光線,鉄骨,桁,降る,輝く,光,線","光線 beam
+鉄骨 steel beam
+桁 beam
+降る beam(sunlight moonlight)
+輝く beam
+光 beam
+線 beam",Guess Vocab related to Keyword,Text
+"revenge","報いる,お返し,報復,講談,復讐,雪辱,挨拶","報いる revenge
+お返し revenge
+報復 revenge
+講談 storytelling(war chronicles,revenge tales,)high
+復讐 revenge
+雪辱 revenge
+挨拶 revenge",Guess Vocab related to Keyword,Text
+"dynasty","開く,王朝,商,新,金,高麗","開く found(nation,dynasty,sect,)
+王朝 dynasty
+商 Shang dynasty(China;Yin dynasty
+新 Hsin dynasty;Xin dynasty(China
+金 Jurchen dynasty;Chin dynasty;Jin dynasty(China
+高麗 Goryeo(dynasty Korea",Guess Vocab related to Keyword,Text
+"fatigue","疲れ,夏バテ,疲弊,疲労,気づかれ,夏ばて","疲れ fatigue
+夏バテ summer heat fatigue
+疲弊 fatigue
+疲労 fatigue(metal,);fatigue
+気づかれ mental fatigue
+夏ばて summer heat fatigue",Guess Vocab related to Keyword,Text
+"glance","横目,視線,投げる,遣る,目,眼","横目 sidelong glance
+視線 glance
+投げる cast(glance,shadow,doubt,)
+遣る turn(head,glance,)
+目 glance
+眼 glance",Guess Vocab related to Keyword,Text
+"interpretation","読み方,正解,苦しい,読み,通訳,解釈","読み方 interpretation(text)
+正解 correct interpretation
+苦しい strained(interpretation,explanation,)
+読み interpretation
+通訳 interpretation(i.e. oral translation)
+解釈 interpretation",Guess Vocab related to Keyword,Text
+"itself","その物,独りでに,本来,直る,己,自ずから","その物 itself
+独りでに itself
+本来 itself
+直る cure(itself)
+己 (itself,)
+自ずから itself",Guess Vocab related to Keyword,Text
+"perspective","次元,本国,視点,切り口,観点,見通し","次元 perspective
+本国 suzerain country(perspective vassal state)
+視点 perspective
+切り口 (different)perspective
+観点 perspective
+見通し perspective",Guess Vocab related to Keyword,Text
+"she","君,彼女,奴,あの人,同氏,あの方","君 she
+彼女 she
+奴 she
+あの人 she
+同氏 she
+あの方 she",Guess Vocab related to Keyword,Text
+"survive","助かる,持つ,食う,潜る,立つ,生存","助かる survive
+持つ survive
+食う survive
+潜る survive
+立つ survive
+生存 survive",Guess Vocab related to Keyword,Text
+"unfavourable","劣勢,不味い,起きる,落ち込む,食う,不都合","劣勢 unfavourable situation
+不味い unfavourable
+起きる occur(usu. unfavourable incidents)
+落ち込む unfavourable condition
+食う receive(usu. unfavourable event)
+不都合 unfavourable",Guess Vocab related to Keyword,Text
+"beneath","以下,下,下敷き,下敷,裏面,寮","以下 beneath
+下 beneath;beneath
+下敷き crushed beneath
+下敷 crushed beneath
+裏面 beneath surface
+寮 bureau(government department beneath ministry un",Guess Vocab related to Keyword,Text
+"Buddhism","仏教,天,浄土,禅,創価学会,転ぶ","仏教 Buddhism
+天 deva(divine Buddhism)
+浄土 Pure Land Buddhism
+禅 Zen(Buddhism)
+創価学会 Soka Gakkai(lay organization based Nichiren B
+転ぶ abandon Christianity(convert Buddhism)",Guess Vocab related to Keyword,Text
+"deficit","穴,赤字,穴埋め,出入り,不足,欠損","穴 deficit
+赤字 deficit
+穴埋め covering(deficit)
+出入り surplus deficit
+不足 deficit
+欠損 deficit",Guess Vocab related to Keyword,Text
+"sample","聞く,採る,聴く,標本,試料,見本","聞く sample(fragrance)
+採る take(sample)
+聴く sample(fragrance)
+標本 sample
+試料 sample
+見本 sample",Guess Vocab related to Keyword,Text
+"superb","圧巻,鮮やか,上々,見事,絶妙,黄金","圧巻 superb
+鮮やか superb
+上々 superb
+見事 superb
+絶妙 superb
+黄金 superb",Guess Vocab related to Keyword,Text
+"tissue","組織,ちり紙,再生,水,鼻紙,移植","組織 tissue
+ちり紙 tissue paper
+再生 regeneration(lost damage tissue)
+水 fluid(animal tissue)
+鼻紙 facial tissue;tissue paper
+移植 transplantation(organ,tissue,)",Guess Vocab related to Keyword,Text
+"vapour","水気,凝縮,気体,湯気,水蒸気,蒸気","水気 water vapor(vapour)
+凝縮 condensation(vapour gas)
+気体 vapour
+湯気 vapour
+水蒸気 water vapour
+蒸気 vapour",Guess Vocab related to Keyword,Text
+"heap","盛る,塚,堆積,盛り上げる,重ねる,山","盛る heap
+塚 heap
+堆積 heap
+盛り上げる heap
+重ねる heap
+山 heap",Guess Vocab related to Keyword,Text
+"expensive","貼る,高価,割高,多額,張る,高い","貼る expensive
+高価 expensive
+割高 fairly expensive
+多額 expensive
+張る expensive
+高い expensive",Guess Vocab related to Keyword,Text
+"eyesight","光,視力,潰れる,眼,失明,目","光 eyesight
+視力 eyesight
+潰れる lost(voice,eyesight,sense smell,)
+眼 eyesight
+失明 loss eyesight
+目 eyesight",Guess Vocab related to Keyword,Text
+"rebuke","叱る,問責,戒める,絞る,搾る,意見","叱る rebuke
+問責 rebuke
+戒める rebuke
+絞る rebuke
+搾る rebuke
+意見 rebuke",Guess Vocab related to Keyword,Text
+"clue","鍵,手掛かり,小口,端緒,手がかり,糸口","鍵 clue
+手掛かり clue
+小口 clue
+端緒 clue
+手がかり clue
+糸口 clue",Guess Vocab related to Keyword,Text
+"corpse","死人,体,亡骸,異物,死体,遺体","死人 corpse
+体 corpse
+亡骸 corpse
+異物 corpse
+死体 corpse
+遺体 corpse",Guess Vocab related to Keyword,Text
+"patience","我慢,忍耐,根気,切らす,苛々,辛抱","我慢 patience
+忍耐 patience
+根気 patience
+切らす lose(patience,concentration,)
+苛々 lose patience
+辛抱 patience",Guess Vocab related to Keyword,Text
+"armor","隙,装甲,固める,具,両,隙間","隙 chink(armor,armour)
+装甲 armor
+固める wear specific purpose(armor,coat,)
+具 counter sets armor,utensils,furniture,
+両 counter suits clothing,sets armor,
+隙間 chink(armor,armour)",Guess Vocab related to Keyword,Text
+"column","背骨,欄,列,本欄,段,桁","背骨 spinal column
+欄 column
+列 column
+本欄 column
+段 column(print)
+桁 column",Guess Vocab related to Keyword,Text
+"crush","潰す,砕く,圧倒,目白押し,混雑,熟す","潰す crush
+砕く crush
+圧倒 crush
+目白押し crush
+混雑 crush
+熟す crush",Guess Vocab related to Keyword,Text
+"deprive","剥がす,剥ぐ,取上げる,取り上げる,奪う,干す","剥がす deprive
+剥ぐ deprive
+取上げる deprive
+取り上げる deprive
+奪う deprive
+干す deprive role,job,",Guess Vocab related to Keyword,Text
+"hook","爪,当り,針,掛け,引っ掛ける,当たり","爪 hook
+当り bite(fish hook)
+針 hook
+掛け hook
+引っ掛ける hook
+当たり bite(fish hook)",Guess Vocab related to Keyword,Text
+"obstruct","害する,塞ぐ,阻む,妨げる,遮る,詰まらせる","害する obstruct
+塞ぐ obstruct
+阻む obstruct
+妨げる obstruct
+遮る obstruct(view,way,)
+詰まらせる obstruct",Guess Vocab related to Keyword,Text
+"panic","恐怖,騒ぐ,恐慌,乱売,慌てる,焦る","恐怖 panic
+騒ぐ panic
+恐慌 financial panic;panic
+乱売 panic selling
+慌てる panic
+焦る panic",Guess Vocab related to Keyword,Text
+"pond","貼る,池,張る,中島,沼,放流","貼る form(ice pond)
+池 pond
+張る form(ice pond)
+中島 island pond river
+沼 pond
+放流 release(young fish river,pond,)",Guess Vocab related to Keyword,Text
+"secrecy","機密,極秘,秘密,ガラス張り,内緒,闇","機密 secrecy
+極秘 absolute secrecy
+秘密 secrecy
+ガラス張り lack secrecy
+内緒 secrecy
+闇 secrecy",Guess Vocab related to Keyword,Text
+"chat","話す,会話,懇話,落ちる,話","話す chat
+会話 chat
+懇話 chat
+落ちる log(online game,chat room,)
+話 chat",Guess Vocab related to Keyword,Text
+"describe","記す,写す,描く,映し出す,話す","記す describe
+写す describe
+描く describe
+映し出す describe
+話す describe",Guess Vocab related to Keyword,Text
+"foresight","目先,先見,予知,遠慮,見通し","目先 foresight
+先見 foresight
+予知 foresight
+遠慮 foresight
+見通し foresight",Guess Vocab related to Keyword,Text
+"kid","子,弟,小僧,お子さま,お子様","子 kid
+弟 kid brother
+小僧 kid
+お子さま kid
+お子様 kid",Guess Vocab related to Keyword,Text
+"outbreak","偶発,発症,出火,発生,開戦","偶発 sudden outbreak
+発症 outbreak illness
+出火 outbreak fire
+発生 outbreak
+開戦 outbreak war",Guess Vocab related to Keyword,Text
+"scenario","脚本,万一,台本,場面,万が一","脚本 scenario
+万一 worst(-case scenario)
+台本 scenario
+場面 scenario
+万が一 worst(-case scenario)",Guess Vocab related to Keyword,Text
+"sector","天下り,官民,扇形,地区,サービス業","天下り command(superior inferior,government private s
+官民 government private sector;public private sector
+扇形 sector
+地区 sector
+サービス業 service sector",Guess Vocab related to Keyword,Text
+"speculation","憶測,思わく,相場,山,投機","憶測 speculation
+思わく speculation
+相場 speculation(stocks)
+山 speculation
+投機 speculation",Guess Vocab related to Keyword,Text
+"golden","最盛期,黄金時代,中道,金,黄金","最盛期 golden age
+黄金時代 golden age
+中道 golden mean
+金 golden(silence)
+黄金 golden",Guess Vocab related to Keyword,Text
+"juvenile","突っ張り,少年,児童,小さい,稚魚","突っ張り (juvenile)delinquent
+少年 juvenile
+児童 juvenile
+小さい juvenile
+稚魚 juvenile fish",Guess Vocab related to Keyword,Text
+"moderation","節度,中,加減,慎む,中道","節度 moderation
+中 moderation
+加減 moderation
+慎む moderation
+中道 moderation",Guess Vocab related to Keyword,Text
+"occasions","時として,葬祭,冠婚葬祭,紅白,赤飯","時として occasions
+葬祭 funerals ceremonial occasions
+冠婚葬祭 important ceremonial occasions family relatio
+紅白 colours festive auspicious occasions(colors)
+赤飯 red rice(beans mochi)auspicious occasions",Guess Vocab related to Keyword,Text
+"philosophy","改善,気,哲学,理学,量","改善 kaizen(business philosophy continuous improveme
+気 qi(traditional Chinese philosophy medicine)
+哲学 philosophy
+理学 lixue(Song-era Chinese philosophy);philosophy
+量 Indian philosophy)",Guess Vocab related to Keyword,Text
+"specimen","見本,筆跡,個体,試料,標本","見本 specimen
+筆跡 calligraphy specimen
+個体 specimen
+試料 specimen
+標本 specimen",Guess Vocab related to Keyword,Text
+"refuse","蹴る,断る,食い下がる,拒む,辞す","蹴る refuse
+断る refuse
+食い下がる refuse
+拒む refuse
+辞す refuse",Guess Vocab related to Keyword,Text
+"Republic","朝鮮民主主義人民共和国,韓国,共和国,西ドイツ,グアテマラ共和国","朝鮮民主主義人民共和国 Democratic People's Republic Korea(Nor
+韓国 Republic Korea
+共和国 republic
+西ドイツ Federal Republic Germany
+グアテマラ共和国 Republic Guatemala",Guess Vocab related to Keyword,Text
+"stool","下る,椅子,大便,下す,渋る","下る pass(stool)
+椅子 stool
+大便 stool
+下す pass(stool)
+渋る frequent urge defecate difficulty passing stool",Guess Vocab related to Keyword,Text
+"durable","丈夫,持続的,強い,持つ,保つ","丈夫 durable
+持続的 durable
+強い durable(against)
+持つ durable
+保つ durable",Guess Vocab related to Keyword,Text
+"irregularity","斑,変則,不規則,不始末,不正","斑 irregularity
+変則 irregularity
+不規則 irregularity
+不始末 irregularity
+不正 irregularity",Guess Vocab related to Keyword,Text
+"specialization","専修,分化,科,分業,畑","専修 specialization
+分化 specialization
+科 specialization
+分業 specialization
+畑 field(specialization)",Guess Vocab related to Keyword,Text
+"clasp","握る,止め金,爪,留め金,猿","握る clasp
+止め金 clasp
+爪 clasp
+留め金 clasp
+猿 clasp control height pot-hook",Guess Vocab related to Keyword,Text
+"miso","土手,味噌,もつ鍋,味噌汁,寝る","土手 beef sinew stewed miso mirin
+味噌 miso;innards(crabs,shrimps,)resembling miso
+もつ鍋 hot pot stew made offal,vegetables(often)miso
+味噌汁 miso soup
+寝る ferment(soy sauce,miso,)",Guess Vocab related to Keyword,Text
+"tail","尻尾,付ける,最後尾,尾,着ける","尻尾 tail end;tail(animal)
+付ける tail
+最後尾 tail end
+尾 tail end;tail(kite,);tail(animal);tail(comet)
+着ける tail",Guess Vocab related to Keyword,Text
+"bare","摘発,打ち明ける,枯木,剥く,枯れ木","摘発 laying bare
+打ち明ける lay bare
+枯木 bare tree
+剥く bare(teeth,fangs)
+枯れ木 bare tree",Guess Vocab related to Keyword,Text
+"dense","深い,密林,濃厚,濃い,籠もる","深い dense
+密林 dense forest
+濃厚 dense
+濃い dense
+籠もる dense",Guess Vocab related to Keyword,Text
+"intervention","挨拶,口利き,介入,干渉,介在","挨拶 intervention
+口利き intervention
+介入 intervention
+干渉 intervention
+介在 intervention",Guess Vocab related to Keyword,Text
+"lookout","監視,張る,番,貼る,見張り","監視 lookout
+張る lookout
+番 lookout
+貼る lookout
+見張り lookout",Guess Vocab related to Keyword,Text
+"meagre","僅か,乏しい,細やか,貧弱,微か","僅か meagre
+乏しい meagre
+細やか meagre
+貧弱 meagre
+微か meagre",Guess Vocab related to Keyword,Text
+"plantation","農園,園,桑田,畑,園長","農園 plantation
+園 plantation
+桑田 mulberry plantation
+畑 plantation
+園長 head plantation",Guess Vocab related to Keyword,Text
+"error","人為的,失態,過ち,見付ける,誤って,恐縮,間違い,誤る,失点,敵失,間違える,誤字,誤差,試行錯誤,失策,誤り,錯誤,非,落ち度,見つける,過失,違い","人為的 human-caused(mistake,error,disaster)
+失態 error
+過ち error
+見付ける find(error book)
+誤って error
+恐縮 feeling ashamed(error)
+間違い error
+誤る commit error
+失点 error
+敵失 error made enemy opposing team
+間違える commit error(calculation)
+誤字 typographical error
+誤差 measurement error;calculation error
+試行錯誤 trial error
+失策 error
+誤り error
+錯誤 error
+非 error
+落ち度 error
+見つける find(error book)
+過失 error
+違い error",Guess Vocab related to Keyword,Text
+"withdrawal","取り消し,取り下げ,棄権,引出し,撤退,出金,退陣,回収,辞退,撤去,脱退,撤収,取消し,引きこもり,退学,撤回,引き取り,引き出し,離脱","取り消し withdrawal
+取り下げ withdrawal
+棄権 withdrawal(contest)
+引出し withdrawal(money account)
+撤退 withdrawal
+出金 withdrawal(money)
+退陣 withdrawal
+回収 withdrawal
+辞退 withdrawal(candidacy)
+撤去 withdrawal(troops)
+脱退 withdrawal(organization)
+撤収 withdrawal(troops)
+取消し withdrawal
+引きこもり social withdrawal
+退学 withdrawal
+撤回 withdrawal
+引き取り withdrawal
+引き出し withdrawal(money account)
+離脱 withdrawal",Guess Vocab related to Keyword,Text
+"extension","更改,伸び率,伸び,延命,増設,内線,別館,猶予,引き延ばし,繰り出し梯子,拡大,拡張子,延長,波及,発展,拡張","更改 extension
+伸び率 coefficient extension
+伸び extension
+延命 life extension
+増設 extension
+内線 phone extension
+別館 extension
+猶予 extension
+引き延ばし extension
+繰り出し梯子 extension ladder
+拡大 extension
+拡張子 filename extension
+延長 extension(property occupying space);extension(w
+波及 extension
+発展 extension
+拡張 extension",Guess Vocab related to Keyword,Text
+"plate","着せる,盛る,帰る,板ガラス,本塁,名札,被せる,図版,生還,版,札,鋼板,盤,板,鉄板,皿","着せる plate
+盛る serve(bowl,plate,)
+帰る home plate
+板ガラス plate glass
+本塁 home plate
+名札 plate
+被せる plate(metal)
+図版 plate
+生還 reaching home plate
+版 plate
+札 plate
+鋼板 steel plate;steel plate
+盤 plate
+板 plate(glass)
+鉄板 steel plate;iron plate
+皿 plate",Guess Vocab related to Keyword,Text
+"curtain","呼び出し,内幕,幕開け,絞る,幕,幕切れ,下ろす,暖簾,搾る,閉幕,開幕,開演,垂れ幕,降ろす,黒幕","呼び出し curtain call
+内幕 inner curtain(military encampment);inner curtai
+幕開け rise curtain
+絞る gather(curtain,)
+幕 falling curtain;curtain
+幕切れ fall curtain
+下ろす drop(anchor,curtain,)
+暖簾 (short)curtain hung shop entrance;split curtain
+搾る gather(curtain,)
+閉幕 falling curtain
+開幕 raising curtain
+開演 curtain raising
+垂れ幕 curtain
+降ろす drop(anchor,curtain,)
+黒幕 black curtain",Guess Vocab related to Keyword,Text
+"succession","後継,抜き,梯子,立て続け,続き,次々,襲名,相続,連発,継承,連続,追っかけ,相次ぐ,系列,続出","後継 succession
+抜き (beating)succession
+梯子 going several places succession(barhopping)
+立て続け succession
+続き succession
+次々 succession
+襲名 succession another's professional
+相続 succession
+連発 firing rapid succession
+継承 succession
+連続 succession
+追っかけ (quick)succession
+相次ぐ follow succession
+系列 succession
+続出 occurring succession",Guess Vocab related to Keyword,Text
+"summary","大筋,概要,粗筋,大綱,大雑把,大ざっぱ,簡裁,大概,綱領,総括,要約,要旨,輪郭","大筋 summary
+概要 summary
+粗筋 summary
+大綱 summary
+大雑把 rough(estimate,summary,)
+大ざっぱ rough(estimate,summary,)
+簡裁 summary court;court summary offences
+大概 summary
+綱領 summary
+総括 summary
+要約 summary
+要旨 summary
+輪郭 summary",Guess Vocab related to Keyword,Text
+"retire","引っ込む,退く,引き上げる,下りる,引く,引き時,引上げる,下がる,辞める,降りる,休む,伏せる","引っ込む retire(somewhere)
+退く retire;retire;retire;retire
+引き上げる retire
+下りる retire
+引く retire
+引き時 retire
+引上げる retire
+下がる retire
+辞める retire
+降りる retire
+休む retire
+伏せる retire",Guess Vocab related to Keyword,Text
+"mass","大募集,団塊,大量,総辞職,量産,塊,量販店,大会,質量,臨界,銭,集団","大募集 mass recruitment
+団塊 mass
+大量 mass(mass production,mass transit,mass destruct
+総辞職 mass resignation
+量産 mass production
+塊 mass
+量販店 mass marketer
+大会 mass meeting
+質量 mass
+臨界 critical(mass,pressure,temperature,state,point,
+銭 one-thousandth kan(unit mass)
+集団 mass",Guess Vocab related to Keyword,Text
+"shake","振り,振り切る,揺れる,揺るがす,切る,動く,揺さぶる,震える,揺る,振る,揺らぐ,響く","振り shake
+振り切る shake free;shake
+揺れる shake
+揺るがす shake
+切る shake(water,)
+動く shake
+揺さぶる shake(political world);shake
+震える shake
+揺る shake
+振る shake
+揺らぐ shake
+響く shake",Guess Vocab related to Keyword,Text
+"burden","荷物,掛ける,重荷,担う,厄介,肩代わり,荷,負担,負荷,被る,重み","荷物 burden
+掛ける burden
+重荷 heavy burden
+担う bear(burden,responsibility,)
+厄介 burden
+肩代わり shouldering else's burden
+荷 burden
+負担 burden
+負荷 burden
+被る shoulder(burden)
+重み burden",Guess Vocab related to Keyword,Text
+"parent","母体,親会社,親子,本社,生みの親,保護者,親方,親,里親,親バカ,親ばか","母体 parent organization;parent body
+親会社 parent company
+親子 parent child
+本社 parent company
+生みの親 biological parent
+保護者 parent
+親方 foster parent
+親 parent(organization);parent
+里親 foster parent
+親バカ over-fond parent;doting parent
+親ばか over-fond parent;doting parent",Guess Vocab related to Keyword,Text
+"kill","害する,倒す,消す,締める,獲物,決める,殺す,殺意,遣る,殺気,潰す","害する kill
+倒す kill
+消す kill
+締める kill(fish,poultry,)
+獲物 kill
+決める dress kill
+殺す kill(speed);kill
+殺意 urge kill;intent kill
+遣る kill
+殺気 determination kill
+潰す kill;kill(livestock,food)",Guess Vocab related to Keyword,Text
+"accompany","付いてくる,付き合う,ついて行く,伴う,付いて来る,付く,従う,添う,博士,添える","付いてくる accompany
+付き合う accompany
+ついて行く accompany
+伴う accompany
+付いて来る accompany
+付く accompany
+従う accompany
+添う accompany
+博士 pitch length marks(accompany Buddhist liturgica
+添える accompany(card does gift);accompany(aid,guide,",Guess Vocab related to Keyword,Text
+"pardon","容赦,お先に,御免,許容,ご免,許し,失礼します,恩赦,済みません,許す","容赦 pardon
+お先に pardon leaving
+御免 pardon
+許容 pardon
+ご免 pardon
+許し pardon
+失礼します pardon;beg your pardon
+恩赦 pardon
+済みません beg your pardon;pardon
+許す pardon",Guess Vocab related to Keyword,Text
+"restore","生かす,引き戻す,反す,収める,納める,戻す,直す,取り戻す,立て直す,返す","生かす restore(deleted passage
+引き戻す restore
+反す restore
+収める restore(place)
+納める restore(place)
+戻す restore(previous state,defrosting,reconstitutin
+直す restore
+取り戻す restore
+立て直す restore(former strength)
+返す restore",Guess Vocab related to Keyword,Text
+"thread","山,枠,巻き返し,筋道,糸口,糸,繰り出す,絹糸,繭糸,脈","山 thread(screw)
+枠 spool(thread)
+巻き返し winding(thread,)
+筋道 thread(argument)
+糸口 thread end
+糸 thread
+繰り出す draw(thread)
+絹糸 silk thread
+繭糸 silk thread
+脈 thread(argument)",Guess Vocab related to Keyword,Text
+"cease","止まる,絶える,留まる,止す,留める,死ぬ,途絶える,潰れる,止む,止める","止まる cease
+絶える cease
+留まる cease
+止す cease
+留める cease
+死ぬ cease
+途絶える cease
+潰れる cease functioning
+止む cease
+止める cease",Guess Vocab related to Keyword,Text
+"backbone","幹,中堅,大黒柱,背骨,意気地,中枢,骨,気概,背筋,骨抜き","幹 backbone
+中堅 backbone
+大黒柱 backbone(family)
+背骨 backbone
+意気地 backbone
+中枢 backbone
+骨 backbone
+気概 backbone
+背筋 line backbone
+骨抜き taking backbone",Guess Vocab related to Keyword,Text
+"constellation","壁,心,胃,室,翼,斗,鬼,牛,星座,角","壁 Chinese Wall constellation(28 mansions)
+心 Chinese Heart constellation(28 mansions)
+胃 Chinese stomach constellation(28 mansions)
+室 Chinese Encampment constellation(28 mansions)
+翼 Chinese Wings constellation(28 mansions)
+斗 Chinese Dipper constellation(28 mansions)
+鬼 Chinese ghost constellation(28 mansions)
+牛 Chinese Ox constellation(28 mansions)
+星座 constellation
+角 Chinese horn constellation(28 mansions)",Guess Vocab related to Keyword,Text
+"drama","世話,悲劇,劇,時代劇,歌舞伎,戯曲,演劇,新派,芝居,新劇","世話 sewamono(Edo-period drama contemporary life)
+悲劇 tragic drama
+劇 drama
+時代劇 drama
+歌舞伎 traditional form drama music performed male ac
+戯曲 drama
+演劇 drama
+新派 new drama
+芝居 drama
+新劇 western-inspired drama which developed towards ",Guess Vocab related to Keyword,Text
+"island","北海道,島根,中島,小島,島,島内,離島,島国,本島,群島","北海道 Hokkaido(island,prefectural-level administrati
+島根 island country
+中島 island pond river
+小島 small island
+島 island
+島内 island
+離島 outlying island;leaving island;isolated island
+島国 island country
+本島 island;main island
+群島 island group",Guess Vocab related to Keyword,Text
+"maintenance","保守,保存,保全,存廃,保持,維持,保有,扶養,手入れ,整備","保守 maintenance
+保存 maintenance
+保全 maintenance
+存廃 maintenance abolition(,institution,)
+保持 maintenance
+維持 maintenance
+保有 maintenance
+扶養 maintenance
+手入れ maintenance
+整備 maintenance",Guess Vocab related to Keyword,Text
+"reform","革新,正す,刷新,改良,改める,変革,行革,改革,矯正,農地改革","革新 reform
+正す reform
+刷新 reform
+改良 reform
+改める reform
+変革 reform
+行革 administrative reform
+改革 reform
+矯正 reform
+農地改革 agrarian reform",Guess Vocab related to Keyword,Text
+"commerce","商工会議所,商売,交易,商工,商業,商品,商法,貿易,恵比寿,通商","商工会議所 Chamber Commerce Industry
+商売 commerce
+交易 commerce
+商工 commerce industry
+商業 commerce
+商品 article commerce
+商法 commerce
+貿易 (international)commerce
+恵比寿 god fishing commerce
+通商 commerce",Guess Vocab related to Keyword,Text
+"transformation","化成,変形,変貌,変容,変身,変化,様変わり,変質,変換,変革","化成 transformation
+変形 transformation
+変貌 transformation
+変容 transformation
+変身 transformation
+変化 transformation
+様変わり transformation
+変質 transformation
+変換 transformation
+変革 transformation",Guess Vocab related to Keyword,Text
+"lock","閉じ込める,差す,錠,舌,鍵,決める,掛ける,締め出す,解除,閉ざす","閉じ込める lock
+差す lock
+錠 lock
+舌 talon(lock)
+鍵 lock
+決める immobilize double-arm lock(sumo,judo,)
+掛ける secure(lock)
+締め出す lock
+解除 releasing(lock)
+閉ざす lock",Guess Vocab related to Keyword,Text
+"agree","取り決める,納まる,収まる,合う,即する,聞こえる,受け入れる,赴く,馴染む","取り決める agree
+納まる agree
+収まる agree
+合う agree
+即する agree
+聞こえる agree
+受け入れる agree
+赴く agree
+馴染む agree(skin)",Guess Vocab related to Keyword,Text
+"halfway","半端,中途半端,中腹,中途,歩み寄る,中間,途中,半ば,間","半端 halfway
+中途半端 halfway
+中腹 halfwaymountain
+中途 halfway
+歩み寄る meet halfway
+中間 halfway
+途中 halfway
+半ば halfway
+間 halfway",Guess Vocab related to Keyword,Text
+"memorial","碑,二七日,供養,慰霊祭,弔辞,表,霊園,記念日,法要","碑 stone monument bearing inscription(memorial futu
+二七日 second week's memorial services
+供養 memorial service dead
+慰霊祭 memorial service
+弔辞 memorial address
+表 memorial emperor
+霊園 memorial park
+記念日 memorial
+法要 Buddhist memorial service",Guess Vocab related to Keyword,Text
+"summon","上げる,引出す,揚げる,呼び出す,迎える,招く,呼ぶ,引き出す,挙げる","上げる summon(energy,);summon(geishas,)
+引出す summon(court)
+揚げる summon(energy,);summon(geishas,)
+呼び出す summon
+迎える summon
+招く summon
+呼ぶ summon(doctor,)
+引き出す summon(court)
+挙げる summon(energy,);summon(geishas,)",Guess Vocab related to Keyword,Text
+"blue","青い,青雲,大空,重い,水色,真っ青,青空,青,紺","青い blue
+青雲 blue sky
+大空 blue
+重い blue
+水色 pale blue;light blue
+真っ青 deep blue;bright blue
+青空 blue sky
+青 blue;blue 5-point card
+紺 navy blue;deep blue",Guess Vocab related to Keyword,Text
+"coarse","劣悪,卑しい,乱暴,粗大,粗い,下品,汚い,荒い,荒っぽい","劣悪 coarse
+卑しい coarse
+乱暴 coarse
+粗大 coarse
+粗い coarse
+下品 coarse
+汚い coarse
+荒い coarse
+荒っぽい coarse",Guess Vocab related to Keyword,Text
+"enterprise","大事,企業,社会事業,私企業,築き上げる,事業,興業,大企業,案件","大事 great enterprise
+企業 enterprise
+社会事業 social enterprise
+私企業 private enterprise
+築き上げる build(fortune,reputation,enterprise,)
+事業 enterprise
+興業 inauguration new industrial enterprise
+大企業 large enterprise
+案件 enterprise",Guess Vocab related to Keyword,Text
+"independent","主体的,独り歩き,自営業,ひとり歩き,独自,一人歩き,独立国,無所属,自主的","主体的 independent
+独り歩き independent
+自営業 independent business
+ひとり歩き independent
+独自 independent
+一人歩き independent
+独立国 independent state;independent nation
+無所属 independent(politics)
+自主的 independent",Guess Vocab related to Keyword,Text
+"moral","名義,教訓,道,道義的責任,邪魔,無形,大義,退廃,道義","名義 moral duty
+教訓 moral
+道 moral principles
+道義的責任 moral obligation
+邪魔 demon obstructs sentient beings maintaining mor
+無形 moral
+大義 moral law
+退廃 (moral)decay
+道義 moral principles",Guess Vocab related to Keyword,Text
+"polish","仕上げる,光沢,磨き,練る,琢磨,洗練,磨く,研ぐ,艶","仕上げる polish
+光沢 polish
+磨き polish
+練る polish(plan,)
+琢磨 polish(jewels)
+洗練 polish
+磨く polish;polish
+研ぐ polish
+艶 polish",Guess Vocab related to Keyword,Text
+"shock","震動,打撃,走る,揺るがす,驚愕,揺さぶる,激動,衝撃,電撃","震動 shock
+打撃 shock
+走る spread quickly(news,shock,)
+揺るがす shock
+驚愕 shock
+揺さぶる shock
+激動 violent shock
+衝撃 shock;(psychological)shock
+電撃 electric shock",Guess Vocab related to Keyword,Text
+"lure","誘惑,引抜く,引き抜く,引きずる,誘う,魅惑,餌,釣る,誘致","誘惑 lure
+引抜く lure away
+引き抜く lure away
+引きずる lure
+誘う lure
+魅惑 lure
+餌 lure
+釣る lure
+誘致 lure",Guess Vocab related to Keyword,Text
+"rip","破る,割る,剥がす,破れる,引き裂く,割く,裂く,剥ぐ,破綻","破る rip
+割る rip
+剥がす rip
+破れる rip
+引き裂く rip
+割く rip
+裂く rip
+剥ぐ rip
+破綻 rip",Guess Vocab related to Keyword,Text
+"decisive","決戦,大きい,決定的,決め手,敢行,大勝,断行,直行","決戦 decisive battle
+大きい decisive
+決定的 decisive
+決め手 decisive factor;decisive blow
+敢行 decisive action
+大勝 decisive victory
+断行 decisive action
+直行 decisive action",Guess Vocab related to Keyword,Text
+"drum","ドラム缶,響き,打つ,太鼓,聞かす,波紋,打ち出す,胴","ドラム缶 drum(oil,gasoline)
+響き sound(distinctive sound object activity,rain,gu
+打つ beat(drum,)
+太鼓 drum
+聞かす drum
+波紋 slit drum
+打ち出す strike(drum indicating end performance)
+胴 frame(drum,)",Guess Vocab related to Keyword,Text
+"electronic","打ち込み,電卓,帰還,電子,電子メール,掲示板,電気製品,電子部品","打ち込み step recording(electronic computer music)
+電卓 calculator(electronic)
+帰還 feedback(electronic circuit,biological,)
+電子 electronic
+電子メール electronic mail
+掲示板 electronic bulletin board
+電気製品 electronic goods
+電子部品 electronic components;electronic parts",Guess Vocab related to Keyword,Text
+"leap","閏年,踏み切る,跳ぶ,跳ねる,飛躍,飛ぶ,跳躍,飛び込む","閏年 leap year
+踏み切る leap
+跳ぶ leap
+跳ねる leap
+飛躍 leap;making leap forward;leap(logic)
+飛ぶ leap
+跳躍 leap
+飛び込む leap",Guess Vocab related to Keyword,Text
+"sovereign","君,君主,上,国王,元首,大義名分,国権,王","君 sovereign
+君主 sovereign
+上 sovereign
+国王 sovereign
+元首 sovereign
+大義名分 duty(country,sovereign,)
+国権 sovereign rights
+王 sovereign",Guess Vocab related to Keyword,Text
+"surprise","奇襲,見出す,驚かす,意表,惑星,驚愕,襲撃,驚き","奇襲 surprise attack
+見出す wide-eyed(surprise,anger,)
+驚かす surprise
+意表 surprise
+惑星 surprise contender
+驚愕 surprise
+襲撃 (surprise)attack
+驚き surprise",Guess Vocab related to Keyword,Text
+"vertical","横,筋,縦書,垂直,縦書き,縦,右,縦横","横 horizontal(opposed vertical)
+筋 ninth vertical line
+縦書 vertical writing
+垂直 vertical
+縦書き vertical writing
+縦 vertical(relationship);vertical
+右 afore-mentioned(vertical writing)
+縦横 vertical horizontal",Guess Vocab related to Keyword,Text
+"drunk","出来上がる,入る,潰れる,上,虎,酔う,酔っ払う,沈没","出来上がる very drunk
+入る become drunk
+潰れる dead drunk
+上 when(drunk)
+虎 drunk;drunk
+酔う drunk
+酔っ払う drunk
+沈没 getting dead drunk",Guess Vocab related to Keyword,Text
+"available","公開中,公開,口,空車,空く,市販,提供,開く","公開中 now available(sale)
+公開 making available public
+口 available position
+空車 spaces available(parking lot)
+空く available
+市販 making commercially available
+提供 making available
+開く available",Guess Vocab related to Keyword,Text
+"conceal","伏せる,覆う,包む,忍ぶ,隠れる,隠す,紛らす,飲む","伏せる conceal
+覆う conceal
+包む conceal(feeling)
+忍ぶ conceal
+隠れる conceal
+隠す conceal
+紛らす conceal(grief smile)
+飲む conceal",Guess Vocab related to Keyword,Text
+"endurance","忍耐,体力,我慢,耐久,頑張り,やり切れない,辛抱,持久","忍耐 endurance
+体力 endurance
+我慢 endurance
+耐久 endurance
+頑張り endurance
+やり切れない beyond endurance
+辛抱 endurance
+持久 endurance",Guess Vocab related to Keyword,Text
+"exclusive","貸切り,専属,保養所,専用,占拠,専門的,専売,貸し切り","貸切り reserving(exclusive use)
+専属 exclusive
+保養所 recreation facility(usu. corporate-owned exclu
+専用 exclusive use(particular products);exclusive us
+占拠 exclusive possession
+専門的 exclusive
+専売 exclusive sales rights
+貸し切り reserving(exclusive use)",Guess Vocab related to Keyword,Text
+"expand","広げる,延びる,伸びる,伸ばす,膨らむ,延ばす,膨らます,膨れる","広げる expand
+延びる expand
+伸びる expand
+伸ばす expand
+膨らむ expand
+延ばす expand
+膨らます expand
+膨れる expand",Guess Vocab related to Keyword,Text
+"historical","釈迦,史上,史料,古文書,時代劇,史実,歴史的,故事","釈迦 historical Buddha
+史上 historical
+史料 historical materials;historical sources;histori
+古文書 historical document
+時代劇 historical play
+史実 historical fact
+歴史的 historical
+故事 historical event",Guess Vocab related to Keyword,Text
+"map","塗り替える,広域,地図,図,画する,詳細,路線図,見方","塗り替える redraw(map)
+広域 wide view(digitally displayed map)
+地図 map
+図 map
+画する map
+詳細 close-up view(digitally displayed map)
+路線図 route map(buses,trains,)
+見方 how read(map,train timetable,)",Guess Vocab related to Keyword,Text
+"omen","前触れ,兆し,徴候,兆,知らせ,兆候,前兆,縁起","前触れ omen
+兆し omen
+徴候 omen
+兆 omen
+知らせ omen
+兆候 omen
+前兆 omen
+縁起 omen",Guess Vocab related to Keyword,Text
+"powerful","劇,強力,力強い,強い,強度,盛大,強大,蔓延る","劇 powerful drug
+強力 powerful
+力強い powerful
+強い powerful
+強度 powerful(lens)
+盛大 powerful
+強大 powerful
+蔓延る become powerful",Guess Vocab related to Keyword,Text
+"prevent","封じる,拒む,食止める,妨げる,食い止める,防ぐ,阻む,止める","封じる prevent
+拒む prevent
+食止める prevent
+妨げる prevent
+食い止める prevent
+防ぐ prevent
+阻む prevent
+止める prevent",Guess Vocab related to Keyword,Text
+"proxy","代弁,替え玉,代人,代わり,代理,替わり,代理人,替え","代弁 speaking proxy;payment proxy;compensation proxy
+替え玉 proxy
+代人 proxy
+代わり proxy
+代理 proxy
+替わり proxy
+代理人 proxy
+替え proxy",Guess Vocab related to Keyword,Text
+"replace","代わる,替わる,換える,改める,代える,振る,取り替える,替える","代わる replace
+替わる replace
+換える replace
+改める replace
+代える replace
+振る replace
+取り替える replace
+替える replace",Guess Vocab related to Keyword,Text
+"beside","差し控える,横手,すぐ側,側,横,傍ら,沿う,脇","差し控える beside
+横手 beside
+すぐ側 right beside
+側 beside
+横 beside
+傍ら beside
+沿う run beside
+脇 beside",Guess Vocab related to Keyword,Text
+"elementary","小学生,初級,下地,小学校,小,小中学生,小学","小学生 elementary student
+初級 elementary level
+下地 elementary knowledge
+小学校 elementary
+小 elementary
+小中学生 elementary middle pupils
+小学 elementary",Guess Vocab related to Keyword,Text
+"achieve","為す,納める,果たす,入る,乗り出す,遂げる,収める","為す achieve
+納める achieve(results,success,)
+果たす achieve
+入る achieve
+乗り出す set(achieve)
+遂げる achieve
+収める achieve(results,success,)",Guess Vocab related to Keyword,Text
+"altar","壇上,下ろす,祭壇,下げる,卓,仏壇,降ろす","壇上 altar
+下ろす remove(offerings altar)
+祭壇 altar
+下げる remove(food,table altar)
+卓 offering table altar(sometimes tea ceremony)
+仏壇 Buddhist(household)altar
+降ろす remove(offerings altar)",Guess Vocab related to Keyword,Text
+"desirable","揚げる,望ましい,好ましい,美味しい,面白い,挙げる,上げる","揚げる earn(desirable)
+望ましい desirable
+好ましい desirable
+美味しい desirable
+面白い desirable
+挙げる earn(desirable)
+上げる earn(desirable)",Guess Vocab related to Keyword,Text
+"earn","上げる,挙げる,取る,得る,回る,揚げる,稼ぐ","上げる earn(desirable)
+挙げる earn(desirable)
+取る earn
+得る earn;earn
+回る earn interest
+揚げる earn(desirable)
+稼ぐ earn(income)",Guess Vocab related to Keyword,Text
+"participate","出る,加わる,乗る,臨む,追い込み,携わる,連なる","出る participate
+加わる participate
+乗る participate
+臨む participate
+追い込み forcing another player fold(so can participat
+携わる participate
+連なる participate",Guess Vocab related to Keyword,Text
+"they","何でも,野放し,彼ら,実相,奴ら,缶詰め,缶詰","何でも they say
+野放し lettingthey please
+彼ら they
+実相 true form things they are
+奴ら they
+缶詰め confining(so they can concentrate work)
+缶詰 confining(so they can concentrate work)",Guess Vocab related to Keyword,Text
+"everybody","全員,万人,人々,誰でも,皆,皆さん,面々","全員 everybody
+万人 everybody;everybody
+人々 everybody
+誰でも everybody
+皆 everybody;everybody
+皆さん everybody
+面々 everybody",Guess Vocab related to Keyword,Text
+"breast","乳房,乳,胸,胸部,前,豊胸,懐","乳房 breast
+乳 breast
+胸 breast
+胸部 breast
+前 breast(coat,kimono,)
+豊胸 breast enlargement
+懐 (breast)pocket;inside breast clothing(kimono)",Guess Vocab related to Keyword,Text
+"mine","地雷,鉱山,採掘,山,炭鉱,機雷,鉱区","地雷 land mine
+鉱山 mine(ore)
+採掘 working(mine)
+山 mine(coal mine)
+炭鉱 coal mine
+機雷 (sea)mine
+鉱区 mine lot",Guess Vocab related to Keyword,Text
+"hollow","凹み,掘る,穴,空っぽ,洞,空洞,真空","凹み hollow;hollow
+掘る hollow
+穴 hollow
+空っぽ hollow
+洞 hollow
+空洞 hollow
+真空 hollow",Guess Vocab related to Keyword,Text
+"pluck","千切る,心意気,度胸,弾く,肝,摘む,胆","千切る pluck
+心意気 pluck
+度胸 pluck
+弾く pluck strings(guitar,)
+肝 pluck
+摘む pluck
+胆 pluck",Guess Vocab related to Keyword,Text
+"provisional","仮称,仮,臨時,仮処分,仮設,試験的,暫定","仮称 provisional
+仮 provisional
+臨時 provisional
+仮処分 provisional disposition
+仮設 provisional construction
+試験的 provisional
+暫定 provisional",Guess Vocab related to Keyword,Text
+"rigid","一辺倒,厳しい,強い,厳重,厳守,窮屈,厳格","一辺倒 rigid preoccupation
+厳しい rigid
+強い rigid
+厳重 rigid
+厳守 rigid adherence
+窮屈 rigid
+厳格 rigid",Guess Vocab related to Keyword,Text
+"superintendent","監督,管長,管理人,館長,管理者,警視,院長","監督 superintendent
+管長 superintendent priest
+管理人 superintendent
+館長 superintendent
+管理者 superintendent
+警視 police superintendent
+院長 superintendent",Guess Vocab related to Keyword,Text
+"mystery","妙,正体,推理小説,推理,神秘,秘密,謎","妙 mystery
+正体 truth(mystery,phenomenon,)
+推理小説 mystery novel
+推理 mystery genre
+神秘 mystery
+秘密 mystery
+謎 mystery",Guess Vocab related to Keyword,Text
+"twist","曲げる,曲がる,回す,逆手,捻る,展開,捻挫","曲げる twist
+曲がる twist
+回す twist
+逆手 unexpected twist
+捻る twist
+展開 (plot)twist
+捻挫 twist",Guess Vocab related to Keyword,Text
+"breakdown","破裂,決裂,不調,内訳,故障,破綻,衰弱","破裂 breakdown(talks,negotiations,)
+決裂 breakdown(talks,negotiations,)
+不調 breakdown(negotiations)
+内訳 breakdown
+故障 breakdown
+破綻 breakdown
+衰弱 breakdown",Guess Vocab related to Keyword,Text
+"breathe","吹く,吸う,吸い込む,吹き込む,吐く,弾む,溺れる","吹く breathe
+吸う breathe
+吸い込む breathe
+吹き込む breathe(new life)
+吐く breathe;breathe
+弾む breathe hard
+溺れる sink below surface become unable breathe",Guess Vocab related to Keyword,Text
+"dreadful","魔,大変,怖い,凄い,凄まじい,恐るべき,恐ろしい","魔 dreadful
+大変 dreadful
+怖い dreadful
+凄い dreadful;dreadful
+凄まじい dreadful
+恐るべき dreadful
+恐ろしい dreadful",Guess Vocab related to Keyword,Text
+"reject","拒む,蹴る,流す,落とす,断る,振る,振り切る","拒む reject
+蹴る reject
+流す reject(bill)
+落とす reject(applicant)
+断る reject
+振る reject
+振り切る reject(request)",Guess Vocab related to Keyword,Text
+"risk","危ない,冒す,危険,危険性,冒険,掛ける,賭ける","危ない risk
+冒す risk
+危険 risk
+危険性 (degree)risk
+冒険 risk
+掛ける risk
+賭ける risk",Guess Vocab related to Keyword,Text
+"eight","８日,八,策,月見,八千代,小学","８日 eight days
+八 eight
+策 fifth principle Eight Principles Yong
+月見 moon viewing(during eight month lunar calendar)
+八千代 eight thousand years
+小学 children eight years old ancient China",Guess Vocab related to Keyword,Text
+"pretense","振り,出し,名目,名,偽装,見せ掛け","振り pretence(pretense)
+出し pretense(pretence)
+名目 pretense
+名 pretense
+偽装 pretense
+見せ掛け pretense",Guess Vocab related to Keyword,Text
+"recite","唱える,詠む,読む,語らう,歌う,語る","唱える recite
+詠む recite(poem)
+読む recite(sutra)
+語らう recite
+歌う recite(poem)
+語る recite",Guess Vocab related to Keyword,Text
+"anyone","何方でも,誰でも,誰にも,何人,誰も,誰にでも","何方でも anyone
+誰でも anyone
+誰にも anyone
+何人 anyone
+誰も anyone
+誰にでも anyone",Guess Vocab related to Keyword,Text
+"estrangement","疎遠,間,行き違い,離反,疎外,隔たり","疎遠 estrangement
+間 estrangement
+行き違い estrangement
+離反 estrangement
+疎外 estrangement
+隔たり estrangement",Guess Vocab related to Keyword,Text
+"evade","外す,潜る,引っ掛ける,濁す,逃げる,逸らす","外す evade
+潜る evade
+引っ掛ける evade payment
+濁す evade(point)
+逃げる evade
+逸らす evade(question)",Guess Vocab related to Keyword,Text
+"furthermore","尚,又,他にも,更に,その上,尚且つ","尚 furthermore
+又 furthermore
+他にも furthermore
+更に furthermore
+その上 furthermore
+尚且つ furthermore",Guess Vocab related to Keyword,Text
+"heard","流れる,訳,由,聞こえる,響き,響く","流れる heard(music)
+訳 conclusion reasoning,judgement calculation based
+由 piece information has heard
+聞こえる heard
+響き emotion feeling inspired heard read
+響く heard far away",Guess Vocab related to Keyword,Text
+"incomplete","不完全,中途半端,不全,半端,未だ,生","不完全 incomplete
+中途半端 incomplete
+不全 incomplete
+半端 incomplete set
+未だ incomplete
+生 incomplete",Guess Vocab related to Keyword,Text
+"justification","因縁,大義名分,合理化,名,弁解,名義","因縁 justification
+大義名分 justification
+合理化 justification
+名 justification
+弁解 justification
+名義 justification",Guess Vocab related to Keyword,Text
+"revive","生返る,生き返る,生かす,直す,興す,立て直す","生返る revive
+生き返る revive
+生かす revive
+直す revive(spirits)
+興す revive
+立て直す revive(economy)",Guess Vocab related to Keyword,Text
+"samurai","国人,武士,名乗り,浪人,侍,騎士","国人 local lords samurai
+武士 samurai
+名乗り announcing,rank,lineage,(samurai battlefield);
+浪人 masterless samurai
+侍 samurai
+騎士 samurai horseback",Guess Vocab related to Keyword,Text
+"scar","引きつる,跡,傷跡,付く,傷,生々しい","引きつる shrink(skin,due scar)
+跡 scar
+傷跡 scar
+付く scar
+傷 scar
+生々しい fresh(blood,scar,)",Guess Vocab related to Keyword,Text
+"tongue","弁,国語,舌,過言,猫舌,母国語","弁 tongue
+国語 mother tongue
+舌 tongue
+過言 slip tongue
+猫舌 cat tongue
+母国語 mother tongue",Guess Vocab related to Keyword,Text
+"worst","万が一,峠,最悪,万一,最下,最低","万が一 worst(-case scenario)
+峠 worst(illness)
+最悪 worst case;if worst comes worst;worst
+万一 worst(-case scenario)
+最下 worst
+最低 worst",Guess Vocab related to Keyword,Text
+"coal","山,俵,地層,炭田,石炭,炭鉱","山 mine(coal mine)
+俵 counter sacks(rice,potatoes,coal,)
+地層 bed(coal,gravel,)
+炭田 coal field
+石炭 coal
+炭鉱 coal mine;(coal)pit",Guess Vocab related to Keyword,Text
+"coffee","缶コーヒー,入る,喫茶,喫茶店,水臭い,入れる","缶コーヒー canned coffee
+入る ready(tea,coffee,)
+喫茶 coffee lounge;coffee shop
+喫茶店 coffee shop;coffee lounge
+水臭い watery(alcohol,coffee,)
+入れる (tea,coffee,)",Guess Vocab related to Keyword,Text
+"daimyo","殿様,国人,藩,大名,上,藩主","殿様 daimyo
+国人 daimyo did leave domains meet shogun Kyoto(duri
+藩 han(estate daimyo Edo early Meiji periods)
+大名 daimyo(feudal lord)
+上 daimyo
+藩主 daimyo",Guess Vocab related to Keyword,Text
+"domain","公有,領域,国土,藩,縄張り,区域","公有 public domain
+領域 domain
+国土 domain
+藩 feudal domain
+縄張り domain
+区域 domain",Guess Vocab related to Keyword,Text
+"jam","混雑,餡子,詰まらせる,渋滞,雑踏,詰める","混雑 jam
+餡子 red bean jam
+詰まらせる jam
+渋滞 traffic jam
+雑踏 traffic jam
+詰める jam",Guess Vocab related to Keyword,Text
+"lenient","寛大,生ぬるい,甘い,温い,緩い,緩やか","寛大 lenient
+生ぬるい lenient
+甘い lenient
+温い lenient
+緩い lenient
+緩やか lenient",Guess Vocab related to Keyword,Text
+"pork","豚カツ,豚肉,豚,焼き鳥,焼鳥,餃子","豚カツ breaded pork cutlet
+豚肉 pork
+豚 pork
+焼き鳥 chicken pieces(sometimes beef pork offal)grill
+焼鳥 chicken pieces(sometimes beef pork offal)grille
+餃子 crescent-shaped pan-fried dumplings stuffed min",Guess Vocab related to Keyword,Text
+"submarine","揚げる,潜水艦,上げる,原潜,挙げる,海底","揚げる surface(submarine,)
+潜水艦 submarine
+上げる surface(submarine,)
+原潜 nuclear submarine
+挙げる surface(submarine,)
+海底 submarine",Guess Vocab related to Keyword,Text
+"childhood","子供の頃,小児病,幼少,日,幼なじみ,幼少期","子供の頃 childhood
+小児病 childhood diseases
+幼少 childhood
+日 (childhood)
+幼なじみ childhood friend
+幼少期 (early)childhood",Guess Vocab related to Keyword,Text
+"vegetable","菜園,畑,八百屋,菜食,実,野菜","菜園 vegetable garden
+畑 vegetable plot
+八百屋 fruit vegetable shop
+菜食 vegetable diet
+実 (broth)pieces meat,vegetable,
+野菜 vegetable",Guess Vocab related to Keyword,Text
+"alias","仮名,仮,事,通称,別名,異名","仮名 alias
+仮 alias
+事 alias
+通称 alias
+別名 alias
+異名 alias",Guess Vocab related to Keyword,Text
+"artistic","芸,体操,造る,張り,作る,創る","芸 artistic skill
+体操 artistic gymnastics
+造る create(artistic work,)
+張り style(literary,artistic,works)
+作る create(artistic work,)
+創る create(artistic work,)",Guess Vocab related to Keyword,Text
+"bullet","特効薬,新幹線,弾丸,銃弾,発する,玉","特効薬 silver bullet
+新幹線 bullet train
+弾丸 bullet
+銃弾 bullet(rifle)
+発する shoot(arrow bullet)
+玉 bullet",Guess Vocab related to Keyword,Text
+"calamity","災い,天災,災難,悲劇,悪事,災害","災い calamity
+天災 natural calamity
+災難 calamity
+悲劇 calamity
+悪事 calamity
+災害 calamity",Guess Vocab related to Keyword,Text
+"chicken","焼鳥,焼き鳥,鶏,鳥,金網,鶏肉","焼鳥 chicken pieces(sometimes beef pork offal)grille
+焼き鳥 chicken pieces(sometimes beef pork offal)grill
+鶏 domestic chicken;chicken meat;chicken(Gallus gal
+鳥 bird meat(chicken meat)
+金網 chicken wire
+鶏肉 chicken meat",Guess Vocab related to Keyword,Text
+"criterion","基軸,目安,基準,規範,尺度,規準","基軸 criterion
+目安 criterion
+基準 criterion
+規範 criterion
+尺度 criterion
+規準 criterion",Guess Vocab related to Keyword,Text
+"evident","知れる,明らか,歴然,明瞭,明白,紛れもない","知れる evident
+明らか evident
+歴然 evident
+明瞭 evident
+明白 evident
+紛れもない evident",Guess Vocab related to Keyword,Text
+"feast","宴,ご馳走,振る舞い,祭,宴会,祭り","宴 feast
+ご馳走 feast
+振る舞い feast
+祭 feast
+宴会 feast
+祭り feast",Guess Vocab related to Keyword,Text
+"frequent","頻発,多い,通う,盛ん,頻繁,渋る","頻発 frequent occurrence
+多い frequent
+通う frequent
+盛ん frequent
+頻繁 frequent
+渋る frequent urge defecate difficulty passing stool",Guess Vocab related to Keyword,Text
+"gauge","指針,計る,量る,測る,尺度,計器","指針 needle(compass,gauge,)
+計る (sound,gauge,estimate)
+量る (sound,gauge,estimate)
+測る (sound,gauge,estimate)
+尺度 gauge
+計器 gauge",Guess Vocab related to Keyword,Text
+"glasses","度,曇り,強度,眼鏡,掛ける,玉","度 strength(glasses);glasses prescription
+曇り fog(mirror,glasses,)
+強度 strong(glasses)
+眼鏡 glasses;glasses
+掛ける put(glasses,)
+玉 lens(glasses,)",Guess Vocab related to Keyword,Text
+"manuscript","原稿用紙,原稿,古文書,刈り込む,稿,異文","原稿用紙 manuscript paper
+原稿 manuscript
+古文書 old manuscript
+刈り込む prune(manuscript)
+稿 manuscript
+異文 variant(manuscript book)",Guess Vocab related to Keyword,Text
+"mate","大将,仲間,兄弟,片方,大統領,運転士","大将 mate
+仲間 mate
+兄弟 mate
+片方 mate
+大統領 mate
+運転士 mate(ship)",Guess Vocab related to Keyword,Text
+"modest","謙虚,簡素,淑やか,細やか,地味,質素","謙虚 modest
+簡素 modest
+淑やか modest
+細やか modest
+地味 modest
+質素 modest",Guess Vocab related to Keyword,Text
+"penmanship","字,達筆,書家,筆,筆跡,書き方","字 penmanship
+達筆 skillful penmanship
+書家 individual good penmanship
+筆 penmanship
+筆跡 example penmanship
+書き方 penmanship(old textbooks)",Guess Vocab related to Keyword,Text
+"pronunciation","同音,引っ張る,音読,読み方,振り仮名,発音","同音 same pronunciation
+引っ張る lengthen pronunciation(word)
+音読 reading(kanji)Chinese-derived pronunciation
+読み方 pronunciation
+振り仮名 kana printed above next kanji indicate pronun
+発音 pronunciation",Guess Vocab related to Keyword,Text
+"rack","掛け,絞る,台,荷台,搾る,棚","掛け rack
+絞る rack(brains)
+台 rack
+荷台 roof rack
+搾る rack(brains)
+棚 rack",Guess Vocab related to Keyword,Text
+"rare","希少,珍しい,折角,古書,珍,幻","希少 rare
+珍しい rare
+折角 rare
+古書 rare book
+珍 rare
+幻 very rare thing",Guess Vocab related to Keyword,Text
+"reflect","省みる,映す,振り返る,映し出す,顧みる,考える","省みる reflect(,past conduct,)
+映す reflect
+振り返る reflect
+映し出す reflect(times,mood,);reflect(mirror,lake,)
+顧みる reflect
+考える reflect",Guess Vocab related to Keyword,Text
+"surname","同姓,姓,名字,同氏,冒す,苗字","同姓 same surname
+姓 surname
+名字 surname
+同氏 same surname
+冒す assume(else's surname)
+苗字 surname",Guess Vocab related to Keyword,Text
+"swarm","群れる,群れ,群,集る,密集,群がる","群れる swarm
+群れ swarm
+群 swarm
+集る swarm
+密集 swarm
+群がる swarm",Guess Vocab related to Keyword,Text
+"syllabary","仮名,伊呂波,片仮名,平仮名,五十音,仮名遣い","仮名 syllabary(i.e. hiragana,katakana)
+伊呂波 traditional ordering syllabary
+片仮名 angular syllabary primarily loanwords;angular 
+平仮名 cursive syllabary primarily native words(funct
+五十音 syllabary
+仮名遣い syllabary spelling",Guess Vocab related to Keyword,Text
+"void","時効,空虚,虚しい,空白,空しい,無効","時効 becoming invalid void set
+空虚 void
+虚しい void
+空白 void
+空しい void
+無効 void",Guess Vocab related to Keyword,Text
+"orange","オレンジ色,蜜柑,橙色,赤,肌色,袋","オレンジ色 orange(colour,color)
+蜜柑 mandarin orange
+橙色 orange(color,colour)
+赤 red-containing colour(brown,pink,orange)
+肌色 pale orange
+袋 skin orange(other like fruits)",Guess Vocab related to Keyword,Text
+"breach","背任,違反,反則,絶交,破る,隙","背任 breach trust
+違反 breach
+反則 breach
+絶交 permanent breach friendship
+破る breach
+隙 breach(relationship between)",Guess Vocab related to Keyword,Text
+"envelope","表記,包む,封筒,巻く,封じ手,宛名","表記 writing surface(address envelope)
+包む give(money envelope
+封筒 envelope
+巻く envelope
+封じ手 next move written kept sealed envelope until g
+宛名 address(envelope,)",Guess Vocab related to Keyword,Text
+"pray","祈る,願う,祝う,願わくは,籠もる,祭る","祈る pray
+願う pray
+祝う pray
+願わくは pray
+籠もる confine temple pray
+祭る pray",Guess Vocab related to Keyword,Text
+"throat","喉,噛み付く,刺,耳鼻科,奥,突き","喉 throat
+噛み付く jumpthroat
+刺 hard sharp item(lodged throat,fish bone)
+耳鼻科 ear,nose,throat department
+奥 (drawer,throat,)
+突き thrust throat(kendo)",Guess Vocab related to Keyword,Text
+"earnest","切望,懸命,本格的,真剣,切実,真摯","切望 earnest desire
+懸命 earnest
+本格的 earnest
+真剣 earnest
+切実 earnest
+真摯 earnest",Guess Vocab related to Keyword,Text
+"mysterious","怪しい,不可解,謎,不思議,怪奇,神妙","怪しい mysterious
+不可解 mysterious
+謎 mysterious
+不思議 mysterious
+怪奇 mysterious
+神妙 mysterious",Guess Vocab related to Keyword,Text
+"scold","戒める,絞る,叱る,怒る,搾る,決め付ける","戒める scold
+絞る scold
+叱る scold
+怒る scold
+搾る scold
+決め付ける scold",Guess Vocab related to Keyword,Text
+"dice","目,大小,振る,眼,振り出し","目 dot(dice)
+大小 sic bo(Macao dice game)
+振る throw(dice)
+眼 dot(dice)
+振り出し throw(dice)",Guess Vocab related to Keyword,Text
+"japonica","昆布,白樺,山葵,青木,杉","昆布 kombu(usu. Saccharina japonica)
+白樺 white birch(Betula platyphylla var. japonica)
+山葵 wasabi(Wasabia japonica)
+青木 Aucuba japonica
+杉 cedar(Cryptomeria japonica)",Guess Vocab related to Keyword,Text
+"Orient","東西,東邦,東方,東亜,東洋","東西 Orient Occident
+東邦 Orient
+東方 Orient
+東亜 Orient
+東洋 Orient",Guess Vocab related to Keyword,Text
+"accompaniment","妻,乗せる,伴奏,長唄,友","妻 accompaniment
+乗せる (sing)along(musical accompaniment)
+伴奏 (musical)accompaniment
+長唄 long epic song shamisen accompaniment(developed
+友 accompaniment",Guess Vocab related to Keyword,Text
+"attain","入る,悟る,至る,得る,成る","入る attain(nirvana,enlightenment,)
+悟る attain enlightenment
+至る attain
+得る attain;attain
+成る attain",Guess Vocab related to Keyword,Text
+"email","盗聴,電子メール,件,返信,受信","盗聴 interception(email)
+電子メール email
+件 counter accounts(website,email service,)
+返信 reply(email,fax,letter)
+受信 receiving(message,letter,email,)",Guess Vocab related to Keyword,Text
+"enroll","揚げる,連なる,挙げる,上げる,入る","揚げる enroll
+連なる enroll
+挙げる enroll
+上げる enroll
+入る enroll",Guess Vocab related to Keyword,Text
+"fool","回す,１９日,十九日,欺く,間抜け","回す around(chase,fool,play)
+１９日 fool
+十九日 fool
+欺く fool
+間抜け fool",Guess Vocab related to Keyword,Text
+"frost","下りる,降りる,降る,霜,擦る","下りる form(frost,dew,mist,)
+降りる form(frost,dew,mist,)
+降る form(frost)
+霜 frost
+擦る frost(glass)",Guess Vocab related to Keyword,Text
+"greatest","何より,最大,第一,最高峰,随一","何より greatest
+最大 greatest
+第一 greatest
+最高峰 greatest authority
+随一 greatest",Guess Vocab related to Keyword,Text
+"midway","中途,半ば,中間,掛け,途中","中途 midway
+半ば midway
+中間 midway
+掛け midway through
+途中 midway",Guess Vocab related to Keyword,Text
+"motivation","意欲,気合,刺激,気,やる気","意欲 motivation
+気合 motivation
+刺激 motivation
+気 motivation
+やる気 motivation",Guess Vocab related to Keyword,Text
+"multiplication","相乗,段,掛け算,繁殖,増殖","相乗 multiplication
+段 row multiplication table(five times table)
+掛け算 multiplication
+繁殖 multiplication
+増殖 multiplication",Guess Vocab related to Keyword,Text
+"nervous","中枢,上がる,挙がる,神経質,怖がる","中枢 central nervous
+上がる nervous
+挙がる nervous
+神経質 nervous
+怖がる nervous",Guess Vocab related to Keyword,Text
+"obey","守る,従う,赴く,聞く,聴く","守る obey
+従う obey(order,law,)
+赴く obey
+聞く obey
+聴く obey",Guess Vocab related to Keyword,Text
+"percent","１割,割,割り,厘,２割","１割 ten percent
+割 ten percent
+割り ten percent
+厘 0.1 percent(one-hundredth wari)
+２割 20 percent",Guess Vocab related to Keyword,Text
+"queen","王妃,国王,女王,皇后,皇太后","王妃 queen
+国王 queen
+女王 queen
+皇后 queen
+皇太后 Queen Mother",Guess Vocab related to Keyword,Text
+"satellite","通信衛星,人工衛星,月,打ち上げ,衛星","通信衛星 Broadcast Satellite;communication satellite
+人工衛星 artificial satellite;man-made satellite
+月 natural satellite
+打ち上げ launch(rocket,satellite,)
+衛星 (artificial)satellite;(natural)satellite",Guess Vocab related to Keyword,Text
+"solar","雨水,日食,太陽系,太陽電池,大雪","雨水 rain water solar term(approx. February 19)
+日食 solar eclipse
+太陽系 solar
+太陽電池 solar cell
+大雪 major snow solar term(approx. Dec. 7)",Guess Vocab related to Keyword,Text
+"stern","険悪,険しい,出,後部,厳格","険悪 stern(expression)
+険しい stern
+出 highest point stern ship
+後部 stern
+厳格 stern",Guess Vocab related to Keyword,Text
+"tattoo","割く,彫る,入れ墨,裂く,入れる","割く tattoo corner eye
+彫る tattoo
+入れ墨 tattoo(traditional)
+裂く tattoo corner eye
+入れる ink(tattoo)",Guess Vocab related to Keyword,Text
+"vomit","挙げる,吐く,上げる,揚げる,戻す","挙げる vomit
+吐く vomit;vomit
+上げる vomit
+揚げる vomit
+戻す vomit",Guess Vocab related to Keyword,Text
+"tease","弄る,苛める,遊ぶ,構う,食う","弄る tease
+苛める tease
+遊ぶ tease
+構う tease
+食う tease",Guess Vocab related to Keyword,Text
+"bean","大豆,豆腐,豆,餡子,練り","大豆 soya bean(Glycine max)
+豆腐 bean curd
+豆 bean;soya bean(Glycine max)
+餡子 red bean jam;red bean paste
+練り paste(bean paste,mustard paste)",Guess Vocab related to Keyword,Text
+"downward","下り坂,下り,下がり,左遷,曇る","下り坂 downward slope
+下り downward going
+下がり slanting(downward)
+左遷 downward move
+曇る look slightly downward(noh mask",Guess Vocab related to Keyword,Text
+"flame","練る,火,聖火,掲げる,炎","練る thicken paste(stirring flame)
+火 flame
+聖火 Olympic flame;sacred flame
+掲げる fan(flame)
+炎 flame",Guess Vocab related to Keyword,Text
+"moisture","湿気,水分,汗,潤い,水気","湿気 moisture
+水分 moisture
+汗 moisture
+潤い moisture
+水気 moisture",Guess Vocab related to Keyword,Text
+"monetary","賞金,金融,角,厘,円","賞金 monetary award
+金融 monetary
+角 jiao(monetary unit China
+厘 rin(monetary unit
+円 yen(monetary unit)",Guess Vocab related to Keyword,Text
+"erection","建前,勃起,建て前,建立,組み立て","建前 ceremony erection framework house
+勃起 erection(penis)
+建て前 ceremony erection framework house
+建立 erection
+組み立て erection",Guess Vocab related to Keyword,Text
+"nail","大当たり,爪,爪切り,打ち込む,止める","大当たり hitting nail head
+爪 nail(fingernail,toenail)
+爪切り nail clippers
+打ち込む drive(nail,stake,)
+止める nail",Guess Vocab related to Keyword,Text
+"adjacent","密接,接する,隣,近海,隣国","密接 adjacent
+接する adjacent;bring adjacent
+隣 adjacent
+近海 adjacent seas
+隣国 adjacent country",Guess Vocab related to Keyword,Text
+"clique","派,同人,党派,衆,派閥","派 clique
+同人 clique
+党派 clique
+衆 clique
+派閥 clique",Guess Vocab related to Keyword,Text
+"cloud","陰り,曇る,曇り,雲,立てる","陰り cloud
+曇る cloud
+曇り cloud(marble)
+雲 cloud
+立てる raise(cloud dust,)",Guess Vocab related to Keyword,Text
+"considerate","粋,思いやる,暖かい,温かい,親切","粋 considerate
+思いやる considerate
+暖かい considerate
+温かい considerate
+親切 considerate",Guess Vocab related to Keyword,Text
+"de","仮名,士気,横綱,別名,力作","仮名 nom de plume
+士気 esprit de corps
+横綱 crème de la crème
+別名 nom de plume
+力作 tour de force",Guess Vocab related to Keyword,Text
+"deferment","延期,猶予,保留,据え置き,見送り","延期 deferment
+猶予 deferment
+保留 deferment
+据え置き deferment(savings)
+見送り deferment",Guess Vocab related to Keyword,Text
+"distinctive","持ち味,響き,個性的,異色,独自","持ち味 distinctive characteristic(,work,)
+響き sound(distinctive sound object activity,rain,gu
+個性的 distinctive
+異色 distinctive
+独自 distinctive",Guess Vocab related to Keyword,Text
+"energetic","気鋭,元気,盛ん,新鋭,活躍","気鋭 energetic
+元気 energetic
+盛ん energetic
+新鋭 young energetic
+活躍 activity(energetic successful)",Guess Vocab related to Keyword,Text
+"fabrication","捏造,作り話,創作,偽造,虚構","捏造 fabrication
+作り話 fabrication
+創作 fabrication
+偽造 fabrication
+虚構 fabrication",Guess Vocab related to Keyword,Text
+"fare","献立,乗車券,料金,半額,運賃","献立 bill fare
+乗車券 basic fare ticket(valid limited express trains
+料金 fare
+半額 half fare
+運賃 (passenger)fare",Guess Vocab related to Keyword,Text
+"farm","農園,農村,作物,牧場,農場","農園 farm
+農村 farm village
+作物 farm products
+牧場 stock farm;farm(livestock);stock farm;farm(live
+農場 farm(agriculture)",Guess Vocab related to Keyword,Text
+"forbid","戒める,禁じる,止める,封じる,禁ずる","戒める forbid
+禁じる forbid
+止める forbid
+封じる forbid
+禁ずる forbid",Guess Vocab related to Keyword,Text
+"honourable","清貧,潔い,佳作,花道,賞状","清貧 honourable poverty
+潔い honourable(death)
+佳作 honourable mention(honorable)
+花道 honourable end career
+賞状 honourable certificate",Guess Vocab related to Keyword,Text
+"impressive","大層,印象的,堂々,厳か,立派","大層 impressive
+印象的 impressive
+堂々 impressive
+厳か impressive
+立派 impressive",Guess Vocab related to Keyword,Text
+"inauguration","発足,興業,開設,就任,開場","発足 inauguration
+興業 inauguration new industrial enterprise
+開設 inauguration
+就任 inauguration
+開場 inauguration(new building,facility,)",Guess Vocab related to Keyword,Text
+"large-scale","大掛かり,大規模,大作,大々的,大型","大掛かり large-scale
+大規模 large-scale
+大作 large-scale work
+大々的 large-scale
+大型 large-scale",Guess Vocab related to Keyword,Text
+"malice","毒,悪意,針,恨み,悪気","毒 malice
+悪意 malice
+針 malice
+恨み malice
+悪気 malice",Guess Vocab related to Keyword,Text
+"mobilization","総動員,結集,出動,動員,行動","総動員 general mobilization;full mobilization
+結集 mobilization
+出動 mobilization
+動員 mobilization
+行動 mobilization",Guess Vocab related to Keyword,Text
+"ominous","影,不吉,怪しい,不気味,暗雲","影 ominous sign
+不吉 ominous
+怪しい ominous(weather)
+不気味 ominous
+暗雲 ominous indications",Guess Vocab related to Keyword,Text
+"precept","教え,戒め,教訓,無残,訓","教え precept
+戒め precept
+教訓 precept
+無残 breaking religious precept shame
+訓 precept",Guess Vocab related to Keyword,Text
+"steadfast","固い,不動,硬い,堅い,粘り強い","固い steadfast
+不動 steadfast
+硬い steadfast
+堅い steadfast
+粘り強い steadfast",Guess Vocab related to Keyword,Text
+"supplementary","別冊,別館,副,追徴,補正予算","別冊 supplementary volume
+別館 supplementary building
+副 supplementary
+追徴 supplementary charge
+補正予算 supplementary budget",Guess Vocab related to Keyword,Text
+"uniformity","均整,均斉,統一,均一,画一","均整 uniformity
+均斉 uniformity
+統一 uniformity
+均一 uniformity
+画一 uniformity",Guess Vocab related to Keyword,Text
+"infant","小児,乳児,粉ミルク,赤ちゃん,赤ん坊","小児 infant
+乳児 infant(below 1 year old)
+粉ミルク infant formula
+赤ちゃん infant
+赤ん坊 infant",Guess Vocab related to Keyword,Text
+"hobby","弄る,楽しみ,悪戯,娯楽,趣味","弄る hobby
+楽しみ hobby
+悪戯 hobby
+娯楽 hobby
+趣味 hobby",Guess Vocab related to Keyword,Text
+"scorn","買う,侮る,軽蔑,侮蔑,蔑む","買う invite(scorn)
+侮る scorn
+軽蔑 scorn
+侮蔑 scorn
+蔑む scorn",Guess Vocab related to Keyword,Text
+"bark","荒木,鳴き声,身,剥ぐ,皮","荒木 logs bark
+鳴き声 bark
+身 wood(opposed bark)
+剥ぐ bark
+皮 bark",Guess Vocab related to Keyword,Text
+"shame","無残,恥,顔負け,恥さらし,拭う","無残 breaking religious precept shame
+恥 shame
+顔負け put shame
+恥さらし shame
+拭う dispel(shame)",Guess Vocab related to Keyword,Text
+"bet","腐る,賭け,単,掛ける,賭ける","腐る lose bet
+賭け bet
+単 win bet(bet which predicts winner race)
+掛ける bet
+賭ける bet",Guess Vocab related to Keyword,Text
+"drown","打消す,消す,溺れる,打ち消す,紛らす","打消す drown
+消す drown(sound)
+溺れる (nearly)drown
+打ち消す drown
+紛らす drown(sorrows)",Guess Vocab related to Keyword,Text
+"ghost","妖怪,幽霊,化け物,怪談,霊","妖怪 ghost
+幽霊 ghost
+化け物 ghost
+怪談 ghost story
+霊 ghost",Guess Vocab related to Keyword,Text
+"hull","殻,胴,船体,剥く,胴体","殻 hull
+胴 hull(ship)
+船体 hull
+剥く hull
+胴体 hull(boat)",Guess Vocab related to Keyword,Text
+"inconsistency","斑,矛盾,突っ込む,抵触,食い違い","斑 inconsistency
+矛盾 inconsistency
+突っ込む point(inconsistency)
+抵触 inconsistency
+食い違い inconsistency",Guess Vocab related to Keyword,Text
+"kick","飛ぶ,騒ぐ,反動,跳ぶ,蹴る","飛ぶ come flying(punch,kick,)
+騒ぐ kick fuss
+反動 kick
+跳ぶ come flying(punch,kick,)
+蹴る kick",Guess Vocab related to Keyword,Text
+"league","同盟,リーグ戦,里,敵わない,連盟","同盟 league
+リーグ戦 league series;league match;league game
+里 league
+敵わない same league
+連盟 league",Guess Vocab related to Keyword,Text
+"lid","中次ぎ,身,中継ぎ,取れる,蓋","中次ぎ tea container lid same size body
+身 container(opposed lid)
+中継ぎ tea container lid same size body
+取れる come(button,handle,lid,)
+蓋 lid",Guess Vocab related to Keyword,Text
+"ridiculous","有り得ない,滑稽,あり得ない,馬鹿らしい,法外","有り得ない ridiculous
+滑稽 ridiculous
+あり得ない ridiculous
+馬鹿らしい ridiculous
+法外 ridiculous",Guess Vocab related to Keyword,Text
+"sincere","誠実,克明,切実,忠実,真摯","誠実 sincere
+克明 sincere
+切実 sincere
+忠実 sincere
+真摯 sincere",Guess Vocab related to Keyword,Text
+"smash","潰す,割る,大当たり,打ち込む,砕く","潰す smash
+割る smash
+大当たり smash hit
+打ち込む smash
+砕く smash",Guess Vocab related to Keyword,Text
+"stake","掛ける,賭ける,賭け,利害関係,打ち込む","掛ける stake
+賭ける stake
+賭け stake
+利害関係 stake
+打ち込む drive(nail,stake,)",Guess Vocab related to Keyword,Text
+"stature","背,身長,小柄,丈,長身","背 stature;stature
+身長 stature
+小柄 small stature
+丈 stature
+長身 stature",Guess Vocab related to Keyword,Text
+"Zen","挨拶,座禅,禅寺,禅,工夫","挨拶 dialoging(another Zen practitioner ascertain le
+座禅 zazen(seated Zen meditation,usu. cross-legged p
+禅寺 Zen temple
+禅 Zen(Buddhism)
+工夫 dedication spiritual improvement(through Zen me",Guess Vocab related to Keyword,Text
+"nucleus","基幹,主体,中枢,母体,中核,原子核,中堅,核分裂,核","基幹 nucleus
+主体 nucleus
+中枢 nucleus
+母体 nucleus
+中核 nucleus
+原子核 atomic nucleus;nucleus
+中堅 nucleus
+核分裂 karyokinesis(division cell nucleus during mito
+核 nucleus(cultured pearl);nucleus;nucleus(atom);nu",Guess Vocab related to Keyword,Text
+"raid","爆撃,侵略,手入れ,遊撃,攻撃,侵入,襲撃,侵す","爆撃 bombing(raid)
+侵略 raid
+手入れ (police)raid
+遊撃 raid
+攻撃 raid
+侵入 raid
+襲撃 raid
+侵す raid",Guess Vocab related to Keyword,Text
+"recommendation","世話,推薦,提言,勧告,勧め,選奨,推奨,斡旋","世話 recommendation
+推薦 recommendation
+提言 recommendation
+勧告 recommendation
+勧め recommendation
+選奨 recommendation
+推奨 recommendation
+斡旋 recommendation",Guess Vocab related to Keyword,Text
+"escort","警護,見送る,護衛,付添い,付き添い,護送,送る","警護 escort
+見送る escort(home)
+護衛 escort
+付添い escort
+付き添い escort
+護送 escort(under guard)
+送る take escort(somewhere)",Guess Vocab related to Keyword,Text
+"net","蚊帳,自己資本,目,下駄,眼,純益,網","蚊帳 mosquito net
+自己資本 net worth
+目 spacing(between crossed strands net,mesh,)
+下駄 net
+眼 spacing(between crossed strands net,mesh,)
+純益 net profit;net income
+網 net",Guess Vocab related to Keyword,Text
+"scratch","傷付ける,メモ帳,白紙,傷つける,傷,踏切,踏切り","傷付ける scratch
+メモ帳 scratch pad
+白紙 scratch
+傷つける scratch
+傷 scratch
+踏切 scratch
+踏切り scratch",Guess Vocab related to Keyword,Text
+"crew","組み,乗務員,全員,乗員,坊主,乗組員,組","組み crew
+乗務員 crew member
+全員 whole crew
+乗員 crew;crew member
+坊主 crew cut
+乗組員 crew member;crew(ship,airplane,)
+組 crew",Guess Vocab related to Keyword,Text
+"incense","卓,上げる,聞く,聴く,挙げる,揚げる","卓 tabletop incense burner
+上げる offer(incense,prayer,)gods(Buddha,)
+聞く smell(incense)
+聴く smell(incense)
+挙げる offer(incense,prayer,)gods(Buddha,)
+揚げる offer(incense,prayer,)gods(Buddha,)",Guess Vocab related to Keyword,Text
+"suspend","垂らす,休める,下げる,ぶら下げる,掛ける,休む","垂らす suspend
+休める suspend
+下げる suspend
+ぶら下げる suspend
+掛ける suspend
+休む suspend business",Guess Vocab related to Keyword,Text
+"brown","茶,玄米,オリーブ色,茶色,赤,褐色","茶 brown
+玄米 brown rice
+オリーブ色 olive brown
+茶色 light brown;brown
+赤 red-containing colour(brown,pink,orange)
+褐色 dark brown",Guess Vocab related to Keyword,Text
+"clumsy","下手くそ,不味い,怪しい,不器用,重い,臭い","下手くそ clumsy
+不味い clumsy
+怪しい clumsy
+不器用 clumsy
+重い clumsy
+臭い clumsy",Guess Vocab related to Keyword,Text
+"independence","単独,自主,貫く,分立,独立,自立","単独 independence
+自主 independence
+貫く maintain(independence)
+分立 independence
+独立 independence;independence(nation)
+自立 independence",Guess Vocab related to Keyword,Text
+"sick","酔う,吐き気,病人,病気,気持ち悪い,飽きる","酔う feel sick(vehicle)
+吐き気 feeling sick
+病人 sick
+病気 sick head
+気持ち悪い feeling sick
+飽きる sick",Guess Vocab related to Keyword,Text
+"weave","縫う,組織,目,織る,眼,織り","縫う weave way(through crowd)
+組織 weave(fabric)
+目 weave
+織る weave
+眼 weave
+織り weave",Guess Vocab related to Keyword,Text
+"laugh","嘲る,苦笑い,笑い,笑う,殺す,作り笑い","嘲る laugh
+苦笑い strained laugh
+笑い laugh
+笑う laugh
+殺す stifle(yawn,laugh,)
+作り笑い forced laugh",Guess Vocab related to Keyword,Text
+"bulge","はみ出す,盛り上がる,盛り上がり,膨れる,膨らます","はみ出す bulge
+盛り上がる bulge
+盛り上がり bulge
+膨れる bulge
+膨らます bulge",Guess Vocab related to Keyword,Text
+"chant","語る,唱える,博士,詠む,読む","語る chant
+唱える chant
+博士 pitch length marks(accompany Buddhist liturgica
+詠む chant
+読む chant",Guess Vocab related to Keyword,Text
+"dangle","ぶら下がる,下がる,ぶら下げる,垂れる,垂らす","ぶら下がる dangle(eyes);dangle
+下がる dangle
+ぶら下げる dangle
+垂れる dangle
+垂らす dangle",Guess Vocab related to Keyword,Text
+"master's","下がり,修士,挙がる,上がる,修士課程","下がり leaving(master's place home)
+修士 master's(academic degree)
+挙がる serve(master's home)
+上がる serve(master's home)
+修士課程 master's course",Guess Vocab related to Keyword,Text
+"vivid","如実,生々しい,鮮烈,鮮やか,鮮明","如実 vivid depiction
+生々しい vivid(memory,description,)
+鮮烈 vivid
+鮮やか vivid
+鮮明 vivid",Guess Vocab related to Keyword,Text
+"boast","力む,自慢,誇る,威張る,誇り","力む boast
+自慢 boast
+誇る boast
+威張る boast
+誇り boast",Guess Vocab related to Keyword,Text
+"bookstore","書店,立ち読み,古本屋,本屋,書房","書店 bookstore
+立ち読み reading while standing(bookstore,)
+古本屋 secondhand bookstore
+本屋 bookstore
+書房 bookstore",Guess Vocab related to Keyword,Text
+"CE","紀元,高麗,新,弥生,西暦","紀元 CE(Common Era)
+高麗 918-1392 CE)
+新 9-23 CE)
+弥生 Yayoi(ca. 300 BCE-300 CE)
+西暦 CE",Guess Vocab related to Keyword,Text
+"commence","始まる,仕掛ける,興す,始める,就く","始まる commence
+仕掛ける commence
+興す commence
+始める commence
+就く commence",Guess Vocab related to Keyword,Text
+"den","小口,盆,巣,書斎,穴","小口 tiger's den
+盆 gambler's den
+巣 den
+書斎 den
+穴 den",Guess Vocab related to Keyword,Text
+"discretion","遠慮,分別,裁量,物心,適宜","遠慮 discretion
+分別 discretion
+裁量 discretion
+物心 discretion
+適宜 discretion",Guess Vocab related to Keyword,Text
+"ikebana","生花,水揚げ,流派,花,生け花","生花 ikebana
+水揚げ preservation(cut flowers,ikebana)
+流派 (ikebana)
+花 ikebana
+生け花 ikebana",Guess Vocab related to Keyword,Text
+"reluctant","不本意,名残惜しい,嫌,惜しむ,渋る","不本意 reluctant
+名残惜しい reluctant(part)
+嫌 reluctant;reluctant
+惜しむ reluctant
+渋る reluctant",Guess Vocab related to Keyword,Text
+"vain","空しい,無益,空振り,虚しい,駄目","空しい vain
+無益 vain
+空振り vain attempt
+虚しい vain
+駄目 vain",Guess Vocab related to Keyword,Text
+"alcoholic","水割り,当て,酒類,宛,杯","水割り cutting alcoholic beverage(usu. whisky shōchū)
+当て snack served alcoholic drink
+酒類 alcoholic drinks
+宛 snack served alcoholic drink
+杯 cup alcoholic beverages",Guess Vocab related to Keyword,Text
+"digit","数字,指,桁,位,高位","数字 digit
+指 digit
+桁 digit
+位 digit
+高位 high-order(digit,bit,)",Guess Vocab related to Keyword,Text

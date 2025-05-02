@@ -1,0 +1,959 @@
+question,answer,comment,instruction
+"村
+sample words:
+木村蜘蛛
+きゃんぷ村
+村絵図",むら,"村:village, hamlet
+木村蜘蛛(きむらぐも):Heptathela kimurai (species of burrowing spider)
+きゃんぷ村(きゃんぷむら):campsite
+村絵図(むらえず):map of villages (Edo period)",Jouyou. JLPT : N3
+"林
+sample words:
+大林道路
+杉林
+雑木林",はやし,"林:forest
+大林道路(おおばやしどうろ):Obayashi Road Corporation
+杉林(すぎばやし):cryptomeria forest
+雑木林(ぞうきばやし):thicket; copse; coppice; grove of miscellaneous t.",Jouyou. JLPT : N3
+"森
+sample words:
+青森
+青森大学
+大森",もり,"森:woods, grove
+青森(あおもり):Aomori (city, prefecture)
+青森大学(あおもりだいがく):Aomori University
+大森(おおもり):large forest",Jouyou. JLPT : N3
+"石
+sample words:
+石木
+圧し石
+矢石",いし,"石:stone, pebble, rock; jewel; the go playing stones
+石木(いしき):stone tree
+圧し石(おしいし):stone weight
+矢石(やいし):belemnite",Jouyou. JLPT : N3
+"草
+sample words:
+いのころ草
+埋め草
+埋め草文字",くさ,"草:grass; grass hand (writing); weeds; herbs, plants.
+いのころ草(いのころぐさ):spike-eared grass
+埋め草(うめくさ):(page) filler
+埋め草文字(うめくさもじ):padding character",Jouyou. JLPT : N3
+"内
+sample words:
+内気
+内着
+内ぽけっと",うち,"内:inside, interior; house, home; within; between, a.
+内気(うちき):reserved; timid; shy; bashful
+内着(うちぎ):everyday clothes; underwear
+内ぽけっと(うちぽけっと):inside pocket",Jouyou. JLPT : N3
+"光
+sample words:
+光いおん化
+光えこ
+光化",ひかり,"光:shine, glitter, sparkle, twinkle, flash. light, b..
+光いおん化(ひかりいおんか):photoionization
+光えこ(ひかりえこ):light echo
+光化(ひかりか):conversion to fiber optics",Jouyou. JLPT : N3
+"原
+sample words:
+葦原
+島原の乱
+野原",はら,"原:field, plain, prairie, tundra, moor, wilderness
+葦原(あしはら):reed bed
+島原の乱(しまばらのらん):Shimabara Rebellion (1637-1638)
+野原(のはら):plain; moor; prairie; field",Jouyou. JLPT : N3
+"園
+sample words:
+えでんの園
+園生
+竹の園",その,"園:garden, park
+えでんの園(えでんのその):Garden of Eden
+園生(そのう):park; garden (esp. with trees)
+竹の園(たけのその):bamboo garden; Imperial family",Jouyou. JLPT : N3
+"声
+sample words:
+小声
+こもった声
+地声",こえ,"声:voice; tone; alarm, cry; (bird) song, chirp
+小声(こごえ):whisper; low voice
+こもった声(こもったこえ):thick voice
+地声(じごえ):one's natural voice",Jouyou. JLPT : N3
+"市
+sample words:
+市が立つ日
+市日
+夜市",いち,"市:market; fair
+市が立つ日(いちがたつひ):market day
+市日(いちび):market day
+夜市(よいち):night market",Jouyou. JLPT : N3
+"形
+sample words:
+顔形
+形から入る
+形だけ",かたち,"形:shape, form, make, size, format, mark; pattern, d.
+顔形(かおかたち):looks; features
+形から入る(かたちからはいる):to get the trappings right as the first step; to ..
+形だけ(かたちだけ):merely for form's sake",Jouyou. JLPT : N3
+"数
+sample words:
+数ある
+数あれど
+数しれない",かず,"数:number, figure. count, calculate, enumerate
+数ある(かずある):many; numerous
+数あれど(かずあれど):although there are many of them
+数しれない(かずしれない):countless; innumerable",Jouyou. JLPT : N3
+"晴
+sample words:
+さつき晴れ
+晴れ上がる
+晴着",はれ,"晴:clear up; (doubts) vanish; be refreshed. dispel, .
+さつき晴れ(さつきばれ):fine weather during the rainy season
+晴れ上がる(はれあがる):to clear up
+晴着(はれぎ):(one's) best clothes; glad rags; (one's) Sunday b.",Jouyou. JLPT : N3
+"池
+sample words:
+池田銀行
+池谷関彗星
+内池",いけ,"池:pond, pool, cistern, basin, reservoir
+池田銀行(いけだぎんこう):Ikeda Bank
+池谷関彗星(いけやせきすいせい):Comet Ikeya-Seki
+内池(うちいけ):garden pond",Jouyou. JLPT : N3
+"米
+sample words:
+小米蚊帳吊
+小米蚊帳吊
+米粉",こめ,"米:rice
+小米蚊帳吊(こごめかやつり):rice flat sedge (Cyperus iria)
+小米蚊帳吊(こごめがやつり):rice flat sedge (Cyperus iria)
+米粉(こめこ):rice flour",Jouyou. JLPT : N3
+"組
+sample words:
+組み上げる
+びっと組み
+ぺじ組み",くみ,"組:braid, plait; construct; assemble; cross (legs); ...
+組み上げる(くみあげる):to put together; to compose
+びっと組み(びっとくみ):bit combination
+ぺじ組み(ぺじぐみ):paging",Jouyou. JLPT : N3
+"船
+sample words:
+大船に乗る
+刳り船
+小船",ふね,"船:boat, ship, vessel, steamer, liner, barge; shippi.
+大船に乗る(おおぶねにのる):to rest easy; to board a large ship; to gain a re.
+刳り船(くりぶね):dugout canoe
+小船(こぶね):small boat",Jouyou. JLPT : N3
+"門
+sample words:
+腭門
+蟻の門渡り
+鳴門巻",と,"門:gate, door
+腭門(あぎと):branchia; gills; chin; jaw
+蟻の門渡り(ありのとわたり):taint; perineum; very narrow passage
+鳴門巻(なるとまき):kamaboko with a spiral whirlpool-like pattern",Jouyou. JLPT : N3
+"門
+sample words:
+門出
+門火
+口は禍の門",かど,"門:gate, door
+門出(かどで):departure (e.g. for the front); leaving home; sta..
+門火(かどび):fire lit at a gate for funerals, weddings and Obo.
+口は禍の門(くちはわざわいのかど):the more you open your mouth the more likely you ..",Jouyou. JLPT : N3
+"雪
+sample words:
+深雪
+雪降り
+雨混じりの雪",ゆき,"雪:snow, snowfall
+深雪(みゆき):deep snow
+雪降り(ゆきふり):snowfall
+雨混じりの雪(あめまじりのゆき):snow mingled with rain",Jouyou. JLPT : N3
+"頭
+sample words:
+頭そろえ
+頭紐
+頭よい",あたま,"頭:head; brain, mind, intellect; leader; top; head (..
+頭そろえ(あたまそろえ):start-aligned
+頭紐(あたまひも):strap; head harness
+頭よい(あたまよい):bright; intelligent",Jouyou. JLPT : N3
+"頭
+sample words:
+頭字
+頭文字語
+小頭鼠海豚",かしら,"頭:head; brain, mind, intellect; leader; top; head (..
+頭字(かしらじ):first letters; first letter; initial
+頭文字語(かしらもじご):acronym
+小頭鼠海豚(こがしらねずみいるか):cochito; vaquita (Phocoena sinus); gulf porpoise",Jouyou. JLPT : N3
+"首
+sample words:
+首が絞まる
+首ねっこ
+小首",くび,"首:neck, head
+首が絞まる(くびがしまる):to have one's neck wrung
+首ねっこ(くびねっこ):scruff of the neck
+小首(こくび):head",Jouyou. JLPT : N3
+"馬
+sample words:
+あらびあ馬
+馬小屋
+馬の合う",うま,"馬:horse; horseflesh
+あらびあ馬(あらびあうま):Arab (horse)
+馬小屋(うまごや):stable
+馬の合う(うまのあう):to get along well with",Jouyou. JLPT : N3
+"他
+sample words:
+他無い
+他ならない
+他ならぬ",ほか,"他:some other place; outside; the rest
+他無い(ほかない):there is nothing to do but ...; can do nothing bu.
+他ならない(ほかならない):none other than; nothing but
+他ならぬ(ほかならぬ):none other than; nothing but",Jouyou. JLPT : N3
+"係
+sample words:
+係り受け
+係助
+決まり手係",かかり,"係:duty; person in charge; is the work of
+係り受け(かかりうけ):(syntactic) dependency
+係助(かかりじょ):binding particle
+決まり手係(きまりてがかり):coach announcing the winner and winning technique",Jouyou. JLPT : N3
+"君
+sample words:
+君が代蘭
+君の名は
+君等",きみ,"君:you (familiar); ruler
+君が代蘭(きみがよらん):curve-leaf yucca (Yucca recurvifolia)
+君の名は(きみのなは):Your Name (2016 animated film)
+君等(きみら):pals; you lot; you guys; buddies",Jouyou. JLPT : N3
+"命
+sample words:
+命からがら
+命乞
+命綱",いのち,"命:life
+命からがら(いのちからがら):barely escaping alive; for dear life
+命乞(いのちごい):pleading for one's life; begging for one's life
+命綱(いのちづな):safety tether; lifeline; safety rope",Jouyou. JLPT : N3
+"守
+sample words:
+家守",もり,"守:defend, protect; keep, observe, obey; abide by; s..
+家守(やもり):house lizard; gecko",Jouyou. JLPT : N3
+"守
+sample words:
+御守
+守りに入る
+守り抜く",まもり,"守:defend, protect; keep, observe, obey; abide by; s..
+御守(おまもり):charm; amulet
+守りに入る(まもりにはいる):to go on the defensive; to play it safe
+守り抜く(まもりぬく):to protect to the end; to hold fast",Jouyou. JLPT : N3
+"実
+sample words:
+ありの実
+麻実
+木の実",み,"実:ripen; bear fruit. seed, berry, nut, fruit; subst.
+ありの実(ありのみ):pear
+麻実(おのみ):hemp seed
+木の実(きのみ):fruit of a tree; berry; nut",Jouyou. JLPT : N3
+"実
+sample words:
+実しやか
+実に
+実にもって",まこと,"実:ripen; bear fruit. seed, berry, nut, fruit; subst.
+実しやか(まことしやか):credible (e.g. lie); seemingly truthful; plausibl.
+実に(まことに):really; indeed; truly; absolutely; actually; very.
+実にもって(まことにもって):in all sincerity; honestly; truthfully",Jouyou. JLPT : N3
+"宿
+sample words:
+宿替え
+宿引き
+宿屋",やど,"宿:lodge, dwell, live in; roost, be pregnant. keep (...
+宿替え(やどがえ):change of lodgings
+宿引き(やどひき):hotel or lodging house tout
+宿屋(やどや):inn",Jouyou. JLPT : N3
+"庭
+sample words:
+庭木
+庭木戸
+庭下駄",にわ,"庭:yard, courtyard, garden
+庭木(にわき):garden tree
+庭木戸(にわきど):garden gate
+庭下駄(にわげた):garden clogs",Jouyou. JLPT : N3
+"息
+sample words:
+息詰まり
+息の合った
+息の緒",いき,"息:breath, respiration
+息詰まり(いきづまり):stuffiness; choking
+息の合った(いきのあった):in good coordination
+息の緒(いきのお):life",Jouyou. JLPT : N3
+"所
+sample words:
+いい所取り
+居所
+ここん所",とこ,"所:place, spot, scene, site, seat; locality, distric...
+いい所取り(いいとこどり):incorporating the benefits (while ignoring the dr...
+居所(いどこ):place of temporary residence; whereabouts; addres.
+ここん所(ここんとこ):lately; these days; recently",Jouyou. JLPT : N3
+"指
+sample words:
+手の指
+名無し指
+指しゃぶり",ゆび,"指:point to, indicate; name, designate; insert, put ......
+手の指(てのゆび):finger
+名無し指(ななしゆび):ring finger
+指しゃぶり(ゆびしゃぶり):thumb-sucking",Jouyou. JLPT : N3
+"昔
+sample words:
+その昔
+とっくの昔
+昔式",むかし,"昔:antiquity, old times
+その昔(そのむかし):a long time ago; in those days
+とっくの昔(とっくのむかし):long ago; a long time ago
+昔式(むかししき):in ancient style; old fashioned",Jouyou. JLPT : N3
+"様
+sample words:
+お子様連れ
+御陽様
+貴様",さま,"様:situation, circumstances, condition. Mr., Mrs., M.
+お子様連れ(おこさまづれ):parent with child; person bringing along their ch.
+御陽様(おひさま):the Sun
+貴様(きさま):you bastard; you son of a bitch; you",Jouyou. JLPT : N3
+"横
+sample words:
+横木
+横木
+横ずれ断層",よこ,"横:side, flank; horizontal direction; width, breadth.
+横木(よこき):rail; bar; crosspiece
+横木(よこぎ):rail; bar; crosspiece
+横ずれ断層(よこずれだんそう):strike-slip fault",Jouyou. JLPT : N3
+"次
+sample words:
+御次
+この次
+この次から",つぎ,"次:rank next to, come later. next; stage station, st.
+御次(おつぎ):next; next person; room adjoining a noble's parlo.
+この次(このつぎ):next
+この次から(このつぎから):from now on",Jouyou. JLPT : N3
+"歯
+sample words:
+臼歯
+知恵歯
+出歯",は,"歯:tooth, cog, dent
+臼歯(うすば):molar
+知恵歯(ちえば):wisdom tooth
+出歯(でば):overbite; protruding tooth",Jouyou. JLPT : N3
+"港
+sample words:
+港区
+港区女子
+港町",みなと,"港:port, harbor
+港区(みなとく):Minato Ward (Osaka); Minato City (special ward of.
+港区女子(みなとくじょし):Minato girl (young woman who likes spending time .
+港町(みなとまち):harbour city; harbor city; port city",Jouyou. JLPT : N3
+"球
+sample words:
+がらす球
+球菜
+手球",たま,"球:ball, bulb, bowl, sphere
+がらす球(がらすだま):glass marble; glass bead; glass sphere
+球菜(たまな):cabbage
+手球(てだま):cue ball",Jouyou. JLPT : N3
+"由
+sample words:
+候由
+由ありげ
+由有る",よし,"由:reason, cause, significance; means, way; effect; .
+候由(そうろうよし):I hear that ...
+由ありげ(よしありげ):seeming to be with circumstances that are hard to..
+由有る(よしある):of noble birth; of rank",Jouyou. JLPT : N3
+"申
+sample words:
+申楽
+申年
+申の年",さる,"申:have the honor to; say, tell, talk, speak, declar.
+申楽(さるがく):fooling around; sarugaku (form of theatre popular.
+申年(さるどし):year of the Monkey
+申の年(さるのとし):year of the Monkey",Jouyou. JLPT : N3
+"神
+sample words:
+疫病みの神
+神掛けて
+神さん",かみ,"神:God, god, Allah
+疫病みの神(えやみのかみ):god who spreads infectious diseases; god of pesti.
+神掛けて(かみかけて):absolutely; swear by god
+神さん(かみさん):God",Jouyou. JLPT : N3
+"等
+sample words:
+下等
+此方人等
+予等",ら,"等:equal, similar, alike, equivalent
+下等(げら):I; me
+此方人等(こちとら):we; I
+予等(よら):us; we",Jouyou. JLPT : N3
+"等
+sample words:
+原薬等登録原簿",など,"等:equal, similar, alike, equivalent
+原薬等登録原簿(げんやくなどとうろくげんぼ):DMF; drug master file",Jouyou. JLPT : N3
+"箱
+sample words:
+おもちゃ箱
+菓子箱
+小箱",はこ,"箱:box, case, chest, bin, coffer, railway car
+おもちゃ箱(おもちゃばこ):toy chest; toy box
+菓子箱(かしばこ):candy box
+小箱(こばこ):small box; casket",Jouyou. JLPT : N3
+"落
+sample words:
+落穂
+駈け落ち
+手落ち",おち,"落:fall, drop, come down, go down; drip; collapse, c.........
+落穂(おちぼ):fallen ears (of grain); gleanings
+駈け落ち(かけおち):running away with a lover; elopement
+手落ち(ておち):omission; oversight",Jouyou. JLPT : N3
+"葉
+sample words:
+飼い葉
+木の葉木菟
+千葉",は,"葉:leaf, foliage, needle, blade, spear, frond
+飼い葉(かいば):fodder
+木の葉木菟(このはづく):Eurasian scops owl (Otus scops)
+千葉(ちば):Chiba (city, prefecture)",Jouyou. JLPT : N3
+"薬
+sample words:
+胃薬
+下ろし薬
+薬師",くすり,"薬:medicine; glaze, enamel; chemical; gunpower; bene.
+胃薬(いぐすり):stomach medicine
+下ろし薬(おろしぐすり):an abortive
+薬師(くすりし):doctor",Jouyou. JLPT : N3
+"表
+sample words:
+表編み
+表立った
+表だって",おもて,"表:express, show, manifest. appear, emerge, come in ....
+表編み(おもてあみ):plain knitting
+表立った(おもてだった):formal; public; open; official
+表だって(おもてだって):publicly; ostensibly; formally; openly",Jouyou. JLPT : N3
+"路
+sample words:
+小路
+近路
+逃げ路",みち,"路:route, road; distance
+小路(こみち):lane; path; small radius; small diameter
+近路(ちかみち):shortcut; shorter way
+逃げ路(にげみち):way out; means to escape; escape route",Jouyou. JLPT : N3
+"身
+sample words:
+御身
+黄身
+身の毛",み,"身:body; person; the quick; one's station in life; s..
+御身(おみ):you; your body; your health; yourself
+黄身(きみ):egg yolk
+身の毛(みのけ):body hair",Jouyou. JLPT : N3
+"都
+sample words:
+都入り
+都落ち
+都こんぶ",みやこ,"都:capital, metropolis
+都入り(みやこいり):arriving in the capital
+都落ち(みやこおち):leaving (fleeing) the capital
+都こんぶ(みやここんぶ):Miyako Konbu (sweet and sour snack made from drie.",Jouyou. JLPT : N3
+"酒
+sample words:
+お酒
+利き酒
+酒食らい",さけ,"酒:sake, rice wine, alcoholic liquor
+お酒(おさけ):sake; alcohol
+利き酒(ききざけ):sake tasting; wine tasting
+酒食らい(さけくらい):heavy drinker",Jouyou. JLPT : N3
+"面
+sample words:
+絵面
+泣きっ面
+泣き面",つら,"面:face, honor, reputation. surface
+絵面(えづら):impression given by a painting or image
+泣きっ面(なきっつら):tearful face
+泣き面(なきつら):tearful face",Jouyou. JLPT : N3
+"面
+sample words:
+面伏せ
+細面
+矢面",おもて,"面:face, honor, reputation. surface
+面伏せ(おもてぶせ):being so embarrassed as to keep one's face down
+細面(ほそおもて):slender face
+矢面(やおもて):in front of a flying arrow (fired by the enemy); ..",Jouyou. JLPT : N3
+"面
+sample words:
+面舵を取る
+面差
+面白ぐっず",おも,"面:face, honor, reputation. surface
+面舵を取る(おもかじをとる):to steer to starboard
+面差(おもざし):features; looks
+面白ぐっず(おもしろぐっず):fun goods; joke products; novelty items",Jouyou. JLPT : N3
+"付
+sample words:
+焦げ付き
+地付き
+付き添い婦",つき,"付:attach, join, stick, glue, fasten; sew on; furnis.........
+焦げ付き(こげつき):a bad debt
+地付き(じつき):native
+付き添い婦(つきそいふ):practical nurse",Jouyou. JLPT : N3
+"位
+sample words:
+気位
+位付け
+位取り表現",くらい,"位:grade, rank; court order, dignity, nobility; situ.
+気位(きぐらい):haughtiness; pride
+位付け(くらいづけ):ranking; unit
+位取り表現(くらいどりひょうげん):positional representation",Jouyou. JLPT : N3
+"側
+sample words:
+井戸側
+片側
+下側",かわ,"側:a side; surroundings; (watch) case
+井戸側(いどがわ):well curb
+片側(かたがわ):one side
+下側(したがわ):underside",Jouyou. JLPT : N3
+"側
+sample words:
+側板
+側桁
+側の者",がわ,"側:a side; surroundings; (watch) case
+側板(がわいた):slanted staircase beam; side sheet; stringer; sid.
+側桁(がわげた):slanted staircase beam; stringer
+側の者(がわのもの):(one's) peers; people around one",Jouyou. JLPT : N3
+"側
+sample words:
+御側付き
+直ぐ側
+側から",そば,"側:a side; surroundings; (watch) case
+御側付き(おそばづき):servant
+直ぐ側(すぐそば):nearby; close to; right beside
+側から(そばから):as soon as; right after",Jouyou. JLPT : N3
+"共
+sample words:
+がき共
+死なば諸共
+どちら共",とも,"共:both; neither (with neg.); all; and, as well as; .
+がき共(がきども):brats; damn kids
+死なば諸共(しなばもろとも):die all together; go to the grave together
+どちら共(どちらとも):both",Jouyou. JLPT : N3
+"初
+sample words:
+お初徳兵衛
+初顔合わせ
+初きす",はつ,"初:beginning, origin. including, and, as well as. (f..
+お初徳兵衛(おはつとくべえ):The Love Suicides at Sonezaki (play by Chikamatsu..
+初顔合わせ(はつかおあわせ):first contest between; first meeting
+初きす(はつきす):first kiss",Jouyou. JLPT : N3
+"初
+sample words:
+初初しい
+初子
+初陣を飾る",うい,"初:beginning, origin. including, and, as well as. (f..
+初初しい(ういういしい):pure; naive; fresh; unsophisticated; (young and) .
+初子(ういご):first child
+初陣を飾る(ういじんをかざる):to win one's first battle (game, match)",Jouyou. JLPT : N3
+"単
+sample words:
+十二単
+単帯",ひとえ,"単:one, single, simple, singular, individual
+十二単(じゅうにひとえ):twelve-layered ceremonial kimono (worn by a court.
+単帯(ひとえおび):unlined sash",Jouyou. JLPT : N3
+"夫
+sample words:
+夫選び
+夫を立てる
+内縁の夫",おっと,"夫:husband, spouse
+夫選び(おっとえらび):choosing a husband
+夫を立てる(おっとをたてる):to treat one's husband with due respect
+内縁の夫(ないえんのおっと):de facto husband; common-law husband",Jouyou. JLPT : N3
+"戦
+sample words:
+戦斧
+戦場
+負け戦",いくさ,"戦:wage war; fight; engage in a contest; struggle ag.
+戦斧(いくさおの):battleaxe
+戦場(いくさば):battleground; battlefield
+負け戦(まけいくさ):lost battle; losing a battle; battle one cannot w.",Jouyou. JLPT : N3
+"折
+sample words:
+折り入って
+折り敷き
+折戸",おり,"折:break, snap, fracture, knock out (teeth); fold, t....
+折り入って(おりいって):earnestly
+折り敷き(おりしき):kneeling
+折戸(おりど):folding door",Jouyou. JLPT : N3
+"未
+sample words:
+未申
+未年
+未の年",ひつじ,"未:not yet. un-, not
+未申(ひつじさる):southwest
+未年(ひつじどし):year of the Sheep
+未の年(ひつじのとし):year of the Sheep",Jouyou. JLPT : N3
+"末
+sample words:
+議論の末に
+末子
+末頼もしい",すえ,"末:end, close; tip, top; the future; posterity; youn.
+議論の末に(ぎろんのすえに):after a heated discussion
+末子(すえこ):youngest child
+末頼もしい(すえたのもしい):promising (future)",Jouyou. JLPT : N3
+"束
+sample words:
+折れ線束表
+毛束
+束指標",たば,"束:bundle, bunch, sheaf, coil
+折れ線束表(おれせんたばひょう):polyline bundle table
+毛束(けたば):hair tuft; bundle of hair
+束指標(たばしひょう):bundle index",Jouyou. JLPT : N3
+"民
+sample words:
+神の民
+民草
+民草",たみ,"民:people, nation, subjects
+神の民(かみのたみ):the Chosen People; People of God (i.e. Christians.
+民草(たみくさ):people; populace
+民草(たみぐさ):people; populace",Jouyou. JLPT : N3
+"種
+sample words:
+種雄
+種下ろし
+種無し西瓜",たね,"種:seed, kernel; kind, species; quality, tone; mater..
+種雄(たねお):sire (animal breeding)
+種下ろし(たねおろし):sowing
+種無し西瓜(たねなしすいか):seedless watermelon",Jouyou. JLPT : N3
+"要
+sample words:
+要石
+要黐
+肝心要",かなめ,"要:require, need; waylay, ambush. pivot; the main po.
+要石(かなめいし):keystone
+要黐(かなめもち):Japanese photinia (Photinia glabra)
+肝心要(かんじんかなめ):main (point); key; crucial; most important",Jouyou. JLPT : N3
+"達
+sample words:
+あたし達
+子達
+使徒達",たち,"達:reach, arrive at, attain; amount to; become exper.
+あたし達(あたしたち):we; us
+子達(こたち):children
+使徒達(しとたち):the Apostles",Jouyou. JLPT : N3
+"関
+sample words:
+関ゖ原
+関ゖ原の戦
+関路の鳥",せき,"関:concern oneself in, have to do with; affect, infl..
+関ゖ原(せきがはら):Sekigahara (battle site, 1600); critical battle; .
+関ゖ原の戦(せきがはらのたたかい):Battle of Sekigahara (1600)
+関路の鳥(せきじのとり):chicken",Jouyou. JLPT : N3
+"願
+sample words:
+お願い
+願事
+願い下げ",ねがい,"願:desire, wish, hope; beg, implore
+お願い(おねがい):request; wish; favour (to ask); please
+願事(ねがいごと):dream; wish; prayer; one's desire
+願い下げ(ねがいさげ):asking to be excused; cancellation; withdrawal; b.",Jouyou. JLPT : N3
+"夢
+sample words:
+見果てぬ夢
+夢合わせ
+夢落ち",ゆめ,"夢:dream, vision; illusion, delusion; reverie
+見果てぬ夢(みはてぬゆめ):unfulfilled dream; impossible dream; unfinished d.
+夢合わせ(ゆめあわせ):dream reading
+夢落ち(ゆめおち):'it was all a dream'-ending",Jouyou. JLPT : N3
+"妻
+sample words:
+吾妻こと
+切妻屋根
+され妻",つま,"妻:wife, spouse
+吾妻こと(あづまこと):type of coat worn over a kimono; popular in the m.
+切妻屋根(きりづまやね):gabled roof
+され妻(されづま):wife cheated on by her husband",Jouyou. JLPT : N3
+"富
+sample words:
+巨万の富
+富の再分配
+富の分配",とみ,"富:be rich, become wealthy; teem with, abound in; be..
+巨万の富(きょまんのとみ):enormous fortune; great wealth
+富の再分配(とみのさいぶんぱい):redistribution of wealth
+富の分配(とみのぶんぱい):distribution of wealth",Jouyou. JLPT : N3
+"常
+sample words:
+常着
+常ならず
+常に",つね,"常:normal conditions, regular course of events; one'.
+常着(つねぎ):everyday clothes
+常ならず(つねならず):uncharacteristically; unusually
+常に(つねに):always; constantly",Jouyou. JLPT : N3
+"政
+sample words:
+太政
+政所
+政を執る",まつりごと,"政:government, rule
+太政(おおまつりごと):(Japanese) imperial government
+政所(まつりごとどころ):government office related to finances (Kamakura a.....
+政を執る(まつりごとをとる):to administer the affairs of state",Jouyou. JLPT : N3
+"確
+sample words:
+気は確か
+確かな筋
+確かに",たしか,"確:ascertain, confirm, verify; sure, positive; accur...
+気は確か(きはたしか):in one's senses; sane
+確かな筋(たしかなすじ):reliable source
+確かに(たしかに):certainly; surely",Jouyou. JLPT : N3
+"程
+sample words:
+斯かる程に
+毛程
+然程",ほど,"程:limits, limit, extent, degree; moderation; social.
+斯かる程に(かかるほどに):even now
+毛程(けほど):(not even) a little; (not even) a tiny bit
+然程(さほど):(not) that much; (not) very; (not) particularly; .",Jouyou. JLPT : N3
+"罪
+sample words:
+罪無き
+罪のない
+罪人",つみ,"罪:sin, crime, offense, guilt, blame, fault, miscond.
+罪無き(つみなき):innocent; sinless; guilt-free
+罪のない(つみのない):guiltless; innocent
+罪人(つみびと):wrongdoer; sinner; evildoer",Jouyou. JLPT : N3
+"許
+sample words:
+お手許
+御手許金
+其の許",もと,"許:permit, approve; authorize; acknowledge; confide .
+お手許(おてもと):chopsticks
+御手許金(おてもときん):money used for private purposes by the members of.
+其の許(そのもと):you",Jouyou. JLPT : N3
+"供
+sample words:
+小供
+子供達
+子供部屋",とも,"供:offer, sacrifice, dedicte; attendant, companion, .
+小供(こども):child; children
+子供達(こどもたち):children
+子供部屋(こどもべや):child's room; nursery",Jouyou. JLPT : N3
+"値
+sample words:
+値型
+値参照名
+値する",あたい,"値:price, cost, value
+値型(あたいがた):value type
+値参照名(あたいさんしょうめい):value reference name
+値する(あたいする):to be worthy of; to deserve; to be worth; to meri.",Jouyou. JLPT : N3
+"処
+sample words:
+居処
+御処
+それ処か",ところ,"処:manage, deal with; sentence, condemn; act, behave.
+居処(いどころ):place of temporary residence; address; whereabout.
+御処(おところ):your address; your place of residence
+それ処か(それどころか):far from it; if anything; in fact; on the contrar.",Jouyou. JLPT : N3
+"割
+sample words:
+かめら割り
+こま割り
+二割",わり,"割:divide, break, rate, percentage
+かめら割り(かめらわり):camera blocking
+こま割り(こまわり):panel layout
+二割(にわり):20 percent",Jouyou. JLPT : N3
+"否
+sample words:
+否む
+否めない
+否や",いな,"否:no, nay
+否む(いなむ):to refuse; to decline; to deny
+否めない(いなめない):undeniable; cannot deny; incontrovertible
+否や(いなや):no sooner than; as soon as; objection; one way or.",Jouyou. JLPT : N3
+"窓
+sample words:
+がらす窓
+出窓
+ふらんす窓",まど,"窓:window
+がらす窓(がらすまど):glass window
+出窓(でまど):bay window
+ふらんす窓(ふらんすまど):French window",Jouyou. JLPT : N3
+"背
+sample words:
+背が伸びる
+背甲
+背戸",せ,"背:act contrary to, go back on, disobey, defy, rebel...
+背が伸びる(せがのびる):to grow taller (of people)
+背甲(せごう):back
+背戸(せど):back door; back entrance",Jouyou. JLPT : N3
+"背
+sample words:
+背板
+背高泡立草
+背丈",せい,"背:act contrary to, go back on, disobey, defy, rebel...
+背板(せいた):backboard; dorsal plate; tergum
+背高泡立草(せいたかあわだちそう):Canada goldenrod (Solidago canadensis var. scabra.
+背丈(せいたけ):height; stature",Jouyou. JLPT : N3
+"腹
+sample words:
+小腹
+腹がいる
+腹子",はら,"腹:abdomen, belly, bowels, stomach;  heart, mind; in..
+小腹(こばら):abdomen; belly
+腹がいる(はらがいる):to calm down
+腹子(はらこ):roe; fish eggs",Jouyou. JLPT : N3
+"頂
+sample words:
+頂きます
+頂き物
+山の頂",いただき,"頂:be crowned with, wear; live under (a ruler); inst..
+頂きます(いただきます):I receive (this meal); thank you (for the meal ju.
+頂き物(いただきもの):present (that one has received); gift
+山の頂(やまのいただき):mountain top; peak; summit",Jouyou. JLPT : N3
+"娘
+sample words:
+家付きの娘
+生娘
+小娘",むすめ,"娘:daughter, girl, young woman
+家付きの娘(いえつきのむすめ):daughter of the home; unmarried woman who owns (t.
+生娘(きむすめ):innocent young woman; virgin
+小娘(こむすめ):adolescent female; young girl; lass",Jouyou. JLPT : N3
+"寝
+sample words:
+寝掛け
+寝覚め
+寝醒める",ね,"寝:sleep; retire; be bedridden; lie down; lie idle; ..
+寝掛け(ねがけ):half-asleep
+寝覚め(ねざめ):awaken
+寝醒める(ねざめる):to wake up",Jouyou. JLPT : N3
+"寝
+sample words:
+寝穢い
+添寝",い,"寝:sleep; retire; be bedridden; lie down; lie idle; ..
+寝穢い(いぎたない):fast asleep; sound asleep; slovenly; untidy
+添寝(そいね):sleeping together",Jouyou. JLPT : N3
+"彼
+sample words:
+彼なり
+彼ぴ
+彼ぴっぴ",かれ,"彼:he. that, the
+彼なり(かれなり):(in) his way; peculiar to him
+彼ぴ(かれぴ):boyfriend
+彼ぴっぴ(かれぴっぴ):boyfriend; almost boyfriend",Jouyou. JLPT : N3
+"御
+sample words:
+御入り候
+御師
+御曹子",おん,"御:honorific prefixes
+御入り候(おんいりそうろう):to go; to be; to come
+御師(おんし):low-ranking priest
+御曹子(おんぞうし):son of a noble; son of a distinguished family",Jouyou. JLPT : N3
+"御
+sample words:
+御子さん
+御師
+御す文字",お,"御:honorific prefixes
+御子さん(おこさん):child
+御師(おし):low-ranking priest
+御す文字(おすもじ):sushi",Jouyou. JLPT : N3
+"恥
+sample words:
+大恥
+恥入る
+恥らい",はじ,"恥:shame, dishonor, disgrace, humiliation, insult. f..
+大恥(おおはじ):deep embarrassment; harsh humiliation; great disg.
+恥入る(はじいる):to feel deeply ashamed (of)
+恥らい(はじらい):shyness",Jouyou. JLPT : N3
+"杯
+sample words:
+組み杯
+杯事
+杯を差す",さかずき,"杯:wine glass, sake cup; chalice, cup
+組み杯(くみさかずき):a nest of sake cups
+杯事(さかずきごと):exchange of nuptial cups; pledge made over sake c.
+杯を差す(さかずきをさす):to offer a cup (of sake)",Jouyou. JLPT : N3
+"歳
+sample words:
+いい歳して
+大歳
+歳取った",とし,"歳:year, age; time; occasion; opportunity; limit; vi.
+いい歳して(いいとしして):(in spite of) being old enough to know better
+大歳(おおとし):New Year's Eve; Jupiter (planet)
+歳取った(としとった):aged; old (person)",Jouyou. JLPT : N3
+"煙
+sample words:
+煙たい
+煙出し
+煙っぽい",けむ,"煙:smoke, smolder, be smoky; smoky; fumes; spray
+煙たい(けむたい):uncomfortable; awkward; ill at ease; smoky
+煙出し(けむだし):chimney
+煙っぽい(けむっぽい):smoky",Jouyou. JLPT : N3
+"煙
+sample words:
+煙水晶
+煙り出し
+煙を吐く",けむり,"煙:smoke, smolder, be smoky; smoky; fumes; spray
+煙水晶(けむりずいしょう):smoky quartz; morion; cairngorm
+煙り出し(けむりだし):chimney
+煙を吐く(けむりをはく):to emit smoke",Jouyou. JLPT : N3
+"猫
+sample words:
+あんごら猫
+しゃむ猫
+猫要らず",ねこ,"猫:cat
+あんごら猫(あんごらねこ):Angora cat
+しゃむ猫(しゃむねこ):Siamese cat
+猫要らず(ねこいらず):rat poison",Jouyou. JLPT : N3
+"皆
+sample words:
+皆様
+皆さん
+皆皆",みな,"皆:all, everybody, everything
+皆様(みなさま):everyone
+皆さん(みなさん):all; everybody; everyone
+皆皆(みなみな):everybody; everything; all; everyone",Jouyou. JLPT : N3
+"緒
+sample words:
+緒を開く",いとぐち,"緒:cord, strap, thong; clog cord; string
+緒を開く(いとぐちをひらく):to make a beginning; to find a clue",Jouyou. JLPT : N3
+"緒
+sample words:
+緒締め
+花緒
+四つの緒",お,"緒:cord, strap, thong; clog cord; string
+緒締め(おじめ):drawstring on pouch or purse (handbag); string-fa.
+花緒(はなお):sandal strap; geta strap
+四つの緒(よつのお):4-stringed biwa (Oriental lute)",Jouyou. JLPT : N3
+"舞
+sample words:
+舞手
+きりきり舞い
+鷲は舞い降りた",まい,"舞:dance; flutter about, flit; circle, wheel. dancin.
+舞手(まいて):dancer
+きりきり舞い(きりきりまい):going round and round; whirling; rushing a person..
+鷲は舞い降りた(わしはまいおりた):The Eagle Has Landed (1975 novel by Jack Higgins)",Jouyou. JLPT : N3
+"途
+sample words:
+冥き途
+使い途",みち,"途:way, road
+冥き途(くらきみち):realm of the dead; Hades; underworld; other world
+使い途(つかいみち):way to use something; objective; utility; purpose",Jouyou. JLPT : N3
+"阪
+sample words:
+大阪
+大阪機工
+大阪市",さか,"阪:slope
+大阪(おおさか):Osaka (city, prefecture)
+大阪機工(おおさかきこう):OKK Corporation
+大阪市(おおさかし):Osaka city",Jouyou. JLPT : N3
+"靴
+sample words:
+木靴
+靴拭き
+靴ぶらし",くつ,"靴:shoes, boots
+木靴(きぐつ):clogs; wooden shoes
+靴拭き(くつふき):doormat
+靴ぶらし(くつぶらし):shoe brush",Jouyou. JLPT : N3
+"髪
+sample words:
+髪ごむ
+髪をとかす
+地髪",かみ,"髪:the hair
+髪ごむ(かみごむ):hair tie
+髪をとかす(かみをとかす):to comb (one's hair)
+地髪(じがみ):natural hair",Jouyou. JLPT : N3

@@ -1,0 +1,563 @@
+"Question","Answer","Comment","Instruction"
+"heartbroken; crestfallen; dejected; disa
+||が○○○||だよ。
+彼は||が○○○||となりひざをついた。
+彼は||が○○○||ひざをついた。","がっくり","heartbroken; crestfallen; dejected; disappointed","Guess the adverb"
+"firmly; solidly; sturdily; strongly; tou
+||が○○○||した体格してるわよ。
+そのスポーツ選手は||が○○○||した体格をしていた。
+トムは||が○○○||した手をしている。","がっしり,がっちり","firmly; solidly; sturdily; strongly; toughly","Guess the adverb"
+"solid; robust; well-built; tight; taut; 
+||が○○○||組んで助け合わねばならない。
+ジョンは、日本でソフトウェア会社のマネージャーをしていました。彼はハワイ出身の日本人で、カッコよくて色黒。||が○○○||とした体つきでした。
+彼は背が高く骨組みの||が○○○||した人だ。","がっちり,がっしり","solid; robust; well-built; tight; taut; shrewd; calculating; astute","Guess the adverb"
+"in an instant; in a flash; in the blink 
+||あ○○○○○○||逃げてしまった。
+消防士は||あ○○○○○○||火を消した。
+秋は||あ○○○○○○||過ぎ去った。
+お休みは||あ○○○○○○||終わってしまった。
+彼が||あ○○○○○○||飛び出しました。
+楽しい時って、||あ○○○○○○||時間過ぎちゃうんだよね。","あっというまに,あっという間に","in an instant; in a flash; in the blink of an eye; in no time at all; just like that","Guess the adverb"
+"easily; readily; quickly; flatly (refuse
+彼は||あ○○○||罪を白状した。
+彼はその問題を||あ○○○||解いた。
+彼女は||あ○○○||と答えた。","あっさり","easily; readily; quickly; flatly (refuse); lightly (seasoned food, applied make-up, etc.); plainly; simply","Guess the adverb"
+"quiet (place); still; silent; deserted; 
+ここの夜は||ひ○○○||としています。
+||ひ○○○||とした夜だった。
+二人の姉妹は||ひ○○○||と暮らしていた。
+その将軍は退役後||ひ○○○||余生を送った。","ひっそり","quiet (place); still; silent; deserted; inconspicuously; modestly; quietly","Guess the adverb"
+"perhaps; maybe; possibly
+アリスは||ひ○○○○○○||来るかもしれない。
+||ひ○○○○○○||彼は来るだろう。
+||ひ○○○○○○||明日は雨かもしれない。","ひょっとすると","perhaps; maybe; possibly","Guess the adverb"
+"wet through; drenched
+トムが汗||び○○○○||になり始めたんだ。
+トムは汗||び○○○○||だった。
+夕立にあって||び○○○○||ぬれた。","びっしょり","wet through; drenched","Guess the adverb"
+"closely (packed, lined up, etc.); tightl
+ボイラは湯あかが||び○○○||ついた。","びっしり","closely (packed, lined up, etc.); tightly; densely; (work) sufficiently","Guess the adverb"
+"(tear) to pieces; (rip) apart; (rip) up;
+彼と一緒に撮った写真を、||び○○○||に破いた。
+彼女は彼の手紙を||び○○○||に引き裂いた。
+彼女は手紙を||び○○○||に破いた。","びりびり","(tear) to pieces; (rip) apart; (rip) up; (rip) open; feeling an electric shock; with a rattle; with a shudder; trembling","Guess the adverb"
+"hopping; skipping; lightly and repeatedl
+とてもうれしそうに||ぴ○○○○○||跳ねて出ていった。
+灰色をしたうさぎが姿を見せたので近寄ろうとすると、||ぴ○○○○○||とまた林の中へ駆けていった。
+黒い小猫が||ぴ○○○○○||と水溜をさけて、隣の生垣の下をくぐった。","ぴょんぴょん","hopping; skipping; lightly and repeatedly jumping","Guess the adverb"
+"with a rip; with a ripping sound; with a
+あまりタカシに近づかない方がいいぞ。明日仕事の面接があるとかで、すごく||ぴ○○○||してるんだ。
+コーラを飲んだら舌が||ぴ○○○||した。","ぴりぴり","with a rip; with a ripping sound; with a tearing sound; with a shrill sound (of a whistle); with a sting; with a tingle; with a burn; smartingly; nervously; tensely; (while) on edge; quiveringly; tremblingly","Guess the adverb"
+"gently (raining); drizzling
+今日は一日中雨が||し○○○||降っていた。
+電車に乗ったころは||し○○○||という感じであった雨が、今はざあざあと降っている。","しとしと","gently (raining); drizzling","Guess the adverb"
+"always; all the time; constantly; freque
+ここには、||し○○○○○||来るよ。
+トムは||し○○○○○||風邪引いてるんだ。
+女房には||し○○○○○||嘘をついてた。","しょっちゅう","always; all the time; constantly; frequently; often","Guess the adverb"
+"downheartedly; dejectedly; dispiritedly;
+彼は||し○○○○||して、哀れに見えた。
+彼女は今日、||し○○○○||している。","しょんぼり","downheartedly; dejectedly; dispiritedly; despondently","Guess the adverb"
+"exactly; perfectly
+田中さんとこの息子さん、いつも||き○○○||挨拶してくれるし、この間は荷物を運ぶのも手伝ってくれたの。
+靴を脱いだら||き○○○||揃えておきなさい。","きちっと,きちんと,きっちり","exactly; perfectly","Guess the adverb"
+"properly; accurately; exactly; precisely
+トムって、||き○○○||してるね。
+列になって||き○○○||戸口まで歩きなさい。
+最後ぐらい||き○○○||決めろ。","きちんと,きちっと","properly; accurately; exactly; precisely; regularly; neatly; tidily; orderly","Guess the adverb"
+"exactly; precisely; punctually; on the d
+弁償代||き○○○||耳そろえて払わんかい。
+彼女は入ってから||き○○○||ドアを閉めた。
+私は||き○○○||３時間待った。","きっちり,きちっと,きちんと","exactly; precisely; punctually; on the dot; closely; tightly; (fitting) perfectly; properly; without fail","Guess the adverb"
+"surely; undoubtedly; almost certainly; m
+あっ、電話だわ。||き○○||真知子でしょう。
+あなたは||き○○||成功されると思っています。
+あれは||き○○||校長先生だ。","きっと,てっきり","surely; undoubtedly; almost certainly; most likely (e.g. 90 percent); sternly; severely; having no slack; rigid; stiff; tight; suddenly; abruptly; instantly","Guess the adverb"
+"clearly; plainly; distinctly; decisively
+「いやだ」と||き○○○||した態度でこたえた。
+彼は彼らと||き○○○||と別れた。
+彼は私達の頼みを||き○○○||と断った。
+これを最後に||き○○○||酒をやめます。
+どうか||き○○○||と決心してください。","きっぱり,はっきり","clearly; plainly; distinctly; decisively; flatly; definitely; resolutely","Guess the adverb"
+"tightly (packed); densely; closely; cram
+エレベーターに||ぎ○○○||いっぱいに乗った。
+引き出しはがらくたで||ぎ○○○||詰まっている。
+彼は棚に本を||ぎ○○○||詰め込んだ。","ぎっしり","tightly (packed); densely; closely; crammed","Guess the adverb"
+"tightly (hold, squeeze, etc.); firmly; f
+||ぎ○○○||抱きしめて。
+彼女を||ぎ○○○||抱きしめた。
+母親は何も言わずにただ||ぎ○○○||娘を抱きしめた。","ぎゅっと,しっかり","tightly (hold, squeeze, etc.); firmly; forcefully (e.g. push); hard","Guess the adverb"
+"being startled
+彼はその爆発に||ぎ○○○||した。
+彼はその物音に||ぎ○○○||なった。
+彼は騒音に||ぎ○○○||した。","ぎょっと,ドキッと","being startled","Guess the adverb"
+"a tiny bit; just a smidgin; a wee bit; v
+||ち○○○○||切ない朝を迎えました。
+||ち○○○○||退屈だ。
+彼はウイスキーを||ち○○○○||飲んだ。
+私は||ち○○○○||悲しい。","ちょっぴり","a tiny bit; just a smidgin; a wee bit; very slightly","Guess the adverb"
+"at a glance; by accident
+彼は彼女を||ち○○○||見た。
+私はバスから彼を||ち○○○||見た。
+私は角を曲がる彼の姿を||ち○○○||見た。","ちらっと","at a glance; by accident","Guess the adverb"
+"with a tinkle; with a jingle; with a whi
+僕は犬に||ち○○○||を教えた。
+動き出すとき、ベルが「||ち○○○||」と鳴る。だから、||ち○○○||電車。
+犬は||ち○○○||をやめて四つ足に戻った。","ちんちん","with a tinkle; with a jingle; with a whistle (of a kettle)","Guess the adverb"
+"surely; certainly; without doubt
+||て○○○||ずっと日本にいるかと思ったよ。
+||て○○○||参加してくれるものだと思ってました。
+彼女のことは遊びなんだと、||て○○○||。","てっきり,きっと","surely; certainly; without doubt","Guess the adverb"
+"carelessly; thoughtlessly; inadvertently
+||う○○○||ミスしちゃった。
+||う○○○||忘れてたんだよ。
+||う○○○||言い間違えただけだよ。
+私はちょっと||う○○○||していた。","うっかり","carelessly; thoughtlessly; inadvertently","Guess the adverb"
+"falling into a doze; dozing off; nodding
+シンディは卒業試験の最中に||う○○○||してしまった。
+彼はつい||う○○○||とした。
+彼は一日中||う○○○||していた。","うとうと","falling into a doze; dozing off; nodding off","Guess the adverb"
+"tedious; boring; being fed up with
+あーあ、この長雨にはもう、||う○○○||。
+あいつの話を聞くと全く||う○○○||する。
+毎晩の外食に||う○○○||だ。
+ファーストフードには||う○○○||だよ。
+みんなね、トムに||う○○○||してるんだよ。
+林檎ジュースにはもう||う○○○||してるの。","うんざり","tedious; boring; being fed up with","Guess the adverb"
+"at last; finally; barely; narrowly; just
+||や○○||、自分がやりたいことができる。
+||や○○||揺れが収まった。
+||や○○||救急車が来たよ。","やっと","at last; finally; barely; narrowly; just; by the skin of one's teeth","Guess the adverb"
+"as expected; sure enough; just as one th
+||や○○○||お前が頼りやわ！
+||や○○○||何とかやってのけたね。
+||や○○○||納豆はおいしいですね。","やっぱり,やはり","as expected; sure enough; just as one thought; after all (is said and done); in the end; as one would expect; in any case; too; also; as well; likewise; (not) either; still; as before; all the same; even so; still; nonetheless","Guess the adverb"
+"(slowly and) carefully; without haste; t
+彼は自分の不運について||じ○○○||考えた。
+物事を||じ○○○||考える慎重派です。
+私は自分の将来について||じ○○○||考えた。","じっくり","(slowly and) carefully; without haste; thoroughly; deliberately; closely; meticulously","Guess the adverb"
+"motionlessly (e.g. stand, wait); (be) st
+彼は私の腕をつかんで私の目を||じ○○||見た。
+彼は私を||じ○○||見た。
+彼は険しい斜面を||じ○○||見た。","じっと","motionlessly (e.g. stand, wait); (be) still; fixedly (e.g. gaze, stare); intently (e.g. listen, think); patiently (endure); stoically; firmly (e.g. hold); restrained","Guess the adverb"
+"all; completely; totally; entirely; thor
+さあ、||す○○○||打ち明けなさい。
+ジョーはその女の子に||す○○○||参っている。
+||す○○○||お膳立てができている。
+||す○○○||変えられた。
+||す○○○||忘れちゃった。
+彼女は||す○○○||本に夢中になっている。","すっかり,そっくり","all; completely; totally; entirely; thoroughly","Guess the adverb"
+"refreshingly; with a feeling of relief; 
+コーヒー１杯で頭が||す○○○||したよ。
+それから||す○○○||きれいにしてくれ。
+散歩して頭を||す○○○||させてくるよ。
+今は||す○○○||した気分です。","すっきり","refreshingly; with a feeling of relief; pleasantly; (a weight) off one's shoulder; shapely; neatly; refinedly; cleanly; without trouble; clearly; plainly; distinctly; completely; thoroughly; not at all (with negative sentence); not even slightly","Guess the adverb"
+"straight; quickly; directly; all of a su
+カタツムリが||す○○||角を出した。
+彼の首筋を血が||す○○||伝った。
+彼はそのけばけばしいシャツを||す○○||着た。","すっと","straight; quickly; directly; all of a sudden; quietly; gently; softly","Guess the adverb"
+"lively; energetic; full of life; vigorou
+あの魚屋では||ぴ○○○||生きている魚を売っている。
+彼はまだ||ぴ○○○||している。","ぴんぴん","lively; energetic; full of life; vigorously (jumping, flopping, etc.); piercing (e.g. sound); penetrating; grating","Guess the adverb"
+"softly; gently; lightly
+となりの山田さんに貰ったパンは||ふ○○||とした食感で、固いパンが好きなお父さんの好みには合わないようだった。
+飛行機は優しく||ふ○○||と日本の大地に触れ、速度を落としながら滑走路を走っていった。","ふわり,ふんわり","softly; gently; lightly","Guess the adverb"
+"slowly; unhurriedly; without haste; leis
+もう少し、||ゆ○○○||歩いてくれる？
+もう少し||ゆ○○○||しよう。
+分かるようにもっと||ゆ○○○||話して。
+トムは||ゆ○○○||とドアを開けた。
+夏休みには||ゆ○○○||休むつもりです。","ゆっくり","easily (e.g. in time); slowly; unhurriedly; leisurely; at one's leisure; sufficiently","Guess the adverb"
+"distinctly (standing out); clearly; in s
+その山||く○○○||と青空に浮き出ている。
+その木は空に||く○○○||と浮かび上がっていた。
+青空を背景にその塔が||く○○○||見えた。","くっきり","distinctly (standing out); clearly; in sharp relief; boldly","Guess the adverb"
+"soundly (sleeping); fast (asleep)
+||ぐ○○○||おやすみ、ティミー。
+その疲れている少年は||ぐ○○○||眠っている。
+子猫は||ぐ○○○||と眠った。
+俺は||ぐ○○○||だったみたい。
+火事になった時、彼は||ぐ○○○||眠っていた。
+赤ん坊は||ぐ○○○||と眠っていた。","ぐっすり","soundly (sleeping); fast (asleep)","Guess the adverb"
+"limply; wearily; listlessly; languidly; 
+あまりの暑さに、猫が床に||ぐ○○○||と寝そべっている。
+娘が熱で||ぐ○○○||してしていて、とても苦しそうだ。
+私たちは５時間の旅で||ぐ○○○||してしまった。","ぐったり","limply; wearily; listlessly; languidly; exhaustedly; unenergetically","Guess the adverb"
+"deeply (sigh); with a feeling of relief;
+この知らせを聞いてすごく||ホ○○||しました。
+とても||ホ○○||する場所です。
+もめ事が片付いて||ホ○○||しました。
+トムは||ほ○○||したようだ。
+||ほ○○||したようだね。
+誰もが||ほ○○||した。","ホッと,ほっと","deeply (sigh); with a feeling of relief; with a sigh of relief","Guess the adverb"
+"slightly; faintly
+あからさまなのよりこういう||ほ○○○||したのの方がエロスを感じるね。
+んじゃ、||ほ○○○||・・・実力を出しましょうかね。
+湯あがりの化粧をした顔には、||ほ○○○||と赤みを帯びて、見ちがえるほど美しかった。","ほんのり","slightly; faintly","Guess the adverb"
+"in a daze; absent-mindedly; vacantly; ab
+お前、何だか||ボ○○○||してるよ。
+||ボ○○○||してないで、食べなよ。
+あの子は||ぼ○○○||しているようだ。
+ごめん、||ぼ○○○||してた。
+ちょっと||ぼ○○○||していました。","ボーっと,ぼーっと","in a daze; absent-mindedly; vacantly; abstractedly; blankly; idly; dimly; hazily; faintly; vaguely; indistinctly; with a roar (of flames); with a whoosh; flaring up","Guess the adverb"
+"continuously; the whole time; all the wa
+トムはメアリーのことばかり||ず○○○||考え過ぎてるよ。
+前より||ず○○○||良くなっていますよ。","ずーっと,ずっと","continuously; the whole time; all the way; throughout; much (more); (by) far; far and away; a lot; a great deal; far (away); long (ago, before, after); straight; directly","Guess the adverb"
+"with a tap; with a knock; with a knockin
+トムはメアリーのドアを||と○○○||と叩いた。
+彼は賭けをやって||と○○○||に終わった。
+登夢は真理の扉を||と○○○||と叩いた。
+彼女は指でテーブルを||と○○○||たたいた。
+彼は窓を||と○○○||たたいた。","とんとん","with a tap; with a knock; with a knocking sound; with a rap-tap; smoothly (proceed); without a hitch; without delay","Guess the adverb"
+"being startled; getting a shock
+彼女のクールな視線に、俺は||ド○○○||した。","ドキッと,ぎょっと","being startled; getting a shock","Guess the adverb"
+"bursting out (laughter); breaking out (a
+彼の冗談に彼らはみんな||ど○○||笑い出した。
+彼らはみな||ど○○||笑った。
+彼女は涙が||ど○○||あふれた。","どっと","bursting out (laughter); breaking out (applause); roaring; whooping; in a rush; in a surge; flooding in; pouring in; suddenly; all of a sudden","Guess the adverb"
+"stealthily; secretly; in secret
+彼は||こ○○○||ささやいた。
+彼はそのことを私に||こ○○○||話してくれた。
+彼は誰にも見られずに||こ○○○||家を出た。","こっそり","stealthily; secretly; in secret","Guess the adverb"
+"all; altogether; entirely; completely
+彼はおやじに||そ○○○||だ。
+彼はまったく母親に||そ○○○||だ。
+私には||そ○○○||の双子がいます。","そっくり,すっかり","all; altogether; entirely; completely","Guess the adverb"
+"softly; gently; quietly; lightly; stealt
+||そ○○||しておやりなさいよ！
+彼は||そ○○||しておいてやろう。
+母親は赤ちゃんをベッドに||そ○○||寝かせた。","そっと","softly; gently; quietly; lightly; stealthily; secretly; in secret","Guess the adverb"
+"dimly; faintly; indistinctly; vaguely; a
+彼女は||ぼ○○○||と窓の外を眺めていた。
+彼女は||ぼ○○○||顔をしている。
+霧のため山の輪郭が||ぼ○○○||していた。","ぼんやり","dimly; faintly; indistinctly; vaguely; absentmindedly; vacantly; carelessly; idly; aimlessly","Guess the adverb"
+"vacantly; blankly; absentmindedly; openm
+その子は口を||ぽ○○||と開けて私を見つめた。
+||ぽ○○||と花を眺めながら、人間も、本当によいところがある、と思った。花の美しさを見つけたのは、人間だし、花を愛するのも人間だもの。
+彼は||ぽ○○||とした顔つきでそこに立っていた。","ぽかん","vacantly; blankly; absentmindedly; openmouthed; with one's mouth wide-open; gaping; flabbergasted; with a whack; with a thump","Guess the adverb"
+"drumming (noise); beating; pounding; ban
+||ど○○○||改悪するなあ。
+改良が進むとパンは||ど○○○||おいしくなる。
+状況は||ど○○○||悪化してます。
+お湯が沸騰して||ど○○○||なくなっているよ。
+この調子で||ど○○○||行っちゃおう。
+遠慮しないで||ど○○○||食べな。","どんどん","drumming (noise); beating; pounding; banging; booming; stamping; rapidly; quickly; steadily; continuously; one after the other; in succession","Guess the adverb"
+"a short while ago; a moment ago; just no
+||さ○○||まであんなにいいお天気だったのに。
+トムはつい||さ○○||までここにいたよ。
+頼まれたの、||さ○○||終わったところだよ。","さっき","a short while ago; a moment ago; just now; some time ago","Guess the adverb"
+"quickly; promptly; immediately; without 
+||さ○○○||宿題をやりなさい。
+彼らは立腹して||さ○○○||立ち去っていった。
+私の兄は宿題を||さ○○○||済ませた。","さっさと,さっと","quickly; promptly; immediately; without delay; briskly; hurriedly; hastily; indifferently; coldly","Guess the adverb"
+"quickly (esp. actions); suddenly (esp. w
+その男は床にど||さ○○||倒れた。
+次郎は服に||さ○○||ブラシをかけた。
+頭上の雲が||さ○○||流れていった。","さっと,さっさと,","quickly (esp. actions); suddenly (esp. wind, rain, etc.)","Guess the adverb"
+"completely; entirely; feeling refreshed;
+君が言うことは||さ○○○||分からない。
+理由が||さ○○○||分からないんだよ。
+私はゴルフのやり方は||さ○○○||わからない。
+||さ○○○||わからなかった。
+その説明書の意味が||さ○○○||分かりません。
+ほんの一寝入りしたら、||さ○○○||した。","さっぱり","completely; entirely; feeling refreshed; feeling relieved; neat; tidy; clean; frank; open-hearted; plain; simple; light","Guess the adverb"
+"sullenly; taciturnly; morosely; gloomily
+彼女は||む○○○||とした表情を浮かべていた。","むっつり","sullenly; taciturnly; morosely; gloomily; silently","Guess the adverb"
+"remarkably; noticeably; considerably; ap
+||め○○○||寒くなった。
+||め○○○||春らしくなったね。
+父は病後、||め○○○||老け込んでしまった。","めっきり","remarkably; noticeably; considerably; appreciably","Guess the adverb"
+"only; merely; but; no more than
+私の伯母は、無料ハワイ旅行に当||た○○||。
+私は、彼が||た○○||今部屋から出るのを見た。
+私は||た○○||３ドルしか使わなかった。","たった","only; merely; but; no more than","Guess the adverb"
+"loosely; with room to spare; with enough
+そのための時間は||た○○○||ありますよ。
+トムは自信||た○○○||だ。
+まだ、時間は||た○○○||あるよ。
+彼女はお色気||た○○○||だ。
+時間は||た○○○||あった。
+食事をする時間は||た○○○||ある。","たっぷり","a good (e.g. two weeks, ten kilometres); a full; at least; no less than; loosely; with room to spare; with enough space; (large) enough; plentifully; amply; abundantly; copiously; generously; fully; a lot","Guess the adverb"
+"at leisure; in a relaxed manner; in a ca
+||の○○○||いこうよ。
+||の○○○||してるよ。
+今年の年末年始は、家で||の○○○||過ごすわ。
+退職後は田舎で||の○○○||暮したい。","のんびり","at leisure; in a relaxed manner; in a carefree manner; quietly; peacefully","Guess the adverb"
+"(some) more; even more; longer; further
+||も○○||注意して仕事をしなさい。
+||も○○||注意しないと間違えるよ。
+||も○○||注意すればよかったのに。","もっと","(some) more; even more; longer; further","Guess the adverb"
+"roughly; approximately; round about; mor
+彼女は彼からの手紙に||ざ○○||目を通した。
+彼女は雑誌に||ざ○○||目を通した。
+父は新聞に||ざ○○||目をとおした。","ざっと","roughly; approximately; round about; more or less; cursorily; briefly; quickly; lightly; roughly","Guess the adverb"
+"suddenly; in a flash; rapidly; nimbly; a
+実験の結果は今ひとつ||ぱ○○||しなかった。
+彼は||ぱ○○||後ずさりした。
+社員旅行の予定、あまり||ぱ○○||しないよ。
+彼の顔は||パ○○||明るくなった。
+明かりが||パ○○||ついた。
+正直どいつもこいつも||パ○○||しない。","ぱっと,パッと","suddenly; in a flash; rapidly; nimbly; alertly; attractive; distinguished; showy; catching","Guess the adverb"
+"(not) at all; (not) a bit; (not) in the 
+この風邪、||ち○○○||治らないんだ。
+||ち○○○||気にしてない。
+私には||ち○○○||わからん。","ちっとも","(not) at all; (not) a bit; (not) in the least; (not) in the slightest","Guess the adverb"
+"diligently; seriously; earnestly; reliab
+うちのワン||ち○○○||は同じ部屋で寝てるの。
+||ち○○○||したアリバイがあるじゃん。
+||ち○○○||聞いて。そういう事じゃなくて。","ちゃんと,せっせと","diligently; seriously; earnestly; reliably; steadily; legitimately; perfectly; properly; exactly; orderly; punctually; regularly; safely; in good condition; sufficiently; satisfactorily; quickly","Guess the adverb"
+"flaring up; burning hotly; suddenly beco
+彼女その瞬間に||カ○○||なったんだね。
+彼女はごくささいなことで||カ○○||なった。
+彼女はしょっちゅう||カ○○||なった。","カッと","flaring up; burning hotly; suddenly becoming bright; flying into a rage; losing one's cool; opening suddenly and widely (e.g. eyes, mouth); acting resolutely","Guess the adverb"
+"prickling; stinging; biting; tale-tellin
+いつも妙||ち○○||んなことばっかり書いてるもんだから、きっとコメントしにくいんだわ！
+この服、ちょっと私にはちん||ち○○||んかしら？","ちくり","prickling; stinging; biting; tale-telling; tattling","Guess the adverb"
+"one size (larger or smaller)
+歳は||ひ○○○||くらい離れてたかな。
+トムはメアリーより||一○○||上よ。
+||一○○||小さいのが要るんです。
+女房の手は店員さんより||一○○||小さい。","ひとまわり,ひと回り,一回り","one size (larger or smaller)","Guess the adverb"
+"a little; a bit; slightly; just a minute
+||ち○○○||オフィスに来てくれる？
+||ち○○○||着替えるからあっち向いてて。
+もう||ち○○○||ゆっくり歩きたい。","ちょっと","a little; a bit; slightly; just a minute; for a moment; briefly; somewhat; rather; fairly; pretty; quite; (not) easily; (not) readily","Guess the adverb"
+"generally; in the main; briefly (look ov
+||一○○||の挨拶が済むと早速例の問題を持ち出した。
+僕は彼に事件のいきさつを||一○○||話した。
+私は生け花を||一○○||は習いました。","ひととおり,一通り","generally; in the main; briefly (look over, explain, etc.); roughly; more or less","Guess the adverb"
+"with pleasure ...
+君のためなら、||喜○○||するよ。
+||喜○○||お供いたします。
+私でよければ||喜○○||。","よろこんで,喜んで","with pleasure ...","Guess the adverb"
+"in its entirety; whole; wholly
+||丸○○||馬一匹を食べられるくらい腹が減っている。
+彼女は１課を||丸○○||暗記することで満点を取った。
+私たちの前には、長い道のりが待ち受けています。目の前の斜面は急です。目指すところに、1年ではたどりつかないかもしれない。大統領として1期を||丸○○||使っても無理かも","まるごと,丸ごと","in its entirety; whole; wholly","Guess the adverb"
+"to be surprised; to be amazed; to be fri
+僕も||び○○○||したよ。
+外国から来たものだと知って||び○○○||。
+私も||び○○○||よ。","びっくり","to be surprised; to be amazed; to be frightened; to be astonished; to get startled; to jump","Guess the adverb"
+"from the beginning; from the first; all 
+いつも地下鉄を使っているなら足||元○○||高くなることはない。","もとより,元より","from the beginning; from the first; all along; originally; of course; not to mention ...; not only ... but also ...; to say nothing of ...","Guess the adverb"
+"inquisitively; pryingly; nosily; thoroug
+メアリーに||根○○○○○||聞かれたくないから、私が離婚することはここだけの話にしておいてね。
+||根○○○○○||聞いてごめん。","ねほりはほり,根掘り葉掘り","inquisitively; pryingly; nosily; thoroughly; persistently; through-and-through","Guess the adverb"
+"for the time being; at present
+||差○○○○||、あれで十分でしょう。
+||差○○○○||喉が渇いて死にそうだよ。","さしあたり,差し当たり","for the time being; at present","Guess the adverb"
+"very much; exceedingly; extremely
+これは||至○○||普通のことだ。
+彼らは、何もまったく見るに||至○○||いない。
+私は||至○○||健康で、風邪ひとつひきません。","いたって,至って","very much; exceedingly; extremely","Guess the adverb"
+"long ago; a long time ago; already
+||と○○○||彼はそれに気づいていた。
+トムは||と○○○||そこにいるよ。
+もう||と○○○||寝る時間だ。","とっくに","long ago; a long time ago; already","Guess the adverb"
+"with all one's might; to the best of one
+私は彼女に追いつこうと||精○○○○||走った。
+||精○○○○||ご説明致しましょう。
+自分の子供の世話で||精○○○○||だった。","せいいっぱい,精いっぱい,ちからいっぱい,力いっぱい","with all one's might; to the best of one's ability","Guess the adverb"
+"the other day; some time ago; recently
+||先○○○||、ごく短期間だが、久方ぶりにヨーロッパへ行った。
+||先○○○||彼にあったときには、彼はとても元気だった。","せんだって,先だって","the other day; some time ago; recently","Guess the adverb"
+"on purpose; deliberately; intentionally
+これ、||わ○○||でしょ！
+トムは||わ○○||やったんじゃないと思うよ。
+||わ○○||やってるの？","わざと","on purpose; deliberately; intentionally","Guess the adverb"
+"suddenly; casually; accidentally; incide
+僕は||ふ○||足を止めた。
+彼女は||ふ○||名案を思いついた。
+良い考えが彼の頭に||ふ○||浮かんだ。","ふと","suddenly; casually; accidentally; incidentally; unexpectedly; unintentionally","Guess the adverb"
+"usually; normally; generally; habitually
+||ふ○○||九時には寝るよ。
+我々は||ふ○○||より足を速めて歩いた。
+正子は||ふ○○||歩いて学校に行く。","ふだん","usually; normally; generally; habitually; always","Guess the adverb"
+"forcibly; by force; against one's will
+彼は||無○○○||に私に演説させた。
+彼は||無○○○||残業させられた。
+彼らは私に||無○○○||署名させた。","むりやり,無理やり","forcibly; by force; against one's will","Guess the adverb"
+"literally; to the letter
+彼はその句の||文○○○○||の意味を説明した。
+彼は||文○○○○||のばかだ。
+彼は||文○○○○||の馬鹿だ。
+私はそれを||文○○○||の意味に取った。
+言うまでもなく、軍隊の規律は||文○○○||厳しい。
+軍隊の規律は||文○○○||厳しいものだ。","もじどおり,文字どおり","literally; to the letter","Guess the adverb"
+"(in the) neighbourhood; neighborhood; vi
+この||辺○||にいるんじゃないかなぁ。
+この||辺○||に居座るな。
+この||辺○||一帯は遊泳禁止です。","あたり,辺り","(in the) neighbourhood; neighborhood; vicinity; nearby; surroundings; around; about; or thereabouts; for instance; say; such as","Guess the adverb"
+"with all one's strength; with might and 
+||力○○○○||彼をたたいた。
+||力○○○○||投げ飛ばした。
+彼は||力○○○○||ドアを押し開けようとした。","ちからいっぱい,力いっぱい,せいいっぱい,精いっぱい","with all one's strength; with might and main; as hard as one can","Guess the adverb"
+"straight (ahead); direct; upright; erect
+このまま||真○○○||行くと、駅に出るよ。
+このまま||真○○○||行けば、駅だよ。
+彼は旗を||真○○○||に立てていた。
+彼は鉛筆で||真○○○||な線を描いた。
+||真○○○||前方を見てごらん。
+||真○○○||行くと、お店がありますよ。","まっすぐ,真っすぐ,真っ直ぐ","straight (ahead); direct; upright; erect","Guess the adverb"
+"considerably; fairly; quite; rather; pre
+トムって||か○○||悲観的だよね。
+トムって||か○○||楽観的だよ。
+外が||か○○||暗いな。嵐になるのかなぁ。","かなり","considerably; fairly; quite; rather; pretty","Guess the adverb"
+"in advance; beforehand; previously
+あなたには||前○○○||お話ししますよ。
+あなたは||前○○○||それを彼に話す方がよい。
+||前○○○||言ってくれても良かったのに。","まえもって,前もって","in advance; beforehand; previously","Guess the adverb"
+"to one's heart's content; full stomach; 
+ううん、もういいよ。お||腹○○○○||。
+お||腹○○○○||だ。
+彼は||腹○○○○||食べる。","はらいっぱい,腹いっぱい","to one's heart's content; full stomach; bellyful; (eat) heartily","Guess the adverb"
+"(not) very; (not) much; too much; excess
+2²⁰¹³を3で割った||余○||を求めよ。
+これはお昼の||余○||です。
+驚きの||余○||話す力がなくなってしまった。","あんまり,余り","(not) very; (not) much; too much; excessively; overly","Guess the adverb"
+"resolutely; boldly; decisively; daringly
+||思○○○○||聞き出せない、弱腰な僕。
+彼は||思○○○○||彼女にプロポーズした。
+彼女は||思○○○○||彼にたずねた。
+危険をおかして||思○○○○||やってみよう。
+||思○○○○||やらなければ何も手に入らない。
+迷いを吹き飛ばすように||思○○○○||蹴った。","おもいきって,思い切って","resolutely; boldly; decisively; daringly","Guess the adverb"
+"that is to say; that is; in other words;
+彼女と一緒にいると気||詰○○||だ。
+満員電車の中は息が||詰○○||そうだった。
+父の前に出るといつも気||詰○○||に感じた。","つまり,詰まり","that is to say; that is; in other words; I mean; that (this, it) means; in short; in brief; to sum up; ultimately; in the end; in the long run; when all is said and done; what it all comes down to; when you get right down to it; basically","Guess the adverb"
+"(not) altogether; (not) wholly
+あの娘だって||ま○○○||じゃないさ。
+ねぇ、このピザ、||ま○○○||でもないよ。
+彼の演説は||ま○○○||捨てたものではなかった。","まんざら","(not) altogether; (not) wholly","Guess the adverb"
+"tightly (holding on); firmly; securely; 
+これは||し○○○||した手すりですね。
+||し○○○||ご飯を食べなきゃダメよ。
+||し○○○||してください。
+両足を||し○○○||と地面につけていなさい。
+皆さんネチケットは||し○○○||。
+老後のために||し○○○||お金をためる。","しっかり,ぎゅっと","tightly (holding on); firmly; securely; strongly (built); solidly; sturdily; steadily; properly; well; sufficiently; hard (working, etc.); fully; completely; reliably; dependably; levelheadedly; shrewdly; wisely; cleverly","Guess the adverb"
+"sometimes; at intervals; occasionally; o
+パリに滞在中||時○○||彼を訪れた。
+私には||時○○||文通する人がいる。
+私は||時○○||学校で彼に会う。","ときおり,時おり","sometimes; at intervals; occasionally; on occasion; from time to time","Guess the adverb"
+"exceptionally; extraordinarily; by far
+彼は||飛○○○||やさしい男だった。","とびきり,飛び切り","exceptionally; extraordinarily; by far","Guess the adverb"
+"surely; upon my word; by Jove; (with neg
+天地神明に||誓○○||嘘ではありません。
+彼は||誓○○||無事だといった。
+||誓○○||私はそれをします。","ちかって,誓って","surely; upon my word; by Jove; (with neg) by no means; never","Guess the adverb"
+"sweetly (smiling); broadly (grinning)
+||に○○○||笑って。
+彼が彼女に話すと||に○○○||した。
+彼に私を||に○○○||と笑わせます。
+老婆はほっと息をついて||に○○○||笑った。
+彼女は怒りをこらえ、||に○○○||と微笑した。","にっこり","sweetly (smiling); broadly (grinning)","Guess the adverb"
+"clanging; empty; deserted
+公園は||が○○||としていた。
+彼は神とおぼしきものを目にして、飛び上||が○○||ばかりに喜びはじめた。
+彼女は喜びのあまり跳び上||が○○||ばかりだった。","がらん","clanging; empty; deserted","Guess the adverb"
+"by (from) choice; by (for) preference; o
+若者は彼の本を||好○○||いる。
+彼は毎日||好○○||独りで過ごす時間を持つ。
+彼女は||好○○||新鮮な生野菜を食べます。","このんで,好んで","by (from) choice; by (for) preference; of one's own accord; of one's (own) free will; on purpose; deliberately; intentionally","Guess the adverb"
+"coupled with; together
+実用性と芸術性が||相○○○||住みよい家ができる。
+性能のよさとデザインの優美さが両々||相○○○||本機種の声価を高めてきた。","あいまって,相まって","coupled with; together","Guess the adverb"
+"just a little
+||ほ○○○○||ください。
+||ほ○○○○||しかアイヌ語は話せないよ。
+||ほ○○○○||しかフランス語は話せないよ。","ほんのすこし,ほんの少し","just a little","Guess the adverb"
+"always; without fail; invariably; usuall
+手紙は英語で書くに||決○○○||るだろ。
+本当に||決○○○||るじゃん。
+トムは落ち込んでるに||決○○○||るよ。","きまって,決まって","always; without fail; invariably; usually; regularly","Guess the adverb"
+"comparatively; relatively; fairly; rathe
+トムって||割○||早口だね。
+||割○||安いのもこの店の特長。
+私の住んでいる町は||割○||小さいです。","わりと,割と","comparatively; relatively; fairly; rather; pretty; unexpectedly","Guess the adverb"
+"never again
+彼は彼女に||２○○||会わない決意であった。
+彼らは||２○○||祖国へ戻ることはなかった。
+彼をこの家へ||２○○||入れさせないつもりだ。
+||二○○||こんな遅くなるんじゃないぞ。
+||二○○||会えないかもしれない。
+||二○○||教師はやりたくないってこと？","にどと,２度と,二どと,二度と","never again","Guess the adverb"
+"in (quick) succession; soon (after)
+アイドルのコンサート会場に、||追○○○||のファンがウジャウジャ集まっていた。
+へえ、||追○○○||ている作家がいるんだね。","おっかけ,追っかけ","in (quick) succession; soon (after)","Guess the adverb"
+"to one's heart's content; as much as one
+時々、自分のけつを||思○○○||蹴りあげてやりたくなる。
+私は||思○○○||働きたい。
+早く外に出て||思○○○○||遊びたい。
+試験日、||思○○○○||間違えたな。
+頬に||思○○○○||殴りかかった。
+||思○○○||泣いてよ。","おもいきり,思いきり,思い切り,おもいっきり,思いっきり","to one's heart's content; as much as one wants; as hard as one can; with all one's strength; to the best of one's ability; to the utmost; with determination; hard; heavily","Guess the adverb"
+"entirely; completely; cleanly; snugly
+もやがロンドンの町を||す○○○||と包んだ。
+町が一面||す○○○||雪をかぶった。
+鋳物が金型から||す○○○||とれた。","すっぽり","entirely; completely; cleanly; snugly","Guess the adverb"
+"rather; sooner; preferably
+||い○○||のこと捨ててしまえばよかった。
+その仕事は||い○○||やめようかと思った。
+雨の後には、太陽が||い○○||う明るく輝く。","いっそ","rather; sooner; preferably","Guess the adverb"
+"just about to; almost; very nearly; very
+||よ○○○||おなか空いてたんだね。
+||よ○○○||の自信なんだなぁ。
+掃除って下手な筋トレより||よ○○○||筋力つくよね。","よっぽど","just about to; almost; very nearly; very; greatly; much; considerably; to a large extent; quite","Guess the adverb"
+"turning round; going around; turning abo
+市内を||ぐ○○○||ご案内しましょう。
+市内を||ぐ○○○||案内しましょう。
+彼らは||ぐ○○○||回り道をしてやってきた。","ぐるっと","turning round; going around; turning about; rotating; surrounding; encircling","Guess the adverb"
+"diligently; assiduously; industriously; 
+彼女は||せ○○○||編み物に精を出していた。
+彼女は今||せ○○○||やっています。
+彼女は家事を||せ○○○||した。","せっせと,ちゃんと","diligently; assiduously; industriously; beavering away","Guess the adverb"
+"comfortable; easy; calm; relaxed; loose;
+こちらのシャツは少し||ゆ○○○||めですよ。
+||ゆ○○○||した座椅子に座った。
+彼女は||ゆ○○○||とした上着を着ていた。
+この店、||ゆ○○○||しているよね。","ゆったり","comfortable; easy; calm; relaxed; loose; spacious","Guess the adverb"
+"rich (taste); full-bodied (flavour, flav
+展開が||ま○○○||すぎて早送りしたい。
+温泉に行って||ま○○○||したい！
+話し相手との会話が詰||ま○○○||、または何を話していいのか分からない時には、相槌を打つと効果的です。","まったり","rich (taste); full-bodied (flavour, flavor); mellow; laid-back (lifestyle); relaxed; comfortable","Guess the adverb"
+"as always; as usual
+||い○○○○||の1日でした。
+今年も||い○○○○||お祭りが行われました。
+私は||い○○○○||手を洗った。","いつもどおり,いつも通り","as always; as usual","Guess the adverb"
+"gently; airily; fluffily
+「トムは普段『可愛い』って漢字で書く？ ひらがなで書く？」「ぼくはひらがなの方が好きだな。||ふ○○○||した感じがして」
+くしゃっとした感じで、||ふ○○○||とした髪型にしたいんです。
+パンが||ふ○○○||焼けた。","ふんわり,ふわり","gently; airily; fluffily","Guess the adverb"
+"firmly (shutting one's mouth); to be off
+この||ム○○||する部屋の窓を開けて、空気の入れ替えをしてくれませんか。","ムッと","firmly (shutting one's mouth); to be offended; to get angry; to be annoyed; to be miffed; to be huffy; to be sullen; to be upset; to be stuffy; to be stifling; to be muggy","Guess the adverb"
+"as expected; sure enough; just as one th
+いいえ、私は||や○○||野菜を好んで食べます。
+彼女は欠点があるがそれでも||や○○||美しい。
+控えめに言っても||や○○||天才だ。","やはり,やっぱり","as expected; sure enough; just as one thought; after all (is said and done); in the end; as one would expect; in any case; too; also; as well; likewise; (not) either; still; as before; all the same; even so; still; nonetheless","Guess the adverb"
+"clearly; plainly; distinctly
+いつごろ将棋を覚えたか、||は○○○||しない。
+いつ戻るか、||は○○○||分からないんだ。
+もっと||は○○○||話せますか？
+それについて||は○○○||させたいな。
+||は○○○||とは分かってないよ。
+今日は山が||は○○○||見える。","はっきり,きっぱり","clearly; plainly; distinctly","Guess the adverb"
+"a little
+「僕のこと怒ってる？」「うん。||ち○○○○||」
+||ち○○○○||緊張してる。
+俺たちが中学生の頃、トムって俺より||ち○○○○||チビだったんだ。","ちょびっと,ちょっと","a little","Guess the adverb"
+"to be disappointed; to be dejected; to b
+||が○○○||させてごめんなさい。
+||が○○○||した。とても損した。
+トムはすごく||が○○○||するだろうね。","がっかり","to be disappointed; to be dejected; to be downhearted; to be discouraged; to be disheartened; to lose heart; to feel let down; to feel exhausted; to feel drained","Guess the adverb"
+"perfectly (suited); ideally; tightly; cl
+彼女は夫のそばに||ぴ○○○||寄り添っていた。
+彼女は父親に||ぴ○○○||としがみついていた。
+服が||ぴ○○○||合っていた。","ぴったり","perfectly (suited); ideally; tightly; closely; exactly; precisely; suddenly (stopping)","Guess the adverb"
+"continuously; the whole time; all the wa
+これは||ず○○||昔建てられた。
+ジェット機はプロペラ機よりも||ず○○||速い。
+ジョンはトムより||ず○○||魅力的です。","ずっと,ずーっと","continuously; the whole time; all the way; throughout; much (more); (by) far; far and away; a lot; a great deal; far (away); long (ago, before, after); straight; directly","Guess the adverb"
+"decisively; decidedly; boldly; once and 
+その問題についての彼の意見は||ず○○||的を射ている。","ずばり","decisively; decidedly; boldly; once and for all; unreservedly; frankly; precisely; exactly","Guess the adverb"

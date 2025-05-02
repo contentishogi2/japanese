@@ -1,0 +1,865 @@
+question,answer,comment,instruction
+"力
+sample words:
+意志力
+くろん力
+こみゅ力",りょく,"力:strength, energy, force, might, power; agency; au....
+意志力(いしりょく):willpower
+くろん力(くろんりょく):Coulomb force
+こみゅ力(こみゅりょく):communication ability",Jouyou. JLPT : N4
+"字
+sample words:
+意字
+御す文字
+華字",じ,"字:section of a village
+意字(いじ):ideogram
+御す文字(おすもじ):sushi
+華字(かじ):Chinese character",Jouyou. JLPT : N4
+"文
+sample words:
+下位文化
+擬古文
+美文",ぶん,"文:letter, note
+下位文化(かいぶんか):subculture
+擬古文(ぎこぶん):classical style
+美文(びぶん):flowery prose",Jouyou. JLPT : N4
+"文
+sample words:
+衣文
+蝌蚪文字
+古文",もん,"文:letter, note
+衣文(えもん):dress; clothes; drapery
+蝌蚪文字(かともんじ):ancient seal-script character
+古文(こもん):kanji",Jouyou. JLPT : N4
+"正
+sample words:
+がんま補正
+規正
+正の字",せい,"正:correct; adjust; reform; redress, straighten; ame...
+がんま補正(がんまほせい):gamma correction
+規正(きせい):correction
+正の字(せいのじ):unit of five (in tallies, etc.)",Jouyou. JLPT : N4
+"音
+sample words:
+音吐
+四分音符
+しゃった音",おん,"音:sound, noise, roar; fame; tone, note, voice, chir.
+音吐(おんと):voice
+四分音符(しぶおんぷ):crotchet; quarter note
+しゃった音(しゃったおん):(camera) shutter sound",Jouyou. JLPT : N4
+"京
+sample words:
+京せら
+京せらみた
+京都",きょう,"京:ten quadrillion; captital, metropolis; Kyoto
+京せら(きょうせら):Kyocera
+京せらみた(きょうせらみた):Kyocera Mita
+京都(きょうと):Kyoto (city, prefecture)",Jouyou. JLPT : N4
+"京
+sample words:
+京華
+京畿道
+京急大師線",けい,"京:ten quadrillion; captital, metropolis; Kyoto
+京華(けいか):national capital; capital
+京畿道(けいきどう):Gyeonggi Province; Gyeonggi-do (South Korea)
+京急大師線(けいきゅうだいしせん):Keikyu Daishi Line",Jouyou. JLPT : N4
+"会
+sample words:
+会誌
+会話もど
+区議会",かい,"会:meet, interview
+会誌(かいし):club bulletin
+会話もど(かいわもど):interactive mode
+区議会(くぎかい):ward council",Jouyou. JLPT : N4
+"作
+sample words:
+原作れいぷ
+作当たり
+作す",さく,"作:a work, a production; tillage; harvest; ridge (in.
+原作れいぷ(げんさくれいぷ):unfaithful adaptation; hideous adaptation; terrib.
+作当たり(さくあたり):good crop
+作す(さくす):to make",Jouyou. JLPT : N4
+"台
+sample words:
+枝付き燭台
+台座
+台輪",だい,"台:stand, pedestal, rack, table, dais, bench, block;.
+枝付き燭台(えだつきしょくだい):girandole; candelabra; candelabrum
+台座(だいざ):pedestal
+台輪(だいわ):architrave",Jouyou. JLPT : N4
+"同
+sample words:
+好き同士
+同意語
+同義語",どう,"同:same, identical, equal; uniform; equivalent; simi.
+好き同士(すきどうし):lover; boyfriend; girlfriend; soul mate
+同意語(どういご):synonym
+同義語(どうぎご):synonym",Jouyou. JLPT : N4
+"図
+sample words:
+絵図
+絵地図
+江戸絵図",ず,"図:measure, gauge, weigh; fathom, sound; compute, es..
+絵図(えず):drawing; illustration
+絵地図(えちず):pictorial map
+江戸絵図(えどえず):map of Edo",Jouyou. JLPT : N4
+"地
+sample words:
+がざ地区
+借り地
+きゃんぷ地",ち,"地:earth, land, ground, the surface of the earth; so....
+がざ地区(がざちく):Gaza Strip
+借り地(かりち):leased land
+きゃんぷ地(きゃんぷち):campground; campsite; camping-ground",Jouyou. JLPT : N4
+"多
+sample words:
+歌留多取り
+多雨
+多義語",た,"多:many; copious, abundant; much; frequent
+歌留多取り(かるたとり):karuta game in which players race to grab cards a.
+多雨(たう):heavy rain
+多義語(たぎご):polyseme",Jouyou. JLPT : N4
+"室
+sample words:
+画室
+がす室
+室を出る",しつ,"室:greenhouse; (ice) house; cellar
+画室(がしつ):art studio
+がす室(がすしつ):gas chamber
+室を出る(しつをでる):to leave the room",Jouyou. JLPT : N4
+"家
+sample words:
+うぃんざ家
+後家
+後家蜘蛛",け,"家:house, home, residence; housing; family, househol..
+うぃんざ家(うぃんざけ):House of Windsor
+後家(ごけ):widow
+後家蜘蛛(ごけぐも):widow spider (of genus Latrodectus)",Jouyou. JLPT : N4
+"少
+sample words:
+宇治少年院
+希少
+希少価値",しょう,"少:a small quantity, a little; a few; something; a l..
+宇治少年院(うじしょうねんいん):Uji Reform School
+希少(きしょう):rare; scarce
+希少価値(きしょうかち):preciousness; scarcity value; rarity value",Jouyou. JLPT : N4
+"店
+sample words:
+からおけ店
+茶店
+支店こど",てん,"店:shop, store, booth
+からおけ店(からおけてん):karaoke parlor
+茶店(さてん):tea house
+支店こど(してんこど):branch code",Jouyou. JLPT : N4
+"弟
+sample words:
+兄弟姉妹
+再従弟
+従兄弟",てい,"弟:younger brother
+兄弟姉妹(けいていしまい):brothers and sisters; siblings
+再従弟(さいじゅうてい):younger second cousin
+従兄弟(じゅうけいてい):cousin (male)",Jouyou. JLPT : N4
+"心
+sample words:
+心意
+心抜き器
+すぽつ心臓",しん,"心:mind, spirit; mentality; idea, thought; heart, fe...
+心意(しんい):mind
+心抜き器(しんぬきき):corer
+すぽつ心臓(すぽつしんぞう):athlete's heart",Jouyou. JLPT : N4
+"新
+sample words:
+新えねるぎ
+新規ゆざ
+新じゃが",しん,"新:new, novel, fresh, recent, modern
+新えねるぎ(しんえねるぎ):alternative energy
+新規ゆざ(しんきゆざ):new user
+新じゃが(しんじゃが):new potatoes",Jouyou. JLPT : N4
+"方
+sample words:
+下方に
+古方
+左方",ほう,"方:direction; settlement; person
+下方に(かほうに):below
+古方(こほう):old method
+左方(さほう):left side",Jouyou. JLPT : N4
+"楽
+sample words:
+我楽多市
+気が楽
+愉楽",らく,"楽:enjoy; amuse oneself; anticipate; merry, pleasant.
+我楽多市(がらくたいち):rummage sale
+気が楽(きがらく):feeling at ease; feeling easy; feeling good
+愉楽(ゆらく):pleasure",Jouyou. JLPT : N4
+"歩
+sample words:
+一歩ずつ
+一歩退く
+駆歩",ほ,"歩:walk, hike, step
+一歩ずつ(いっぽずつ):stepwise; one step at a time
+一歩退く(いっぽひく):to retreat a step; to take a step backward
+駆歩(くほ):canter (horse gait)",Jouyou. JLPT : N4
+"牛
+sample words:
+いんど水牛
+牛耳を執る
+牛みんち",ぎゅう,"牛:cattle, cow, bull, ox
+いんど水牛(いんどすいぎゅう):Indian buffalo
+牛耳を執る(ぎゅうじをとる):to be the leader; to take the lead in; to control
+牛みんち(ぎゅうみんち):ground beef; minced beef",Jouyou. JLPT : N4
+"理
+sample words:
+義理合い
+義理立て
+古地理",り,"理:reason, justice, truth, principle
+義理合い(ぎりあい):social relationship; friendship
+義理立て(ぎりだて):doing one's duty
+古地理(こちり):past geography",Jouyou. JLPT : N4
+"用
+sample words:
+あち作用
+作用素
+使用めもり",よう,"用:use, adopt (a method), employ
+あち作用(あちさよう):arching
+作用素(さようそ):operator
+使用めもり(しようめもり):memory used",Jouyou. JLPT : N4
+"画
+sample words:
+あぽろ計画
+企画
+企画課",かく,"画:picture, drawing, painting, sketch; stroke (in a .
+あぽろ計画(あぽろけいかく):Project Apollo; Apollo program
+企画(きかく):plan; planning; project; arrangements
+企画課(きかくか):planning section",Jouyou. JLPT : N4
+"画
+sample words:
+画素欠け
+ぱすてる画
+ぺん画",が,"画:picture, drawing, painting, sketch; stroke (in a .
+画素欠け(がそかけ):pixel defect (on an LCD display, e.g. dead pixel)
+ぱすてる画(ぱすてるが):pastel (picture)
+ぺん画(ぺんが):pen-and-ink drawing; pen drawing",Jouyou. JLPT : N4
+"肉
+sample words:
+肉が落ちる
+肉叉
+馬肉",にく,"肉:flesh, muscles; meat; the flesh; seal pad, ink pa.
+肉が落ちる(にくがおちる):to slim down; to lose weight
+肉叉(にくさ):fork
+馬肉(ばにく):horsemeat",Jouyou. JLPT : N4
+"茶
+sample words:
+こん茶
+茶っぽい
+葉茶",ちゃ,"茶:tea; tea plant; tea leaves, light brown
+こん茶(こんちゃ):corn tea
+茶っぽい(ちゃっぽい):brownish
+葉茶(はちゃ):leaf tea",Jouyou. JLPT : N4
+"言
+sample words:
+言語化
+多言語
+侮言",げん,"言:say, tell, talk, speak, declare; call, term, name.
+言語化(げんごか):verbalizing; putting into words
+多言語(たげんご):multilingual
+侮言(ぶげん):insult",Jouyou. JLPT : N4
+"計
+sample words:
+おむ計
+計器
+時計じかけ",けい,"計:measure, gauge, weigh; fathom, sound; compute, es..
+おむ計(おむけい):ohmmeter
+計器(けいき):meter; gauge
+時計じかけ(とけいじかけ):clockwork",Jouyou. JLPT : N4
+"通
+sample words:
+かど通路
+刺を通ずる
+通過びざ",つう,"通:walk along, pass by; pass through; pass (exams); ..........
+かど通路(かどつうろ):card path
+刺を通ずる(しをつうずる):to present one's card
+通過びざ(つうかびざ):transit visa",Jouyou. JLPT : N4
+"週
+sample words:
+次次週
+次週
+週次",しゅう,"週:week
+次次週(じじしゅう):the week after next
+次週(じしゅう):next week
+週次(しゅうじ):weekly",Jouyou. JLPT : N4
+"野
+sample words:
+きむち野郎
+この野郎
+ぶろか野",や,"野:field, plain
+きむち野郎(きむちやろう):Korean; kimchi bastard
+この野郎(このやろ):you son of a bitch!; you bastard!
+ぶろか野(ぶろかや):Broca's area",Jouyou. JLPT : N4
+"風
+sample words:
+こんな風に
+そんな風に
+野風増",ふう,"風:wind, storm, breeze, draft, current of air; a col.
+こんな風に(こんなふうに):like this; in this way
+そんな風に(そんなふうに):like that; in that manner
+野風増(のふうぞ):rascal",Jouyou. JLPT : N4
+"主
+sample words:
+えりと主義
+しおん主義
+自己主義",しゅ,"主:owner; master, husband; lover; a god; you. main
+えりと主義(えりとしゅぎ):elitism
+しおん主義(しおんしゅぎ):Zionism
+自己主義(じこしゅぎ):egoism",Jouyou. JLPT : N4
+"主
+sample words:
+主筋
+主持
+主を取る",しゅう,"主:owner; master, husband; lover; a god; you. main
+主筋(しゅうすじ):people close to the head man
+主持(しゅうもち):employee; serving a master
+主を取る(しゅうをとる):to find a new master",Jouyou. JLPT : N4
+"住
+sample words:
+移住
+可住地
+居住すぺす",じゅう,"住:live, reside, inhabit
+移住(いじゅう):immigration; migration
+可住地(かじゅうち):inhabitable land; habitable area
+居住すぺす(きょじゅうすぺす):living space",Jouyou. JLPT : N4
+"動
+sample words:
+起動機
+自動ぽすと
+視野移動",どう,"動:move, stir, shift, shake, swing; operate, run, go...
+起動機(きどうき):starter
+自動ぽすと(じどうぽすと):autopost
+視野移動(しやいどう):scrolling",Jouyou. JLPT : N4
+"医
+sample words:
+医務
+お医者さん
+外科医",い,"医:medicine, the healing art; doctor
+医務(いむ):medical affairs
+お医者さん(おいしゃさん):doctor
+外科医(げかい):surgeon",Jouyou. JLPT : N4
+"品
+sample words:
+すぺあ部品
+投げ売り品
+ばるく品",ひん,"品:article, goods, thing; quality; brand; kind, type.
+すぺあ部品(すぺあぶひん):spare part
+投げ売り品(なげうりひん):distressed goods
+ばるく品(ばるくひん):bulk goods",Jouyou. JLPT : N4
+"員
+sample words:
+課員
+議員ばっじ
+市吏員",いん,"員:member; number; the one in charge
+課員(かいん):section staff
+議員ばっじ(ぎいんばっじ):Diet member's badge
+市吏員(しりいん):employee; city official",Jouyou. JLPT : N4
+"問
+sample words:
+学問の徒
+奇問
+疑問符",もん,"問:ask, question, inquire; accuse. Inquiry
+学問の徒(がくもんのと):scholar; student
+奇問(きもん):tricky question
+疑問符(ぎもんふ):question mark",Jouyou. JLPT : N4
+"度
+sample words:
+度阿呆
+度日
+度目",ど,"度:time, occasion; repetition
+度阿呆(どあほ):total idiot
+度日(どにち):degree day
+度目(どめ):the Nth time",Jouyou. JLPT : N4
+"急
+sample words:
+急雨
+急かぶ
+急てんぽ",きゅう,"急:hurry, hasten
+急雨(きゅうう):rain shower
+急かぶ(きゅうかぶ):sharp turn; sharp curve
+急てんぽ(きゅうてんぽ):fast tempo",Jouyou. JLPT : N4
+"悪
+sample words:
+悪たれる
+悪地
+悪に染まる",あく,"悪:bad, evil, wrong; immoral; malicious; blamable; i...
+悪たれる(あくたれる):to do mischief; to use abusive language
+悪地(あくち):badlands
+悪に染まる(あくにそまる):to steeped in vice",Jouyou. JLPT : N4
+"族
+sample words:
+あすてか族
+せむ族
+鼠族",ぞく,"族:family, relatives, clan, tribe, race
+あすてか族(あすてかぞく):Aztec (people)
+せむ族(せむぞく):Semites
+鼠族(そぞく):rodents",Jouyou. JLPT : N4
+"有
+sample words:
+烏有に帰す
+固有値
+市有地",ゆう,"有:there is, have, exist; occur; be located, be cont..
+烏有に帰す(うゆうにきす):to come to nothing; to be burned to ashes
+固有値(こゆうち):eigenvalue
+市有地(しゆうち):city land",Jouyou. JLPT : N4
+"服
+sample words:
+畏服
+事務服
+ちゃいな服",ふく,"服:dress, costume, clothes, garment, suit, uniform
+畏服(いふく):awe
+事務服(じむふく):work clothes
+ちゃいな服(ちゃいなふく):mandarin dress; qipao; cheongsam",Jouyou. JLPT : N4
+"業
+sample words:
+企業ぷらん
+座業
+作業衣",ぎょう,"業:deed, act, work, art, trick, performance
+企業ぷらん(きぎょうぷらん):corporate plan
+座業(ざぎょう):sedentary work
+作業衣(さぎょうい):work clothes",Jouyou. JLPT : N4
+"死
+sample words:
+焦がれ死に
+死屍
+死す",し,"死:die
+焦がれ死に(こがれじに):pining away; dying from love
+死屍(しし):corpse
+死す(しす):to die",Jouyou. JLPT : N4
+"注
+sample words:
+注意義務
+注意をひく
+注する",ちゅう,"注:pour into, pour on, irrigate, sprinkle; shed (tea..
+注意義務(ちゅういぎむ):duty of care
+注意をひく(ちゅういをひく):to attract attention
+注する(ちゅうする):to write down; to annotate",Jouyou. JLPT : N4
+"発
+sample words:
+揮発度
+倶発
+事故多発",はつ,"発:departure; discharge (of a gun)
+揮発度(きはつど):volatility
+倶発(ぐはつ):concurrence
+事故多発(じこたはつ):accidents frequent; accident blackspot; accident-.",Jouyou. JLPT : N4
+"真
+sample words:
+真意義
+真箇
+真で書く",しん,"真:just, right, due (east); pure, genuine, true
+真意義(しんいぎ):true meaning
+真箇(しんこ):real; true
+真で書く(しんでかく):to write in the square style",Jouyou. JLPT : N4
+"着
+sample words:
+接着てぷ
+租税の帰着
+遅着",ちゃく,"着:put on, wear. clothe, dress; cover, plate, coat, ..
+接着てぷ(せっちゃくてぷ):adhesive tape
+租税の帰着(そぜいのきちゃく):incidence of taxation; tax incidence
+遅着(ちちゃく):late arrival",Jouyou. JLPT : N4
+"運
+sample words:
+運がない
+運気
+運輸",うん,"運:transport, carry; progress, advance
+運がない(うんがない):unlucky
+運気(うんき):fate; fortune
+運輸(うんゆ):transportation",Jouyou. JLPT : N4
+"銀
+sample words:
+あさひ銀行
+銀貨
+銀着せ",ぎん,"銀:silver
+あさひ銀行(あさひぎんこう):Asahi Bank
+銀貨(ぎんか):silver coin
+銀着せ(ぎんきせ):silver-plated",Jouyou. JLPT : N4
+"集
+sample words:
+歌詞集
+句集
+こど化集合",しゅう,"集:meet, assemble, congregate; swarm, flock or gathe..
+歌詞集(かししゅう):book of lyrics
+句集(くしゅう):collection of haiku poems
+こど化集合(こどかしゅうごう):coded set",Jouyou. JLPT : N4
+"題
+sample words:
+題する
+題名なし
+題を付ける",だい,"題:subject, theme, topic; title, caption, heading; q.
+題する(だいする):to be titled (e.g. a book); to be named
+題名なし(だいめいなし):untitled
+題を付ける(だいをつける):to entitle",Jouyou. JLPT : N4
+"駅
+sample words:
+駅すたんぷ
+駅びる
+駅夫",えき,"駅:post town; stage; station
+駅すたんぷ(えきすたんぷ):train station stamp
+駅びる(えきびる):station building
+駅夫(えきふ):railway employee (porter)",Jouyou. JLPT : N4
+"別
+sample words:
+語別
+とは別に
+被差別",べつ,"別:branch off, diverge from, fork; split; be divided..
+語別(ごべつ):part of speech
+とは別に(とはべつに):in addition to; apart from
+被差別(ひさべつ):discrimination",Jouyou. JLPT : N4
+"堂
+sample words:
+いとよか堂
+絵馬堂
+議事堂",どう,"堂:temple; shrine; hall; reception room; firm; state.
+いとよか堂(いとよかどう):Ito-Yokado
+絵馬堂(えまどう):shrine building where votive picture tablets are .
+議事堂(ぎじどう):capitol; congress hall; assembly hall; parliament.",Jouyou. JLPT : N4
+"料
+sample words:
+衣料
+支那料理
+たい料理",りょう,"料:charge, rate, fee; allowance; materials; measurin.
+衣料(いりょう):clothing
+支那料理(しなりょうり):Chinese food
+たい料理(たいりょうり):Thai food",Jouyou. JLPT : N4
+"的
+sample words:
+あぽろん的
+えるごど的
+危機的",てき,"的:mark, target; object; the point
+あぽろん的(あぽろんてき):Apollonian
+えるごど的(えるごどてき):ergodic
+危機的(ききてき):critical",Jouyou. JLPT : N4
+"質
+sample words:
+古皮質
+脂質
+地質図",しつ,"質:substance, matter, quality, temperament. hostage,.
+古皮質(こひしつ):paleopallium; paleocortex (palaeocortex)
+脂質(ししつ):lipid
+地質図(ちしつず):geological map",Jouyou. JLPT : N4
+"一
+sample words:
+一具
+一度に
+一ぱいんと",いち,"一:one, a unit; the same; just; once
+一具(いちぐ):one set
+一度に(いちどに):all at once
+一ぱいんと(いちぱいんと):one pint",Jouyou. JLPT : N5
+"七
+sample words:
+お七夜
+五七五
+七いまむ派",しち,"七:seven
+お七夜(おしちや):name-giving ceremony
+五七五(ごしちご):five-seven-five syllable verse (haiku, senryu, et.
+七いまむ派(しちいまむは):branch of Shia Islam; Sevener Shiism",Jouyou. JLPT : N5
+"三
+sample words:
+三又路
+二三
+二度三度",さん,"三:three
+三又路(さんさろ):three-way intersection; three-way junction
+二三(にさん):two or three
+二度三度(にどさんど):again and again",Jouyou. JLPT : N5
+"上
+sample words:
+上位ぐるぷ
+上位文化
+上菓子",じょう,"上:up, upper part, top, summit; surface; far better;....................
+上位ぐるぷ(じょういぐるぷ):ancestor
+上位文化(じょういぶんか):high culture
+上菓子(じょうがし):quality cakes",Jouyou. JLPT : N5
+"中
+sample words:
+ある中
+中じょっき
+中置",ちゅう,"中:inside, interior, midst, middle, mean, midway
+ある中(あるちゅう):alcoholism
+中じょっき(ちゅうじょっき):medium beer mug
+中置(ちゅうち):infix",Jouyou. JLPT : N5
+"九
+sample words:
+九夏
+九ゕ年
+九死に一生",きゅう,"九:nine
+九夏(きゅうか):summer
+九ゕ年(きゅうかねん):recurring every nine years; novennial
+九死に一生(きゅうしにいっしょう):narrow escape from death",Jouyou. JLPT : N5
+"九
+sample words:
+九時
+九時五時
+九寸五分",く,"九:nine
+九時(くじ):nine o'clock
+九時五時(くじごじ):nine to five; nine-to-five (working hours)
+九寸五分(くすんごぶ):dagger",Jouyou. JLPT : N5
+"二
+sample words:
+二価
+二価いおん
+二九",に,"二:two
+二価(にか):divalent
+二価いおん(にかいおん):divalent ion
+二九(にく):eighteen",Jouyou. JLPT : N5
+"五
+sample words:
+おる五
+五時
+五色野路子",ご,"五:five; five years old
+おる五(おるご):all A's; straight A's
+五時(ごじ):five o'clock
+五色野路子(ごしきのじこ):painted bunting (Passerina ciris)",Jouyou. JLPT : N5
+"人
+sample words:
+あふりか人
+ぎりしあ人
+くるど人",じん,"人:man, human being, mankind, person, people; charac..
+あふりか人(あふりかじん):African
+ぎりしあ人(ぎりしあじん):Greek (person)
+くるど人(くるどじん):Kurd",Jouyou. JLPT : N5
+"人
+sample words:
+積み出し人
+人気のある
+人時",にん,"人:man, human being, mankind, person, people; charac..
+積み出し人(つみだしにん):shipper
+人気のある(にんきのある):popular
+人時(にんじ):man-hour",Jouyou. JLPT : N5
+"八
+sample words:
+いんど八哥
+ぐぐる八分
+二八",はち,"八:eight
+いんど八哥(いんどはっか):Indian mynah; Indian myna; common myna (Acridothe.
+ぐぐる八分(ぐぐるはちぶ):(of a website) being delisted or censored by the .
+二八(にはち):sixteen",Jouyou. JLPT : N5
+"六
+sample words:
+四分六
+六号記事
+六時",ろく,"六:six
+四分六(しぶろく):six to four ratio; sixty-forty
+六号記事(ろくごうきじ):(space) filler; fill-in (in magazines, newspapers.
+六時(ろくじ):six o'clock; six periods of a day (morning, midda.",Jouyou. JLPT : N5
+"円
+sample words:
+円弧
+円舞
+円まく",えん,"円:round, circular, spherical
+円弧(えんこ):arc
+円舞(えんぶ):waltz
+円まく(えんまく):yen sign; yen symbol",Jouyou. JLPT : N5
+"大
+sample words:
+大工
+大じょっき
+大しょっく",だい,"大:large, great, grand, mighty, immense; severe; hea..
+大工(だいく):carpenter
+大じょっき(だいじょっき):large beer mug
+大しょっく(だいしょっく):great shock",Jouyou. JLPT : N5
+"天
+sample words:
+熾天使
+天気図
+天日干し",てん,"天:sky, heaven. Heavenly
+熾天使(してんし):seraph
+天気図(てんきず):weather map
+天日干し(てんぴぼし):solar drying; sun drying",Jouyou. JLPT : N5
+"学
+sample words:
+ういるす学
+えじぷと学
+画学",がく,"学:learn, study
+ういるす学(ういるすがく):virology
+えじぷと学(えじぷとがく):Egyptology
+画学(ががく):drawing",Jouyou. JLPT : N5
+"小
+sample words:
+過小
+指小辞
+小あじあ",しょう,"小:small, little, diminutive, minute, fine, trivial..
+過小(かしょう):too small
+指小辞(ししょうじ):diminutive
+小あじあ(しょうあじあ):Anatolia; Asia Minor",Jouyou. JLPT : N5
+"年
+sample words:
+多年
+二ゕ年
+年が明ける",ねん,"年:year; age, time of life
+多年(たねん):many years
+二ゕ年(にかねん):biennial
+年が明ける(ねんがあける):one's term of service expires (e.g. apprenticeshi.",Jouyou. JLPT : N5
+"日
+sample words:
+一日増しに
+今日は
+土佐日記",にち,"日:sun; time; day, date
+一日増しに(いちにちましに):day by day
+今日は(こにちは):good afternoon; good day; hello
+土佐日記(とさにっき):Tosa Diary (935CE)",Jouyou. JLPT : N5
+"本
+sample words:
+ご本
+本立て
+本天鵞絨",ほん,"本:beginning, origin; foundation, basis, source; cau..
+ご本(ごほん):book
+本立て(ほんたて):bookends
+本天鵞絨(ほんびろど):silk velvet",Jouyou. JLPT : N5
+"気
+sample words:
+気がよい
+気を逸らす
+磁気",き,"気:spirit, mind, soul, heart; intention; bent, inter....
+気がよい(きがよい):good-natured
+気を逸らす(きをそらす):to distract
+磁気(じき):magnetism",Jouyou. JLPT : N5
+"百
+sample words:
+お百度
+二百二十日
+百事",ひゃく,"百:hundred; a great number; all
+お百度(おひゃくど):hundred times worship (e.g. walking back and fort..
+二百二十日(にひゃくはつか):220th day; end of the storm period
+百事(ひゃくじ):everything; all",Jouyou. JLPT : N5
+"金
+sample words:
+課金でた
+課金れこど
+下付金",きん,"金:money, metal
+課金でた(かきんでた):billing data
+課金れこど(かきんれこど):billing record
+下付金(かふきん):subsidy",Jouyou. JLPT : N5
+"万
+sample words:
+なだ万
+万一のため
+万子",まん,"万:ten thousand; myriad. fully; if by any chance
+なだ万(なだまん):Nadaman (Japanese restaurant chain)
+万一のため(まんいちのため):just in case
+万子(まんず):character tiles",Jouyou. JLPT : N5
+"分
+sample words:
+いいご身分
+いい身分
+ぐらむ分子",ふん,"分:understand, comprehend; know, be known, be identi.......
+いいご身分(いいごみぶん):lucky you
+いい身分(いいみぶん):lucky you
+ぐらむ分子(ぐらむぶんし):gram molecule",Jouyou. JLPT : N5
+"分
+sample words:
+分木
+分子まか
+分泌",ぶん,"分:understand, comprehend; know, be known, be identi.......
+分木(ぶんぎ):-ary tree
+分子まか(ぶんしまか):molecular marker
+分泌(ぶんぴ):secretion",Jouyou. JLPT : N5
+"前
+sample words:
+御前を退く
+事前後
+事前日付",ぜん,"前:front, fore part; head (of a line); presence; ago.
+御前を退く(ごぜんをのく):to withdraw from the presence (of the Emperor)
+事前後(じぜんご):subsequently; additionally
+事前日付(じぜんひづけ):antedating",Jouyou. JLPT : N5
+"半
+sample words:
+いおん半径
+半切れ
+半くらっち",はん,"半:half, semi-, middle, halfway; partly
+いおん半径(いおんはんけい):ionic radius
+半切れ(はんきれ):half a piece
+半くらっち(はんくらっち):clutch pedal in a partially pressed-down position.",Jouyou. JLPT : N5
+"外
+sample words:
+外気
+外部き
+外部らべる",がい,"外:outside, exterior, open air; some other place; ou.......
+外気(がいき):open air
+外部き(がいぶき):external key
+外部らべる(がいぶらべる):external label",Jouyou. JLPT : N5
+"後
+sample words:
+行かず後家
+後家
+後家蜘蛛",ご,"後:after, since then; future; after one's death. bac....
+行かず後家(いかずごけ):spinster; old maid
+後家(ごけ):widow
+後家蜘蛛(ごけぐも):widow spider (of genus Latrodectus)",Jouyou. JLPT : N5
+"時
+sample words:
+あんぺあ時
+夏時
+ぐりにじ時",じ,"時:time, hour, moment, occasion; season; opportunity.
+あんぺあ時(あんぺあじ):ampere hour
+夏時(かじ):summertime
+ぐりにじ時(ぐりにじじ):Greenwich Time",Jouyou. JLPT : N5
+"来
+sample words:
+阿弥陀如来
+あれ以来
+意志未来",らい,"来:come, arrive; be due to; next, forthcoming. cause...
+阿弥陀如来(あみだにょらい):Amitabha Tathagata; Amithaba
+あれ以来(あれいらい):since then
+意志未来(いしみらい):volitional future",Jouyou. JLPT : N5
+"毎
+sample words:
+毎期
+毎正時
+毎度あり",まい,"毎:each, every, at an interval of, whenever. Apiece
+毎期(まいき):every term
+毎正時(まいしょうじ):every hour on the hour
+毎度あり(まいどあり):thank you for your continued patronage",Jouyou. JLPT : N5
+"行
+sample words:
+行位置
+行ぴっち
+行べくとる",ぎょう,"行:go; run (water). do, act, conduct oneself; carry ..
+行位置(ぎょういち):line number
+行ぴっち(ぎょうぴっち):line pitch
+行べくとる(ぎょうべくとる):row vector",Jouyou. JLPT : N5
+"語
+sample words:
+あらむ語
+語彙素
+語基",ご,"語:talk, tell, narrate, recite. chat; pledge one's t.
+あらむ語(あらむご):Aramaic
+語彙素(ごいそ):lexeme
+語基(ごき):base",Jouyou. JLPT : N5
+"長
+sample words:
+家父長
+ちむ長
+ばすと長",ちょう,"長:long, lengthy
+家父長(かふちょう):patriarch
+ちむ長(ちむちょう):team leader
+ばすと長(ばすとちょう):burst length",Jouyou. JLPT : N5
+"間
+sample words:
+御時間
+間暇
+間暇",かん,"間:space, interval, gap; between, among; midway; on ...
+御時間(おじかん):(your) time
+間暇(かんか):leisure
+間暇(かんが):leisure",Jouyou. JLPT : N5
+"食
+sample words:
+伊勢乞食
+餌食
+乞食",じき,"食:eat; subsist on; support oneself; consume; get (a..
+伊勢乞食(いせこじき):beggars at the Ise Grand Shrine; successful but s.
+餌食(えじき):victim; prey
+乞食(こじき):begging; beggar",Jouyou. JLPT : N5
+"食
+sample words:
+可食部
+食事付き
+食事をとる",しょく,"食:eat; subsist on; support oneself; consume; get (a..
+可食部(かしょくぶ):edible part
+食事付き(しょくじつき):with meals
+食事をとる(しょくじをとる):to take a meal; to have a meal",Jouyou. JLPT : N5

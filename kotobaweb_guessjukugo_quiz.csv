@@ -1,0 +1,547 @@
+Question,Answer,Comment,Instruction,Render as
+"[亜ぐ;次ぐ] [仔]
+||stepchild||","継子,けいし;ままこ;ままっこ",,Guess the 2-kanji jukugo from given clues,Text
+"[亜ぐ;次ぐ] [熾す;興す]
+||occurring in succession||","継起,けいき",,Guess the 2-kanji jukugo from given clues,Text
+"[亡う] [付く;附く]
+||blunder;conceded goal;error;lost point (in a game)||","失点,しってん",,Guess the 2-kanji jukugo from given clues,Text
+"[亡う] [功;聞き;聴き;~聞く;~聴く]
+||abatement;becoming void;expiration;expiry;invalida||","失効,しっこう",,Guess the 2-kanji jukugo from given clues,Text
+"[亡う] [神;芯;~芯]
+||faint;losing consciousness;swoon||","失心,しっしん",,Guess the 2-kanji jukugo from given clues,Text
+"[仆れる;斃れる;殪れる] [点てる;閉てる;~発つ;~起つ]
+||handstand||","倒立,とうりつ",,Guess the 2-kanji jukugo from given clues,Text
+"[仆れる;斃れる;殪れる] [翳;蔭;陰;~翳;~蔭;~陰]
+||reflection||","倒影,とうえい",,Guess the 2-kanji jukugo from given clues,Text
+"[仔] [友;朋]
+||child;children||","子供,こども",,Guess the 2-kanji jukugo from given clues,Text
+"[付く;附く] [刺す;射す;指す;挿す;止す;鎖す;閉ざす;~注す;~点す]
+||point difference;point spread||","点差,てんさ",,Guess the 2-kanji jukugo from given clues,Text
+"[付く;附く] [品;~下;~許]
+||book with reading aids (such as kana or punctuatio||","点本,てんぽん",,Guess the 2-kanji jukugo from given clues,Text
+"[付く;附く] [尾ける]
+||dispensing a drop or spot of something;spot applic||","点着,てんちゃく",,Guess the 2-kanji jukugo from given clues,Text
+"[付く;附く] [神;芯;~芯]
+||cakes;dim sum;refreshment;simple Chinese food;Zen ||","点心,てんしん;てんじん",,Guess the 2-kanji jukugo from given clues,Text
+"[付く;附く] [軍]
+||point cloud;point group||","点群,てんぐん",,Guess the 2-kanji jukugo from given clues,Text
+"[代え;換え;替え] [変え]
+||change;conversion;transformation||","変換,へんかん",,Guess the 2-kanji jukugo from given clues,Text
+"[代え;換え;替え] [形;~形]
+||variation;variety||","変型,へんけい",,Guess the 2-kanji jukugo from given clues,Text
+"[代え;換え;替え] [方]
+||law revision;revised law||","変法,へんぽう",,Guess the 2-kanji jukugo from given clues,Text
+"[代え;換え;替え] [神;芯;~芯]
+||apostasy;change of mind;inconstancy||","変心,へんしん",,Guess the 2-kanji jukugo from given clues,Text
+"[代え;換え;替え] [胤]
+||(taxonomical) variety;exception;freak;mutation;nov||","変種,へんしゅ",,Guess the 2-kanji jukugo from given clues,Text
+"[代え;換え;替え] [齣]
+||apostasy;betrayal;defection;treachery||","変節,へんせつ",,Guess the 2-kanji jukugo from given clues,Text
+"[伴;供;侶] [仔]
+||companion;comrade;friend||","友子,ともこ",,Guess the 2-kanji jukugo from given clues,Text
+"[伴;供;侶] [弾く;惹きつける;惹く;退く;~退く]
+||day that is lucky in the morning and evening but u||","友引,ともびき;ゆういん",,Guess the 2-kanji jukugo from given clues,Text
+"[伴;供;侶] [群]
+||allied army;friendly army;friendly troops||","友軍,ゆうぐん",,Guess the 2-kanji jukugo from given clues,Text
+"[冷ます] [描く;画く]
+||(diplomatic) memorandum;memo;memorandum;note||","覚書,おぼえがき",,Guess the 2-kanji jukugo from given clues,Text
+"[刷く] [弾く;惹きつける;惹く;退く;~退く]
+||scanning;sweeping||","掃引,そういん",,Guess the 2-kanji jukugo from given clues,Text
+"[刺す;射す;指す;挿す;止す;鎖す;閉ざす;~注す;~点す] [変え]
+||correcting;replacement||","差替,さしかえ",,Guess the 2-kanji jukugo from given clues,Text
+"[刺す;射す;指す;挿す;止す;鎖す;閉ざす;~注す;~点す] [弾く;惹きつける;惹く;退く;~退く]
+||balance;deduction;ebb and flow;rise and fall;subtr||","差引,さしひき",,Guess the 2-kanji jukugo from given clues,Text
+"[刺す;射す;指す;挿す;止す;鎖す;閉ざす;~注す;~点す] [抑える]
+||attachment;foreclosure;seizure||","差押,さしおさえ",,Guess the 2-kanji jukugo from given clues,Text
+"[刺す;射す;指す;挿す;止す;鎖す;閉ざす;~注す;~点す] [犯る;~演る]
+||despatch;dispatch;sending||","差遣,さけん",,Guess the 2-kanji jukugo from given clues,Text
+"[刺す;射す;指す;挿す;止す;鎖す;閉ざす;~注す;~点す] [笠]
+||parasol;umbrella||","差傘,さしがさ",,Guess the 2-kanji jukugo from given clues,Text
+"[刺す;射す;指す;挿す;止す;鎖す;閉ざす;~注す;~点す] [罷める;辞める;退める;~駐める]
+||ban;injunction;prohibition;suspension||","差止,さしとめ",,Guess the 2-kanji jukugo from given clues,Text
+"[剪る] [付く;附く]
+||common ground;contact (electrical, etc.);interacti||","切点,せってん",,Guess the 2-kanji jukugo from given clues,Text
+"[剪る] [展く;披く]
+||incision;operation;section||","切開,せっかい",,Guess the 2-kanji jukugo from given clues,Text
+"[剪る] [点てる;閉てる;~発つ;~起つ]
+||freshly cut;freshly tailored;tree cut to specified||","切立,きりたて",,Guess the 2-kanji jukugo from given clues,Text
+"[剪る] [賭ける;~係;~係り]
+||chance;cue;excuse;impetus;motive;occasion;start||","切掛,キッカケ;きっかけ",,Guess the 2-kanji jukugo from given clues,Text
+"[功;聞き;聴き;~聞く;~聴く] [益]
+||benefit;effect;use;utility||","効用,こうよう",,Guess the 2-kanji jukugo from given clues,Text
+"[勢] [匠;工]
+||delicate;elaborate;exquisite||","精巧,せいこう",,Guess the 2-kanji jukugo from given clues,Text
+"[勢] [詠む;~訓む]
+||careful reading;close reading;intensive reading||","精読,せいどく",,Guess the 2-kanji jukugo from given clues,Text
+"[勢] [邌る;錬る]
+||degumming;refinement;refining;scouring;smelting;tr||","精練,せいれん",,Guess the 2-kanji jukugo from given clues,Text
+"[友;朋] [益]
+||offer for use||","供用,きょうよう",,Guess the 2-kanji jukugo from given clues,Text
+"[友;朋] [答える]
+||entertaining with food and drink;treating to dinne||","供応,きょうおう",,Guess the 2-kanji jukugo from given clues,Text
+"[収まる;収める;直る;納まる;納める;~直す] [功;聞き;聴き;~聞く;~聴く]
+||treatment efficacy||","治効,ちこう",,Guess the 2-kanji jukugo from given clues,Text
+"[取る] [付く;附く]
+||grading;marking;scoring||","採点,さいてん",,Guess the 2-kanji jukugo from given clues,Text
+"[取る] [採る;採れる;摂る;盗る;穫る;穫れる;~捕れる;~採れる;~獲れる]
+||absorption (e.g. of new knowledge);adoption (e.g. ||","摂取,せっしゅ",,Guess the 2-kanji jukugo from given clues,Text
+"[取る] [採る;採れる;摂る;盗る;穫る;穫れる;~捕れる;~採れる;~獲れる]
+||collecting;extraction;gathering;harvesting;picking||","採取,さいしゅ",,Guess the 2-kanji jukugo from given clues,Text
+"[取る] [治まる;治める]
+||acceptance;adoption (e.g. of a proposal)||","採納,さいのう",,Guess the 2-kanji jukugo from given clues,Text
+"[取る] [神;芯;~芯]
+||concentration;period of intensive zazen||","摂心,しょうしん;せっしん",,Guess the 2-kanji jukugo from given clues,Text
+"[品;~下;~許] [変え]
+||money for books||","本代,ほんだい",,Guess the 2-kanji jukugo from given clues,Text
+"[品;~下;~許] [描く;画く]
+||main text;original text;this book;this volume||","本書,ほんしょ",,Guess the 2-kanji jukugo from given clues,Text
+"[品;~下;~許] [方]
+||core laws;fundamental laws;this act;this law||","本法,ほんぽう",,Guess the 2-kanji jukugo from given clues,Text
+"[品;~下;~許] [法]
+||capitalist;financier;investor;manufacturer;wholesa||","本方,もとかた",,Guess the 2-kanji jukugo from given clues,Text
+"[品;~下;~許] [神;芯;~芯]
+||one's conscience;one's heart;one's right mind;one'||","本心,ほんしん",,Guess the 2-kanji jukugo from given clues,Text
+"[品;~下;~許] [翳;蔭;陰;~翳;~蔭;~陰]
+||umbra||","本影,ほんえい",,Guess the 2-kanji jukugo from given clues,Text
+"[品;~下;~許] [胎]
+||legitimate (child)||","本腹,ほんばら;ほんぷく",,Guess the 2-kanji jukugo from given clues,Text
+"[品;~下;~許] [臨む]
+||long-cherished ambition;satisfaction||","本望,ほんもう",,Guess the 2-kanji jukugo from given clues,Text
+"[品;~下;~許] [課]
+||regular course (of study);regular program;this cou||","本科,ほんか",,Guess the 2-kanji jukugo from given clues,Text
+"[品;~下;~許] [陽]
+||this day;today||","本日,ほんじつ",,Guess the 2-kanji jukugo from given clues,Text
+"[品;~下;~許] [面]
+||main table;this table||","本表,ほんぴょう",,Guess the 2-kanji jukugo from given clues,Text
+"[品;~下;~許] [齣]
+||this chapter;this passage;this section;top-quality||","本節,ほんせつ;ほんぶし",,Guess the 2-kanji jukugo from given clues,Text
+"[哭く;泣く] [仔]
+||clapper||","鳴子,なるこ",,Guess the 2-kanji jukugo from given clues,Text
+"[嗣ぐ;継ぐ;続ぐ;襲ぐ] [仔]
+||second child;the next child||","次子,じし",,Guess the 2-kanji jukugo from given clues,Text
+"[嗣ぐ;継ぐ;続ぐ;襲ぐ] [付く;附く]
+||runner-up||","次点,じてん",,Guess the 2-kanji jukugo from given clues,Text
+"[嗣ぐ;継ぐ;続ぐ;襲ぐ] [変え]
+||the next era||","次代,じだい",,Guess the 2-kanji jukugo from given clues,Text
+"[嗣ぐ;継ぐ;続ぐ;襲ぐ] [機;紀]
+||next period;next release;next term;next version||","次期,じき",,Guess the 2-kanji jukugo from given clues,Text
+"[嗣ぐ;継ぐ;続ぐ;襲ぐ] [面]
+||the following table||","次表,じひょう",,Guess the 2-kanji jukugo from given clues,Text
+"[噴く] [哭く;泣く]
+||blowing (a whistle)||","吹鳴,すいめい",,Guess the 2-kanji jukugo from given clues,Text
+"[圧さえる;押える;押さえる] [政]
+||check;constraint;control;curb;curtailment;inhibiti||","抑制,よくせい",,Guess the 2-kanji jukugo from given clues,Text
+"[圧さえる;押える;押さえる] [罷める;辞める;退める;~駐める]
+||check;checkmate;control;deterrence;deterrent;inhib||","抑止,よくし",,Guess the 2-kanji jukugo from given clues,Text
+"[堰] [採る;採れる;摂る;盗る;穫る;穫れる;~捕れる;~採れる;~獲れる]
+||ranking wrestler in the makuuchi (senior-grade) or||","関取,せきとり",,Guess the 2-kanji jukugo from given clues,Text
+"[堰] [神;芯;~芯]
+||concern;interest||","関心,かんしん",,Guess the 2-kanji jukugo from given clues,Text
+"[報える;徹える;応える] [已める;廃める;止める]
+||address in reply (e.g. at a ceremony);formal reply||","答辞,とうじ",,Guess the 2-kanji jukugo from given clues,Text
+"[変え] [弾く;惹きつける;惹く;退く;~退く]
+||cash on delivery;COD||","代引,だいひき;だいびき",,Guess the 2-kanji jukugo from given clues,Text
+"[変え] [心;~心]
+||pen refill (cartridge);replacement wick (e.g. of a||","替芯,かえしん",,Guess the 2-kanji jukugo from given clues,Text
+"[変え] [描く;画く]
+||amanuensis;scribe||","代書,だいしょ",,Guess the 2-kanji jukugo from given clues,Text
+"[変え] [治まる;治める]
+||paying in kind;paying with a substitute;payment by||","代納,だいのう",,Guess the 2-kanji jukugo from given clues,Text
+"[変え] [詠む;~訓む]
+||reading for another||","代読,だいどく",,Guess the 2-kanji jukugo from given clues,Text
+"[妬く;嫉く;灼く] [亡う]
+||being burnt down;destruction by fire;losing in a f||","焼失,しょうしつ",,Guess the 2-kanji jukugo from given clues,Text
+"[妬く;嫉く;灼く] [形;~形]
+||baking pan;bread pan;mold (e.g. cake mold);mould||","焼型,やきがた",,Guess the 2-kanji jukugo from given clues,Text
+"[妬く;嫉く;灼く] [胎]
+||despair;desperation||","焼腹,ヤケばら;やけばら",,Guess the 2-kanji jukugo from given clues,Text
+"[実に;實に] [神;芯;~芯]
+||sincerity||","誠心,せいしん",,Guess the 2-kanji jukugo from given clues,Text
+"[尾ける;点く;~憑く] [仔]
+||dried aconite root;sumac gallnut||","付子,ごばいし;ふし;ぶし;ぶす",,Guess the 2-kanji jukugo from given clues,Text
+"[尾ける;点く;~憑く] [付く;附く]
+||dot (on a note or rest)||","付点,ふてん",,Guess the 2-kanji jukugo from given clues,Text
+"[尾ける;点く;~憑く] [妬く;嫉く;灼く]
+||broiling with soy sauce, mirin, etc.;dish broiled ||","付焼,つけやき",,Guess the 2-kanji jukugo from given clues,Text
+"[尾ける;点く;~憑く] [法]
+||way of affixing something;way of recording somethi||","付方,つけかた",,Guess the 2-kanji jukugo from given clues,Text
+"[尾ける;点く;~憑く] [聞き;聴き;~聞く;~聴く]
+||interest on excess reserves;IOER||","付利,ふり",,Guess the 2-kanji jukugo from given clues,Text
+"[尾ける;点く;~憑く] [面]
+||appended chart, table or graph;attached list||","付表,ふひょう",,Guess the 2-kanji jukugo from given clues,Text
+"[尾ける] [刺す;射す;指す;挿す;止す;鎖す;閉ざす;~注す;~点す]
+||difference between the finishing times of two comp||","着差,ちゃくさ",,Guess the 2-kanji jukugo from given clues,Text
+"[尾ける] [引く;曳く;牽く]
+||impact (of a projectile);landing (of a bullet);str||","着弾,ちゃくだん",,Guess the 2-kanji jukugo from given clues,Text
+"[尾ける] [神;芯;~芯]
+||feeling of clothes||","着心,きごころ",,Guess the 2-kanji jukugo from given clues,Text
+"[展く;披く] [写る]
+||beginning of a screening (at a movie theatre);star||","開映,かいえい",,Guess the 2-kanji jukugo from given clues,Text
+"[展く;披く] [方]
+||evolution;extraction of roots||","開法,かいほう",,Guess the 2-kanji jukugo from given clues,Text
+"[展く;披く] [法]
+||evolution;extraction of roots||","開方,かいほう",,Guess the 2-kanji jukugo from given clues,Text
+"[展く;披く] [点てる;閉てる;~発つ;~起つ]
+||extraction of cubic root||","開立,かいりゅう",,Guess the 2-kanji jukugo from given clues,Text
+"[展く;披く] [笠]
+||opening of a parachute||","開傘,かいさん",,Guess the 2-kanji jukugo from given clues,Text
+"[展く;披く] [胎]
+||making a surgical incision in the abdomen||","開腹,かいふく",,Guess the 2-kanji jukugo from given clues,Text
+"[展く;披く] [覚]
+||enlightenment;wisdom||","開悟,かいご",,Guess the 2-kanji jukugo from given clues,Text
+"[展く;披く] [証す]
+||civilisation;civilization;enlightenment||","開明,かいめい",,Guess the 2-kanji jukugo from given clues,Text
+"[差す] [刺す;射す;指す;挿す;止す;鎖す;閉ざす;~注す;~点す]
+||pointing (at; with one's finger)||","指差,ゆびさし;ゆびざし",,Guess the 2-kanji jukugo from given clues,Text
+"[差す] [引く;曳く;牽く]
+||blame;contempt;criticism;disdain;flick (of the fin||","指弾,しだん",,Guess the 2-kanji jukugo from given clues,Text
+"[差す] [翳;蔭;陰;~翳;~蔭;~陰]
+||projection||","射影,しゃえい",,Guess the 2-kanji jukugo from given clues,Text
+"[差す] [聞き;聴き;~聞く;~聴く]
+||love of easy money||","射利,しゃり",,Guess the 2-kanji jukugo from given clues,Text
+"[已める;廃める;止める] [引く;曳く;牽く;~引く;~曳く;~牽く]
+||declining;excusing oneself;nonacceptance;pulling o||","辞退,じたい",,Guess the 2-kanji jukugo from given clues,Text
+"[已める;廃める;止める] [描く;画く]
+||dictionary;letter of resignation;lexicon||","辞書,じしょ",,Guess the 2-kanji jukugo from given clues,Text
+"[已める;廃める;止める] [面]
+||letter of resignation||","辞表,じひょう",,Guess the 2-kanji jukugo from given clues,Text
+"[引く;曳く;牽く;~引く;~曳く;~牽く] [収まる;収める;直る;納まる;納める;~直す]
+||curing illness;destruction;elimination;eradication||","退治,たいじ",,Guess the 2-kanji jukugo from given clues,Text
+"[引く;曳く;牽く] [尾ける]
+||hit (of a bullet, shell, etc.);impact||","弾着,だんちゃく",,Guess the 2-kanji jukugo from given clues,Text
+"[引く;曳く;牽く] [差す]
+||criticism;instant;moment;rejection;shunning;snappi||","弾指,たんし;たんじ;だんし;だんじ",,Guess the 2-kanji jukugo from given clues,Text
+"[弾く;惹きつける;惹く;退く;~退く] [亜ぐ;次ぐ]
+||handing over;inheriting;passing on the baton;takin||","引継,ひきつぎ",,Guess the 2-kanji jukugo from given clues,Text
+"[弾く;惹きつける;惹く;退く;~退く] [変え]
+||conversion;exchange||","引換,ひきかえ",,Guess the 2-kanji jukugo from given clues,Text
+"[弾く;惹きつける;惹く;退く;~退く] [変え]
+||conversion;exchange||","引替,ひきかえ",,Guess the 2-kanji jukugo from given clues,Text
+"[弾く;惹きつける;惹く;退く;~退く] [引く;曳く;牽く;~引く;~曳く;~牽く]
+||retirement||","引退,いんたい",,Guess the 2-kanji jukugo from given clues,Text
+"[弾く;惹きつける;惹く;退く;~退く] [採る;採れる;摂る;盗る;穫る;穫れる;~捕れる;~採れる;~獲れる]
+||accepting;collection;departure;leaving;receipt;tak||","引取,ひきとり",,Guess the 2-kanji jukugo from given clues,Text
+"[弾く;惹きつける;惹く;退く;~退く] [益]
+||citation;quotation;reference||","引用,いんよう",,Guess the 2-kanji jukugo from given clues,Text
+"[弾く;惹きつける;惹く;退く;~退く] [看る]
+||audience;interview||","引見,いんけん",,Guess the 2-kanji jukugo from given clues,Text
+"[弾く;惹きつける;惹く;退く;~退く] [賭ける;~係;~係り]
+||arm-grabbing force out;gab;hook;snare;trap;trick (||","引掛,ひっかけ",,Guess the 2-kanji jukugo from given clues,Text
+"[形;~形] [変え]
+||mold price;tooling cost||","型代,かただい",,Guess the 2-kanji jukugo from given clues,Text
+"[形;~形] [篗;籰]
+||mold;mould||","型枠,かたわく",,Guess the 2-kanji jukugo from given clues,Text
+"[影;景;~影;~景] [翳;蔭;陰;~翳;~蔭;~陰]
+||gloom;nuance;shade;shades of meaning;shading;shado||","陰影,いんえい",,Guess the 2-kanji jukugo from given clues,Text
+"[影;景;~影;~景] [胎]
+||secretly slitting one's belly (and only eventually||","陰腹,かげばら",,Guess the 2-kanji jukugo from given clues,Text
+"[懸ける;掛ける] [差す]
+||imperial archery event held annually on the 18th d||","賭射,のりゆみ",,Guess the 2-kanji jukugo from given clues,Text
+"[抑える] [治まる;治める]
+||confiscation;seizure||","押収,おうしゅう",,Guess the 2-kanji jukugo from given clues,Text
+"[採る;採れる;摂る;盗る;穫る;穫れる;~捕れる;~採れる;~獲れる] [嗣ぐ;継ぐ;続ぐ;襲ぐ]
+||agency;agent;answering (the door, phone, etc. on s||","取次,とりつぎ",,Guess the 2-kanji jukugo from given clues,Text
+"[採る;採れる;摂る;盗る;穫る;穫れる;~捕れる;~採れる;~獲れる] [変え]
+||exchange;swap||","取替,とりかえ",,Guess the 2-kanji jukugo from given clues,Text
+"[採る;採れる;摂る;盗る;穫る;穫れる;~捕れる;~採れる;~獲れる] [変え]
+||one's share;portion||","取代,とりしろ",,Guess the 2-kanji jukugo from given clues,Text
+"[採る;採れる;摂る;盗る;穫る;穫れる;~捕れる;~採れる;~獲れる] [尾ける;点く;~憑く]
+||bank run;fitting;furnishing;installation;mounting;||","取付,とりつけ",,Guess the 2-kanji jukugo from given clues,Text
+"[採る;採れる;摂る;盗る;穫る;穫れる;~捕れる;~採れる;~獲れる] [弾く;惹きつける;惹く;退く;~退く]
+||business;dealings;transactions||","取引,とりひき",,Guess the 2-kanji jukugo from given clues,Text
+"[採る;採れる;摂る;盗る;穫る;穫れる;~捕れる;~採れる;~獲れる] [法]
+||how to take;manner of taking;way of taking (e.g. p||","取方,とりかた",,Guess the 2-kanji jukugo from given clues,Text
+"[採る;採れる;摂る;盗る;穫る;穫れる;~捕れる;~採れる;~獲れる] [緊める]
+||control;management;supervision||","取締,とりしまり",,Guess the 2-kanji jukugo from given clues,Text
+"[描く;画く] [尾ける;点く;~憑く]
+||bill;document;note;paper||","書付,かきつけ",,Guess the 2-kanji jukugo from given clues,Text
+"[描く;画く] [採る;採れる;摂る;盗る;穫る;穫れる;~捕れる;~採れる;~獲れる]
+||dictation;transcription (of spoken material);writi||","書取,かきとり",,Guess the 2-kanji jukugo from given clues,Text
+"[描く;画く] [方]
+||calligraphy;penmanship||","書法,しょほう",,Guess the 2-kanji jukugo from given clues,Text
+"[描く;画く] [映る]
+||copying;handwriting (as a school subject);penmansh||","書写,しょしゃ",,Guess the 2-kanji jukugo from given clues,Text
+"[描く;画く] [看る]
+||reading||","書見,しょけん",,Guess the 2-kanji jukugo from given clues,Text
+"[描く;画く] [翳;蔭;陰;~翳;~蔭;~陰]
+||outward appearance of a book;photo of a book's cov||","書影,しょえい",,Guess the 2-kanji jukugo from given clues,Text
+"[描く;画く] [表]
+||contents (e.g. of a letter);document;letter;writin||","書面,しょめん",,Guess the 2-kanji jukugo from given clues,Text
+"[政] [罷める;辞める;退める;~駐める]
+||check;control;inhibition;restraint||","制止,せいし",,Guess the 2-kanji jukugo from given clues,Text
+"[方] [収まる;収める;直る;納まる;納める;~直す]
+||constitutional government||","法治,ほうち",,Guess the 2-kanji jukugo from given clues,Text
+"[映る] [品;~下;~許]
+||codex;copying;manuscript (book);transcription;writ||","写本,しゃほん",,Guess the 2-kanji jukugo from given clues,Text
+"[暑い] [妬く;嫉く;灼く]
+||frying or baking something thick (e.g. thick omele||","厚焼,あつやき",,Guess the 2-kanji jukugo from given clues,Text
+"[暑い] [聞き;聴き;~聞く;~聴く]
+||large profits||","厚利,こうり",,Guess the 2-kanji jukugo from given clues,Text
+"[望む] [描く;画く]
+||writing (from a copy)||","臨書,りんしょ",,Guess the 2-kanji jukugo from given clues,Text
+"[栖む;棲む] [伴;供;侶]
+||Sumitomo;Sumitomo group||","住友,すみとも",,Guess the 2-kanji jukugo from given clues,Text
+"[栖む;棲む] [保つ]
+||chief priest of temple||","住持,じゅうじ",,Guess the 2-kanji jukugo from given clues,Text
+"[機;紀] [臨む]
+||anticipating;looking forward to||","期望,きぼう",,Guess the 2-kanji jukugo from given clues,Text
+"[機;紀] [陽]
+||appointed date;deadline;due date;fixed date;set da||","期日,きじつ;きにち;ごじつ",,Guess the 2-kanji jukugo from given clues,Text
+"[正す;質す] [引く;曳く;牽く]
+||(verbal) attack;blaming;censure;denunciation||","糺弾,きゅうだん",,Guess the 2-kanji jukugo from given clues,Text
+"[正す;質す] [証す]
+||establishing the facts through thorough examinatio||","糺明,きゅうめい",,Guess the 2-kanji jukugo from given clues,Text
+"[治まる;治める] [刺す;射す;指す;挿す;止す;鎖す;閉ざす;~注す;~点す]
+||(optical) aberration||","収差,しゅうさ",,Guess the 2-kanji jukugo from given clues,Text
+"[治まる;治める] [品;~下;~許]
+||delivery of books;presentation copy||","納本,のうほん",,Guess the 2-kanji jukugo from given clues,Text
+"[治まる;治める] [尾ける;点く;~憑く]
+||payment;supply||","納付,のうふ",,Guess the 2-kanji jukugo from given clues,Text
+"[治まる;治める] [尾ける]
+||sorption||","収着,しゅうちゃく",,Guess the 2-kanji jukugo from given clues,Text
+"[治まる;治める] [採る;採れる;摂る;盗る;穫る;穫れる;~捕れる;~採れる;~獲れる]
+||acquisition;collection||","収取,しゅうしゅ",,Guess the 2-kanji jukugo from given clues,Text
+"[治まる;治める] [機;紀]
+||appointed date of delivery;deadline (for payment o||","納期,のうき",,Guess the 2-kanji jukugo from given clues,Text
+"[治まる;治める] [治まる;治める]
+||harvesting;putting away;receipt (of funds, payment||","収納,しゅうのう",,Guess the 2-kanji jukugo from given clues,Text
+"[治まる;治める] [淹れる]
+||delivery;payment (of taxes, fees, etc.);supply (of||","納入,のうにゅう",,Guess the 2-kanji jukugo from given clues,Text
+"[治まる;治める] [淹れる]
+||income;receipts;revenue||","収入,しゅうにゅう",,Guess the 2-kanji jukugo from given clues,Text
+"[治まる;治める] [益]
+||expropriation;seizure||","収用,しゅうよう",,Guess the 2-kanji jukugo from given clues,Text
+"[治る;~治す] [冷ます]
+||insight;intuition||","直覚,ちょっかく",,Guess the 2-kanji jukugo from given clues,Text
+"[治る;~治す] [報える;徹える;応える]
+||answering in person;direct answer;immediate reply;||","直答,じきとう;ちょくとう",,Guess the 2-kanji jukugo from given clues,Text
+"[治る;~治す] [差す]
+||direct fire;direct rays (of sunlight);frontal fire||","直射,ちょくしゃ",,Guess the 2-kanji jukugo from given clues,Text
+"[治る;~治す] [治まる;治める]
+||dedicated line (e.g. phone service)||","直収,ちょくしゅう",,Guess the 2-kanji jukugo from given clues,Text
+"[治る;~治す] [点てる;閉てる;~発つ;~起つ]
+||rising perpendicularly;rising straight up;standing||","直立,ちょくりつ",,Guess the 2-kanji jukugo from given clues,Text
+"[治る;~治す] [神;芯;~芯]
+||dedicated heart;earnest heart||","直心,ひたごころ",,Guess the 2-kanji jukugo from given clues,Text
+"[治る;~治す] [表]
+||confrontation;performing without a mask (noh);to c||","直面,ちょくめん;ひためん",,Guess the 2-kanji jukugo from given clues,Text
+"[治る;~治す] [詠む;~訓む]
+||reading (Chinese) without syntactical rearrangemen||","直読,ちょくどく",,Guess the 2-kanji jukugo from given clues,Text
+"[法] [描く;画く]
+||additional information used to identify an address||","方書,かたがき",,Guess the 2-kanji jukugo from given clues,Text
+"[法] [点てる;閉てる;~発つ;~起つ]
+||mullion||","方立,ほうだて",,Guess the 2-kanji jukugo from given clues,Text
+"[淹れる] [賭ける;~係;~係り]
+||suspension (of performance, match, etc.)||","入掛,いれかけ",,Guess the 2-kanji jukugo from given clues,Text
+"[点く;~憑く] [尾ける]
+||adhesion;agglutination;clinging to;cohesion;sticki||","付着,ふちゃく",,Guess the 2-kanji jukugo from given clues,Text
+"[点てる;閉てる;~発つ;~起つ] [変え]
+||advancing (someone) money;payment on someone's beh||","立替,たてかえ",,Guess the 2-kanji jukugo from given clues,Text
+"[点てる;閉てる;~発つ;~起つ] [敗る]
+||establishing and refuting (a doctrine)||","立破,りっぱ;りゅうは",,Guess the 2-kanji jukugo from given clues,Text
+"[点てる;閉てる;~発つ;~起つ] [方]
+||lawmaking;legislation||","立法,りっぽう",,Guess the 2-kanji jukugo from given clues,Text
+"[点てる;閉てる;~発つ;~起つ] [治る;~治す]
+||being one step away from victory, success, failure||","立直,リーチ",,Guess the 2-kanji jukugo from given clues,Text
+"[点てる;閉てる;~発つ;~起つ] [法]
+||cube;dancer (in a Japanese dance performance);way ||","立方,たちかた;りっぽう",,Guess the 2-kanji jukugo from given clues,Text
+"[点てる;閉てる;~発つ;~起つ] [淹れる]
+||entering;going into||","立入,たちいり",,Guess the 2-kanji jukugo from given clues,Text
+"[点てる;閉てる;~発つ;~起つ] [看る]
+||watching while standing (e.g. a play)||","立見,たちみ",,Guess the 2-kanji jukugo from given clues,Text
+"[点てる;閉てる;~発つ;~起つ] [羽]
+||creditable;elegant;fine;handsome;imposing;impressi||","立派,りっぱ",,Guess the 2-kanji jukugo from given clues,Text
+"[点てる;閉てる;~発つ;~起つ] [胎]
+||anger;offence;offense;rage;taking offence;taking o||","立腹,りっぷく",,Guess the 2-kanji jukugo from given clues,Text
+"[点てる;閉てる;~発つ;~起つ] [表]
+||façade (building)||","立面,りつめん",,Guess the 2-kanji jukugo from given clues,Text
+"[点てる;閉てる;~発つ;~起つ] [見る;視る;覧る;観る]
+||billboard;hoarding;standing signboard||","立看,タテカン;たてかん",,Guess the 2-kanji jukugo from given clues,Text
+"[熾す;興す] [付く;附く]
+||origin;starting point||","起点,きてん",,Guess the 2-kanji jukugo from given clues,Text
+"[熾す;興す] [点てる;閉てる;~発つ;~起つ]
+||standing up||","起立,きりつ",,Guess the 2-kanji jukugo from given clues,Text
+"[熾す;興す] [益]
+||appointment (to a position, job, etc.);being used ||","起用,きよう",,Guess the 2-kanji jukugo from given clues,Text
+"[犯る;~演る] [治る;~治す]
+||redoing||","遣直,やりなおし",,Guess the 2-kanji jukugo from given clues,Text
+"[益] [神;芯;~芯]
+||care;caution;guarding;precaution||","用心,ようじん",,Guess the 2-kanji jukugo from given clues,Text
+"[看る] [品;~下;~許]
+||example;model;pattern;sample;specimen||","見本,みほん",,Guess the 2-kanji jukugo from given clues,Text
+"[看る] [尾ける;点く;~憑く]
+||approach (to a castle gate);front of a structural ||","見付,みつけ",,Guess the 2-kanji jukugo from given clues,Text
+"[碗] [形;~形]
+||bowl-shaped;dome-shaped||","椀型,わんがた",,Guess the 2-kanji jukugo from given clues,Text
+"[神;芯;~芯] [伴;供;侶]
+||bosom friend;close friend;intimate friend||","心友,しんゆう",,Guess the 2-kanji jukugo from given clues,Text
+"[神;芯;~芯] [保つ]
+||disposition;feeling;just a little;mental attitude;||","心持,こころもち",,Guess the 2-kanji jukugo from given clues,Text
+"[神;芯;~芯] [尾ける;点く;~憑く]
+||gratuity;tip||","心付,こころづけ",,Guess the 2-kanji jukugo from given clues,Text
+"[神;芯;~芯] [胎]
+||chest and stomach;one's innermost being||","心腹,しんぷく",,Guess the 2-kanji jukugo from given clues,Text
+"[神;芯;~芯] [触る]
+||mental disorder||","心障,しんしょう",,Guess the 2-kanji jukugo from given clues,Text
+"[答える] [代え;換え;替え]
+||appropriate (urgent) response;expediency||","応変,おうへん",,Guess the 2-kanji jukugo from given clues,Text
+"[答える] [友;朋]
+||arhat (meritorious person, esp. an epithet of Budd||","応供,おうぐ",,Guess the 2-kanji jukugo from given clues,Text
+"[答える] [報える;徹える;応える]
+||answer;reply;response||","応答,おうとう",,Guess the 2-kanji jukugo from given clues,Text
+"[簧] [尾ける;点く;~憑く]
+||unclear speech||","舌付,したつき",,Guess the 2-kanji jukugo from given clues,Text
+"[粗い] [聞き;聴き;~聞く;~聴く]
+||gross margin;gross profit||","荒利,あらり",,Guess the 2-kanji jukugo from given clues,Text
+"[緊める] [妬く;嫉く;灼く]
+||bisque (pottery);bisque firing||","締焼,しめやき",,Guess the 2-kanji jukugo from given clues,Text
+"[緊める] [尾ける;点く;~憑く]
+||clamping;fastening;pressure;tightening||","締付,しめつけ",,Guess the 2-kanji jukugo from given clues,Text
+"[罷める;辞める;退める;~駐める] [碗]
+||last soup served in a kaiseki course (often miso s||","止椀,とめわん",,Guess the 2-kanji jukugo from given clues,Text
+"[群] [描く;画く]
+||military book;war history||","軍書,ぐんしょ",,Guess the 2-kanji jukugo from given clues,Text
+"[羽] [犯る;~演る]
+||agency temp;deployment;despatch;dispatch;temporary||","派遣,はけん",,Guess the 2-kanji jukugo from given clues,Text
+"[聞き;聴き;~聞く;~聴く] [仔]
+||interest (on a deposit, loan, etc.)||","利子,りし",,Guess the 2-kanji jukugo from given clues,Text
+"[聞き;聴き;~聞く;~聴く] [付く;附く]
+||advantage;point in favor;point in favour||","利点,りてん",,Guess the 2-kanji jukugo from given clues,Text
+"[聞き;聴き;~聞く;~聴く] [匠;工]
+||bright;clever;good;intelligent;obedient;sensible;s||","利巧,りこう",,Guess the 2-kanji jukugo from given clues,Text
+"[聞き;聴き;~聞く;~聴く] [尾ける;点く;~憑く]
+||interest-bearing||","利付,りつき",,Guess the 2-kanji jukugo from given clues,Text
+"[聞き;聴き;~聞く;~聴く] [益]
+||application;use;utilisation;utilization||","利用,りよう",,Guess the 2-kanji jukugo from given clues,Text
+"[胎] [哭く;泣く]
+||borborygmus;noise from gas moving inside the diges||","腹鳴,ふくめい",,Guess the 2-kanji jukugo from given clues,Text
+"[胎] [神;芯;~芯]
+||one's confidant;trusted friend;trusted retainer||","腹心,ふくしん",,Guess the 2-kanji jukugo from given clues,Text
+"[胤] [刺す;射す;指す;挿す;止す;鎖す;閉ざす;~注す;~点す]
+||difference between species (i.e. logical species, ||","種差,しゅさ",,Guess the 2-kanji jukugo from given clues,Text
+"[胤] [品;~下;~許]
+||source book||","種本,たねほん",,Guess the 2-kanji jukugo from given clues,Text
+"[胤] [尾ける;点く;~憑く]
+||mating||","種付,たねつけ",,Guess the 2-kanji jukugo from given clues,Text
+"[荒い] [聞き;聴き;~聞く;~聴く]
+||gross margin;gross profit||","粗利,あらり",,Guess the 2-kanji jukugo from given clues,Text
+"[表] [仆れる;斃れる;殪れる]
+||attention;bother;care;difficulty;trouble||","面倒,めんどう",,Guess the 2-kanji jukugo from given clues,Text
+"[表] [刺す;射す;指す;挿す;止す;鎖す;閉ざす;~注す;~点す]
+||features;looks||","面差,おもざし",,Guess the 2-kanji jukugo from given clues,Text
+"[表] [尾ける;点く;~憑く]
+||imposition||","面付,めんつけ",,Guess the 2-kanji jukugo from given clues,Text
+"[表] [翳;蔭;陰;~翳;~蔭;~陰]
+||countenance;face;looks;reminder;trace;vestige||","面影,おもかげ",,Guess the 2-kanji jukugo from given clues,Text
+"[表] [賭ける;~係;~係り]
+||headgear;headstall||","面掛,おもがい",,Guess the 2-kanji jukugo from given clues,Text
+"[褪める;覚ます;醒ます] [付く;附く]
+||cold point;cold spot||","冷点,れいてん",,Guess the 2-kanji jukugo from given clues,Text
+"[褪める;覚ます;醒ます] [冷ます]
+||sensation of cold||","冷覚,れいかく",,Guess the 2-kanji jukugo from given clues,Text
+"[見る;視る;覧る;観る] [付く;附く]
+||viewpoint||","看点,かんてん",,Guess the 2-kanji jukugo from given clues,Text
+"[見る;視る;覧る;観る] [採る;採れる;摂る;盗る;穫る;穫れる;~捕れる;~採れる;~獲れる]
+||getting wind of;noticing;perceiving;seeing through||","看取,かんしゅ",,Guess the 2-kanji jukugo from given clues,Text
+"[見る;視る;覧る;観る] [敗る]
+||detecting;penetrating;reading (e.g. thoughts);seei||","看破,かんぱ",,Guess the 2-kanji jukugo from given clues,Text
+"[証す] [収まる;収める;直る;納まる;納める;~直す]
+||Meiji era (1868.9.8-1912.7.30)||","明治,めいじ",,Guess the 2-kanji jukugo from given clues,Text
+"[証す] [報える;徹える;応える]
+||definite answer||","明答,めいとう",,Guess the 2-kanji jukugo from given clues,Text
+"[詠む;~訓む] [付く;附く]
+||comma||","読点,とうてん",,Guess the 2-kanji jukugo from given clues,Text
+"[詠む;~訓む] [剪る]
+||breaks and pauses (in a sentence);complete story;f||","読切,よみきり",,Guess the 2-kanji jukugo from given clues,Text
+"[詠む;~訓む] [品;~下;~許]
+||guidebook;manual;reader;reading-book;textbook (esp||","読本,とくほん;どくほん;よみほん",,Guess the 2-kanji jukugo from given clues,Text
+"[詠む;~訓む] [採る;採れる;摂る;盗る;穫る;穫れる;~捕れる;~採れる;~獲れる]
+||reading (e.g. by a scanner)||","読取,よみとり",,Guess the 2-kanji jukugo from given clues,Text
+"[詠む;~訓む] [描く;画く]
+||reading (a book)||","読書,とくしょ;どくしょ",,Guess the 2-kanji jukugo from given clues,Text
+"[詠む;~訓む] [敗る]
+||finishing (a book);reading through (a book)||","読破,どくは",,Guess the 2-kanji jukugo from given clues,Text
+"[詠む;~訓む] [翳;蔭;陰;~翳;~蔭;~陰]
+||interpretation of radiograms;radiographic image in||","読影,どくえい",,Guess the 2-kanji jukugo from given clues,Text
+"[賭ける;~係;~係り] [仔]
+||boxes which fit inside each other;hiding one's tru||","掛子,かけご",,Guess the 2-kanji jukugo from given clues,Text
+"[賭ける;~係;~係り] [弾く;惹きつける;惹く;退く;~退く]
+||(tactical) advance or retreat of troops;bargaining||","掛引,かけひき",,Guess the 2-kanji jukugo from given clues,Text
+"[起こす;起す] [変え]
+||rise and fall (of nations)||","興替,こうたい",,Guess the 2-kanji jukugo from given clues,Text
+"[起こす;起す] [治まる;治める]
+||box-office revenue;box-office takings||","興収,こうしゅう",,Guess the 2-kanji jukugo from given clues,Text
+"[起こす;起す] [熾す;興す]
+||aroused energy;ascendency;high-spirited action;ris||","興起,こうき",,Guess the 2-kanji jukugo from given clues,Text
+"[軍] [描く;画く]
+||many books;many writings||","群書,ぐんしょ",,Guess the 2-kanji jukugo from given clues,Text
+"[輌;輛;領] [住む]
+||amphibian;amphibious||","両棲,りょうせい",,Guess the 2-kanji jukugo from given clues,Text
+"[輌;輛;領] [嗣ぐ;継ぐ;続ぐ;襲ぐ]
+||first and second (e.g. world wars);two (times)||","両次,りょうじ",,Guess the 2-kanji jukugo from given clues,Text
+"[輌;輛;領] [変え]
+||change;money exchange||","両替,りょうがえ",,Guess the 2-kanji jukugo from given clues,Text
+"[輌;輛;領] [法]
+||both;both parties;both sides||","両方,りょうほう",,Guess the 2-kanji jukugo from given clues,Text
+"[輌;輛;領] [点てる;閉てる;~発つ;~起つ]
+||coexistence;compatibility;standing together||","両立,りょうりつ",,Guess the 2-kanji jukugo from given clues,Text
+"[輌;輛;領] [益]
+||dual use||","両用,りょうよう",,Guess the 2-kanji jukugo from given clues,Text
+"[輌;輛;領] [簧]
+||double-dealing||","両舌,りょうぜつ",,Guess the 2-kanji jukugo from given clues,Text
+"[輌;輛;領] [群]
+||both armies;both sides;both teams||","両軍,りょうぐん",,Guess the 2-kanji jukugo from given clues,Text
+"[輌;輛;領] [羽]
+||both factions;both groups||","両派,りょうは",,Guess the 2-kanji jukugo from given clues,Text
+"[輌;輛;領] [胤]
+||both kinds||","両種,りょうしゅ",,Guess the 2-kanji jukugo from given clues,Text
+"[輌;輛;領] [表]
+||both sides;double-sided;double-sided wait (for one||","両面,リャンメン;りょうめん",,Guess the 2-kanji jukugo from given clues,Text
+"[輌;輛;領] [陽]
+||both days;two days||","両日,りょうじつ",,Guess the 2-kanji jukugo from given clues,Text
+"[遺す] [刺す;射す;指す;挿す;止す;鎖す;閉ざす;~注す;~点す]
+||residual||","残差,ざんさ",,Guess the 2-kanji jukugo from given clues,Text
+"[遺す] [功;聞き;聴き;~聞く;~聴く]
+||aftereffect||","残効,ざんこう",,Guess the 2-kanji jukugo from given clues,Text
+"[遺す] [厚い;篤い]
+||late summer heat;lingering summer heat||","残暑,ざんしょ",,Guess the 2-kanji jukugo from given clues,Text
+"[遺す] [引く;曳く;牽く]
+||remaining ammunition;remaining bullets||","残弾,ざんだん",,Guess the 2-kanji jukugo from given clues,Text
+"[遺す] [心;~心]
+||attachment;being prepared for a counterstroke;cont||","残芯,ざんしん",,Guess the 2-kanji jukugo from given clues,Text
+"[遺す] [神;芯;~芯]
+||attachment;being prepared for a counterstroke;cont||","残心,ざんしん",,Guess the 2-kanji jukugo from given clues,Text
+"[遺す] [翳;蔭;陰;~翳;~蔭;~陰]
+||remnants;traces||","残影,ざんえい",,Guess the 2-kanji jukugo from given clues,Text
+"[醇] [神;芯;~芯]
+||ingenuous;innocent;naive;pure;pure-hearted;unspoil||","純心,じゅんしん",,Guess the 2-kanji jukugo from given clues,Text
+"[醇] [聞き;聴き;~聞く;~聴く]
+||net profit||","純利,じゅんり",,Guess the 2-kanji jukugo from given clues,Text
+"[陽] [刺す;射す;指す;挿す;止す;鎖す;閉ざす;~注す;~点す]
+||rays of the Sun;sunlight||","日差,ひざし",,Guess the 2-kanji jukugo from given clues,Text
+"[陽] [品;~下;~許]
+||Japan||","日本,にっぽん;にほん",,Guess the 2-kanji jukugo from given clues,Text
+"[陽] [嗣ぐ;継ぐ;続ぐ;襲ぐ]
+||appointed day;daily||","日次,にちじ",,Guess the 2-kanji jukugo from given clues,Text
+"[陽] [妬く;嫉く;灼く]
+||becoming discolored from the sun (e.g. of paper);d||","日焼,ひやけ",,Guess the 2-kanji jukugo from given clues,Text
+"[陽] [尾ける;点く;~憑く]
+||date;dating||","日付,ひづけ",,Guess the 2-kanji jukugo from given clues,Text
+"[陽] [影;景;~影;~景]
+||shade;shadow;sunlight;sunshine||","日陰,ひかげ",,Guess the 2-kanji jukugo from given clues,Text
+"[陽] [治まる;治める]
+||daily income||","日収,にっしゅう",,Guess the 2-kanji jukugo from given clues,Text
+"[陽] [治る;~治す]
+||class duty (students);day duty;day shift||","日直,にっちょく",,Guess the 2-kanji jukugo from given clues,Text
+"[陽] [点てる;閉てる;~発つ;~起つ]
+||Hitachi||","日立,ひたち",,Guess the 2-kanji jukugo from given clues,Text
+"[陽] [翳;蔭;陰;~翳;~蔭;~陰]
+||shade;shadow;sunlight;sunshine||","日影,ひかげ",,Guess the 2-kanji jukugo from given clues,Text
+"[障る] [描く;画く]
+||Edo-period proclamation issued by the shogunate (o||","触書,ふれがき",,Guess the 2-kanji jukugo from given clues,Text
+"[面] [描く;画く]
+||address (on envelope, etc.);addressee||","表書,おもてがき",,Guess the 2-kanji jukugo from given clues,Text
+"[齣] [付く;附く]
+||joint (e.g. in a framework);nodal point;node||","節点,せってん",,Guess the 2-kanji jukugo from given clues,Text
+"[齣] [友;朋]
+||seasonal festival||","節供,せっく",,Guess the 2-kanji jukugo from given clues,Text

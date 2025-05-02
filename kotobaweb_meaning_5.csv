@@ -1,0 +1,615 @@
+Question,Answer,Comment,Instruction,Render as
+"届,||とどける,とどく||","reach, arrive, be received, be attentive, be realized,report, notice, forwarding, delivery","",Guess the meaning of the Kunyomi reading,Text
+"株,||かぶ||","stump, shares, stocks, connections, business, counter for small plants","",Guess the meaning of the Kunyomi reading,Text
+"異,||こと||","differ, vary, be unusual","Onyomi: イ = uncommonness, strangeness, queerness, difference",Guess the meaning of the Kunyomi reading,Text
+"映,||うつる,うつす,はえる||","shine, be brilliant, look attractive, be reflected, match, harmonize, be becoming, be taken (a photo), copy, transcribe, duplicate, reproduce, trace, describe, picture, photograph","Onyomi: エイ = reflecting, projection",Guess the meaning of the Kunyomi reading,Text
+"沿,||そう||","run along, lie along, be situated on","Onyomi: エン = following along",Guess the meaning of the Kunyomi reading,Text
+"延,||のびる,のべる,のばす||","extend, lengthen, stretch, spread, be postponed, increase, grow, progress, develop, be straightened, be flattened, be smoothed, be exhausted, let (nails) grow, straighten, uncoil, spread out, rea","Onyomi: エン = stretching",Guess the meaning of the Kunyomi reading,Text
+"我,||われ,わ||","I, oneself, self, ego","Onyomi: ガ = ego, self, selfishness, egotism",Guess the meaning of the Kunyomi reading,Text
+"灰,||はい||","ashes","Onyomi: カイ = ashes",Guess the meaning of the Kunyomi reading,Text
+"革,||かわ||","skin, hide, leather, fur, pelt, bark, peeling, husk, shell, film, cream","Onyomi: カク = tanned leather",Guess the meaning of the Kunyomi reading,Text
+"割,||わる,わり,われる,さく||","divide, break, rate, percentage","Onyomi: カツ = divide, cut, halve, separate, split, rip, break, crack, smash, dilute",Guess the meaning of the Kunyomi reading,Text
+"干,||ほす,ひる||","parch, get dry, ebb, recede, dry, desiccate, drain (off), drink up, dry up","Onyomi: カン = parch, get dry, ebb, recede",Guess the meaning of the Kunyomi reading,Text
+"巻,||まく,まき||","roll up, wind, coil, tie around, wind up, roll (of silk), volume, book, winding (of a clock)","Onyomi: カン = volume, book, part, reel",Guess the meaning of the Kunyomi reading,Text
+"危,||あぶない,あやうい,あやぶむ||","fear, have misgivings, be doubtful, mistrust, dangerous, critical, grave, uncertain, unreliable, limping, narrow, close, watch out","Onyomi: キ = be afraid of, feel uneasy about, shrink from",Guess the meaning of the Kunyomi reading,Text
+"机,||つくえ||","desk, table","Onyomi: キ = desk, table",Guess the meaning of the Kunyomi reading,Text
+"疑,||うたがう||","doubt, distrust, be suspicious of","Onyomi: ギ = doubt, distrust, be suspicious of",Guess the meaning of the Kunyomi reading,Text
+"貴,||たっとい,とうとい,たっとぶ,とうとぶ||","value, prize, esteem, respect, honor, revere, valuable, precious, noble, exalted, venerable","Onyomi: キ = value, prize, esteem, respect, honor, revere",Guess the meaning of the Kunyomi reading,Text
+"吸,||すう||","inhale, imbibe, sip, suck, suck out","Onyomi: キュウ = inhale, imbibe, sip, suck, suck out",Guess the meaning of the Kunyomi reading,Text
+"胸,||むね,むな||","chest, breast, bosom, heart, mind, feelings","Onyomi: キョウ = chest, breast, bosom, heart, mind, feelings",Guess the meaning of the Kunyomi reading,Text
+"供,||そなえる,とも||","offer, sacrifice, dedicte, attendant, companion, retinue","Onyomi: キョウ,ク = offer, present, submit, serve (a meal), supply",Guess the meaning of the Kunyomi reading,Text
+"筋,||すじ||","muscle, sinew, tendon, vein, fiber, string, line, stripe, streak, plot, plan, reason, logic, circumstances, thread, sequence, quarters, sources, authorities, lineage, strain, stock, descent, grai","Onyomi: キン = muscle, sinew, tendon",Guess the meaning of the Kunyomi reading,Text
+"勤,||つとめる,つとまる||","be fit for, be equal to, function properly, serve, fill a post, serve under, exert oneself, endeavor, work, be diligent, play (the part of)","Onyomi: キン,ゴン = be fit for, be equal to, function properly",Guess the meaning of the Kunyomi reading,Text
+"敬,||うやまう||","respect, honor, revere, venerate","Onyomi: ケイ = respect, honor, revere",Guess the meaning of the Kunyomi reading,Text
+"激,||はげしい||","violent, vehement, furious, severe, acute, intense, extreme, passionate, heated, stormy (applause), tempestuous (temperament), mighty","Onyomi: ゲキ = get excited, be agitated, be enraged, be exasperated, chafe, urge, encourage, incite",Guess the meaning of the Kunyomi reading,Text
+"穴,||あな||","hole, aperture, slit, gap, stop (of musical instrument), eyelet, cavity, socket, cave, den, hiding place, pit, fault, defect, deficit, grave, dark horse","Onyomi: ケツ = hole, aperture, slit, gap, stop (of musical instrument), eyelet, cavity, socket, cave, den, hiding place, pit, fault, defect, deficit, grave, dark horse",Guess the meaning of the Kunyomi reading,Text
+"絹,||きぬ||","silk, silk thread","Onyomi: ケン = silk, silk thread",Guess the meaning of the Kunyomi reading,Text
+"源,||みなもと||","source, origin","Onyomi: ゲン = source, origin",Guess the meaning of the Kunyomi reading,Text
+"厳,||おごそか,きびしい||","austere, majestic, severe, strict","Onyomi: ゲン,ゴン = strictness, severity",Guess the meaning of the Kunyomi reading,Text
+"呼,||よぶ||","call, call out to, invoke, summon, invite, attract, send for, name, designate, bring about","Onyomi: コ = call, call out to, invoke, summon, invite, attract, send for, name, designate, bring about",Guess the meaning of the Kunyomi reading,Text
+"誤,||あやまる||","err, be mistaken, do wrong, mislead","Onyomi: ゴ = err, be mistaken, do wrong, mislead",Guess the meaning of the Kunyomi reading,Text
+"己,||おのれ||","oneself, myself, yourself","Onyomi: コ,キ = sixth",Guess the meaning of the Kunyomi reading,Text
+"降,||おりる,おろす,ふる||","fall, drop, come down (rain, etc.),come down, go down, step down, descend, get off, land,take down, lower, pull down, lift down, let down, drop, launch, let off (passengers), wear (for the first ","Onyomi: コウ = going down, surrender",Guess the meaning of the Kunyomi reading,Text
+"鋼,||はがね||","steel","Onyomi: コウ = steel",Guess the meaning of the Kunyomi reading,Text
+"紅,||べに,くれない||","red, crimson, rouge, lipstick,deep red, crimson","Onyomi: コウ,ク = red, crimson",Guess the meaning of the Kunyomi reading,Text
+"刻,||きざむ||","cut fine, chop up, mince, hash, carve (images), engrave (seals), chisel, cut, notch","Onyomi: コク = time, carving, engraving, cutting",Guess the meaning of the Kunyomi reading,Text
+"骨,||ほね||","bone, skeleton, frame, rib (of an umbrella), grit, backbone, effort, pains","Onyomi: コツ = bone, remains, knack",Guess the meaning of the Kunyomi reading,Text
+"困,||こまる||","be distressed be in trouble, be destitute, be embarrassed, be perplexed, be annoyed","Onyomi: コン = be distressed be in trouble, be destitute, be embarrassed, be perplexed, be annoyed",Guess the meaning of the Kunyomi reading,Text
+"座,||すわる||","squat down, sit down, (eyes) are fixed on","Onyomi: ザ = seat, cushion, throne, a gathering, stand, pedestal, platform, (metal) washer, theater, troupe, constellation",Guess the meaning of the Kunyomi reading,Text
+"砂,||すな||","sand","Onyomi: サ,シャ = sand",Guess the meaning of the Kunyomi reading,Text
+"済,||すむ,すます||","end, do without, avoid, be excusable, need not,finish up, settle (one's account), make do","Onyomi: サイ = end, do without, avoid, be excusable, need not",Guess the meaning of the Kunyomi reading,Text
+"裁,||たつ,さばく||","judge,cut out (a suit), sever, cut off, shut off, interrupt, abstain from, eradicate, suppress","Onyomi: サイ = judge",Guess the meaning of the Kunyomi reading,Text
+"蚕,||かいこ||","silk worm","Onyomi: サン = silk worm",Guess the meaning of the Kunyomi reading,Text
+"姿,||すがた||","figure, form, shape, appearance, attire, posture, oneself, portrait, aspect","Onyomi: シ = figure, form, shape, appearance, attire, posture, oneself, portrait, aspect",Guess the meaning of the Kunyomi reading,Text
+"至,||いたる||","go, proceed, come, arrive, reach, attain, result in, lead to","Onyomi: シ = go, proceed, come, arrive, reach, attain, result in, lead to",Guess the meaning of the Kunyomi reading,Text
+"私,||わたくし,わたし||","I, myself, private (affairs)","Onyomi: シ = I, private affairs",Guess the meaning of the Kunyomi reading,Text
+"射,||いる||","shoot","Onyomi: シャ = archery, shooting",Guess the meaning of the Kunyomi reading,Text
+"捨,||すてる||","throw away, discard, abandon, desert, give up, renounce, relinquish, resign, lay down (one's life), part with, sacrifice, reject, condemn","Onyomi: シャ = throw away, discard, abandon, desert, give up, renounce, relinquish, resign, lay down (one's life), part with, sacrifice, reject, condemn",Guess the meaning of the Kunyomi reading,Text
+"若,||わかい,もしくは||","young, juvenile, youthful, younger, junior, immature, inexperienced, low number,or, otherwise","Onyomi: ジャク,ニャク = if",Guess the meaning of the Kunyomi reading,Text
+"収,||おさめる,おさまる||","obtain, reap, dedicate, consecrate, pay, supply, store, finish, collect, restore, replace, accept (a present), bury, gather, rally (troops), sheathe (the sword),be paid, be restored, stay (in the","Onyomi: シュウ = income",Guess the meaning of the Kunyomi reading,Text
+"縦,||たて||","length, height, warp","Onyomi: ジュウ = length, height",Guess the meaning of the Kunyomi reading,Text
+"就,||つく,つける||","settle in (place), take (a seat), take (a position), depart, study (under a teacher)","Onyomi: シュウ,ジュ = settle in (place), take (a seat), take (a position), depart, study (under a teacher)",Guess the meaning of the Kunyomi reading,Text
+"従,||したがう,したがえる||","obey, submit to, comply with, observe (a law), follow, accompany,be accompanied by, take (someone) with you, subjugate, subdue","Onyomi: ジュウ,ショウ,ジュ = secondary, incidental, subordinate, accessory, junior, retainer, follow",Guess the meaning of the Kunyomi reading,Text
+"熟,||うれる||","ripen, mellow, mature, acquire skill, be ripe for, become popular (as a word)","Onyomi: ジュク = ripen, mellow, mature, acquire skill, be ripe for, become popular (as a word)",Guess the meaning of the Kunyomi reading,Text
+"縮,||ちぢむ,ちぢまる,ちぢめる,ちぢれる,ちぢらす||","shrink, contract, shrivel, wrinkle,be shortened, be contracted, be reduced, be abridged, be abbreviated, wrinkle,shorten, contract, reduce, boil down, simplify, abbreviate, abridge, condense, com","Onyomi: シュク = shrink, contract, shrivel, wrinkle",Guess the meaning of the Kunyomi reading,Text
+"除,||のぞく||","remove, abolish, cancel, exclude, except","Onyomi: ジョ,ジ = division (in math)",Guess the meaning of the Kunyomi reading,Text
+"障,||さわる||","hinder, interfere with, affect, hurt, harm","Onyomi: ショウ = hinder, interfere with, affect, hurt, harm",Guess the meaning of the Kunyomi reading,Text
+"承,||うけたまわる||","hear, listen to, be informed","Onyomi: ショウ = receive, accept, take, get, obtain, catch (a ball), stop (a blow), parry, answer (the phone), undergo (an operation), take (an exam), sustain (a loss), be exposed to (ridicule), face, front of, inherit, catch the public fancy",Guess the meaning of the Kunyomi reading,Text
+"蒸,||むす,むれる,むらす||","steam, heat up (with steam), be close, be sultry, foment, poultice,be stuffy, get musty, moulder, heat,cook by steam","Onyomi: ジョウ = steam, heat up (with steam), be close, be sultry, foment, poultice",Guess the meaning of the Kunyomi reading,Text
+"傷,||きず,いたむ,いためる||","wound, injury, hurt, cut, gash, bruise, scratch, scar, weak point,feel a pain, be hurt, be damaged, be spoiled, be bruised, wear out, be worn out,injure, impair, spoil, worry, bother, afflict, ca","Onyomi: ショウ = wound, injury",Guess the meaning of the Kunyomi reading,Text
+"針,||はり||","needle, pin, staple, fishhook, stinger, spine (of a fish), thorn, stitch, (watch) hand, (phonograph) needle, (hypodermic) needle, sting, molehill, acupuncture","Onyomi: シン = needle",Guess the meaning of the Kunyomi reading,Text
+"推,||おす||","infer, conclude, guess, suppose, recommend, support","Onyomi: スイ = conjecture",Guess the meaning of the Kunyomi reading,Text
+"垂,||たれる,たらす||","suspend, hang down, slouch,hang, droop, drop, lower, pull down, dangle, sag, drip, ooze, trickle, leave behind (at death), give, confer","Onyomi: スイ = suspend, hang down, slouch",Guess the meaning of the Kunyomi reading,Text
+"誠,||まこと||","sincerity, honesty, fidelity, truth","Onyomi: セイ = admonish, warn, prohibit",Guess the meaning of the Kunyomi reading,Text
+"盛,||もる,さかる,さかん||","serve, fill, heap up, prescribe or give (medicine), poison, mark out, graduate,prosperous, successful (meeting), energetic, enthusiastic, popular, furious (attack), keen (competition), extensive,","Onyomi: セイ,ジョウ = prosper, flourish, copulate (animals)",Guess the meaning of the Kunyomi reading,Text
+"舌,||した||","tongue, reed, clapper","Onyomi: ゼツ = tongue, reed, clapper",Guess the meaning of the Kunyomi reading,Text
+"染,||そめる,そまる,しみる,しみ||","be dyed, be imbued with, be tainted with,dye, color, paint,soak in, permeate, infiltrate, pierce (as a wind), be imbued with, be influenced by, smart, be sensitive to pain,stain, blot, spot, smud","Onyomi: セン = be dyed, be imbued with, be tainted with",Guess the meaning of the Kunyomi reading,Text
+"善,||よい||","good, goodnatured, pleasing, precious, noble, lovely, beautiful, fine, lucky, efficacious, right, suitable, justifiable, appropriate, satisfactory, better, all right, unnecessary, no objection, i","Onyomi: ゼン = good, goodness, right, virtue",Guess the meaning of the Kunyomi reading,Text
+"専,||もっぱら||","mainly, sorely,","Onyomi: セン = mainly, sorely,",Guess the meaning of the Kunyomi reading,Text
+"銭,||ぜに||","money","Onyomi: セン = onehundredth of a yen, coin",Guess the meaning of the Kunyomi reading,Text
+"泉,||いずみ||","spring, fountain (head), source","Onyomi: セン = spring, fountain (head), source",Guess the meaning of the Kunyomi reading,Text
+"洗,||あらう||","wash, inquire into, probe","Onyomi: セン = wash, inquire into, probe",Guess the meaning of the Kunyomi reading,Text
+"操,||みさお,あやつる||","manipulate, operate, steer, pull strings,chastity, virginity, constancy, fidelity, honor","Onyomi: ソウ = manipulate, operate, steer, pull strings",Guess the meaning of the Kunyomi reading,Text
+"奏,||かなでる||","play (an instrument)","Onyomi: ソウ = play (an instrument)",Guess the meaning of the Kunyomi reading,Text
+"蔵,||くら||","storehoure, warehouse, godown, cellar, depository, treasury, granary, elevator","Onyomi: ゾウ = storehoure, warehouse, godown, cellar, depository, treasury, granary, elevator",Guess the meaning of the Kunyomi reading,Text
+"窓,||まど||","window","Onyomi: ソウ = window",Guess the meaning of the Kunyomi reading,Text
+"創,||つくる||","","Onyomi: ソウ = wound, injury, hurt, cut, gash, bruise, scratch, scar, weak point",Guess the meaning of the Kunyomi reading,Text
+"装,||よそおう||","dress, spruce up, pretend, disguise, profess","Onyomi: ソウ,ショウ = dress, spruce up, pretend, disguise, profess",Guess the meaning of the Kunyomi reading,Text
+"尊,||たっとい,とうとい,たっとぶ,とうとぶ||","value, prize, esteem, respect, honor, revere, valuable, precious, noble, exalted, priceless, sacred","Onyomi: ソン = value, prize, esteem, respect, honor, revere",Guess the meaning of the Kunyomi reading,Text
+"退,||しりぞく,しりぞける||","retreat, withdraw, retire, resign,repel, drive away, expel, depose, keep away, reject, turn down","Onyomi: タイ = retreat, withdraw, retire, resign",Guess the meaning of the Kunyomi reading,Text
+"担,||かつぐ,になう||","shoulder (a load),carry on the shoulder, bear a burden","Onyomi: タン = carry, raise",Guess the meaning of the Kunyomi reading,Text
+"探,||さぐる,さがす||","search, look for, explore, spy upon, sound out, probe (a wound)","Onyomi: タン = search, look for, explore, spy upon, sound out, probe (a wound)",Guess the meaning of the Kunyomi reading,Text
+"暖,||あたたか,あたたかい,あたたまる,あたためる||","warm, heat,warm oneself, sun oneself, get warm,mild, genial, cordial","Onyomi: ダン = warmth",Guess the meaning of the Kunyomi reading,Text
+"値,||ね,あたい||","price, cost, value","Onyomi: チ = price, cost, value",Guess the meaning of the Kunyomi reading,Text
+"著,||あらわす,いちじるしい||","write, publish,remarkable, phenomenal","Onyomi: チョ = literary work",Guess the meaning of the Kunyomi reading,Text
+"頂,||いただく,いただき||","be crowned with, wear, live under (a ruler), install (a president), receive, accept, buy, take, eat, drink","Onyomi: チョウ = head, top of the head, top, summit, peak, spire",Guess the meaning of the Kunyomi reading,Text
+"潮,||しお||","tide, salt water, opportunity","Onyomi: チョウ = tide, salt water, opportunity",Guess the meaning of the Kunyomi reading,Text
+"痛,||いたい,いたむ,いためる||","feel a pain, hurt, be hurt, be damaged, be spoiled, be bruised, wear out, be worn out,injure, impair, spoil, worry, bother, afflict, cause pain,painful, sore, trying","Onyomi: ツウ = pain",Guess the meaning of the Kunyomi reading,Text
+"敵,||かたき||","enemy, competitor, revenge","Onyomi: テキ = enemy, foe, opponent",Guess the meaning of the Kunyomi reading,Text
+"討,||うつ||","attack, defeat, destroy, conquer","Onyomi: トウ = attack, defeat, destroy, conquer",Guess the meaning of the Kunyomi reading,Text
+"難,||かたい,むずかしい||","impossible,hard, difficult, delicate, troublesome, doubtful, hopeless, stern, sullen, hard to please, serious, technical","Onyomi: ナン = trouble, difficulty, accident, disaster, defect, criticism",Guess the meaning of the Kunyomi reading,Text
+"乳,||ちち,ち||","milk, the breasts, loop","Onyomi: ニュウ = milk, the breasts, loop",Guess the meaning of the Kunyomi reading,Text
+"認,||みとめる||","witness, sight, discern, authorize, recognize, appreciate, approve of, judge, conclude, believe, regard as","Onyomi: ニン = witness, sight, discern, authorize, recognize, appreciate, approve of, judge, conclude, believe, regard as",Guess the meaning of the Kunyomi reading,Text
+"納,||おさめる,おさまる||","obtain, reap, dedicate, consecrate, pay, supply, store, finish, collect, restore, replace, accept (a present), burry, gather, rally (troops), sheathe (the sword),be paid, be restored, stay (in th","Onyomi: ノウ,ナッ,ナ,ナン,トウ = obtain, reap, dedicate, consecrate, pay, supply, store, finish, collect, restore, replace, accept (a present), burry, gather, rally (troops), sheathe (the sword)",Guess the meaning of the Kunyomi reading,Text
+"背,||せ,せい,そむく,そむける||","act contrary to, go back on, disobey, defy, rebel against, turn one's back on,look away from, avert,back, back side, stature, height, ridge,stature","Onyomi: ハイ = back, behind",Guess the meaning of the Kunyomi reading,Text
+"拝,||おがむ||","worship, pray to, adore, reverence, look at (with reverence)","Onyomi: ハイ = worship",Guess the meaning of the Kunyomi reading,Text
+"否,||いな||","no, nay","Onyomi: ヒ = no, noes",Guess the meaning of the Kunyomi reading,Text
+"秘,||ひめる||","conceal, keep a secret","Onyomi: ヒ = secret",Guess the meaning of the Kunyomi reading,Text
+"俵,||たわら||","bag, bale, sack, bag counter","Onyomi: ヒョウ = bag, bale, sack, bag counter",Guess the meaning of the Kunyomi reading,Text
+"腹,||はら||","abdomen, belly, bowels, stomach,  heart, mind, intention, courage, spirit, pluck, anger, womb, thickest or widest part","Onyomi: フク = belly, stomach",Guess the meaning of the Kunyomi reading,Text
+"奮,||ふるう||","be invigorated, be spirited, flourish","Onyomi: フン = be invigorated, be spirited, flourish",Guess the meaning of the Kunyomi reading,Text
+"並,||なみ,ならべる,ならぶ,ならびに||","line up, be in a row, rank with, rival, equal,arrange, place in order, marshal, put side by side, display, serve (food), enumerate, compare with,common, ordinary, average,and, besides, as well as","Onyomi: ヘイ = line up, be in a row, rank with, rival, equal",Guess the meaning of the Kunyomi reading,Text
+"閉,||とじる,とざす,しめる,しまる||","shut, close,lock, fasten, plunge (in grief)","Onyomi: ヘイ = shut, close",Guess the meaning of the Kunyomi reading,Text
+"片,||かた||","one (eye, etc.), single (shift, etc.), oneway, onesided","Onyomi: ヘン = leaf, sheet, petal, flake",Guess the meaning of the Kunyomi reading,Text
+"補,||おぎなう||","supply, make good, make up (losses), stop (a gap), offset, piece out, compensate for, supplement","Onyomi: ホ = assistant, learner",Guess the meaning of the Kunyomi reading,Text
+"暮,||くれる,くらす||","live, make a living, spend (one's time),get dark, (the sun) sets, (the season) ends, (time) passes, be overwhelmed","Onyomi: ボ = live, make a living, spend (one's time)",Guess the meaning of the Kunyomi reading,Text
+"忘,||わすれる||","forget, be forgetful of, forget about, forget (an article)","Onyomi: ボウ = forget, be forgetful of, forget about, forget (an article)",Guess the meaning of the Kunyomi reading,Text
+"宝,||たから||","treasure, valuables, wealth, jewels, mammon","Onyomi: ホウ = treasure",Guess the meaning of the Kunyomi reading,Text
+"訪,||おとずれる,たずねる||","visit, call on,look up","Onyomi: ホウ = visit, call on",Guess the meaning of the Kunyomi reading,Text
+"亡,||ない||","the late, the deceased","Onyomi: ボウ,モウ = my late, the late, dying, being destroyed",Guess the meaning of the Kunyomi reading,Text
+"訳,||わけ||","meaning, sense, reason, cause, circumstances, the case, understanding (between them)","Onyomi: ヤク = translation",Guess the meaning of the Kunyomi reading,Text
+"優,||やさしい,すぐれる||","excel, surpass, have advantages over, be excellent,gentle, tender, graceful, affectionate, kind, amiable, suave","Onyomi: ユウ = actor, superiority, gentleness",Guess the meaning of the Kunyomi reading,Text
+"預,||あずける,あずかる||","place in custody, deposit, leave with, entrust with, commit to, give,take charge of, receive on deposit, undertake to do, call off (as a tie), refrain from, receive, enjoy","Onyomi: ヨ = place in custody, deposit, leave with, entrust with, commit to, give",Guess the meaning of the Kunyomi reading,Text
+"幼,||おさない||","infant","Onyomi: ヨウ = infancy, childhood, infants, children",Guess the meaning of the Kunyomi reading,Text
+"欲,||ほっする,ほしい||","desire, want","Onyomi: ヨク = covetousness, greed, passion, desire, craving, appetite",Guess the meaning of the Kunyomi reading,Text
+"卵,||たまご||","egg, spawn, roe, (an expert) in the making","Onyomi: ラン = ovum",Guess the meaning of the Kunyomi reading,Text
+"乱,||みだれる,みだす||","put in disorder, disturb, agitate, corrupt, derange (the mind),be out of order, be confused, be disturbed, be disorganized, be demoralized, be lax, be disheveled","Onyomi: ラン = riot, rebellion, war",Guess the meaning of the Kunyomi reading,Text
+"裏,||うら||","reverse, wrong side, undersurface, inside, palm, sole, opposite, back, rear, lining, last half (of an inning)","Onyomi: リ = inside",Guess the meaning of the Kunyomi reading,Text
+"臨,||のぞむ||","face, front on, border on, meet, be confronted by, be on the verge of, attend, assist at, deal with, rule over, command a view of, deign to, visit, call on, come upon, come up to","Onyomi: リン = face, front on, border on, meet, be confronted by, be on the verge of, attend, assist at, deal with, rule over, command a view of, deign to, visit, call on, come upon, come up to",Guess the meaning of the Kunyomi reading,Text
+"朗,||ほがらか||","clear, bright, serene, melodious, cheerful, sunny","Onyomi: ロウ = clear, bright, serene, melodious, cheerful, sunny",Guess the meaning of the Kunyomi reading,Text
+"仁,||ジン,ニ||","virtue, benevolence, humanity, charity, man","",Guess the meaning of the Onyomi reading,Text
+"俳,||ハイ||","actor","",Guess the meaning of the Onyomi reading,Text
+"党,||トウ||","party, faction, clique, companions","",Guess the meaning of the Onyomi reading,Text
+"冊,||サツ,サク||","volume, book, letter, book counter","",Guess the meaning of the Onyomi reading,Text
+"処,||ショ||","manage, deal with, sentence, condemn, act, behave, conduct oneself (well)","",Guess the meaning of the Onyomi reading,Text
+"券,||ケン||","ticket, coupon, bond, certificate","",Guess the meaning of the Onyomi reading,Text
+"劇,||ゲキ||","drama, play","",Guess the meaning of the Onyomi reading,Text
+"后,||コウ||","after, behind, back, later","",Guess the meaning of the Onyomi reading,Text
+"域,||イキ||","region, limits, stage, level","",Guess the meaning of the Onyomi reading,Text
+"存,||ソン,ゾン||","know, be aware of, be acquainted with, think, believe, feel","",Guess the meaning of the Onyomi reading,Text
+"孝,||コウ||","filial piety","",Guess the meaning of the Onyomi reading,Text
+"宅,||タク||","home, house, residence, our home, my husband","",Guess the meaning of the Onyomi reading,Text
+"宇,||ウ||","eaves, roof, house, heaven","",Guess the meaning of the Onyomi reading,Text
+"宗,||シュウ,ソウ||","religion, sect, denomination","",Guess the meaning of the Onyomi reading,Text
+"宙,||チュウ||","air, space, midair, sky, heaven, memorization, interval of time","",Guess the meaning of the Onyomi reading,Text
+"宣,||セン||","be pleased to say, say","",Guess the meaning of the Onyomi reading,Text
+"密,||ミツ||","secrecy, denseness (of population), minuteness, carefulness, fineness","",Guess the meaning of the Onyomi reading,Text
+"寸,||スン||","onetenth of a foot, measure","",Guess the meaning of the Onyomi reading,Text
+"将,||ショウ||","commander, general, admiral","",Guess the meaning of the Onyomi reading,Text
+"尺,||シャク||","Japanese foot, rule, measure, scale, length","",Guess the meaning of the Onyomi reading,Text
+"展,||テン||","expand","",Guess the meaning of the Onyomi reading,Text
+"層,||ソウ||","(social) class, stratum, layer, seam, bed, formation, story, floor, course (of stones)","",Guess the meaning of the Onyomi reading,Text
+"幕,||マク,バク||","curtain, bunting, an act (in a play), end, first rank (in sumo), a matter, a case","",Guess the meaning of the Onyomi reading,Text
+"庁,||チョウ||","government office","",Guess the meaning of the Onyomi reading,Text
+"律,||リツ,リチ||","law, regulation, rhythm,Buddhist sect originating in the eighth century","",Guess the meaning of the Onyomi reading,Text
+"忠,||チュウ||","loyalty, devotion, fidelity, faithfulness","",Guess the meaning of the Onyomi reading,Text
+"恩,||オン||","kindness, goodness, favor, mercy, blessing, benefit","",Guess the meaning of the Onyomi reading,Text
+"憲,||ケン||","law","",Guess the meaning of the Onyomi reading,Text
+"批,||ヒ||","strike","",Guess the meaning of the Onyomi reading,Text
+"拡,||カク||","expand, enlarge, widen, unfurl, open (arms or a package), stretch, spread","",Guess the meaning of the Onyomi reading,Text
+"揮,||キ||","shake, wield, brandish, be invigorated, be spirited, flourish","",Guess the meaning of the Onyomi reading,Text
+"晩,||バン||","evening, night, the end of all things, late","",Guess the meaning of the Onyomi reading,Text
+"枚,||マイ||","counter for thin flat things, page, leaf (of a book), sheet","",Guess the meaning of the Onyomi reading,Text
+"棒,||ボウ||","stick, cane, rod, pole, stake, pile, club, bar, line, dash","",Guess the meaning of the Onyomi reading,Text
+"模,||モ,ボ||","copy, imitate, mock","",Guess the meaning of the Onyomi reading,Text
+"権,||ケン,ゴン||","authority, power, rights, concession","",Guess the meaning of the Onyomi reading,Text
+"樹,||ジュ||","tree, wood","",Guess the meaning of the Onyomi reading,Text
+"段,||ダン||","steps, stair, flight of stairs, column, paragraph, act, scene, case, question, grade, class, rank, level, degree, extent","",Guess the meaning of the Onyomi reading,Text
+"派,||ハ||","group, party, clique, faction, sect, school (of art, etc.)","",Guess the meaning of the Onyomi reading,Text
+"班,||ハン||","corps, unite, squad, party, companions, group, order","",Guess the meaning of the Onyomi reading,Text
+"皇,||コウ,オウ||","emperor","",Guess the meaning of the Onyomi reading,Text
+"盟,||メイ||","oath, alliance","",Guess the meaning of the Onyomi reading,Text
+"看,||カン||","see","",Guess the meaning of the Onyomi reading,Text
+"磁,||ジ||","magnetism, porcelain","",Guess the meaning of the Onyomi reading,Text
+"穀,||コク||","cereals, grain","",Guess the meaning of the Onyomi reading,Text
+"策,||サク||","plan, scheme, policy, step, means, whip","",Guess the meaning of the Onyomi reading,Text
+"簡,||カン||","brevity, simplicity","",Guess the meaning of the Onyomi reading,Text
+"糖,||トウ||","sugar","",Guess the meaning of the Onyomi reading,Text
+"系,||ケイ||","system, lineage, faction, group, zone, corollary, connection","",Guess the meaning of the Onyomi reading,Text
+"純,||ジュン||","purity, innocence, net (profit)","",Guess the meaning of the Onyomi reading,Text
+"署,||ショ||","government office, (police) station","",Guess the meaning of the Onyomi reading,Text
+"翌,||ヨク||","next, following","",Guess the meaning of the Onyomi reading,Text
+"聖,||セイ||","saint, sage, great master, holiness","",Guess the meaning of the Onyomi reading,Text
+"肺,||ハイ||","lung","",Guess the meaning of the Onyomi reading,Text
+"胃,||イ||","stomach, paunch, crop, craw","",Guess the meaning of the Onyomi reading,Text
+"脳,||ノウ||","brain, memory","",Guess the meaning of the Onyomi reading,Text
+"腸,||チョウ||","intestines, bowels, entrails, digestive system in lower animals","",Guess the meaning of the Onyomi reading,Text
+"臓,||ゾウ||","viscera, bowels","",Guess the meaning of the Onyomi reading,Text
+"衆,||シュウ,シュ||","great numbers, multitude, populace, companions","",Guess the meaning of the Onyomi reading,Text
+"視,||シ||","regard as","",Guess the meaning of the Onyomi reading,Text
+"覧,||ラン||","see","",Guess the meaning of the Onyomi reading,Text
+"詞,||シ||","words, poetry","",Guess the meaning of the Onyomi reading,Text
+"誌,||シ||","records, document, magazine","",Guess the meaning of the Onyomi reading,Text
+"誕,||タン||","be born, deceive, lie, be arbitrary","",Guess the meaning of the Onyomi reading,Text
+"論,||ロン||","argument, discourse","",Guess the meaning of the Onyomi reading,Text
+"諸,||ショ||","many, several, various, all","",Guess the meaning of the Onyomi reading,Text
+"警,||ケイ||","admonish, warn, prohibit","",Guess the meaning of the Onyomi reading,Text
+"賃,||チン||","hire, rent, wages, fare, freight, charge, fee","",Guess the meaning of the Onyomi reading,Text
+"遺,||イ,ユイ||","leave behind, bequeath, save, reserve","",Guess the meaning of the Onyomi reading,Text
+"郵,||ユウ||","stagecoach stop, mail","",Guess the meaning of the Onyomi reading,Text
+"郷,||キョウ,ゴウ||","village, native place, country, district","",Guess the meaning of the Onyomi reading,Text
+"閣,||カク||","tower, tall building, palace, cabinet (of a government)","",Guess the meaning of the Onyomi reading,Text
+"陛,||ヘイ||","steps (of the throne)","",Guess the meaning of the Onyomi reading,Text
+"預,||ヨ||","place in custody, deposit, leave with, entrust with, commit to, give","Kunyomi: あずける,あずかる = place in custody, deposit, leave with, entrust with, commit to, give,take charge of, receive on deposit, undertake to do, call off (as a tie), refrain from, receive, enjoy",Guess the meaning of the Onyomi reading,Text
+"暖,||ダン||","warmth","Kunyomi: あたたか,あたたかい,あたたまる,あたためる = warm, heat,warm oneself, sun oneself, get warm,mild, genial, cordial",Guess the meaning of the Onyomi reading,Text
+"穴,||ケツ||","hole, aperture, slit, gap, stop (of musical instrument), eyelet, cavity, socket, cave, den, hiding place, pit, fault, defect, deficit, grave, dark horse","Kunyomi: あな = hole, aperture, slit, gap, stop (of musical instrument), eyelet, cavity, socket, cave, den, hiding place, pit, fault, defect, deficit, grave, dark horse",Guess the meaning of the Onyomi reading,Text
+"危,||キ||","be afraid of, feel uneasy about, shrink from","Kunyomi: あぶない,あやうい,あやぶむ = fear, have misgivings, be doubtful, mistrust, dangerous, critical, grave, uncertain, unreliable, limping, narrow, close, watch out",Guess the meaning of the Onyomi reading,Text
+"誤,||ゴ||","err, be mistaken, do wrong, mislead","Kunyomi: あやまる = err, be mistaken, do wrong, mislead",Guess the meaning of the Onyomi reading,Text
+"洗,||セン||","wash, inquire into, probe","Kunyomi: あらう = wash, inquire into, probe",Guess the meaning of the Onyomi reading,Text
+"著,||チョ||","literary work","Kunyomi: あらわす,いちじるしい = write, publish,remarkable, phenomenal",Guess the meaning of the Onyomi reading,Text
+"泉,||セン||","spring, fountain (head), source","Kunyomi: いずみ = spring, fountain (head), source",Guess the meaning of the Onyomi reading,Text
+"痛,||ツウ||","pain","Kunyomi: いたい,いたむ,いためる = feel a pain, hurt, be hurt, be damaged, be spoiled, be bruised, wear out, be worn out,injure, impair, spoil, worry, bother, afflict, cause pain,painful, sore, trying",Guess the meaning of the Onyomi reading,Text
+"頂,||チョウ||","head, top of the head, top, summit, peak, spire","Kunyomi: いただく,いただき = be crowned with, wear, live under (a ruler), install (a president), receive, accept, buy, take, eat, drink",Guess the meaning of the Onyomi reading,Text
+"至,||シ||","go, proceed, come, arrive, reach, attain, result in, lead to","Kunyomi: いたる = go, proceed, come, arrive, reach, attain, result in, lead to",Guess the meaning of the Onyomi reading,Text
+"否,||ヒ||","no, noes","Kunyomi: いな = no, nay",Guess the meaning of the Onyomi reading,Text
+"射,||シャ||","archery, shooting","Kunyomi: いる = shoot",Guess the meaning of the Onyomi reading,Text
+"承,||ショウ||","receive, accept, take, get, obtain, catch (a ball), stop (a blow), parry, answer (the phone), undergo (an operation), take (an exam), sustain (a loss), be exposed to (ridicule), face, front of, i","Kunyomi: うけたまわる = hear, listen to, be informed",Guess the meaning of the Onyomi reading,Text
+"疑,||ギ||","doubt, distrust, be suspicious of","Kunyomi: うたがう = doubt, distrust, be suspicious of",Guess the meaning of the Onyomi reading,Text
+"討,||トウ||","attack, defeat, destroy, conquer","Kunyomi: うつ = attack, defeat, destroy, conquer",Guess the meaning of the Onyomi reading,Text
+"映,||エイ||","reflecting, projection","Kunyomi: うつる,うつす,はえる = shine, be brilliant, look attractive, be reflected, match, harmonize, be becoming, be taken (a photo), copy, transcribe, duplicate, reproduce, trace, describe, picture, photograph",Guess the meaning of the Onyomi reading,Text
+"敬,||ケイ||","respect, honor, revere","Kunyomi: うやまう = respect, honor, revere, venerate",Guess the meaning of the Onyomi reading,Text
+"裏,||リ||","inside","Kunyomi: うら = reverse, wrong side, undersurface, inside, palm, sole, opposite, back, rear, lining, last half (of an inning)",Guess the meaning of the Onyomi reading,Text
+"熟,||ジュク||","ripen, mellow, mature, acquire skill, be ripe for, become popular (as a word)","Kunyomi: うれる = ripen, mellow, mature, acquire skill, be ripe for, become popular (as a word)",Guess the meaning of the Onyomi reading,Text
+"拝,||ハイ||","worship","Kunyomi: おがむ = worship, pray to, adore, reverence, look at (with reverence)",Guess the meaning of the Onyomi reading,Text
+"補,||ホ||","assistant, learner","Kunyomi: おぎなう = supply, make good, make up (losses), stop (a gap), offset, piece out, compensate for, supplement",Guess the meaning of the Onyomi reading,Text
+"厳,||ゲン,ゴン||","strictness, severity","Kunyomi: おごそか,きびしい = austere, majestic, severe, strict",Guess the meaning of the Onyomi reading,Text
+"幼,||ヨウ||","infancy, childhood, infants, children","Kunyomi: おさない = infant",Guess the meaning of the Onyomi reading,Text
+"納,||ノウ,ナッ,ナ,ナン,トウ||","obtain, reap, dedicate, consecrate, pay, supply, store, finish, collect, restore, replace, accept (a present), burry, gather, rally (troops), sheathe (the sword)","Kunyomi: おさめる,おさまる = obtain, reap, dedicate, consecrate, pay, supply, store, finish, collect, restore, replace, accept (a present), burry, gather, rally (troops), sheathe (the sword),be paid, be restored, stay (in the stomach), look composed, be contented, be satisfied, be settled",Guess the meaning of the Onyomi reading,Text
+"収,||シュウ||","income","Kunyomi: おさめる,おさまる = obtain, reap, dedicate, consecrate, pay, supply, store, finish, collect, restore, replace, accept (a present), bury, gather, rally (troops), sheathe (the sword),be paid, be restored, stay (in the stomach), look composed, be contented, be satisfied, be settled",Guess the meaning of the Onyomi reading,Text
+"推,||スイ||","conjecture","Kunyomi: おす = infer, conclude, guess, suppose, recommend, support",Guess the meaning of the Onyomi reading,Text
+"訪,||ホウ||","visit, call on","Kunyomi: おとずれる,たずねる = visit, call on,look up",Guess the meaning of the Onyomi reading,Text
+"己,||コ,キ||","sixth","Kunyomi: おのれ = oneself, myself, yourself",Guess the meaning of the Onyomi reading,Text
+"降,||コウ||","going down, surrender","Kunyomi: おりる,おろす,ふる = fall, drop, come down (rain, etc.),come down, go down, step down, descend, get off, land,take down, lower, pull down, lift down, let down, drop, launch, let off (passengers), wear (for the first time), cause (abortion), grate, invoke, exercise, borrow (in subtraction), lock",Guess the meaning of the Onyomi reading,Text
+"蚕,||サン||","silk worm","Kunyomi: かいこ = silk worm",Guess the meaning of the Onyomi reading,Text
+"片,||ヘン||","leaf, sheet, petal, flake","Kunyomi: かた = one (eye, etc.), single (shift, etc.), oneway, onesided",Guess the meaning of the Onyomi reading,Text
+"難,||ナン||","trouble, difficulty, accident, disaster, defect, criticism","Kunyomi: かたい,むずかしい = impossible,hard, difficult, delicate, troublesome, doubtful, hopeless, stern, sullen, hard to please, serious, technical",Guess the meaning of the Onyomi reading,Text
+"敵,||テキ||","enemy, foe, opponent","Kunyomi: かたき = enemy, competitor, revenge",Guess the meaning of the Onyomi reading,Text
+"担,||タン||","carry, raise","Kunyomi: かつぐ,になう = shoulder (a load),carry on the shoulder, bear a burden",Guess the meaning of the Onyomi reading,Text
+"奏,||ソウ||","play (an instrument)","Kunyomi: かなでる = play (an instrument)",Guess the meaning of the Onyomi reading,Text
+"革,||カク||","tanned leather","Kunyomi: かわ = skin, hide, leather, fur, pelt, bark, peeling, husk, shell, film, cream",Guess the meaning of the Onyomi reading,Text
+"刻,||コク||","time, carving, engraving, cutting","Kunyomi: きざむ = cut fine, chop up, mince, hash, carve (images), engrave (seals), chisel, cut, notch",Guess the meaning of the Onyomi reading,Text
+"傷,||ショウ||","wound, injury","Kunyomi: きず,いたむ,いためる = wound, injury, hurt, cut, gash, bruise, scratch, scar, weak point,feel a pain, be hurt, be damaged, be spoiled, be bruised, wear out, be worn out,injure, impair, spoil, worry, bother, afflict, cause pain",Guess the meaning of the Onyomi reading,Text
+"絹,||ケン||","silk, silk thread","Kunyomi: きぬ = silk, silk thread",Guess the meaning of the Onyomi reading,Text
+"蔵,||ゾウ||","storehoure, warehouse, godown, cellar, depository, treasury, granary, elevator","Kunyomi: くら = storehoure, warehouse, godown, cellar, depository, treasury, granary, elevator",Guess the meaning of the Onyomi reading,Text
+"暮,||ボ||","live, make a living, spend (one's time)","Kunyomi: くれる,くらす = live, make a living, spend (one's time),get dark, (the sun) sets, (the season) ends, (time) passes, be overwhelmed",Guess the meaning of the Onyomi reading,Text
+"異,||イ||","uncommonness, strangeness, queerness, difference","Kunyomi: こと = differ, vary, be unusual",Guess the meaning of the Onyomi reading,Text
+"困,||コン||","be distressed be in trouble, be destitute, be embarrassed, be perplexed, be annoyed","Kunyomi: こまる = be distressed be in trouble, be destitute, be embarrassed, be perplexed, be annoyed",Guess the meaning of the Onyomi reading,Text
+"探,||タン||","search, look for, explore, spy upon, sound out, probe (a wound)","Kunyomi: さぐる,さがす = search, look for, explore, spy upon, sound out, probe (a wound)",Guess the meaning of the Onyomi reading,Text
+"障,||ショウ||","hinder, interfere with, affect, hurt, harm","Kunyomi: さわる = hinder, interfere with, affect, hurt, harm",Guess the meaning of the Onyomi reading,Text
+"潮,||チョウ||","tide, salt water, opportunity","Kunyomi: しお = tide, salt water, opportunity",Guess the meaning of the Onyomi reading,Text
+"舌,||ゼツ||","tongue, reed, clapper","Kunyomi: した = tongue, reed, clapper",Guess the meaning of the Onyomi reading,Text
+"従,||ジュウ,ショウ,ジュ||","secondary, incidental, subordinate, accessory, junior, retainer, follow","Kunyomi: したがう,したがえる = obey, submit to, comply with, observe (a law), follow, accompany,be accompanied by, take (someone) with you, subjugate, subdue",Guess the meaning of the Onyomi reading,Text
+"退,||タイ||","retreat, withdraw, retire, resign","Kunyomi: しりぞく,しりぞける = retreat, withdraw, retire, resign,repel, drive away, expel, depose, keep away, reject, turn down",Guess the meaning of the Onyomi reading,Text
+"吸,||キュウ||","inhale, imbibe, sip, suck, suck out","Kunyomi: すう = inhale, imbibe, sip, suck, suck out",Guess the meaning of the Onyomi reading,Text
+"姿,||シ||","figure, form, shape, appearance, attire, posture, oneself, portrait, aspect","Kunyomi: すがた = figure, form, shape, appearance, attire, posture, oneself, portrait, aspect",Guess the meaning of the Onyomi reading,Text
+"筋,||キン||","muscle, sinew, tendon","Kunyomi: すじ = muscle, sinew, tendon, vein, fiber, string, line, stripe, streak, plot, plan, reason, logic, circumstances, thread, sequence, quarters, sources, authorities, lineage, strain, stock, descent, grain, texture",Guess the meaning of the Onyomi reading,Text
+"捨,||シャ||","throw away, discard, abandon, desert, give up, renounce, relinquish, resign, lay down (one's life), part with, sacrifice, reject, condemn","Kunyomi: すてる = throw away, discard, abandon, desert, give up, renounce, relinquish, resign, lay down (one's life), part with, sacrifice, reject, condemn",Guess the meaning of the Onyomi reading,Text
+"砂,||サ,シャ||","sand","Kunyomi: すな = sand",Guess the meaning of the Onyomi reading,Text
+"済,||サイ||","end, do without, avoid, be excusable, need not","Kunyomi: すむ,すます = end, do without, avoid, be excusable, need not,finish up, settle (one's account), make do",Guess the meaning of the Onyomi reading,Text
+"座,||ザ||","seat, cushion, throne, a gathering, stand, pedestal, platform, (metal) washer, theater, troupe, constellation","Kunyomi: すわる = squat down, sit down, (eyes) are fixed on",Guess the meaning of the Onyomi reading,Text
+"背,||ハイ||","back, behind","Kunyomi: せ,せい,そむく,そむける = act contrary to, go back on, disobey, defy, rebel against, turn one's back on,look away from, avert,back, back side, stature, height, ridge,stature",Guess the meaning of the Onyomi reading,Text
+"銭,||セン||","onehundredth of a yen, coin","Kunyomi: ぜに = money",Guess the meaning of the Onyomi reading,Text
+"沿,||エン||","following along","Kunyomi: そう = run along, lie along, be situated on",Guess the meaning of the Onyomi reading,Text
+"供,||キョウ,ク||","offer, present, submit, serve (a meal), supply","Kunyomi: そなえる,とも = offer, sacrifice, dedicte, attendant, companion, retinue",Guess the meaning of the Onyomi reading,Text
+"染,||セン||","be dyed, be imbued with, be tainted with","Kunyomi: そめる,そまる,しみる,しみ = be dyed, be imbued with, be tainted with,dye, color, paint,soak in, permeate, infiltrate, pierce (as a wind), be imbued with, be influenced by, smart, be sensitive to pain,stain, blot, spot, smudge",Guess the meaning of the Onyomi reading,Text
+"宝,||ホウ||","treasure","Kunyomi: たから = treasure, valuables, wealth, jewels, mammon",Guess the meaning of the Onyomi reading,Text
+"裁,||サイ||","judge","Kunyomi: たつ,さばく = judge,cut out (a suit), sever, cut off, shut off, interrupt, abstain from, eradicate, suppress",Guess the meaning of the Onyomi reading,Text
+"尊,||ソン||","value, prize, esteem, respect, honor, revere","Kunyomi: たっとい,とうとい,たっとぶ,とうとぶ = value, prize, esteem, respect, honor, revere, valuable, precious, noble, exalted, priceless, sacred",Guess the meaning of the Onyomi reading,Text
+"貴,||キ||","value, prize, esteem, respect, honor, revere","Kunyomi: たっとい,とうとい,たっとぶ,とうとぶ = value, prize, esteem, respect, honor, revere, valuable, precious, noble, exalted, venerable",Guess the meaning of the Onyomi reading,Text
+"縦,||ジュウ||","length, height","Kunyomi: たて = length, height, warp",Guess the meaning of the Onyomi reading,Text
+"卵,||ラン||","ovum","Kunyomi: たまご = egg, spawn, roe, (an expert) in the making",Guess the meaning of the Onyomi reading,Text
+"垂,||スイ||","suspend, hang down, slouch","Kunyomi: たれる,たらす = suspend, hang down, slouch,hang, droop, drop, lower, pull down, dangle, sag, drip, ooze, trickle, leave behind (at death), give, confer",Guess the meaning of the Onyomi reading,Text
+"俵,||ヒョウ||","bag, bale, sack, bag counter","Kunyomi: たわら = bag, bale, sack, bag counter",Guess the meaning of the Onyomi reading,Text
+"乳,||ニュウ||","milk, the breasts, loop","Kunyomi: ちち,ち = milk, the breasts, loop",Guess the meaning of the Onyomi reading,Text
+"縮,||シュク||","shrink, contract, shrivel, wrinkle","Kunyomi: ちぢむ,ちぢまる,ちぢめる,ちぢれる,ちぢらす = shrink, contract, shrivel, wrinkle,be shortened, be contracted, be reduced, be abridged, be abbreviated, wrinkle,shorten, contract, reduce, boil down, simplify, abbreviate, abridge, condense, compress, crumple, withdraw,be wavy, curl, be corrugated, be wrinkled,curl, crinkle, crimp",Guess the meaning of the Onyomi reading,Text
+"就,||シュウ,ジュ||","settle in (place), take (a seat), take (a position), depart, study (under a teacher)","Kunyomi: つく,つける = settle in (place), take (a seat), take (a position), depart, study (under a teacher)",Guess the meaning of the Onyomi reading,Text
+"机,||キ||","desk, table","Kunyomi: つくえ = desk, table",Guess the meaning of the Onyomi reading,Text
+"創,||ソウ||","wound, injury, hurt, cut, gash, bruise, scratch, scar, weak point","Kunyomi: つくる = ",Guess the meaning of the Onyomi reading,Text
+"勤,||キン,ゴン||","be fit for, be equal to, function properly","Kunyomi: つとめる,つとまる = be fit for, be equal to, function properly, serve, fill a post, serve under, exert oneself, endeavor, work, be diligent, play (the part of)",Guess the meaning of the Onyomi reading,Text
+"閉,||ヘイ||","shut, close","Kunyomi: とじる,とざす,しめる,しまる = shut, close,lock, fasten, plunge (in grief)",Guess the meaning of the Onyomi reading,Text
+"亡,||ボウ,モウ||","my late, the late, dying, being destroyed","Kunyomi: ない = the late, the deceased",Guess the meaning of the Onyomi reading,Text
+"並,||ヘイ||","line up, be in a row, rank with, rival, equal","Kunyomi: なみ,ならべる,ならぶ,ならびに = line up, be in a row, rank with, rival, equal,arrange, place in order, marshal, put side by side, display, serve (food), enumerate, compare with,common, ordinary, average,and, besides, as well as",Guess the meaning of the Onyomi reading,Text
+"値,||チ||","price, cost, value","Kunyomi: ね,あたい = price, cost, value",Guess the meaning of the Onyomi reading,Text
+"除,||ジョ,ジ||","division (in math)","Kunyomi: のぞく = remove, abolish, cancel, exclude, except",Guess the meaning of the Onyomi reading,Text
+"臨,||リン||","face, front on, border on, meet, be confronted by, be on the verge of, attend, assist at, deal with, rule over, command a view of, deign to, visit, call on, come upon, come up to","Kunyomi: のぞむ = face, front on, border on, meet, be confronted by, be on the verge of, attend, assist at, deal with, rule over, command a view of, deign to, visit, call on, come upon, come up to",Guess the meaning of the Onyomi reading,Text
+"延,||エン||","stretching","Kunyomi: のびる,のべる,のばす = extend, lengthen, stretch, spread, be postponed, increase, grow, progress, develop, be straightened, be flattened, be smoothed, be exhausted, let (nails) grow, straighten, uncoil, spread out, reach out, postpone, dilute, smooth out, develop (talents), amass (riches), make (a bed), widen",Guess the meaning of the Onyomi reading,Text
+"灰,||カイ||","ashes","Kunyomi: はい = ashes",Guess the meaning of the Onyomi reading,Text
+"鋼,||コウ||","steel","Kunyomi: はがね = steel",Guess the meaning of the Onyomi reading,Text
+"激,||ゲキ||","get excited, be agitated, be enraged, be exasperated, chafe, urge, encourage, incite","Kunyomi: はげしい = violent, vehement, furious, severe, acute, intense, extreme, passionate, heated, stormy (applause), tempestuous (temperament), mighty",Guess the meaning of the Onyomi reading,Text
+"腹,||フク||","belly, stomach","Kunyomi: はら = abdomen, belly, bowels, stomach,  heart, mind, intention, courage, spirit, pluck, anger, womb, thickest or widest part",Guess the meaning of the Onyomi reading,Text
+"針,||シン||","needle","Kunyomi: はり = needle, pin, staple, fishhook, stinger, spine (of a fish), thorn, stitch, (watch) hand, (phonograph) needle, (hypodermic) needle, sting, molehill, acupuncture",Guess the meaning of the Onyomi reading,Text
+"秘,||ヒ||","secret","Kunyomi: ひめる = conceal, keep a secret",Guess the meaning of the Onyomi reading,Text
+"奮,||フン||","be invigorated, be spirited, flourish","Kunyomi: ふるう = be invigorated, be spirited, flourish",Guess the meaning of the Onyomi reading,Text
+"紅,||コウ,ク||","red, crimson","Kunyomi: べに,くれない = red, crimson, rouge, lipstick,deep red, crimson",Guess the meaning of the Onyomi reading,Text
+"朗,||ロウ||","clear, bright, serene, melodious, cheerful, sunny","Kunyomi: ほがらか = clear, bright, serene, melodious, cheerful, sunny",Guess the meaning of the Onyomi reading,Text
+"干,||カン||","parch, get dry, ebb, recede","Kunyomi: ほす,ひる = parch, get dry, ebb, recede, dry, desiccate, drain (off), drink up, dry up",Guess the meaning of the Onyomi reading,Text
+"欲,||ヨク||","covetousness, greed, passion, desire, craving, appetite","Kunyomi: ほっする,ほしい = desire, want",Guess the meaning of the Onyomi reading,Text
+"骨,||コツ||","bone, remains, knack","Kunyomi: ほね = bone, skeleton, frame, rib (of an umbrella), grit, backbone, effort, pains",Guess the meaning of the Onyomi reading,Text
+"巻,||カン||","volume, book, part, reel","Kunyomi: まく,まき = roll up, wind, coil, tie around, wind up, roll (of silk), volume, book, winding (of a clock)",Guess the meaning of the Onyomi reading,Text
+"誠,||セイ||","admonish, warn, prohibit","Kunyomi: まこと = sincerity, honesty, fidelity, truth",Guess the meaning of the Onyomi reading,Text
+"窓,||ソウ||","window","Kunyomi: まど = window",Guess the meaning of the Onyomi reading,Text
+"操,||ソウ||","manipulate, operate, steer, pull strings","Kunyomi: みさお,あやつる = manipulate, operate, steer, pull strings,chastity, virginity, constancy, fidelity, honor",Guess the meaning of the Onyomi reading,Text
+"乱,||ラン||","riot, rebellion, war","Kunyomi: みだれる,みだす = put in disorder, disturb, agitate, corrupt, derange (the mind),be out of order, be confused, be disturbed, be disorganized, be demoralized, be lax, be disheveled",Guess the meaning of the Onyomi reading,Text
+"認,||ニン||","witness, sight, discern, authorize, recognize, appreciate, approve of, judge, conclude, believe, regard as","Kunyomi: みとめる = witness, sight, discern, authorize, recognize, appreciate, approve of, judge, conclude, believe, regard as",Guess the meaning of the Onyomi reading,Text
+"源,||ゲン||","source, origin","Kunyomi: みなもと = source, origin",Guess the meaning of the Onyomi reading,Text
+"蒸,||ジョウ||","steam, heat up (with steam), be close, be sultry, foment, poultice","Kunyomi: むす,むれる,むらす = steam, heat up (with steam), be close, be sultry, foment, poultice,be stuffy, get musty, moulder, heat,cook by steam",Guess the meaning of the Onyomi reading,Text
+"胸,||キョウ||","chest, breast, bosom, heart, mind, feelings","Kunyomi: むね,むな = chest, breast, bosom, heart, mind, feelings",Guess the meaning of the Onyomi reading,Text
+"専,||セン||","mainly, sorely,","Kunyomi: もっぱら = mainly, sorely,",Guess the meaning of the Onyomi reading,Text
+"盛,||セイ,ジョウ||","prosper, flourish, copulate (animals)","Kunyomi: もる,さかる,さかん = serve, fill, heap up, prescribe or give (medicine), poison, mark out, graduate,prosperous, successful (meeting), energetic, enthusiastic, popular, furious (attack), keen (competition), extensive, large",Guess the meaning of the Onyomi reading,Text
+"優,||ユウ||","actor, superiority, gentleness","Kunyomi: やさしい,すぐれる = excel, surpass, have advantages over, be excellent,gentle, tender, graceful, affectionate, kind, amiable, suave",Guess the meaning of the Onyomi reading,Text
+"善,||ゼン||","good, goodness, right, virtue","Kunyomi: よい = good, goodnatured, pleasing, precious, noble, lovely, beautiful, fine, lucky, efficacious, right, suitable, justifiable, appropriate, satisfactory, better, all right, unnecessary, no objection, intimate, friendly, easy, well, desirous",Guess the meaning of the Onyomi reading,Text
+"装,||ソウ,ショウ||","dress, spruce up, pretend, disguise, profess","Kunyomi: よそおう = dress, spruce up, pretend, disguise, profess",Guess the meaning of the Onyomi reading,Text
+"呼,||コ||","call, call out to, invoke, summon, invite, attract, send for, name, designate, bring about","Kunyomi: よぶ = call, call out to, invoke, summon, invite, attract, send for, name, designate, bring about",Guess the meaning of the Onyomi reading,Text
+"若,||ジャク,ニャク||","if","Kunyomi: わかい,もしくは = young, juvenile, youthful, younger, junior, immature, inexperienced, low number,or, otherwise",Guess the meaning of the Onyomi reading,Text
+"訳,||ヤク||","translation","Kunyomi: わけ = meaning, sense, reason, cause, circumstances, the case, understanding (between them)",Guess the meaning of the Onyomi reading,Text
+"忘,||ボウ||","forget, be forgetful of, forget about, forget (an article)","Kunyomi: わすれる = forget, be forgetful of, forget about, forget (an article)",Guess the meaning of the Onyomi reading,Text
+"私,||シ||","I, private affairs","Kunyomi: わたくし,わたし = I, myself, private (affairs)",Guess the meaning of the Onyomi reading,Text
+"割,||カツ||","divide, cut, halve, separate, split, rip, break, crack, smash, dilute","Kunyomi: わる,わり,われる,さく = divide, break, rate, percentage",Guess the meaning of the Onyomi reading,Text
+"我,||ガ||","ego, self, selfishness, egotism","Kunyomi: われ,わ = I, oneself, self, ego",Guess the meaning of the Onyomi reading,Text
+"reach, arrive, be received, be attentive, be realized,report, notice, forwarding, delivery [**Kun**]","届,とどける,とどく","",Guess the romaji equivalent of the Kunyomi reading,Text
+"stump, shares, stocks, connections, business, counter for small plants [**Kun**]","株,かぶ","",Guess the romaji equivalent of the Kunyomi reading,Text
+"differ, vary, be unusual [**Kun**]","異,こと","Onyomi: イ = uncommonness, strangeness, queerness, difference",Guess the romaji equivalent of the Kunyomi reading,Text
+"shine, be brilliant, look attractive, be reflected, match, harmonize, be becoming, be taken (a photo), copy, transcribe, duplicate, reproduce, trace, describe, picture, photograph [**Kun**]","映,うつる,うつす,はえる","Onyomi: エイ = reflecting, projection",Guess the romaji equivalent of the Kunyomi reading,Text
+"run along, lie along, be situated on [**Kun**]","沿,そう","Onyomi: エン = following along",Guess the romaji equivalent of the Kunyomi reading,Text
+"extend, lengthen, stretch, spread, be postponed, increase, grow, progress, develop, be straightened, be flattened, be smoothed, be exhausted, let (nails) grow, straighten, uncoil, spread out, reach out, postpone, dilute, smooth out, develop (talents), amass (riches), make (a bed), widen [**Kun**]","延,のびる,のべる,のばす","Onyomi: エン = stretching",Guess the romaji equivalent of the Kunyomi reading,Text
+"I, oneself, self, ego [**Kun**]","我,われ,わ","Onyomi: ガ = ego, self, selfishness, egotism",Guess the romaji equivalent of the Kunyomi reading,Text
+"ashes [**Kun**]","灰,はい","Onyomi: カイ = ashes",Guess the romaji equivalent of the Kunyomi reading,Text
+"skin, hide, leather, fur, pelt, bark, peeling, husk, shell, film, cream [**Kun**]","革,かわ","Onyomi: カク = tanned leather",Guess the romaji equivalent of the Kunyomi reading,Text
+"divide, break, rate, percentage [**Kun**]","割,わる,わり,われる,さく","Onyomi: カツ = divide, cut, halve, separate, split, rip, break, crack, smash, dilute",Guess the romaji equivalent of the Kunyomi reading,Text
+"parch, get dry, ebb, recede, dry, desiccate, drain (off), drink up, dry up [**Kun**]","干,ほす,ひる","Onyomi: カン = parch, get dry, ebb, recede",Guess the romaji equivalent of the Kunyomi reading,Text
+"roll up, wind, coil, tie around, wind up, roll (of silk), volume, book, winding (of a clock) [**Kun**]","巻,まく,まき","Onyomi: カン = volume, book, part, reel",Guess the romaji equivalent of the Kunyomi reading,Text
+"fear, have misgivings, be doubtful, mistrust, dangerous, critical, grave, uncertain, unreliable, limping, narrow, close, watch out [**Kun**]","危,あぶない,あやうい,あやぶむ","Onyomi: キ = be afraid of, feel uneasy about, shrink from",Guess the romaji equivalent of the Kunyomi reading,Text
+"desk, table [**Kun**]","机,つくえ","Onyomi: キ = desk, table",Guess the romaji equivalent of the Kunyomi reading,Text
+"doubt, distrust, be suspicious of [**Kun**]","疑,うたがう","Onyomi: ギ = doubt, distrust, be suspicious of",Guess the romaji equivalent of the Kunyomi reading,Text
+"value, prize, esteem, respect, honor, revere, valuable, precious, noble, exalted, venerable [**Kun**]","貴,たっとい,とうとい,たっとぶ,とうとぶ","Onyomi: キ = value, prize, esteem, respect, honor, revere",Guess the romaji equivalent of the Kunyomi reading,Text
+"inhale, imbibe, sip, suck, suck out [**Kun**]","吸,すう","Onyomi: キュウ = inhale, imbibe, sip, suck, suck out",Guess the romaji equivalent of the Kunyomi reading,Text
+"chest, breast, bosom, heart, mind, feelings [**Kun**]","胸,むね,むな","Onyomi: キョウ = chest, breast, bosom, heart, mind, feelings",Guess the romaji equivalent of the Kunyomi reading,Text
+"offer, sacrifice, dedicte, attendant, companion, retinue [**Kun**]","供,そなえる,とも","Onyomi: キョウ,ク = offer, present, submit, serve (a meal), supply",Guess the romaji equivalent of the Kunyomi reading,Text
+"muscle, sinew, tendon, vein, fiber, string, line, stripe, streak, plot, plan, reason, logic, circumstances, thread, sequence, quarters, sources, authorities, lineage, strain, stock, descent, grain, texture [**Kun**]","筋,すじ","Onyomi: キン = muscle, sinew, tendon",Guess the romaji equivalent of the Kunyomi reading,Text
+"be fit for, be equal to, function properly, serve, fill a post, serve under, exert oneself, endeavor, work, be diligent, play (the part of) [**Kun**]","勤,つとめる,つとまる","Onyomi: キン,ゴン = be fit for, be equal to, function properly",Guess the romaji equivalent of the Kunyomi reading,Text
+"respect, honor, revere, venerate [**Kun**]","敬,うやまう","Onyomi: ケイ = respect, honor, revere",Guess the romaji equivalent of the Kunyomi reading,Text
+"violent, vehement, furious, severe, acute, intense, extreme, passionate, heated, stormy (applause), tempestuous (temperament), mighty [**Kun**]","激,はげしい","Onyomi: ゲキ = get excited, be agitated, be enraged, be exasperated, chafe, urge, encourage, incite",Guess the romaji equivalent of the Kunyomi reading,Text
+"hole, aperture, slit, gap, stop (of musical instrument), eyelet, cavity, socket, cave, den, hiding place, pit, fault, defect, deficit, grave, dark horse [**Kun**]","穴,あな","Onyomi: ケツ = hole, aperture, slit, gap, stop (of musical instrument), eyelet, cavity, socket, cave, den, hiding place, pit, fault, defect, deficit, grave, dark horse",Guess the romaji equivalent of the Kunyomi reading,Text
+"silk, silk thread [**Kun**]","絹,きぬ","Onyomi: ケン = silk, silk thread",Guess the romaji equivalent of the Kunyomi reading,Text
+"source, origin [**Kun**]","源,みなもと","Onyomi: ゲン = source, origin",Guess the romaji equivalent of the Kunyomi reading,Text
+"austere, majestic, severe, strict [**Kun**]","厳,おごそか,きびしい","Onyomi: ゲン,ゴン = strictness, severity",Guess the romaji equivalent of the Kunyomi reading,Text
+"call, call out to, invoke, summon, invite, attract, send for, name, designate, bring about [**Kun**]","呼,よぶ","Onyomi: コ = call, call out to, invoke, summon, invite, attract, send for, name, designate, bring about",Guess the romaji equivalent of the Kunyomi reading,Text
+"err, be mistaken, do wrong, mislead [**Kun**]","誤,あやまる","Onyomi: ゴ = err, be mistaken, do wrong, mislead",Guess the romaji equivalent of the Kunyomi reading,Text
+"oneself, myself, yourself [**Kun**]","己,おのれ","Onyomi: コ,キ = sixth",Guess the romaji equivalent of the Kunyomi reading,Text
+"fall, drop, come down (rain, etc.),come down, go down, step down, descend, get off, land,take down, lower, pull down, lift down, let down, drop, launch, let off (passengers), wear (for the first time), cause (abortion), grate, invoke, exercise, borrow (in subtraction), lock [**Kun**]","降,おりる,おろす,ふる","Onyomi: コウ = going down, surrender",Guess the romaji equivalent of the Kunyomi reading,Text
+"steel [**Kun**]","鋼,はがね","Onyomi: コウ = steel",Guess the romaji equivalent of the Kunyomi reading,Text
+"red, crimson, rouge, lipstick,deep red, crimson [**Kun**]","紅,べに,くれない","Onyomi: コウ,ク = red, crimson",Guess the romaji equivalent of the Kunyomi reading,Text
+"cut fine, chop up, mince, hash, carve (images), engrave (seals), chisel, cut, notch [**Kun**]","刻,きざむ","Onyomi: コク = time, carving, engraving, cutting",Guess the romaji equivalent of the Kunyomi reading,Text
+"bone, skeleton, frame, rib (of an umbrella), grit, backbone, effort, pains [**Kun**]","骨,ほね","Onyomi: コツ = bone, remains, knack",Guess the romaji equivalent of the Kunyomi reading,Text
+"be distressed be in trouble, be destitute, be embarrassed, be perplexed, be annoyed [**Kun**]","困,こまる","Onyomi: コン = be distressed be in trouble, be destitute, be embarrassed, be perplexed, be annoyed",Guess the romaji equivalent of the Kunyomi reading,Text
+"squat down, sit down, (eyes) are fixed on [**Kun**]","座,すわる","Onyomi: ザ = seat, cushion, throne, a gathering, stand, pedestal, platform, (metal) washer, theater, troupe, constellation",Guess the romaji equivalent of the Kunyomi reading,Text
+"sand [**Kun**]","砂,すな","Onyomi: サ,シャ = sand",Guess the romaji equivalent of the Kunyomi reading,Text
+"end, do without, avoid, be excusable, need not,finish up, settle (one's account), make do [**Kun**]","済,すむ,すます","Onyomi: サイ = end, do without, avoid, be excusable, need not",Guess the romaji equivalent of the Kunyomi reading,Text
+"judge,cut out (a suit), sever, cut off, shut off, interrupt, abstain from, eradicate, suppress [**Kun**]","裁,たつ,さばく","Onyomi: サイ = judge",Guess the romaji equivalent of the Kunyomi reading,Text
+"silk worm [**Kun**]","蚕,かいこ","Onyomi: サン = silk worm",Guess the romaji equivalent of the Kunyomi reading,Text
+"figure, form, shape, appearance, attire, posture, oneself, portrait, aspect [**Kun**]","姿,すがた","Onyomi: シ = figure, form, shape, appearance, attire, posture, oneself, portrait, aspect",Guess the romaji equivalent of the Kunyomi reading,Text
+"go, proceed, come, arrive, reach, attain, result in, lead to [**Kun**]","至,いたる","Onyomi: シ = go, proceed, come, arrive, reach, attain, result in, lead to",Guess the romaji equivalent of the Kunyomi reading,Text
+"I, myself, private (affairs) [**Kun**]","私,わたくし,わたし","Onyomi: シ = I, private affairs",Guess the romaji equivalent of the Kunyomi reading,Text
+"shoot [**Kun**]","射,いる","Onyomi: シャ = archery, shooting",Guess the romaji equivalent of the Kunyomi reading,Text
+"throw away, discard, abandon, desert, give up, renounce, relinquish, resign, lay down (one's life), part with, sacrifice, reject, condemn [**Kun**]","捨,すてる","Onyomi: シャ = throw away, discard, abandon, desert, give up, renounce, relinquish, resign, lay down (one's life), part with, sacrifice, reject, condemn",Guess the romaji equivalent of the Kunyomi reading,Text
+"young, juvenile, youthful, younger, junior, immature, inexperienced, low number,or, otherwise [**Kun**]","若,わかい,もしくは","Onyomi: ジャク,ニャク = if",Guess the romaji equivalent of the Kunyomi reading,Text
+"obtain, reap, dedicate, consecrate, pay, supply, store, finish, collect, restore, replace, accept (a present), bury, gather, rally (troops), sheathe (the sword),be paid, be restored, stay (in the stomach), look composed, be contented, be satisfied, be settled [**Kun**]","収,おさめる,おさまる","Onyomi: シュウ = income",Guess the romaji equivalent of the Kunyomi reading,Text
+"length, height, warp [**Kun**]","縦,たて","Onyomi: ジュウ = length, height",Guess the romaji equivalent of the Kunyomi reading,Text
+"settle in (place), take (a seat), take (a position), depart, study (under a teacher) [**Kun**]","就,つく,つける","Onyomi: シュウ,ジュ = settle in (place), take (a seat), take (a position), depart, study (under a teacher)",Guess the romaji equivalent of the Kunyomi reading,Text
+"obey, submit to, comply with, observe (a law), follow, accompany,be accompanied by, take (someone) with you, subjugate, subdue [**Kun**]","従,したがう,したがえる","Onyomi: ジュウ,ショウ,ジュ = secondary, incidental, subordinate, accessory, junior, retainer, follow",Guess the romaji equivalent of the Kunyomi reading,Text
+"ripen, mellow, mature, acquire skill, be ripe for, become popular (as a word) [**Kun**]","熟,うれる","Onyomi: ジュク = ripen, mellow, mature, acquire skill, be ripe for, become popular (as a word)",Guess the romaji equivalent of the Kunyomi reading,Text
+"shrink, contract, shrivel, wrinkle,be shortened, be contracted, be reduced, be abridged, be abbreviated, wrinkle,shorten, contract, reduce, boil down, simplify, abbreviate, abridge, condense, compress, crumple, withdraw,be wavy, curl, be corrugated, be wrinkled,curl, crinkle, crimp [**Kun**]","縮,ちぢむ,ちぢまる,ちぢめる,ちぢれる,ちぢらす","Onyomi: シュク = shrink, contract, shrivel, wrinkle",Guess the romaji equivalent of the Kunyomi reading,Text
+"remove, abolish, cancel, exclude, except [**Kun**]","除,のぞく","Onyomi: ジョ,ジ = division (in math)",Guess the romaji equivalent of the Kunyomi reading,Text
+"hinder, interfere with, affect, hurt, harm [**Kun**]","障,さわる","Onyomi: ショウ = hinder, interfere with, affect, hurt, harm",Guess the romaji equivalent of the Kunyomi reading,Text
+"hear, listen to, be informed [**Kun**]","承,うけたまわる","Onyomi: ショウ = receive, accept, take, get, obtain, catch (a ball), stop (a blow), parry, answer (the phone), undergo (an operation), take (an exam), sustain (a loss), be exposed to (ridicule), face, front of, inherit, catch the public fancy",Guess the romaji equivalent of the Kunyomi reading,Text
+"steam, heat up (with steam), be close, be sultry, foment, poultice,be stuffy, get musty, moulder, heat,cook by steam [**Kun**]","蒸,むす,むれる,むらす","Onyomi: ジョウ = steam, heat up (with steam), be close, be sultry, foment, poultice",Guess the romaji equivalent of the Kunyomi reading,Text
+"wound, injury, hurt, cut, gash, bruise, scratch, scar, weak point,feel a pain, be hurt, be damaged, be spoiled, be bruised, wear out, be worn out,injure, impair, spoil, worry, bother, afflict, cause pain [**Kun**]","傷,きず,いたむ,いためる","Onyomi: ショウ = wound, injury",Guess the romaji equivalent of the Kunyomi reading,Text
+"needle, pin, staple, fishhook, stinger, spine (of a fish), thorn, stitch, (watch) hand, (phonograph) needle, (hypodermic) needle, sting, molehill, acupuncture [**Kun**]","針,はり","Onyomi: シン = needle",Guess the romaji equivalent of the Kunyomi reading,Text
+"infer, conclude, guess, suppose, recommend, support [**Kun**]","推,おす","Onyomi: スイ = conjecture",Guess the romaji equivalent of the Kunyomi reading,Text
+"suspend, hang down, slouch,hang, droop, drop, lower, pull down, dangle, sag, drip, ooze, trickle, leave behind (at death), give, confer [**Kun**]","垂,たれる,たらす","Onyomi: スイ = suspend, hang down, slouch",Guess the romaji equivalent of the Kunyomi reading,Text
+"sincerity, honesty, fidelity, truth [**Kun**]","誠,まこと","Onyomi: セイ = admonish, warn, prohibit",Guess the romaji equivalent of the Kunyomi reading,Text
+"serve, fill, heap up, prescribe or give (medicine), poison, mark out, graduate,prosperous, successful (meeting), energetic, enthusiastic, popular, furious (attack), keen (competition), extensive, large [**Kun**]","盛,もる,さかる,さかん","Onyomi: セイ,ジョウ = prosper, flourish, copulate (animals)",Guess the romaji equivalent of the Kunyomi reading,Text
+"tongue, reed, clapper [**Kun**]","舌,した","Onyomi: ゼツ = tongue, reed, clapper",Guess the romaji equivalent of the Kunyomi reading,Text
+"be dyed, be imbued with, be tainted with,dye, color, paint,soak in, permeate, infiltrate, pierce (as a wind), be imbued with, be influenced by, smart, be sensitive to pain,stain, blot, spot, smudge [**Kun**]","染,そめる,そまる,しみる,しみ","Onyomi: セン = be dyed, be imbued with, be tainted with",Guess the romaji equivalent of the Kunyomi reading,Text
+"good, goodnatured, pleasing, precious, noble, lovely, beautiful, fine, lucky, efficacious, right, suitable, justifiable, appropriate, satisfactory, better, all right, unnecessary, no objection, intimate, friendly, easy, well, desirous [**Kun**]","善,よい","Onyomi: ゼン = good, goodness, right, virtue",Guess the romaji equivalent of the Kunyomi reading,Text
+"mainly, sorely, [**Kun**]","専,もっぱら","Onyomi: セン = mainly, sorely,",Guess the romaji equivalent of the Kunyomi reading,Text
+"money [**Kun**]","銭,ぜに","Onyomi: セン = onehundredth of a yen, coin",Guess the romaji equivalent of the Kunyomi reading,Text
+"spring, fountain (head), source [**Kun**]","泉,いずみ","Onyomi: セン = spring, fountain (head), source",Guess the romaji equivalent of the Kunyomi reading,Text
+"wash, inquire into, probe [**Kun**]","洗,あらう","Onyomi: セン = wash, inquire into, probe",Guess the romaji equivalent of the Kunyomi reading,Text
+"manipulate, operate, steer, pull strings,chastity, virginity, constancy, fidelity, honor [**Kun**]","操,みさお,あやつる","Onyomi: ソウ = manipulate, operate, steer, pull strings",Guess the romaji equivalent of the Kunyomi reading,Text
+"play (an instrument) [**Kun**]","奏,かなでる","Onyomi: ソウ = play (an instrument)",Guess the romaji equivalent of the Kunyomi reading,Text
+"storehoure, warehouse, godown, cellar, depository, treasury, granary, elevator [**Kun**]","蔵,くら","Onyomi: ゾウ = storehoure, warehouse, godown, cellar, depository, treasury, granary, elevator",Guess the romaji equivalent of the Kunyomi reading,Text
+"window [**Kun**]","窓,まど","Onyomi: ソウ = window",Guess the romaji equivalent of the Kunyomi reading,Text
+" [**Kun**]","創,つくる","Onyomi: ソウ = wound, injury, hurt, cut, gash, bruise, scratch, scar, weak point",Guess the romaji equivalent of the Kunyomi reading,Text
+"dress, spruce up, pretend, disguise, profess [**Kun**]","装,よそおう","Onyomi: ソウ,ショウ = dress, spruce up, pretend, disguise, profess",Guess the romaji equivalent of the Kunyomi reading,Text
+"value, prize, esteem, respect, honor, revere, valuable, precious, noble, exalted, priceless, sacred [**Kun**]","尊,たっとい,とうとい,たっとぶ,とうとぶ","Onyomi: ソン = value, prize, esteem, respect, honor, revere",Guess the romaji equivalent of the Kunyomi reading,Text
+"retreat, withdraw, retire, resign,repel, drive away, expel, depose, keep away, reject, turn down [**Kun**]","退,しりぞく,しりぞける","Onyomi: タイ = retreat, withdraw, retire, resign",Guess the romaji equivalent of the Kunyomi reading,Text
+"shoulder (a load),carry on the shoulder, bear a burden [**Kun**]","担,かつぐ,になう","Onyomi: タン = carry, raise",Guess the romaji equivalent of the Kunyomi reading,Text
+"search, look for, explore, spy upon, sound out, probe (a wound) [**Kun**]","探,さぐる,さがす","Onyomi: タン = search, look for, explore, spy upon, sound out, probe (a wound)",Guess the romaji equivalent of the Kunyomi reading,Text
+"warm, heat,warm oneself, sun oneself, get warm,mild, genial, cordial [**Kun**]","暖,あたたか,あたたかい,あたたまる,あたためる","Onyomi: ダン = warmth",Guess the romaji equivalent of the Kunyomi reading,Text
+"price, cost, value [**Kun**]","値,ね,あたい","Onyomi: チ = price, cost, value",Guess the romaji equivalent of the Kunyomi reading,Text
+"write, publish,remarkable, phenomenal [**Kun**]","著,あらわす,いちじるしい","Onyomi: チョ = literary work",Guess the romaji equivalent of the Kunyomi reading,Text
+"be crowned with, wear, live under (a ruler), install (a president), receive, accept, buy, take, eat, drink [**Kun**]","頂,いただく,いただき","Onyomi: チョウ = head, top of the head, top, summit, peak, spire",Guess the romaji equivalent of the Kunyomi reading,Text
+"tide, salt water, opportunity [**Kun**]","潮,しお","Onyomi: チョウ = tide, salt water, opportunity",Guess the romaji equivalent of the Kunyomi reading,Text
+"feel a pain, hurt, be hurt, be damaged, be spoiled, be bruised, wear out, be worn out,injure, impair, spoil, worry, bother, afflict, cause pain,painful, sore, trying [**Kun**]","痛,いたい,いたむ,いためる","Onyomi: ツウ = pain",Guess the romaji equivalent of the Kunyomi reading,Text
+"enemy, competitor, revenge [**Kun**]","敵,かたき","Onyomi: テキ = enemy, foe, opponent",Guess the romaji equivalent of the Kunyomi reading,Text
+"attack, defeat, destroy, conquer [**Kun**]","討,うつ","Onyomi: トウ = attack, defeat, destroy, conquer",Guess the romaji equivalent of the Kunyomi reading,Text
+"impossible,hard, difficult, delicate, troublesome, doubtful, hopeless, stern, sullen, hard to please, serious, technical [**Kun**]","難,かたい,むずかしい","Onyomi: ナン = trouble, difficulty, accident, disaster, defect, criticism",Guess the romaji equivalent of the Kunyomi reading,Text
+"milk, the breasts, loop [**Kun**]","乳,ちち,ち","Onyomi: ニュウ = milk, the breasts, loop",Guess the romaji equivalent of the Kunyomi reading,Text
+"witness, sight, discern, authorize, recognize, appreciate, approve of, judge, conclude, believe, regard as [**Kun**]","認,みとめる","Onyomi: ニン = witness, sight, discern, authorize, recognize, appreciate, approve of, judge, conclude, believe, regard as",Guess the romaji equivalent of the Kunyomi reading,Text
+"obtain, reap, dedicate, consecrate, pay, supply, store, finish, collect, restore, replace, accept (a present), burry, gather, rally (troops), sheathe (the sword),be paid, be restored, stay (in the stomach), look composed, be contented, be satisfied, be settled [**Kun**]","納,おさめる,おさまる","Onyomi: ノウ,ナッ,ナ,ナン,トウ = obtain, reap, dedicate, consecrate, pay, supply, store, finish, collect, restore, replace, accept (a present), burry, gather, rally (troops), sheathe (the sword)",Guess the romaji equivalent of the Kunyomi reading,Text
+"act contrary to, go back on, disobey, defy, rebel against, turn one's back on,look away from, avert,back, back side, stature, height, ridge,stature [**Kun**]","背,せ,せい,そむく,そむける","Onyomi: ハイ = back, behind",Guess the romaji equivalent of the Kunyomi reading,Text
+"worship, pray to, adore, reverence, look at (with reverence) [**Kun**]","拝,おがむ","Onyomi: ハイ = worship",Guess the romaji equivalent of the Kunyomi reading,Text
+"no, nay [**Kun**]","否,いな","Onyomi: ヒ = no, noes",Guess the romaji equivalent of the Kunyomi reading,Text
+"conceal, keep a secret [**Kun**]","秘,ひめる","Onyomi: ヒ = secret",Guess the romaji equivalent of the Kunyomi reading,Text
+"bag, bale, sack, bag counter [**Kun**]","俵,たわら","Onyomi: ヒョウ = bag, bale, sack, bag counter",Guess the romaji equivalent of the Kunyomi reading,Text
+"abdomen, belly, bowels, stomach,  heart, mind, intention, courage, spirit, pluck, anger, womb, thickest or widest part [**Kun**]","腹,はら","Onyomi: フク = belly, stomach",Guess the romaji equivalent of the Kunyomi reading,Text
+"be invigorated, be spirited, flourish [**Kun**]","奮,ふるう","Onyomi: フン = be invigorated, be spirited, flourish",Guess the romaji equivalent of the Kunyomi reading,Text
+"line up, be in a row, rank with, rival, equal,arrange, place in order, marshal, put side by side, display, serve (food), enumerate, compare with,common, ordinary, average,and, besides, as well as [**Kun**]","並,なみ,ならべる,ならぶ,ならびに","Onyomi: ヘイ = line up, be in a row, rank with, rival, equal",Guess the romaji equivalent of the Kunyomi reading,Text
+"shut, close,lock, fasten, plunge (in grief) [**Kun**]","閉,とじる,とざす,しめる,しまる","Onyomi: ヘイ = shut, close",Guess the romaji equivalent of the Kunyomi reading,Text
+"one (eye, etc.), single (shift, etc.), oneway, onesided [**Kun**]","片,かた","Onyomi: ヘン = leaf, sheet, petal, flake",Guess the romaji equivalent of the Kunyomi reading,Text
+"supply, make good, make up (losses), stop (a gap), offset, piece out, compensate for, supplement [**Kun**]","補,おぎなう","Onyomi: ホ = assistant, learner",Guess the romaji equivalent of the Kunyomi reading,Text
+"live, make a living, spend (one's time),get dark, (the sun) sets, (the season) ends, (time) passes, be overwhelmed [**Kun**]","暮,くれる,くらす","Onyomi: ボ = live, make a living, spend (one's time)",Guess the romaji equivalent of the Kunyomi reading,Text
+"forget, be forgetful of, forget about, forget (an article) [**Kun**]","忘,わすれる","Onyomi: ボウ = forget, be forgetful of, forget about, forget (an article)",Guess the romaji equivalent of the Kunyomi reading,Text
+"treasure, valuables, wealth, jewels, mammon [**Kun**]","宝,たから","Onyomi: ホウ = treasure",Guess the romaji equivalent of the Kunyomi reading,Text
+"visit, call on,look up [**Kun**]","訪,おとずれる,たずねる","Onyomi: ホウ = visit, call on",Guess the romaji equivalent of the Kunyomi reading,Text
+"the late, the deceased [**Kun**]","亡,ない","Onyomi: ボウ,モウ = my late, the late, dying, being destroyed",Guess the romaji equivalent of the Kunyomi reading,Text
+"meaning, sense, reason, cause, circumstances, the case, understanding (between them) [**Kun**]","訳,わけ","Onyomi: ヤク = translation",Guess the romaji equivalent of the Kunyomi reading,Text
+"excel, surpass, have advantages over, be excellent,gentle, tender, graceful, affectionate, kind, amiable, suave [**Kun**]","優,やさしい,すぐれる","Onyomi: ユウ = actor, superiority, gentleness",Guess the romaji equivalent of the Kunyomi reading,Text
+"place in custody, deposit, leave with, entrust with, commit to, give,take charge of, receive on deposit, undertake to do, call off (as a tie), refrain from, receive, enjoy [**Kun**]","預,あずける,あずかる","Onyomi: ヨ = place in custody, deposit, leave with, entrust with, commit to, give",Guess the romaji equivalent of the Kunyomi reading,Text
+"infant [**Kun**]","幼,おさない","Onyomi: ヨウ = infancy, childhood, infants, children",Guess the romaji equivalent of the Kunyomi reading,Text
+"desire, want [**Kun**]","欲,ほっする,ほしい","Onyomi: ヨク = covetousness, greed, passion, desire, craving, appetite",Guess the romaji equivalent of the Kunyomi reading,Text
+"egg, spawn, roe, (an expert) in the making [**Kun**]","卵,たまご","Onyomi: ラン = ovum",Guess the romaji equivalent of the Kunyomi reading,Text
+"put in disorder, disturb, agitate, corrupt, derange (the mind),be out of order, be confused, be disturbed, be disorganized, be demoralized, be lax, be disheveled [**Kun**]","乱,みだれる,みだす","Onyomi: ラン = riot, rebellion, war",Guess the romaji equivalent of the Kunyomi reading,Text
+"reverse, wrong side, undersurface, inside, palm, sole, opposite, back, rear, lining, last half (of an inning) [**Kun**]","裏,うら","Onyomi: リ = inside",Guess the romaji equivalent of the Kunyomi reading,Text
+"face, front on, border on, meet, be confronted by, be on the verge of, attend, assist at, deal with, rule over, command a view of, deign to, visit, call on, come upon, come up to [**Kun**]","臨,のぞむ","Onyomi: リン = face, front on, border on, meet, be confronted by, be on the verge of, attend, assist at, deal with, rule over, command a view of, deign to, visit, call on, come upon, come up to",Guess the romaji equivalent of the Kunyomi reading,Text
+"clear, bright, serene, melodious, cheerful, sunny [**Kun**]","朗,ほがらか","Onyomi: ロウ = clear, bright, serene, melodious, cheerful, sunny",Guess the romaji equivalent of the Kunyomi reading,Text
+"(social) class, stratum, layer, seam, bed, formation, story, floor, course (of stones) [**On**]","層,ソウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"actor [**On**]","俳,ハイ","",Guess the romaji equivalent of the Onyomi reading,Text
+"admonish, warn, prohibit [**On**]","警,ケイ","",Guess the romaji equivalent of the Onyomi reading,Text
+"after, behind, back, later [**On**]","后,コウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"air, space, midair, sky, heaven, memorization, interval of time [**On**]","宙,チュウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"argument, discourse [**On**]","論,ロン","",Guess the romaji equivalent of the Onyomi reading,Text
+"authority, power, rights, concession [**On**]","権,ケン,ゴン","",Guess the romaji equivalent of the Onyomi reading,Text
+"be born, deceive, lie, be arbitrary [**On**]","誕,タン","",Guess the romaji equivalent of the Onyomi reading,Text
+"be pleased to say, say [**On**]","宣,セン","",Guess the romaji equivalent of the Onyomi reading,Text
+"brain, memory [**On**]","脳,ノウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"brevity, simplicity [**On**]","簡,カン","",Guess the romaji equivalent of the Onyomi reading,Text
+"cereals, grain [**On**]","穀,コク","",Guess the romaji equivalent of the Onyomi reading,Text
+"commander, general, admiral [**On**]","将,ショウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"copy, imitate, mock [**On**]","模,モ,ボ","",Guess the romaji equivalent of the Onyomi reading,Text
+"corps, unite, squad, party, companions, group, order [**On**]","班,ハン","",Guess the romaji equivalent of the Onyomi reading,Text
+"counter for thin flat things, page, leaf (of a book), sheet [**On**]","枚,マイ","",Guess the romaji equivalent of the Onyomi reading,Text
+"curtain, bunting, an act (in a play), end, first rank (in sumo), a matter, a case [**On**]","幕,マク,バク","",Guess the romaji equivalent of the Onyomi reading,Text
+"drama, play [**On**]","劇,ゲキ","",Guess the romaji equivalent of the Onyomi reading,Text
+"eaves, roof, house, heaven [**On**]","宇,ウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"emperor [**On**]","皇,コウ,オウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"evening, night, the end of all things, late [**On**]","晩,バン","",Guess the romaji equivalent of the Onyomi reading,Text
+"expand [**On**]","展,テン","",Guess the romaji equivalent of the Onyomi reading,Text
+"expand, enlarge, widen, unfurl, open (arms or a package), stretch, spread [**On**]","拡,カク","",Guess the romaji equivalent of the Onyomi reading,Text
+"filial piety [**On**]","孝,コウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"government office [**On**]","庁,チョウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"government office, (police) station [**On**]","署,ショ","",Guess the romaji equivalent of the Onyomi reading,Text
+"great numbers, multitude, populace, companions [**On**]","衆,シュウ,シュ","",Guess the romaji equivalent of the Onyomi reading,Text
+"group, party, clique, faction, sect, school (of art, etc.) [**On**]","派,ハ","",Guess the romaji equivalent of the Onyomi reading,Text
+"hire, rent, wages, fare, freight, charge, fee [**On**]","賃,チン","",Guess the romaji equivalent of the Onyomi reading,Text
+"home, house, residence, our home, my husband [**On**]","宅,タク","",Guess the romaji equivalent of the Onyomi reading,Text
+"intestines, bowels, entrails, digestive system in lower animals [**On**]","腸,チョウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"Japanese foot, rule, measure, scale, length [**On**]","尺,シャク","",Guess the romaji equivalent of the Onyomi reading,Text
+"kindness, goodness, favor, mercy, blessing, benefit [**On**]","恩,オン","",Guess the romaji equivalent of the Onyomi reading,Text
+"know, be aware of, be acquainted with, think, believe, feel [**On**]","存,ソン,ゾン","",Guess the romaji equivalent of the Onyomi reading,Text
+"law [**On**]","憲,ケン","",Guess the romaji equivalent of the Onyomi reading,Text
+"law, regulation, rhythm,Buddhist sect originating in the eighth century [**On**]","律,リツ,リチ","",Guess the romaji equivalent of the Onyomi reading,Text
+"leave behind, bequeath, save, reserve [**On**]","遺,イ,ユイ","",Guess the romaji equivalent of the Onyomi reading,Text
+"loyalty, devotion, fidelity, faithfulness [**On**]","忠,チュウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"lung [**On**]","肺,ハイ","",Guess the romaji equivalent of the Onyomi reading,Text
+"magnetism, porcelain [**On**]","磁,ジ","",Guess the romaji equivalent of the Onyomi reading,Text
+"manage, deal with, sentence, condemn, act, behave, conduct oneself (well) [**On**]","処,ショ","",Guess the romaji equivalent of the Onyomi reading,Text
+"many, several, various, all [**On**]","諸,ショ","",Guess the romaji equivalent of the Onyomi reading,Text
+"next, following [**On**]","翌,ヨク","",Guess the romaji equivalent of the Onyomi reading,Text
+"oath, alliance [**On**]","盟,メイ","",Guess the romaji equivalent of the Onyomi reading,Text
+"onetenth of a foot, measure [**On**]","寸,スン","",Guess the romaji equivalent of the Onyomi reading,Text
+"party, faction, clique, companions [**On**]","党,トウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"plan, scheme, policy, step, means, whip [**On**]","策,サク","",Guess the romaji equivalent of the Onyomi reading,Text
+"purity, innocence, net (profit) [**On**]","純,ジュン","",Guess the romaji equivalent of the Onyomi reading,Text
+"records, document, magazine [**On**]","誌,シ","",Guess the romaji equivalent of the Onyomi reading,Text
+"regard as [**On**]","視,シ","",Guess the romaji equivalent of the Onyomi reading,Text
+"region, limits, stage, level [**On**]","域,イキ","",Guess the romaji equivalent of the Onyomi reading,Text
+"religion, sect, denomination [**On**]","宗,シュウ,ソウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"saint, sage, great master, holiness [**On**]","聖,セイ","",Guess the romaji equivalent of the Onyomi reading,Text
+"secrecy, denseness (of population), minuteness, carefulness, fineness [**On**]","密,ミツ","",Guess the romaji equivalent of the Onyomi reading,Text
+"see [**On**]","看,カン","",Guess the romaji equivalent of the Onyomi reading,Text
+"see [**On**]","覧,ラン","",Guess the romaji equivalent of the Onyomi reading,Text
+"shake, wield, brandish, be invigorated, be spirited, flourish [**On**]","揮,キ","",Guess the romaji equivalent of the Onyomi reading,Text
+"stagecoach stop, mail [**On**]","郵,ユウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"steps (of the throne) [**On**]","陛,ヘイ","",Guess the romaji equivalent of the Onyomi reading,Text
+"steps, stair, flight of stairs, column, paragraph, act, scene, case, question, grade, class, rank, level, degree, extent [**On**]","段,ダン","",Guess the romaji equivalent of the Onyomi reading,Text
+"stick, cane, rod, pole, stake, pile, club, bar, line, dash [**On**]","棒,ボウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"stomach, paunch, crop, craw [**On**]","胃,イ","",Guess the romaji equivalent of the Onyomi reading,Text
+"strike [**On**]","批,ヒ","",Guess the romaji equivalent of the Onyomi reading,Text
+"sugar [**On**]","糖,トウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"system, lineage, faction, group, zone, corollary, connection [**On**]","系,ケイ","",Guess the romaji equivalent of the Onyomi reading,Text
+"ticket, coupon, bond, certificate [**On**]","券,ケン","",Guess the romaji equivalent of the Onyomi reading,Text
+"tower, tall building, palace, cabinet (of a government) [**On**]","閣,カク","",Guess the romaji equivalent of the Onyomi reading,Text
+"tree, wood [**On**]","樹,ジュ","",Guess the romaji equivalent of the Onyomi reading,Text
+"village, native place, country, district [**On**]","郷,キョウ,ゴウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"virtue, benevolence, humanity, charity, man [**On**]","仁,ジン,ニ","",Guess the romaji equivalent of the Onyomi reading,Text
+"viscera, bowels [**On**]","臓,ゾウ","",Guess the romaji equivalent of the Onyomi reading,Text
+"volume, book, letter, book counter [**On**]","冊,サツ,サク","",Guess the romaji equivalent of the Onyomi reading,Text
+"words, poetry [**On**]","詞,シ","",Guess the romaji equivalent of the Onyomi reading,Text
+"place in custody, deposit, leave with, entrust with, commit to, give [**On**]","預,ヨ","Kunyomi: あずける,あずかる = place in custody, deposit, leave with, entrust with, commit to, give,take charge of, receive on deposit, undertake to do, call off (as a tie), refrain from, receive, enjoy",Guess the romaji equivalent of the Onyomi reading,Text
+"warmth [**On**]","暖,ダン","Kunyomi: あたたか,あたたかい,あたたまる,あたためる = warm, heat,warm oneself, sun oneself, get warm,mild, genial, cordial",Guess the romaji equivalent of the Onyomi reading,Text
+"hole, aperture, slit, gap, stop (of musical instrument), eyelet, cavity, socket, cave, den, hiding place, pit, fault, defect, deficit, grave, dark horse [**On**]","穴,ケツ","Kunyomi: あな = hole, aperture, slit, gap, stop (of musical instrument), eyelet, cavity, socket, cave, den, hiding place, pit, fault, defect, deficit, grave, dark horse",Guess the romaji equivalent of the Onyomi reading,Text
+"be afraid of, feel uneasy about, shrink from [**On**]","危,キ","Kunyomi: あぶない,あやうい,あやぶむ = fear, have misgivings, be doubtful, mistrust, dangerous, critical, grave, uncertain, unreliable, limping, narrow, close, watch out",Guess the romaji equivalent of the Onyomi reading,Text
+"err, be mistaken, do wrong, mislead [**On**]","誤,ゴ","Kunyomi: あやまる = err, be mistaken, do wrong, mislead",Guess the romaji equivalent of the Onyomi reading,Text
+"wash, inquire into, probe [**On**]","洗,セン","Kunyomi: あらう = wash, inquire into, probe",Guess the romaji equivalent of the Onyomi reading,Text
+"literary work [**On**]","著,チョ","Kunyomi: あらわす,いちじるしい = write, publish,remarkable, phenomenal",Guess the romaji equivalent of the Onyomi reading,Text
+"spring, fountain (head), source [**On**]","泉,セン","Kunyomi: いずみ = spring, fountain (head), source",Guess the romaji equivalent of the Onyomi reading,Text
+"pain [**On**]","痛,ツウ","Kunyomi: いたい,いたむ,いためる = feel a pain, hurt, be hurt, be damaged, be spoiled, be bruised, wear out, be worn out,injure, impair, spoil, worry, bother, afflict, cause pain,painful, sore, trying",Guess the romaji equivalent of the Onyomi reading,Text
+"head, top of the head, top, summit, peak, spire [**On**]","頂,チョウ","Kunyomi: いただく,いただき = be crowned with, wear, live under (a ruler), install (a president), receive, accept, buy, take, eat, drink",Guess the romaji equivalent of the Onyomi reading,Text
+"go, proceed, come, arrive, reach, attain, result in, lead to [**On**]","至,シ","Kunyomi: いたる = go, proceed, come, arrive, reach, attain, result in, lead to",Guess the romaji equivalent of the Onyomi reading,Text
+"no, noes [**On**]","否,ヒ","Kunyomi: いな = no, nay",Guess the romaji equivalent of the Onyomi reading,Text
+"archery, shooting [**On**]","射,シャ","Kunyomi: いる = shoot",Guess the romaji equivalent of the Onyomi reading,Text
+"receive, accept, take, get, obtain, catch (a ball), stop (a blow), parry, answer (the phone), undergo (an operation), take (an exam), sustain (a loss), be exposed to (ridicule), face, front of, inherit, catch the public fancy [**On**]","承,ショウ","Kunyomi: うけたまわる = hear, listen to, be informed",Guess the romaji equivalent of the Onyomi reading,Text
+"doubt, distrust, be suspicious of [**On**]","疑,ギ","Kunyomi: うたがう = doubt, distrust, be suspicious of",Guess the romaji equivalent of the Onyomi reading,Text
+"attack, defeat, destroy, conquer [**On**]","討,トウ","Kunyomi: うつ = attack, defeat, destroy, conquer",Guess the romaji equivalent of the Onyomi reading,Text
+"reflecting, projection [**On**]","映,エイ","Kunyomi: うつる,うつす,はえる = shine, be brilliant, look attractive, be reflected, match, harmonize, be becoming, be taken (a photo), copy, transcribe, duplicate, reproduce, trace, describe, picture, photograph",Guess the romaji equivalent of the Onyomi reading,Text
+"respect, honor, revere [**On**]","敬,ケイ","Kunyomi: うやまう = respect, honor, revere, venerate",Guess the romaji equivalent of the Onyomi reading,Text
+"inside [**On**]","裏,リ","Kunyomi: うら = reverse, wrong side, undersurface, inside, palm, sole, opposite, back, rear, lining, last half (of an inning)",Guess the romaji equivalent of the Onyomi reading,Text
+"ripen, mellow, mature, acquire skill, be ripe for, become popular (as a word) [**On**]","熟,ジュク","Kunyomi: うれる = ripen, mellow, mature, acquire skill, be ripe for, become popular (as a word)",Guess the romaji equivalent of the Onyomi reading,Text
+"worship [**On**]","拝,ハイ","Kunyomi: おがむ = worship, pray to, adore, reverence, look at (with reverence)",Guess the romaji equivalent of the Onyomi reading,Text
+"assistant, learner [**On**]","補,ホ","Kunyomi: おぎなう = supply, make good, make up (losses), stop (a gap), offset, piece out, compensate for, supplement",Guess the romaji equivalent of the Onyomi reading,Text
+"strictness, severity [**On**]","厳,ゲン,ゴン","Kunyomi: おごそか,きびしい = austere, majestic, severe, strict",Guess the romaji equivalent of the Onyomi reading,Text
+"infancy, childhood, infants, children [**On**]","幼,ヨウ","Kunyomi: おさない = infant",Guess the romaji equivalent of the Onyomi reading,Text
+"obtain, reap, dedicate, consecrate, pay, supply, store, finish, collect, restore, replace, accept (a present), burry, gather, rally (troops), sheathe (the sword) [**On**]","納,ノウ,ナッ,ナ,ナン,トウ","Kunyomi: おさめる,おさまる = obtain, reap, dedicate, consecrate, pay, supply, store, finish, collect, restore, replace, accept (a present), burry, gather, rally (troops), sheathe (the sword),be paid, be restored, stay (in the stomach), look composed, be contented, be satisfied, be settled",Guess the romaji equivalent of the Onyomi reading,Text
+"income [**On**]","収,シュウ","Kunyomi: おさめる,おさまる = obtain, reap, dedicate, consecrate, pay, supply, store, finish, collect, restore, replace, accept (a present), bury, gather, rally (troops), sheathe (the sword),be paid, be restored, stay (in the stomach), look composed, be contented, be satisfied, be settled",Guess the romaji equivalent of the Onyomi reading,Text
+"conjecture [**On**]","推,スイ","Kunyomi: おす = infer, conclude, guess, suppose, recommend, support",Guess the romaji equivalent of the Onyomi reading,Text
+"visit, call on [**On**]","訪,ホウ","Kunyomi: おとずれる,たずねる = visit, call on,look up",Guess the romaji equivalent of the Onyomi reading,Text
+"sixth [**On**]","己,コ,キ","Kunyomi: おのれ = oneself, myself, yourself",Guess the romaji equivalent of the Onyomi reading,Text
+"going down, surrender [**On**]","降,コウ","Kunyomi: おりる,おろす,ふる = fall, drop, come down (rain, etc.),come down, go down, step down, descend, get off, land,take down, lower, pull down, lift down, let down, drop, launch, let off (passengers), wear (for the first time), cause (abortion), grate, invoke, exercise, borrow (in subtraction), lock",Guess the romaji equivalent of the Onyomi reading,Text
+"silk worm [**On**]","蚕,サン","Kunyomi: かいこ = silk worm",Guess the romaji equivalent of the Onyomi reading,Text
+"leaf, sheet, petal, flake [**On**]","片,ヘン","Kunyomi: かた = one (eye, etc.), single (shift, etc.), oneway, onesided",Guess the romaji equivalent of the Onyomi reading,Text
+"trouble, difficulty, accident, disaster, defect, criticism [**On**]","難,ナン","Kunyomi: かたい,むずかしい = impossible,hard, difficult, delicate, troublesome, doubtful, hopeless, stern, sullen, hard to please, serious, technical",Guess the romaji equivalent of the Onyomi reading,Text
+"enemy, foe, opponent [**On**]","敵,テキ","Kunyomi: かたき = enemy, competitor, revenge",Guess the romaji equivalent of the Onyomi reading,Text
+"carry, raise [**On**]","担,タン","Kunyomi: かつぐ,になう = shoulder (a load),carry on the shoulder, bear a burden",Guess the romaji equivalent of the Onyomi reading,Text
+"play (an instrument) [**On**]","奏,ソウ","Kunyomi: かなでる = play (an instrument)",Guess the romaji equivalent of the Onyomi reading,Text
+"tanned leather [**On**]","革,カク","Kunyomi: かわ = skin, hide, leather, fur, pelt, bark, peeling, husk, shell, film, cream",Guess the romaji equivalent of the Onyomi reading,Text
+"time, carving, engraving, cutting [**On**]","刻,コク","Kunyomi: きざむ = cut fine, chop up, mince, hash, carve (images), engrave (seals), chisel, cut, notch",Guess the romaji equivalent of the Onyomi reading,Text
+"wound, injury [**On**]","傷,ショウ","Kunyomi: きず,いたむ,いためる = wound, injury, hurt, cut, gash, bruise, scratch, scar, weak point,feel a pain, be hurt, be damaged, be spoiled, be bruised, wear out, be worn out,injure, impair, spoil, worry, bother, afflict, cause pain",Guess the romaji equivalent of the Onyomi reading,Text
+"silk, silk thread [**On**]","絹,ケン","Kunyomi: きぬ = silk, silk thread",Guess the romaji equivalent of the Onyomi reading,Text
+"storehoure, warehouse, godown, cellar, depository, treasury, granary, elevator [**On**]","蔵,ゾウ","Kunyomi: くら = storehoure, warehouse, godown, cellar, depository, treasury, granary, elevator",Guess the romaji equivalent of the Onyomi reading,Text
+"live, make a living, spend (one's time) [**On**]","暮,ボ","Kunyomi: くれる,くらす = live, make a living, spend (one's time),get dark, (the sun) sets, (the season) ends, (time) passes, be overwhelmed",Guess the romaji equivalent of the Onyomi reading,Text
+"uncommonness, strangeness, queerness, difference [**On**]","異,イ","Kunyomi: こと = differ, vary, be unusual",Guess the romaji equivalent of the Onyomi reading,Text
+"be distressed be in trouble, be destitute, be embarrassed, be perplexed, be annoyed [**On**]","困,コン","Kunyomi: こまる = be distressed be in trouble, be destitute, be embarrassed, be perplexed, be annoyed",Guess the romaji equivalent of the Onyomi reading,Text
+"search, look for, explore, spy upon, sound out, probe (a wound) [**On**]","探,タン","Kunyomi: さぐる,さがす = search, look for, explore, spy upon, sound out, probe (a wound)",Guess the romaji equivalent of the Onyomi reading,Text
+"hinder, interfere with, affect, hurt, harm [**On**]","障,ショウ","Kunyomi: さわる = hinder, interfere with, affect, hurt, harm",Guess the romaji equivalent of the Onyomi reading,Text
+"tide, salt water, opportunity [**On**]","潮,チョウ","Kunyomi: しお = tide, salt water, opportunity",Guess the romaji equivalent of the Onyomi reading,Text
+"tongue, reed, clapper [**On**]","舌,ゼツ","Kunyomi: した = tongue, reed, clapper",Guess the romaji equivalent of the Onyomi reading,Text
+"secondary, incidental, subordinate, accessory, junior, retainer, follow [**On**]","従,ジュウ,ショウ,ジュ","Kunyomi: したがう,したがえる = obey, submit to, comply with, observe (a law), follow, accompany,be accompanied by, take (someone) with you, subjugate, subdue",Guess the romaji equivalent of the Onyomi reading,Text
+"retreat, withdraw, retire, resign [**On**]","退,タイ","Kunyomi: しりぞく,しりぞける = retreat, withdraw, retire, resign,repel, drive away, expel, depose, keep away, reject, turn down",Guess the romaji equivalent of the Onyomi reading,Text
+"inhale, imbibe, sip, suck, suck out [**On**]","吸,キュウ","Kunyomi: すう = inhale, imbibe, sip, suck, suck out",Guess the romaji equivalent of the Onyomi reading,Text
+"figure, form, shape, appearance, attire, posture, oneself, portrait, aspect [**On**]","姿,シ","Kunyomi: すがた = figure, form, shape, appearance, attire, posture, oneself, portrait, aspect",Guess the romaji equivalent of the Onyomi reading,Text
+"muscle, sinew, tendon [**On**]","筋,キン","Kunyomi: すじ = muscle, sinew, tendon, vein, fiber, string, line, stripe, streak, plot, plan, reason, logic, circumstances, thread, sequence, quarters, sources, authorities, lineage, strain, stock, descent, grain, texture",Guess the romaji equivalent of the Onyomi reading,Text
+"throw away, discard, abandon, desert, give up, renounce, relinquish, resign, lay down (one's life), part with, sacrifice, reject, condemn [**On**]","捨,シャ","Kunyomi: すてる = throw away, discard, abandon, desert, give up, renounce, relinquish, resign, lay down (one's life), part with, sacrifice, reject, condemn",Guess the romaji equivalent of the Onyomi reading,Text
+"sand [**On**]","砂,サ,シャ","Kunyomi: すな = sand",Guess the romaji equivalent of the Onyomi reading,Text
+"end, do without, avoid, be excusable, need not [**On**]","済,サイ","Kunyomi: すむ,すます = end, do without, avoid, be excusable, need not,finish up, settle (one's account), make do",Guess the romaji equivalent of the Onyomi reading,Text
+"seat, cushion, throne, a gathering, stand, pedestal, platform, (metal) washer, theater, troupe, constellation [**On**]","座,ザ","Kunyomi: すわる = squat down, sit down, (eyes) are fixed on",Guess the romaji equivalent of the Onyomi reading,Text
+"back, behind [**On**]","背,ハイ","Kunyomi: せ,せい,そむく,そむける = act contrary to, go back on, disobey, defy, rebel against, turn one's back on,look away from, avert,back, back side, stature, height, ridge,stature",Guess the romaji equivalent of the Onyomi reading,Text
+"onehundredth of a yen, coin [**On**]","銭,セン","Kunyomi: ぜに = money",Guess the romaji equivalent of the Onyomi reading,Text
+"following along [**On**]","沿,エン","Kunyomi: そう = run along, lie along, be situated on",Guess the romaji equivalent of the Onyomi reading,Text
+"offer, present, submit, serve (a meal), supply [**On**]","供,キョウ,ク","Kunyomi: そなえる,とも = offer, sacrifice, dedicte, attendant, companion, retinue",Guess the romaji equivalent of the Onyomi reading,Text
+"be dyed, be imbued with, be tainted with [**On**]","染,セン","Kunyomi: そめる,そまる,しみる,しみ = be dyed, be imbued with, be tainted with,dye, color, paint,soak in, permeate, infiltrate, pierce (as a wind), be imbued with, be influenced by, smart, be sensitive to pain,stain, blot, spot, smudge",Guess the romaji equivalent of the Onyomi reading,Text
+"treasure [**On**]","宝,ホウ","Kunyomi: たから = treasure, valuables, wealth, jewels, mammon",Guess the romaji equivalent of the Onyomi reading,Text
+"judge [**On**]","裁,サイ","Kunyomi: たつ,さばく = judge,cut out (a suit), sever, cut off, shut off, interrupt, abstain from, eradicate, suppress",Guess the romaji equivalent of the Onyomi reading,Text
+"value, prize, esteem, respect, honor, revere [**On**]","尊,ソン","Kunyomi: たっとい,とうとい,たっとぶ,とうとぶ = value, prize, esteem, respect, honor, revere, valuable, precious, noble, exalted, priceless, sacred",Guess the romaji equivalent of the Onyomi reading,Text
+"value, prize, esteem, respect, honor, revere [**On**]","貴,キ","Kunyomi: たっとい,とうとい,たっとぶ,とうとぶ = value, prize, esteem, respect, honor, revere, valuable, precious, noble, exalted, venerable",Guess the romaji equivalent of the Onyomi reading,Text
+"length, height [**On**]","縦,ジュウ","Kunyomi: たて = length, height, warp",Guess the romaji equivalent of the Onyomi reading,Text
+"ovum [**On**]","卵,ラン","Kunyomi: たまご = egg, spawn, roe, (an expert) in the making",Guess the romaji equivalent of the Onyomi reading,Text
+"suspend, hang down, slouch [**On**]","垂,スイ","Kunyomi: たれる,たらす = suspend, hang down, slouch,hang, droop, drop, lower, pull down, dangle, sag, drip, ooze, trickle, leave behind (at death), give, confer",Guess the romaji equivalent of the Onyomi reading,Text
+"bag, bale, sack, bag counter [**On**]","俵,ヒョウ","Kunyomi: たわら = bag, bale, sack, bag counter",Guess the romaji equivalent of the Onyomi reading,Text
+"milk, the breasts, loop [**On**]","乳,ニュウ","Kunyomi: ちち,ち = milk, the breasts, loop",Guess the romaji equivalent of the Onyomi reading,Text
+"shrink, contract, shrivel, wrinkle [**On**]","縮,シュク","Kunyomi: ちぢむ,ちぢまる,ちぢめる,ちぢれる,ちぢらす = shrink, contract, shrivel, wrinkle,be shortened, be contracted, be reduced, be abridged, be abbreviated, wrinkle,shorten, contract, reduce, boil down, simplify, abbreviate, abridge, condense, compress, crumple, withdraw,be wavy, curl, be corrugated, be wrinkled,curl, crinkle, crimp",Guess the romaji equivalent of the Onyomi reading,Text
+"settle in (place), take (a seat), take (a position), depart, study (under a teacher) [**On**]","就,シュウ,ジュ","Kunyomi: つく,つける = settle in (place), take (a seat), take (a position), depart, study (under a teacher)",Guess the romaji equivalent of the Onyomi reading,Text
+"desk, table [**On**]","机,キ","Kunyomi: つくえ = desk, table",Guess the romaji equivalent of the Onyomi reading,Text
+"wound, injury, hurt, cut, gash, bruise, scratch, scar, weak point [**On**]","創,ソウ","Kunyomi: つくる = ",Guess the romaji equivalent of the Onyomi reading,Text
+"be fit for, be equal to, function properly [**On**]","勤,キン,ゴン","Kunyomi: つとめる,つとまる = be fit for, be equal to, function properly, serve, fill a post, serve under, exert oneself, endeavor, work, be diligent, play (the part of)",Guess the romaji equivalent of the Onyomi reading,Text
+"shut, close [**On**]","閉,ヘイ","Kunyomi: とじる,とざす,しめる,しまる = shut, close,lock, fasten, plunge (in grief)",Guess the romaji equivalent of the Onyomi reading,Text
+"my late, the late, dying, being destroyed [**On**]","亡,ボウ,モウ","Kunyomi: ない = the late, the deceased",Guess the romaji equivalent of the Onyomi reading,Text
+"line up, be in a row, rank with, rival, equal [**On**]","並,ヘイ","Kunyomi: なみ,ならべる,ならぶ,ならびに = line up, be in a row, rank with, rival, equal,arrange, place in order, marshal, put side by side, display, serve (food), enumerate, compare with,common, ordinary, average,and, besides, as well as",Guess the romaji equivalent of the Onyomi reading,Text
+"price, cost, value [**On**]","値,チ","Kunyomi: ね,あたい = price, cost, value",Guess the romaji equivalent of the Onyomi reading,Text
+"division (in math) [**On**]","除,ジョ,ジ","Kunyomi: のぞく = remove, abolish, cancel, exclude, except",Guess the romaji equivalent of the Onyomi reading,Text
+"face, front on, border on, meet, be confronted by, be on the verge of, attend, assist at, deal with, rule over, command a view of, deign to, visit, call on, come upon, come up to [**On**]","臨,リン","Kunyomi: のぞむ = face, front on, border on, meet, be confronted by, be on the verge of, attend, assist at, deal with, rule over, command a view of, deign to, visit, call on, come upon, come up to",Guess the romaji equivalent of the Onyomi reading,Text
+"stretching [**On**]","延,エン","Kunyomi: のびる,のべる,のばす = extend, lengthen, stretch, spread, be postponed, increase, grow, progress, develop, be straightened, be flattened, be smoothed, be exhausted, let (nails) grow, straighten, uncoil, spread out, reach out, postpone, dilute, smooth out, develop (talents), amass (riches), make (a bed), widen",Guess the romaji equivalent of the Onyomi reading,Text
+"ashes [**On**]","灰,カイ","Kunyomi: はい = ashes",Guess the romaji equivalent of the Onyomi reading,Text
+"steel [**On**]","鋼,コウ","Kunyomi: はがね = steel",Guess the romaji equivalent of the Onyomi reading,Text
+"get excited, be agitated, be enraged, be exasperated, chafe, urge, encourage, incite [**On**]","激,ゲキ","Kunyomi: はげしい = violent, vehement, furious, severe, acute, intense, extreme, passionate, heated, stormy (applause), tempestuous (temperament), mighty",Guess the romaji equivalent of the Onyomi reading,Text
+"belly, stomach [**On**]","腹,フク","Kunyomi: はら = abdomen, belly, bowels, stomach,  heart, mind, intention, courage, spirit, pluck, anger, womb, thickest or widest part",Guess the romaji equivalent of the Onyomi reading,Text
+"needle [**On**]","針,シン","Kunyomi: はり = needle, pin, staple, fishhook, stinger, spine (of a fish), thorn, stitch, (watch) hand, (phonograph) needle, (hypodermic) needle, sting, molehill, acupuncture",Guess the romaji equivalent of the Onyomi reading,Text
+"secret [**On**]","秘,ヒ","Kunyomi: ひめる = conceal, keep a secret",Guess the romaji equivalent of the Onyomi reading,Text
+"be invigorated, be spirited, flourish [**On**]","奮,フン","Kunyomi: ふるう = be invigorated, be spirited, flourish",Guess the romaji equivalent of the Onyomi reading,Text
+"red, crimson [**On**]","紅,コウ,ク","Kunyomi: べに,くれない = red, crimson, rouge, lipstick,deep red, crimson",Guess the romaji equivalent of the Onyomi reading,Text
+"clear, bright, serene, melodious, cheerful, sunny [**On**]","朗,ロウ","Kunyomi: ほがらか = clear, bright, serene, melodious, cheerful, sunny",Guess the romaji equivalent of the Onyomi reading,Text
+"parch, get dry, ebb, recede [**On**]","干,カン","Kunyomi: ほす,ひる = parch, get dry, ebb, recede, dry, desiccate, drain (off), drink up, dry up",Guess the romaji equivalent of the Onyomi reading,Text
+"covetousness, greed, passion, desire, craving, appetite [**On**]","欲,ヨク","Kunyomi: ほっする,ほしい = desire, want",Guess the romaji equivalent of the Onyomi reading,Text
+"bone, remains, knack [**On**]","骨,コツ","Kunyomi: ほね = bone, skeleton, frame, rib (of an umbrella), grit, backbone, effort, pains",Guess the romaji equivalent of the Onyomi reading,Text
+"volume, book, part, reel [**On**]","巻,カン","Kunyomi: まく,まき = roll up, wind, coil, tie around, wind up, roll (of silk), volume, book, winding (of a clock)",Guess the romaji equivalent of the Onyomi reading,Text
+"admonish, warn, prohibit [**On**]","誠,セイ","Kunyomi: まこと = sincerity, honesty, fidelity, truth",Guess the romaji equivalent of the Onyomi reading,Text
+"window [**On**]","窓,ソウ","Kunyomi: まど = window",Guess the romaji equivalent of the Onyomi reading,Text
+"manipulate, operate, steer, pull strings [**On**]","操,ソウ","Kunyomi: みさお,あやつる = manipulate, operate, steer, pull strings,chastity, virginity, constancy, fidelity, honor",Guess the romaji equivalent of the Onyomi reading,Text
+"riot, rebellion, war [**On**]","乱,ラン","Kunyomi: みだれる,みだす = put in disorder, disturb, agitate, corrupt, derange (the mind),be out of order, be confused, be disturbed, be disorganized, be demoralized, be lax, be disheveled",Guess the romaji equivalent of the Onyomi reading,Text
+"witness, sight, discern, authorize, recognize, appreciate, approve of, judge, conclude, believe, regard as [**On**]","認,ニン","Kunyomi: みとめる = witness, sight, discern, authorize, recognize, appreciate, approve of, judge, conclude, believe, regard as",Guess the romaji equivalent of the Onyomi reading,Text
+"source, origin [**On**]","源,ゲン","Kunyomi: みなもと = source, origin",Guess the romaji equivalent of the Onyomi reading,Text
+"steam, heat up (with steam), be close, be sultry, foment, poultice [**On**]","蒸,ジョウ","Kunyomi: むす,むれる,むらす = steam, heat up (with steam), be close, be sultry, foment, poultice,be stuffy, get musty, moulder, heat,cook by steam",Guess the romaji equivalent of the Onyomi reading,Text
+"chest, breast, bosom, heart, mind, feelings [**On**]","胸,キョウ","Kunyomi: むね,むな = chest, breast, bosom, heart, mind, feelings",Guess the romaji equivalent of the Onyomi reading,Text
+"mainly, sorely, [**On**]","専,セン","Kunyomi: もっぱら = mainly, sorely,",Guess the romaji equivalent of the Onyomi reading,Text
+"prosper, flourish, copulate (animals) [**On**]","盛,セイ,ジョウ","Kunyomi: もる,さかる,さかん = serve, fill, heap up, prescribe or give (medicine), poison, mark out, graduate,prosperous, successful (meeting), energetic, enthusiastic, popular, furious (attack), keen (competition), extensive, large",Guess the romaji equivalent of the Onyomi reading,Text
+"actor, superiority, gentleness [**On**]","優,ユウ","Kunyomi: やさしい,すぐれる = excel, surpass, have advantages over, be excellent,gentle, tender, graceful, affectionate, kind, amiable, suave",Guess the romaji equivalent of the Onyomi reading,Text
+"good, goodness, right, virtue [**On**]","善,ゼン","Kunyomi: よい = good, goodnatured, pleasing, precious, noble, lovely, beautiful, fine, lucky, efficacious, right, suitable, justifiable, appropriate, satisfactory, better, all right, unnecessary, no objection, intimate, friendly, easy, well, desirous",Guess the romaji equivalent of the Onyomi reading,Text
+"dress, spruce up, pretend, disguise, profess [**On**]","装,ソウ,ショウ","Kunyomi: よそおう = dress, spruce up, pretend, disguise, profess",Guess the romaji equivalent of the Onyomi reading,Text
+"call, call out to, invoke, summon, invite, attract, send for, name, designate, bring about [**On**]","呼,コ","Kunyomi: よぶ = call, call out to, invoke, summon, invite, attract, send for, name, designate, bring about",Guess the romaji equivalent of the Onyomi reading,Text
+"if [**On**]","若,ジャク,ニャク","Kunyomi: わかい,もしくは = young, juvenile, youthful, younger, junior, immature, inexperienced, low number,or, otherwise",Guess the romaji equivalent of the Onyomi reading,Text
+"translation [**On**]","訳,ヤク","Kunyomi: わけ = meaning, sense, reason, cause, circumstances, the case, understanding (between them)",Guess the romaji equivalent of the Onyomi reading,Text
+"forget, be forgetful of, forget about, forget (an article) [**On**]","忘,ボウ","Kunyomi: わすれる = forget, be forgetful of, forget about, forget (an article)",Guess the romaji equivalent of the Onyomi reading,Text
+"I, private affairs [**On**]","私,シ","Kunyomi: わたくし,わたし = I, myself, private (affairs)",Guess the romaji equivalent of the Onyomi reading,Text
+"divide, cut, halve, separate, split, rip, break, crack, smash, dilute [**On**]","割,カツ","Kunyomi: わる,わり,われる,さく = divide, break, rate, percentage",Guess the romaji equivalent of the Onyomi reading,Text
+"ego, self, selfishness, egotism [**On**]","我,ガ","Kunyomi: われ,わ = I, oneself, self, ego",Guess the romaji equivalent of the Onyomi reading,Text

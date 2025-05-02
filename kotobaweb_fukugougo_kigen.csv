@@ -1,0 +1,636 @@
+Question,Answer,Comment,Instruction,Render as
+"ひ文字し,ひ文字","飢い","ひもじい
+ひ｜もじ｜し
+ひ｜もじ
+ひ文字し,ひ文字",Guess the compound word breakdown,Image
+"一重","偏","ひとえ
+ひと｜へ
+一重",Guess the compound word breakdown,Image
+"一重に","偏に","ひとえに
+ひと｜へ｜に
+一重に",Guess the compound word breakdown,Image
+"下ろし","卸","おろし
+下ろし",Guess the compound word breakdown,Image
+"下垂る","滴る","したたる
+下垂る",Guess the compound word breakdown,Image
+"乞い願う","希う","こいねがう
+乞い願う",Guess the compound word breakdown,Image
+"争ふ","相撲","すもう
+すまふ
+争ふ",Guess the compound word breakdown,Image
+"事割り","理","ことわり
+こと｜わり
+事割り",Guess the compound word breakdown,Image
+"二度","再び","ふたたび
+ふた｜たび
+二度",Guess the compound word breakdown,Image
+"仕付け","躾","しつけ
+し｜つけ
+仕付け",Guess the compound word breakdown,Image
+"仕合はせ","幸せ","しあわせ
+し｜あはせ
+仕合はせ",Guess the compound word breakdown,Image
+"傅くしむ","慈しむ","いつくしむ
+いつくしむ
+傅くしむ",Guess the compound word breakdown,Image
+"先駆け","魁","さきがけ
+さき｜がけ
+先駆け",Guess the compound word breakdown,Image
+"凍り","氷","こおり
+こほり
+凍り",Guess the compound word breakdown,Image
+"出し","山車","だし
+だし
+出し",Guess the compound word breakdown,Image
+"出づ水","泉","いずみ
+いづ｜み
+出づ水",Guess the compound word breakdown,Image
+"刃金","鋼","はがね
+刃金",Guess the compound word breakdown,Image
+"受け賜る","承る","うけたまわる
+うけ｜たまわる
+受け賜る",Guess the compound word breakdown,Image
+"口濯く,口濯ぐ","漱ぐ","くちすすぐ
+くち｜すすく
+くち｜すすぐ
+口濯く,口濯ぐ",Guess the compound word breakdown,Image
+"口端","嘴","くちばし
+くち｜ばし
+口端",Guess the compound word breakdown,Image
+"口縁","唇","くちびる
+くち｜べり
+口縁",Guess the compound word breakdown,Image
+"口輪","轡","くつわ
+くつ｜わ
+口輪",Guess the compound word breakdown,Image
+"口食み","轡","くつばみ
+くつ｜ばみ
+口食み",Guess the compound word breakdown,Image
+"召し","飯","めし
+めし
+召し",Guess the compound word breakdown,Image
+"唾吐き","唾","つばき
+つ｜ばき
+唾吐き",Guess the compound word breakdown,Image
+"固まり","塊","かたまり
+固まり",Guess the compound word breakdown,Image
+"土養ふ","培う","つちかう
+つち｜かふ
+土養ふ",Guess the compound word breakdown,Image
+"城築く","築く","きずく
+き｜づく
+城築く",Guess the compound word breakdown,Image
+"塩辛し","鹹い","しおからい
+しほ｜からし
+塩辛し",Guess the compound word breakdown,Image
+"墨研り","硯","すずり
+すみ｜ずり
+墨研り",Guess the compound word breakdown,Image
+"大旨","概ね","おおむね
+おほ｜むね
+大旨",Guess the compound word breakdown,Image
+"大殿","大臣","おとど
+おほ｜との
+大殿",Guess the compound word breakdown,Image
+"大神","狼","おおかみ
+大神",Guess the compound word breakdown,Image
+"女取る・妻取る","娶る","めとる
+女取る・妻取る",Guess the compound word breakdown,Image
+"妹人","妹","いもうと
+いも｜ひと
+妹人",Guess the compound word breakdown,Image
+"官取る,官取どる","司る","つかさどる
+つかさ｜どる
+官取る,官取どる",Guess the compound word breakdown,Image
+"寄す処","縁","よすが
+よす｜が
+寄す処",Guess the compound word breakdown,Image
+"寝屋","閨","ねや
+寝屋",Guess the compound word breakdown,Image
+"寝座","塒","ねぐら
+寝座",Guess the compound word breakdown,Image
+"小石","礫","こいし
+小石",Guess the compound word breakdown,Image
+"屋代","社","やしろ
+や｜しろ
+屋代",Guess the compound word breakdown,Image
+"屋形","館","やかた
+や｜かた
+屋形",Guess the compound word breakdown,Image
+"岩穂","巌","いわお
+いは｜ほ
+岩穂",Guess the compound word breakdown,Image
+"峰処","丘","おか
+を｜か
+峰処",Guess the compound word breakdown,Image
+"巧み","匠","たくみ
+巧み",Guess the compound word breakdown,Image
+"差し挟む","挟む","さしはさむ
+さし｜はさむ
+差し挟む",Guess the compound word breakdown,Image
+"庭鳥","鶏","にわとり
+には｜とり
+庭鳥",Guess the compound word breakdown,Image
+"引き率る,引き居る","率いる","ひきいる
+ひき｜ゐる
+ひき｜ゐる
+引き率る,引き居る",Guess the compound word breakdown,Image
+"弟人","弟","おとうと
+おと｜ひと
+弟人",Guess the compound word breakdown,Image
+"弥生","藪","やぶ
+や｜ぶ
+弥生",Guess the compound word breakdown,Image
+"張り付け","磔","はりつけ
+はり｜つけ
+張り付け",Guess the compound word breakdown,Image
+"形取る","象る","かたどる
+かた｜どる
+形取る",Guess the compound word breakdown,Image
+"影見","鏡","かがみ
+かが｜み
+影見",Guess the compound word breakdown,Image
+"往にし方","古","いにしえ
+いにし｜へ
+往にし方",Guess the compound word breakdown,Image
+"御言宣り","詔","みことのり
+御言宣り",Guess the compound word breakdown,Image
+"御門","帝","みかど
+み｜かど
+御門",Guess the compound word breakdown,Image
+"心指し","志","こころざし
+こころ｜ざし
+心指し",Guess the compound word breakdown,Image
+"心指す","志す","こころざす
+こころ｜ざす
+心指す",Guess the compound word breakdown,Image
+"心良し,心良い","快い","こころよい
+こころ｜よし
+心良し,心良い",Guess the compound word breakdown,Image
+"心見る","試みる","こころみる
+こころ｜みる
+心見る",Guess the compound word breakdown,Image
+"忌ましむ","戒める","いましめる
+いましむ
+忌ましむ",Guess the compound word breakdown,Image
+"忌み名","諱","いみな
+いみ｜な
+忌み名",Guess the compound word breakdown,Image
+"思はく","思惑","おもわく
+おもはく
+思はく",Guess the compound word breakdown,Image
+"思ひ量る","慮る","おもんばかる・おもんぱかる
+おもひ｜はかる
+思ひ量る",Guess the compound word breakdown,Image
+"恥づかしむ,恥ずかしめる","辱める","はずかしめる
+はづかしむ
+恥づかしむ,恥ずかしめる",Guess the compound word breakdown,Image
+"意気通る","憤る","いきどおる
+意気通る",Guess the compound word breakdown,Image
+"戸片","扉","とびら
+戸片",Guess the compound word breakdown,Image
+"戸鎖す","鎖す","とざす
+と｜ざす
+戸鎖す",Guess the compound word breakdown,Image
+"手の平","掌","てのひら
+て｜の｜ひら
+手の平",Guess the compound word breakdown,Image
+"手の心","掌","たなごころ
+てのこころ
+手の心",Guess the compound word breakdown,Image
+"手寄る","頼る","たよる
+た｜よる
+手寄る",Guess the compound word breakdown,Image
+"手持つ","保つ","たもつ
+た｜もつ
+手持つ",Guess the compound word breakdown,Image
+"手本","袂","たもと
+た｜もと
+手本",Guess the compound word breakdown,Image
+"手繦","襷","たすき
+た｜すき
+手繦",Guess the compound word breakdown,Image
+"打ち羽","団扇","うちわ
+うち｜は
+打ち羽",Guess the compound word breakdown,Image
+"投げ打つ","擲つ","なげうつ
+なげ｜うつ
+投げ打つ",Guess the compound word breakdown,Image
+"招鳥,招き鳥","囮","おとり
+をき｜とり
+をき｜とり
+招鳥,招き鳥",Guess the compound word breakdown,Image
+"持ち率る","用いる","もちいる
+もち｜ゐる
+持ち率る",Guess the compound word breakdown,Image
+"持て遊ぶ","弄ぶ","もてあそぶ
+もて｜あそぶ
+持て遊ぶ",Guess the compound word breakdown,Image
+"散り","塵","ちり
+ちり
+散り",Guess the compound word breakdown,Image
+"文手","筆","ふで
+ふみ｜て
+文手",Guess the compound word breakdown,Image
+"新たむ","改める","あらためる
+あらたむ
+新たむ",Guess the compound word breakdown,Image
+"日向風","東","ひがし
+ひ｜むか｜し
+日向風",Guess the compound word breakdown,Image
+"日差し","庇","ひさし
+ひ｜さし
+日差し",Guess the compound word breakdown,Image
+"日読み","暦","こよみ
+かよみ
+日読み",Guess the compound word breakdown,Image
+"明仄","曙","あけぼの
+明仄",Guess the compound word breakdown,Image
+"明時","暁","あかつき
+あか｜とき
+明時",Guess the compound word breakdown,Image
+"暇無む","営む","いとなむ
+いと｜なむ
+暇無む",Guess the compound word breakdown,Image
+"暇間","暇","いとま
+いと｜ま
+暇間",Guess the compound word breakdown,Image
+"月立ち","一日","ついたち
+つき｜たち
+月立ち",Guess the compound word breakdown,Image
+"木の子","茸","きのこ
+き｜の｜こ
+木の子",Guess the compound word breakdown,Image
+"木末","梢","こずえ
+こ｜ずゑ
+木末",Guess the compound word breakdown,Image
+"木綱","絆","きずな
+き｜づな
+木綱",Guess the compound word breakdown,Image
+"枝折り","栞","しおり
+枝折り",Guess the compound word breakdown,Image
+"棚機","七夕","たなばた
+たな｜ばた
+棚機",Guess the compound word breakdown,Image
+"榎の木","榎","えのき
+え｜の｜き
+榎の木",Guess the compound word breakdown,Image
+"檜の木","檜","ひのき
+ひ｜の｜き
+檜の木",Guess the compound word breakdown,Image
+"毛物","獣","けもの
+け｜もの
+毛物",Guess the compound word breakdown,Image
+"気差す","兆す","きざす
+気差す",Guess the compound word breakdown,Image
+"気指し","兆し","きざし
+き｜ざし
+気指し",Guess the compound word breakdown,Image
+"水な本,水の元","源","みなもと
+み｜な｜もと
+みのもと
+水な本,水の元",Guess the compound word breakdown,Image
+"水な門,水の門","港","みなと
+み｜な｜と
+みのと
+水な門,水の門",Guess the compound word breakdown,Image
+"水な面","水面","みなも
+み｜な｜おも
+水な面",Guess the compound word breakdown,Image
+"水海","湖","みずうみ
+みづ｜うみ
+水海",Guess the compound word breakdown,Image
+"水際","汀","みぎわ
+み｜ぎは
+水際",Guess the compound word breakdown,Image
+"汝貴","汝","なんじ
+な｜むち
+汝貴",Guess the compound word breakdown,Image
+"海な原","海原","うなばら
+う｜な｜ばら
+海な原",Guess the compound word breakdown,Image
+"海潮","潮","うしお
+う｜しほ
+海潮",Guess the compound word breakdown,Image
+"火の穂","炎","ほのお
+ほ｜の｜ほ
+火の穂",Guess the compound word breakdown,Image
+"火垂る","蛍","ほたる
+火垂る",Guess the compound word breakdown,Image
+"火打ち石","燧石","ひうちいし
+火打ち石",Guess the compound word breakdown,Image
+"焚き木","薪","たきぎ
+たき｜ぎ
+焚き木",Guess the compound word breakdown,Image
+"煮皮","膠","にかわ
+に｜かは
+煮皮",Guess the compound word breakdown,Image
+"爪付く,爪突く","躓く","つまずく
+つま｜づく
+つまづく
+爪付く,爪突く",Guess the compound word breakdown,Image
+"片刃","刀","かたな
+かた｜な
+片刃",Guess the compound word breakdown,Image
+"片向く","傾く","かたむく
+かた｜むく
+片向く",Guess the compound word breakdown,Image
+"片寄る","偏る","かたよる
+片寄る",Guess the compound word breakdown,Image
+"片端ら","傍ら","かたわら
+かた｜はら
+片端ら",Guess the compound word breakdown,Image
+"物の部","武士","もののふ
+物の部",Guess the compound word breakdown,Image
+"猪の獣","猪","いのしし
+ゐ｜の｜しし
+猪の獣",Guess the compound word breakdown,Image
+"玉子","卵","たまご
+たま｜ご
+玉子",Guess the compound word breakdown,Image
+"生す子","息子","むすこ
+生す子",Guess the compound word breakdown,Image
+"生やし","林","はやし
+はやし
+生やし",Guess the compound word breakdown,Image
+"生臭い","腥い","なまぐさい
+生臭い",Guess the compound word breakdown,Image
+"産す女,生す女","娘","むすめ
+むす｜め
+産す女,生す女",Guess the compound word breakdown,Image
+"産まる","生まれる","うまれる
+うまる
+産まる",Guess the compound word breakdown,Image
+"男の子","男","おのこ
+を｜の｜こ
+男の子",Guess the compound word breakdown,Image
+"男人","夫","おっと
+を｜ひと
+男人",Guess the compound word breakdown,Image
+"目つ毛","睫","まつげ
+ま｜つ｜げ
+目つ毛",Guess the compound word breakdown,Image
+"目な子","眼","まなこ
+ま｜な｜こ
+目な子",Guess the compound word breakdown,Image
+"目叩き","瞬き","またたき
+ま｜たたき
+まばたき
+ま｜ばたき
+目叩き",Guess the compound word breakdown,Image
+"目叩く","瞬く","またたく
+ま｜たたく
+目叩く",Guess the compound word breakdown,Image
+"目守る","守る","まもる
+ま｜もる
+目守る",Guess the compound word breakdown,Image
+"目戸","窓","まど
+ま｜ど
+目戸",Guess the compound word breakdown,Image
+"目方","前","まえ
+ま｜へ
+目方",Guess the compound word breakdown,Image
+"目蓋","瞼","まぶた
+ま｜ぶた
+目蓋",Guess the compound word breakdown,Image
+"目見ゆ","見える","まみえる
+ま｜みゆ
+目見ゆ",Guess the compound word breakdown,Image
+"目金","眼鏡","めがね
+め｜がね
+目金",Guess the compound word breakdown,Image
+"真事","誠","まこと
+ま｜こと
+真事",Guess the compound word breakdown,Image
+"矢倉","櫓","やぐら
+や｜ぐら
+矢倉",Guess the compound word breakdown,Image
+"矢尻","鏃","やじり
+矢尻",Guess the compound word breakdown,Image
+"矢篦木,矢篦木","柳","やなぎ
+や｜な｜ぎ
+や｜の｜き
+矢篦木,矢篦木",Guess the compound word breakdown,Image
+"知る辺","導","しるべ
+知る辺",Guess the compound word breakdown,Image
+"石据ゑ,石据え","礎","いしずえ
+いし｜ずゑ
+石据ゑ,石据え",Guess the compound word breakdown,Image
+"石文","碑","いしぶみ
+石文",Guess the compound word breakdown,Image
+"祀り事,祭り事","政","まつりごと
+まつり｜ごと
+まつり｜ごと
+祀り事,祭り事",Guess the compound word breakdown,Image
+"神座","神楽","かぐら
+かむ｜くら
+神座",Guess the compound word breakdown,Image
+"神鳴り","雷","かみなり
+かみ｜なり
+神鳴り",Guess the compound word breakdown,Image
+"稲の夫","稲妻","いなづま
+いねの｜つま
+稲の夫",Guess the compound word breakdown,Image
+"稲子","蝗","いなご
+いな｜ご
+稲子",Guess the compound word breakdown,Image
+"穂出づ","秀でる","ひいでる
+ほ｜いづ
+穂出づ",Guess the compound word breakdown,Image
+"竈処","竈","かまど
+かま｜ど
+竈処",Guess the compound word breakdown,Image
+"立て奉る","奉る","たてまつる
+たて｜まつる
+立て奉る",Guess the compound word breakdown,Image
+"竹の子","筍","たけのこ
+たけ｜の｜こ
+竹の子",Guess the compound word breakdown,Image
+"笑窪","靨","えくぼ
+え｜くぼ
+笑窪",Guess the compound word breakdown,Image
+"築泥,築き泥","築地","ついじ
+つき｜ひぢ
+つき｜ひぢ
+築泥,築き泥",Guess the compound word breakdown,Image
+"簀垂れ","簾","すだれ
+す｜だれ
+簀垂れ",Guess the compound word breakdown,Image
+"紅の藍","紅","くれない
+くれ｜の｜あゐ
+紅の藍",Guess the compound word breakdown,Image
+"紐解く","繙く","ひもとく
+ひも｜とく
+紐解く",Guess the compound word breakdown,Image
+"絵掻く","描く","えがく
+ゑ｜がく
+絵掻く",Guess the compound word breakdown,Image
+"置き縫ふ","補う","おぎなう
+おき｜ぬふ
+置き縫ふ",Guess the compound word breakdown,Image
+"羽包む","育む","はぐくむ
+は｜ぐくむ
+羽包む",Guess the compound word breakdown,Image
+"羽根","羽","はね
+は｜ね
+羽根",Guess the compound word breakdown,Image
+"肌赤","裸","はだか
+はだ｜あか
+肌赤",Guess the compound word breakdown,Image
+"肌足","裸足","はだし
+はだ｜あし
+肌足",Guess the compound word breakdown,Image
+"肩ぐ","担ぐ","かつぐ
+かたぐ
+肩ぐ",Guess the compound word breakdown,Image
+"肴瓮","鍋","なべ
+な｜べ
+肴瓮",Guess the compound word breakdown,Image
+"背向く","背く","そむく
+そ｜むく
+背向く",Guess the compound word breakdown,Image
+"背向ける","背ける","そむける
+そ｜むける
+背向ける",Guess the compound word breakdown,Image
+"腹腸","腸","はらわた
+はら｜わた
+腹腸",Guess the compound word breakdown,Image
+"色取り","彩り","いろどり
+いろ｜どり
+色取り",Guess the compound word breakdown,Image
+"色取る","彩る","いろどる
+いろ｜どる
+色取る",Guess the compound word breakdown,Image
+"若女","乙女","おとめ
+をと｜め
+若女",Guess the compound word breakdown,Image
+"若子","男","おとこ
+をと｜こ
+若子",Guess the compound word breakdown,Image
+"荒風","嵐","あらし
+あら｜し
+荒風",Guess the compound word breakdown,Image
+"落ち入る","陥る","おちいる
+おち｜いる
+落ち入る",Guess the compound word breakdown,Image
+"落とし入れる","陥れる","おとしいれる
+おとし｜いれる
+落とし入れる",Guess the compound word breakdown,Image
+"虫食む","蝕む","むしばむ
+むし｜ばむ
+虫食む",Guess the compound word breakdown,Image
+"蚊屋","蚊帳","かや
+か｜や
+蚊屋",Guess the compound word breakdown,Image
+"蛙手","楓","かえで
+かえるて
+蛙手",Guess the compound word breakdown,Image
+"衣手","袖","そで
+そ｜で
+衣手",Guess the compound word breakdown,Image
+"見憎し,見難い","醜い","みにくい
+み｜にくし
+見憎し,見難い",Guess the compound word breakdown,Image
+"言割る,事割る","断る","ことわる
+こと｜わる
+言割る,事割る",Guess the compound word breakdown,Image
+"計取る,果取る","捗る","はかどる
+はか｜どる
+計取る,果取る",Guess the compound word breakdown,Image
+"計無し,果敢ない","儚い","はかない
+はか｜なし
+計無し,果敢ない",Guess the compound word breakdown,Image
+"謀り事","謀","はかりごと
+はかり｜ごと
+謀り事",Guess the compound word breakdown,Image
+"贈り名","諡","おくりな
+おくり｜な
+贈り名",Guess the compound word breakdown,Image
+"足踏み","鐙","あぶみ
+あ｜ぶみ
+足踏み",Guess the compound word breakdown,Image
+"蹴爪","距","けづめ
+け｜づめ
+蹴爪",Guess the compound word breakdown,Image
+"身つ柄","自ら","みずから
+みつから
+身つ柄",Guess the compound word breakdown,Image
+"身幹","躯","むくろ
+む｜くろ
+身幹",Guess the compound word breakdown,Image
+"身無し","虚しい","むなしい
+む｜なし
+身無し",Guess the compound word breakdown,Image
+"身無し子","孤","みなしご
+み｜なし｜ご
+身無し子",Guess the compound word breakdown,Image
+"輪立","轍","わだち
+輪立",Guess the compound word breakdown,Image
+"返り見る","顧みる","かえりみる
+かへり｜みる
+返り見る",Guess the compound word breakdown,Image
+"逆上る","遡る","さかのぼる
+逆上る",Guess the compound word breakdown,Image
+"這ひ入る","入る","はいる
+はひ｜いる
+這ひ入る",Guess the compound word breakdown,Image
+"道引く","導く","みちびく
+みち｜びく
+道引く",Guess the compound word breakdown,Image
+"酒坏","杯","さかずき
+さか｜づき
+酒坏",Guess the compound word breakdown,Image
+"酒菜","魚","さかな
+さか｜な
+酒菜",Guess the compound word breakdown,Image
+"金打ち","鍛冶","かじ
+かね｜うち
+金打ち",Guess the compound word breakdown,Image
+"金目","要","かなめ
+金目",Guess the compound word breakdown,Image
+"鋸切り","鋸","のこぎり
+鋸切り",Guess the compound word breakdown,Image
+"長無し,長無ない","幼い","おさない
+をさ｜なし
+長無し,長無ない",Guess the compound word breakdown,Image
+"非道し,非道し,非道い","酷い","ひどい
+ひ｜だう｜し
+ひ｜ど｜し
+非道し,非道し,非道い",Guess the compound word breakdown,Image
+"面向き","趣","おもむき
+面向き",Guess the compound word breakdown,Image
+"面向く","赴く","おもむく
+おも｜むく
+面向く",Guess the compound word breakdown,Image
+"面手","表","おもて
+おも｜て
+面手",Guess the compound word breakdown,Image
+"面方","面","おもて
+おも｜て
+面方",Guess the compound word breakdown,Image
+"項突く","頷く","うなずく
+項突く",Guess the compound word breakdown,Image
+"頬付き","酸漿","ほおずき
+ほほ｜づき
+頬付き",Guess the compound word breakdown,Image
+"頸木","軛","くびき
+頸木",Guess the compound word breakdown,Image
+"飲み門","喉","のど
+のみ｜と
+飲み門",Guess the compound word breakdown,Image
+"飼ひ蚕","蚕","かいこ
+かひ｜こ
+飼ひ蚕",Guess the compound word breakdown,Image
+"香細し","芳しい","かぐわしい・かんばしい
+か｜ぐはし
+香細し",Guess the compound word breakdown,Image
+"馬屋","厩","うまや
+うま｜や
+馬屋",Guess the compound word breakdown,Image
+"髪剃り","剃刀","かみそり
+髪剃り",Guess the compound word breakdown,Image
+"鸛の鳥","鸛","こうのとり
+鸛の鳥",Guess the compound word breakdown,Image
+"黄泉帰る,黄泉から帰る","蘇る","よみがえる
+よみ｜がへる
+黄泉帰る,黄泉から帰る",Guess the compound word breakdown,Image

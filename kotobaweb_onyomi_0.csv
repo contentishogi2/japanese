@@ -1,0 +1,450 @@
+question,answer,comment,instruction
+"里
+sample words:
+阿里巴巴
+亜爾加里
+海底二万里",り,"里:village, hamlet, the country; parents' home
+阿里巴巴(ありばば):Alibaba
+亜爾加里(あるかり):alkali
+海底二万里(かいていにまんり):Twenty Thousand Leagues Under the Sea: A Tour of .",Jouyou.
+"柵
+sample words:
+柵状組織
+立入禁止柵
+鉄柵",さく,"柵:stockade, fence, palisade
+柵状組織(さくじょうそしき):palisade layer
+立入禁止柵(たちいりきんしさく):no-entry barrier
+鉄柵(てっさく):iron fence; iron railing",Jouyou.
+"汎
+sample words:
+汎愛
+汎化
+汎米主義",はん,"汎:pan-
+汎愛(はんあい):philanthropy
+汎化(はんか):generalization (psychology, linguistics, etc.)
+汎米主義(はんべいしゅぎ):Pan-Americanism",Jouyou.
+"膳
+sample words:
+膳越し
+膳所
+膳立て",ぜん,"膳:small low table; tray
+膳越し(ぜんごし):rudely reaching over one's serving tray to grab f.
+膳所(ぜんしょ):kitchen
+膳立て(ぜんだて):laying the table; setting the stage; getting one'..",Jouyou.
+"芯
+sample words:
+しゃ芯
+芯切り
+芯地",しん,"芯:wick
+しゃ芯(しゃしん):mechanical pencil lead
+芯切り(しんきり):snuffer; candle wick trimmer; douter
+芯地(しんじ):foundation; padding; lining",Jouyou.
+"蜜
+sample words:
+花蜜
+はち蜜
+蜂蜜入り",みつ,"蜜:honey, nectar, molasses, honeydew
+花蜜(かみつ):nectar
+はち蜜(はちみつ):honey
+蜂蜜入り(はちみついり):containing honey",Jouyou.
+"隙
+sample words:
+罅隙",げき,"隙:time; leisure; gap, crack; room, space; chance; u.
+罅隙(こげき):slit; crevice; crack; crevasse",Jouyou.
+"顎
+sample words:
+下顎
+下顎骨
+顎関節症",がく,"顎:jaw, chin
+下顎(かがく):mandible; lower jaw
+下顎骨(かがくこつ):lower jawbone; mandible
+顎関節症(がくかんせつしょう):temporomandibular joint dysfunction; TMJ; temporo.",Jouyou.
+"鬱
+sample words:
+鬱気
+鬱金香
+鬱陶しい",うつ,"鬱:gloom, depression, melancholy
+鬱気(うっき):gloomy; melancholy
+鬱金香(うっこんこう):tulip
+鬱陶しい(うっとうしい):depressing; troublesome; irritating; cloudy; gloo.",Jouyou.
+"麺
+sample words:
+すなっく麺
+びびん麺
+冷やし麺",めん,"麺:noodles; wheat flour
+すなっく麺(すなっくめん):snack noodle
+びびん麺(びびんめん):bibim-guksu (Korean spicy noodles)
+冷やし麺(ひやしめん):chilled noodles",Jouyou.
+"什
+sample words:
+什一
+什一献金
+什器",じゅう,"什一(じゅういち):tithe
+什一献金(じゅういちけんきん):tithes
+什器(じゅうき):furniture; appliance; utensil",Not Jouyou.
+"伍
+sample words:
+一伍一什
+伍す
+伍する",ご,"一伍一什(いちごいちじゅう):the whole story; from beginning to end; full part.
+伍す(ごす):to rank among; to rank with
+伍する(ごする):to rank with; to rank among",Not Jouyou.
+"倭
+sample words:
+魏志倭人伝
+壬辰倭乱
+倭歌",わ,"魏志倭人伝(ぎしわじんでん):Wajinden (passages in Records of the Three Kingdo.
+壬辰倭乱(じんしんわらん):Imjin war; Japanese invasions of Korea (1592-1598.
+倭歌(わか):waka; classic Japanese poem, esp. a tanka, often .",Not Jouyou.
+"剋
+sample words:
+下剋上
+時剋
+相剋",こく,"下剋上(げこくじょう):juniors dominating seniors; inferiors overthrowin.
+時剋(じこく):(the) hour; chance; favourable time; opportunity;.
+相剋(そうこく):rivalry",Not Jouyou.
+"劃
+sample words:
+劃一化
+劃時代的
+劃する",かく,"劃一化(かくいつか):standardisation; standardization
+劃時代的(かくじだいてき):epoch-making
+劃する(かくする):to map out; to demarcate; to mark; to divide; to .",Not Jouyou.
+"區
+sample words:
+區劃
+區別",く,"區劃(くかく):compartment; plot; boundary; lot; partition; bloc.
+區別(くべつ):differentiation; distinction; classification",Not Jouyou.
+"卯
+sample words:
+癸卯",ぼう,"癸卯(きぼう):Water Rabbit (40th term of the sexagenary cycle, .",Not Jouyou.
+"卿
+sample words:
+公卿
+ご三卿
+三卿",きょう,"公卿(くぎょう):high-ranking court noble; senior court official; ..
+ご三卿(ごさんきょう):three secondary Tokugawa branch families (Tayasu,.
+三卿(さんきょう):three secondary Tokugawa branch families (Tayasu,.",Not Jouyou.
+"卿
+sample words:
+卿等
+月卿
+月卿雲客",けい,"卿等(けいら):you (plural)
+月卿(げっけい):high-ranking court noble; kugyo; senior court off.
+月卿雲客(げっけいうんかく):court nobles and other courtiers allowed into the.",Not Jouyou.
+"參
+sample words:
+參考",さん,參考(さんこう):consultation; reference,Not Jouyou.
+"圓
+sample words:
+湯圓
+湯圓",えん,"湯圓(たんえん):Chinese dumplings made from glutinous rice flour;.
+湯圓(たんゆえん):Chinese dumplings made from glutinous rice flour;.",Not Jouyou.
+"圖
+sample words:
+圖解",ず,圖解(ずかい):(explanatory) diagram; illustration,Not Jouyou.
+"壕
+sample words:
+壕跡",ごう,壕跡(ごうあと):remains of a dugout (usu. military),Not Jouyou.
+"對
+sample words:
+對して
+に對して
+に對する",たい,"對して(たいして):for; per; in regard to
+に對して(にたいして):towards; regarding; against; in contrast with
+に對する(にたいする):to; in; with regards to; regarding; towards",Not Jouyou.
+"屏
+sample words:
+重屏禁
+屏居
+屏禁",へい,"重屏禁(じゅうへいきん):solitary confinement in a dark cell without beddi.
+屏居(へいきょ):living in retirement
+屏禁(へいきん):solitary confinement",Not Jouyou.
+"巳
+sample words:
+己巳",し,"己巳(きし):Earth Snake (6th term of the sexagenary cycle, e..",Not Jouyou.
+"庵
+sample words:
+僧庵
+僧庵生活
+草庵風茶室",あん,"僧庵(そうあん):priest's hermitage
+僧庵生活(そうあんせいかつ):hermit life
+草庵風茶室(そうあんふうちゃしつ):rustic tea house made out of a thatched hut",Not Jouyou.
+"慾
+sample words:
+我慾
+私利私慾
+名誉慾",よく,"我慾(がよく):selfishness
+私利私慾(しりしよく):greed; self-interest; selfish desire
+名誉慾(めいよよく):love of fame",Not Jouyou.
+"挺
+sample words:
+挺銀
+八挺",ちょう,"挺銀(ちょうぎん):chogin (Edo-period silver coin shaped like a sea .
+八挺(はっちょう):skillfulness",Not Jouyou.
+"斛
+sample words:
+万斛
+木斛",こく,"万斛(ばんこく):copious (tears)
+木斛(もっこく):cleyera; Japanese ternstroemia (Ternstroemia gymn.",Not Jouyou.
+"柚
+sample words:
+柚香菊
+柚香焼",ゆう,"柚香菊(ゆうがぎく):false aster; Japanese aster (Kalimeris pinnatifid.
+柚香焼(ゆうがやき):citrus-grilled",Not Jouyou.
+"柚
+sample words:
+青柚
+柚柑
+柚餅子",ゆ,"青柚(あおゆ):unripe yuzu; green yuzu
+柚柑(ゆこう):Japanese citrus variety; yukou (Citrus yuko)
+柚餅子(ゆべし):sweet yuzu-flavoured steamed dumpling",Not Jouyou.
+"柩
+sample words:
+柩車
+霊柩
+霊柩自動車",きゅう,"柩車(きゅうしゃ):hearse
+霊柩(れいきゅう):casket; coffin
+霊柩自動車(れいきゅうじどうしゃ):hearse",Not Jouyou.
+"梃
+sample words:
+一梃",ちょう,一梃(いっちょう):one leaf (of a book bound in Japanese style); one.....,Not Jouyou.
+"棉
+sample words:
+棉花
+棉実
+棉実油",めん,"棉花(めんか):cotton wool; raw cotton
+棉実(めんじつ):cottonseed
+棉実油(めんじつゆ):cottonseed oil",Not Jouyou.
+"椀
+sample words:
+お椀
+椀子蕎麦
+椀形あんてな",わん,"お椀(おわん):bowl (wooden)
+椀子蕎麦(わんこそば):soba noodles in broth served continuously so that.
+椀形あんてな(わんようあんてな):dish antenna; parabolic antenna",Not Jouyou.
+"欝
+sample words:
+暗欝
+気欝
+気欝症",うつ,"暗欝(あんうつ):melancholy; gloom
+気欝(きうつ):mental depression; gloom
+気欝症(きうつしょう):depression; melancholy",Not Jouyou.
+"氣
+sample words:
+意氣
+意氣地
+氣持ち",き,"意氣(いき):disposition; heart; spirit
+意氣地(いきじ):self-confidence; self-respect; drive; backbone; p.
+氣持ち(きもち):gratitude; a little; attitude; solicitude; sentim...",Not Jouyou.
+"洲
+sample words:
+欧洲
+濠洲
+五大洲",しゅう,"欧洲(おうしゅう):Europe
+濠洲(ごうしゅう):Australia
+五大洲(ごだいしゅう):Asia, Africa, Europe, America and Australia; Asia..",Not Jouyou.
+"濠
+sample words:
+濠州",ごう,濠州(ごうしゅう):Australia,Not Jouyou.
+"瓣
+sample words:
+瓣膜",べん,瓣膜(べんまく):valve (of the heart and the veins),Not Jouyou.
+"疋
+sample words:
+一疋",ひき,一疋(いっぴき):one animal (small); two-tan bolt of cloth,Not Jouyou.
+"痔
+sample words:
+痔核
+痔疾
+吮癰舐痔",じ,"痔核(じかく):hemorrhoid
+痔疾(じしつ):hemorrhoids
+吮癰舐痔(せんようしじ):brown-nosing; bootlicking; currying favour (favor..",Not Jouyou.
+"癌
+sample words:
+胃癌
+癌遺伝子
+癌ういるす",がん,"胃癌(いがん):stomach cancer
+癌遺伝子(がんいでんし):oncogene
+癌ういるす(がんういるす):oncovirus",Not Jouyou.
+"筝
+sample words:
+楽筝
+古筝",そう,"楽筝(がくそう):ancient type of koto with 13 strings used in Gaga.
+古筝(こそう):guzheng (type of ancient Chinese zither)",Not Jouyou.
+"箏
+sample words:
+楽箏
+古箏
+箏曲家",そう,"楽箏(がくそう):ancient type of koto with 13 strings used in Gaga.
+古箏(こそう):guzheng (type of ancient Chinese zither)
+箏曲家(そうきょくか):koto player",Not Jouyou.
+"篇
+sample words:
+佳篇
+下篇
+千篇一律",へん,"佳篇(かへん):outstanding poem
+下篇(げへん):third volume (of three); second volume (of two)
+千篇一律(せんぺんいちりつ):humdrum; banal; monotonous; dull; stereotyped",Not Jouyou.
+"粥
+sample words:
+糜粥",しゅく,糜粥(びじゅく):chyme,Not Jouyou.
+"縣
+sample words:
+鹿兒島縣
+佐賀縣
+三重縣",けん,"鹿兒島縣(かごしまけん):Kagoshima Prefecture (Kyushu)
+佐賀縣(さがけん):Saga Prefecture
+三重縣(みえけん):Mie Prefecture (Kinki area)",Not Jouyou.
+"罐
+sample words:
+汽罐
+薬罐
+薬罐をかける",かん,"汽罐(きかん):boiler
+薬罐(やかん):kettle; bald head
+薬罐をかける(やかんをかける):to put a kettle on (the stove)",Not Jouyou.
+"肆
+sample words:
+肆意
+市肆",し,"肆意(しい):whim; self-will; arbitrariness
+市肆(しし):market storehouse; store",Not Jouyou.
+"脉
+sample words:
+脉診",みゃく,脉診(みゃくしん):diagnostic sphygmopalpation (in traditional Chine..,Not Jouyou.
+"苑
+sample words:
+苑地
+広辞苑
+珈琲苑",えん,"苑地(えんち):park; garden
+広辞苑(こうじえん):Kojien (Japanese dictionary published by Iwanami .
+珈琲苑(こひえん):Kohiien (coffee shop)",Not Jouyou.
+"菴
+sample words:
+菴羅",あん,菴羅(あんら):mango,Not Jouyou.
+"萬
+sample words:
+壱百萬
+萬次郎鉱
+萬子",まん,"壱百萬(ひゃくまん):1,000,000; many; one million; million
+萬次郎鉱(まんじろうこう):manjiroite
+萬子(まんず):character tiles",Not Jouyou.
+"藝
+sample words:
+江戸藝者
+藝子
+藝者買い",げい,"江戸藝者(えどげいしゃ):Edo geisha; geisha living and working inside Edo ..
+藝子(げいこ):geisha; kabuki actor (esp. a young actor); person.
+藝者買い(げいしゃかい):hiring a geisha",Not Jouyou.
+"蘭
+sample words:
+伊蘭
+阿蘭陀海芋
+阿蘭陀人",らん,"伊蘭(いらん):Iran; castor oil plant (Ricinus communis)
+阿蘭陀海芋(おらんだかいう):calla lily (Zantedeschia aethiopica)
+阿蘭陀人(おらんだじん):Dutchman; Dutchwoman",Not Jouyou.
+"蝶
+sample words:
+蝴蝶
+小蝶鮫
+蝶ねくたい",ちょう,"蝴蝶(こちょう):butterfly
+小蝶鮫(こちょうざめ):sterlet (Acipenser ruthenus)
+蝶ねくたい(ちょうねくたい):bow tie",Not Jouyou.
+"註
+sample words:
+註釈者
+註する
+附註",ちゅう,"註釈者(ちゅうしゃくしゃ):commentator; annotator
+註する(ちゅうする):to write down; to annotate
+附註(ふちゅう):annotation; comment",Not Jouyou.
+"辯
+sample words:
+辯護
+辯才天
+辯疏",べん,"辯護(べんご):defense; advocacy; pleading; defence
+辯才天(べんざいてん):Saraswati; goddess of music, eloquence, also weal.
+辯疏(べんそ):defence; defense; excuse; plea",Not Jouyou.
+"讃
+sample words:
+讃辞
+讃する
+讃美歌",さん,"讃辞(さんじ):eulogy; compliment
+讃する(さんする):to assent; to agree; to inscribe; to approve; to .
+讃美歌(さんびか):hymn; hymnal",Not Jouyou.
+"變
+sample words:
+音變化",へん,音變化(おんへんか):phonetic change; change in sound; shift in sound;.,Not Jouyou.
+"轍
+sample words:
+轍叉
+轍鮒
+轍をふむ",てつ,"轍叉(てっさ):railway frog
+轍鮒(てっぷ):fish on the chopping board; person or thing in im.
+轍をふむ(てつをふむ):to follow the ruts (of a previous cart); to make ..",Not Jouyou.
+"辨
+sample words:
+辨財天
+辨当
+辨務官",べん,"辨財天(べんざいてん):Benzaiten; Saraswati; goddess of music, eloquence.
+辨当(べんとう):Japanese box lunch; bento
+辨務官(べんむかん):commissioner",Not Jouyou.
+"釐
+sample words:
+銚釐
+分釐",り,"銚釐(ちろり):metal sake jug; sake warmer
+分釐(ぶんり):(not) a bit; (not) in the least",Not Jouyou.
+"鋪
+sample words:
+印鋪
+書鋪",ほ,"印鋪(いんほ):seal shop; stamp maker
+書鋪(しょほ):bookstore; bookshop",Not Jouyou.
+"錢
+sample words:
+當十錢",せん,當十錢(とうじゅうぜん):type of bronze Chinese coin first issued under Em.,Not Jouyou.
+"鐵
+sample words:
+新日本製鐵
+台鐵
+鐵工所",てつ,"新日本製鐵(しんにほんせいてつ):Nippon Steel Corporation
+台鐵(たいてつ):Taiwan Railways Administration (abbr)
+鐵工所(てっこうじょ):ironworks",Not Jouyou.
+"鑵
+sample words:
+汽鑵
+薬鑵",かん,"汽鑵(きかん):boiler
+薬鑵(やかん):kettle; bald head",Not Jouyou.
+"雁
+sample words:
+過雁
+かなだ雁
+雁下",がん,"過雁(かがん):flying goose
+かなだ雁(かなだがん):Canada goose (Branta canadensis); Canadian goose
+雁下(がんか):area below the pectoral muscle",Not Jouyou.
+"餡
+sample words:
+餡掛け饂飩
+餡こ
+餡ころ",あん,"餡掛け饂飩(あんかけうどん):udon in soup thickened with (powdered) kudzu
+餡こ(あんこ):filling (e.g. of a manju); padding; red bean past.
+餡ころ(あんころ):mochi wrapped with sweet bean jam",Not Jouyou.
+"驛
+sample words:
+驛子",えき,驛子(えきし):staff at a horse changing station during the rits.,Not Jouyou.
+"麪
+sample words:
+麪包
+麪棒",めん,"麪包(めんぱお):bread
+麪棒(めんぼう):rolling pin",Not Jouyou.
+"龍
+sample words:
+画龍点睛
+天龍八部衆
+飛龍頭",りゅう,"画龍点睛(がりゅうてんせい):last vital touch; finishing touches
+天龍八部衆(てんりゅうはちぶしゅう):the eight legions (devas, nagas, yaksas, gandharv.
+飛龍頭(ひりゅうず):deep-fried tofu mixed with thinly sliced vegetabl.",Not Jouyou.
+"龍
+sample words:
+画龍点睛
+飛龍子
+龍甕",りょう,"画龍点睛(がりょうてんせい):last vital touch; finishing touches
+飛龍子(ひりょうず):deep-fried tofu mixed with thinly sliced vegetabl.
+龍甕(りょうが):imperial carriage",Not Jouyou.
