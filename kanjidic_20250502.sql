@@ -1,4 +1,4 @@
-﻿--unfortunately the source xml itself does not separate the meaning and reading associations into rmgroup though it has the provision for it
+--unfortunately the source xml itself does not separate the meaning and reading associations into rmgroup though it has the provision for it
 
 --select * from kanjidic--select * from kanjidic2 -- same data imported twice
 --declare @handle int
@@ -55,9 +55,9 @@ and (rtype in ('ja_on','ja_kun')or rtype is null and nanori is not null)
 order by m.literal,meaning,reading
 
 drop table if exists #temp2
-select literal,nanori,meaning,m_order,rtype,STRING_AGG(reading,',')within group(order by r_order)reading
+select literal,nanori,meaning,avg(m_order)m_order,rtype,STRING_AGG(reading,',')within group(order by r_order)reading
 into #temp2 from #temp1
-group by literal,meaning,m_order,nanori,rtype
+group by literal,meaning,nanori,rtype
 
 select isnull(onyo.literal,kunyo.literal)literal,isnull(onyo.meaning,kunyo.meaning)meaning,isnull(onyo.m_order,kunyo.m_order)m_order
 	,onyo.reading onyomi,kunyo.reading kunyomi,isnull(onyo.nanori,kunyo.nanori)nanori
@@ -67,11 +67,16 @@ into kanjidic_readingmeaning_map_20250502 from
 where isnull(onyo.literal,kunyo.literal) is not null
 
 drop table if exists #temp4,#temp5
-select distinct replace(word,'_',' ') syn,replace(word,'_',' ')word into #temp4 from enthesaurus_main union select distinct replace(syn,'_',' ')syn,replace(word,'_',' ')word from enthesaurus_syns s join enthesaurus_main m on s.word_id=m.word_id
+select distinct replace(word,'_',' ') syn,replace(word,'_',' ')word
+	into #temp4 from enthesaurus_main
+union select distinct replace(syn,'_',' ')syn,replace(word,'_',' ')word
+	from enthesaurus_syns s join enthesaurus_main m on s.word_id=m.word_id
+
 select distinct convert(nvarchar(max),k.literal)literal
 	,convert(nvarchar(max),replace(replace(left(k.onyomi,case when k.onyomi like'%,%'then charindex(',',k.onyomi)-1 else len(k.onyomi)end),N'-',''),N'.',''))onyomi
-	,convert(nvarchar(max),replace(replace(left(k.kunyomi,case when k.kunyomi like'%,%'then charindex(',',k.kunyomi)-1 else len(k.kunyomi)end),N'-',''),N'.',''))kunyomi,k.nanori,syn meaning
-	,word,m_order--,ROW_NUMBER()over(order by (select 1))meaning_order
+	,convert(nvarchar(max),replace(replace(left(k.kunyomi,case when k.kunyomi like'%,%'then charindex(',',k.kunyomi)-1 else len(k.kunyomi)end),N'-',''),N'.',''))kunyomi
+	,k.nanori,syn meaning
+	,word,m_order,ROW_NUMBER()over(partition by word,literal order by m_order)w_order
 into #temp5
 from kanjidic_readingmeaning_map_20250502 k
 left join #temp4 s on syn = k.meaning
@@ -80,17 +85,48 @@ where s.syn is not null
 --order by m_order
 --select * from #temp4 where syn='louse'--but kanjidic has lice, an example of fail case
 
---select meaning,STRING_AGG(literal,'-')literal
---,STRING_AGG(isnull(onyomi,'')+isnull(kunyomi,''),'-')within group(order by kunyomi,onyomi)sutra
---from
---(select distinct literal,meaning,onyomi,kunyomi from #temp5)a
+drop table if exists #temp6
+select meaning
+,count(*)-count(case when left(literal,1)='`'then 1 end)countmain,count(case when left(literal,1)='`'then 1 end)countex
+,STRING_AGG(literal,'-')literal
+,STRING_AGG(isnull(onyomi,'')+isnull(kunyomi,''),'-')within group(order by m_order,kunyomi,onyomi)onkunsutra
+,STRING_AGG(isnull(onyomi,''),'-')onsutra
+,STRING_AGG(isnull(kunyomi,''),'-')kunsutra
+into #temp6 from
+(select literal,meaning,onyomi,kunyomi,AVG(m_order)m_order
+	from (select distinct literal,meaning,onyomi,kunyomi,AVG(m_order)m_order from #temp5 group by literal,meaning,onyomi,kunyomi
+		--union select distinct '`'+literal,word meaning,onyomi,kunyomi,200*AVG(m_order)m_order from #temp5 x
+		--			where not exists (select 1 from #temp5 y where y.literal=x.literal and y.meaning = x.word)
+		--			group by literal,word,onyomi,kunyomi
+		)b
+	group by literal,meaning,onyomi,kunyomi)a
 --where meaning='resign'
---group by meaning --having count(distinct word)=1
+group by a.meaning --having count(distinct word)=1
+order by count(*)-count(case when left(literal,1)='`'then 1 end) desc,count(*)desc
+--select meaning,STRING_AGG(literal,'-')literal
+--,STRING_AGG(isnull(onyomi,'')+isnull(kunyomi,''),'-')within group(order by m_order,kunyomi,onyomi)sutra
+--from
+--(select distinct literal,word meaning,onyomi,kunyomi,AVG(m_order)m_order from #temp5 group by literal,word,onyomi,kunyomi)a
+--where meaning='resign'
+--group by a.meaning --having count(distinct word)=1
 --order by count(*) desc
-select meaning,STRING_AGG(literal,'-')literal
-,STRING_AGG(isnull(onyomi,'')+isnull(kunyomi,''),'-')within group(order by m_order,kunyomi,onyomi)sutra
-from
-(select distinct literal,word meaning,m_order,onyomi,kunyomi from #temp5)a
-where meaning='resign'
-group by meaning --having count(distinct word)=1
-order by count(*) desc
+
+select meaning,literal,countmain,countex,onn,kun,onkun from #temp6
+cross apply(
+select string_agg(onkun,'-')onkun from
+(select distinct value onkun from string_split(onkunsutra,'-')a where value!='')a
+--thought this would ensure that the order doesn't change but doesn't work.. so reading sutra is not aligned with literal sutra anymore
+--(select onkun,min(rn)rn from
+--	(select value onkun,row_number()over(order by (select 1))rn from string_split(onkunsutra,'-')a where value!='')a
+--	group by onkun
+--)b
+)as onkun
+cross apply(
+select string_agg(onn,'-')onn from
+	(select distinct value onn from string_split(onsutra,'-')a where value!='')a
+)as onn
+cross apply(
+select string_agg(kun,'-')kun from
+	(select distinct value kun from string_split(kunsutra,'-')a where value!='')a
+)as kun
+where meaning='daybreak'
